@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| Koalas to the Max dot Com | [http://hundephysiotherapie.berlin](https://www.criminalip.io/ko/domain/report?scan_id=15924607) | Critical | DE | 2024-09-30 06:05:41 (UTC) |
-|  | [http://posteeaat.icu](https://www.criminalip.io/ko/domain/report?scan_id=15924625) | Critical |  | 2024-09-30 06:06:23 (UTC) |
-| amazon | [http://amazoul.asia](https://www.criminalip.io/ko/domain/report?scan_id=15924657) | Critical | ZA | 2024-09-30 06:07:13 (UTC) |
+| DS-Engineers | SoonLaunch | [http://ds-engineers.com](https://www.criminalip.io/ko/domain/report?scan_id=15943811) | Critical | IN | 2024-10-01 06:05:35 (UTC) |
+| cyber-security-degree-16133.bond | [http://cyber-security-degree-16133.bond](https://www.criminalip.io/ko/domain/report?scan_id=15943825) | Critical |  | 2024-10-01 06:06:26 (UTC) |
+| back-pain-treatment-16567.bond | [http://back-pain-treatment-16567.bond](https://www.criminalip.io/ko/domain/report?scan_id=15943847) | Critical | US | 2024-10-01 06:07:16 (UTC) |

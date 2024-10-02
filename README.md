@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| DS-Engineers | SoonLaunch | [http://ds-engineers.com](https://www.criminalip.io/ko/domain/report?scan_id=15943811) | Critical | IN | 2024-10-01 06:05:35 (UTC) |
-| cyber-security-degree-16133.bond | [http://cyber-security-degree-16133.bond](https://www.criminalip.io/ko/domain/report?scan_id=15943825) | Critical |  | 2024-10-01 06:06:26 (UTC) |
-| back-pain-treatment-16567.bond | [http://back-pain-treatment-16567.bond](https://www.criminalip.io/ko/domain/report?scan_id=15943847) | Critical | US | 2024-10-01 06:07:16 (UTC) |
+| waste-management-jobs-20740.bond | [http://waste-management-jobs-20740.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958756) | Critical | US | 2024-10-02 06:05:42 (UTC) |
+| doors-activate-perfect-promo.bond | [http://doors-activate-perfect-promo.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958759) | Critical | US | 2024-10-02 06:06:24 (UTC) |
+| food-packing-job-88884.bond | [http://food-packing-job-88884.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958769) | Critical | US | 2024-10-02 06:07:06 (UTC) |

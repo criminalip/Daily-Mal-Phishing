@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| waste-management-jobs-20740.bond | [http://waste-management-jobs-20740.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958756) | Critical | US | 2024-10-02 06:05:42 (UTC) |
-| doors-activate-perfect-promo.bond | [http://doors-activate-perfect-promo.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958759) | Critical | US | 2024-10-02 06:06:24 (UTC) |
-| food-packing-job-88884.bond | [http://food-packing-job-88884.bond](https://www.criminalip.io/ko/domain/report?scan_id=15958769) | Critical | US | 2024-10-02 06:07:06 (UTC) |
+| N/A | [http://sdsclsbcj.com](https://www.criminalip.io/ko/domain/report?scan_id=15976237) | Critical | N/A | 2024-10-03 06:07:01 (UTC) |
+| Page not found | [http://telegalsem.com](https://www.criminalip.io/ko/domain/report?scan_id=15976296) | Critical | US | 2024-10-03 06:07:44 (UTC) |
+| monitoring-devices-el-mx.click | [http://monitoring-devices-el-mx.click](https://www.criminalip.io/ko/domain/report?scan_id=15976321) | Critical | US | 2024-10-03 06:11:27 (UTC) |

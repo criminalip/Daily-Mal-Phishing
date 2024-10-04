@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| N/A | [http://sdsclsbcj.com](https://www.criminalip.io/ko/domain/report?scan_id=15976237) | Critical | N/A | 2024-10-03 06:07:01 (UTC) |
-| Page not found | [http://telegalsem.com](https://www.criminalip.io/ko/domain/report?scan_id=15976296) | Critical | US | 2024-10-03 06:07:44 (UTC) |
-| monitoring-devices-el-mx.click | [http://monitoring-devices-el-mx.click](https://www.criminalip.io/ko/domain/report?scan_id=15976321) | Critical | US | 2024-10-03 06:11:27 (UTC) |
+| supporttrade.vip | [http://supporttrade.vip](https://www.criminalip.io/ko/domain/report?scan_id=15992302) | Critical | AU | 2024-10-04 06:07:23 (UTC) |
+| comio.biz - comio 자료와 정보 | [http://comio.biz](https://www.criminalip.io/ko/domain/report?scan_id=15992344) | Critical | N/A | 2024-10-04 06:08:38 (UTC) |
+| app-design-development-18167.bond | [http://app-design-development-18167.bond](https://www.criminalip.io/ko/domain/report?scan_id=15992399) | Critical | N/A | 2024-10-04 06:11:39 (UTC) |

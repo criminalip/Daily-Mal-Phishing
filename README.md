@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| supporttrade.vip | [http://supporttrade.vip](https://www.criminalip.io/ko/domain/report?scan_id=15992302) | Critical | AU | 2024-10-04 06:07:23 (UTC) |
-| comio.biz - comio 자료와 정보 | [http://comio.biz](https://www.criminalip.io/ko/domain/report?scan_id=15992344) | Critical | N/A | 2024-10-04 06:08:38 (UTC) |
-| app-design-development-18167.bond | [http://app-design-development-18167.bond](https://www.criminalip.io/ko/domain/report?scan_id=15992399) | Critical | N/A | 2024-10-04 06:11:39 (UTC) |
+| truck-driver-training-80064.bond | [http://truck-driver-training-80064.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007925) | Critical | US | 2024-10-05 06:05:41 (UTC) |
+| solar-systems-panels-14745.bond | [http://solar-systems-panels-14745.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007945) | Critical | US | 2024-10-05 06:08:25 (UTC) |
+| solar-panel-jobs-37688.bond | [http://solar-panel-jobs-37688.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007953) | Critical | US | 2024-10-05 06:10:21 (UTC) |

@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| truck-driver-training-80064.bond | [http://truck-driver-training-80064.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007925) | Critical | US | 2024-10-05 06:05:41 (UTC) |
-| solar-systems-panels-14745.bond | [http://solar-systems-panels-14745.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007945) | Critical | US | 2024-10-05 06:08:25 (UTC) |
-| solar-panel-jobs-37688.bond | [http://solar-panel-jobs-37688.bond](https://www.criminalip.io/ko/domain/report?scan_id=16007953) | Critical | US | 2024-10-05 06:10:21 (UTC) |
+| home-loans-hu-11.bond | [http://home-loans-hu-11.bond](https://www.criminalip.io/ko/domain/report?scan_id=16021860) | Critical | N/A | 2024-10-06 06:07:57 (UTC) |
+| property-to-rent-in-singapore.bond | [http://property-to-rent-in-singapore.bond](https://www.criminalip.io/ko/domain/report?scan_id=16021861) | Critical | US | 2024-10-06 06:08:28 (UTC) |
+| porkbun.com | parked domain | [http://fyne.chat](https://www.criminalip.io/ko/domain/report?scan_id=16021865) | Critical | US | 2024-10-06 06:08:58 (UTC) |

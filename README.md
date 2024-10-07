@@ -44,6 +44,6 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| home-loans-hu-11.bond | [http://home-loans-hu-11.bond](https://www.criminalip.io/ko/domain/report?scan_id=16021860) | Critical | N/A | 2024-10-06 06:07:57 (UTC) |
-| property-to-rent-in-singapore.bond | [http://property-to-rent-in-singapore.bond](https://www.criminalip.io/ko/domain/report?scan_id=16021861) | Critical | US | 2024-10-06 06:08:28 (UTC) |
-| porkbun.com | parked domain | [http://fyne.chat](https://www.criminalip.io/ko/domain/report?scan_id=16021865) | Critical | US | 2024-10-06 06:08:58 (UTC) |
+| The domain name 1xagi.com is for sale | Dan.com | [http://1xagi.com](https://www.criminalip.io/domain/report?scan_id=16035583) | Critical | US | 2024-10-07 02:31:35 (UTC) |
+| porkbun.com | parked domain | [http://assurenuts.com](https://www.criminalip.io/domain/report?scan_id=16035591) | Critical | US | 2024-10-07 02:32:37 (UTC) |
+| Account Suspended | [http://ssl.id.gv.ht7t.payam-soft.ir](https://www.criminalip.io/domain/report?scan_id=16035605) | Critical | IR | 2024-10-07 02:35:22 (UTC) |

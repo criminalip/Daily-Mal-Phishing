@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "business-credit-cards-31857.bond" | [http://business-credit-cards-31857.bond](https://www.criminalip.io/domain/report?scan_id=16051018) | Critical | US | 2024-10-08 02:30:29 (UTC) |
-| "ekoloco.com" | [http://ekoloco.com](https://www.criminalip.io/domain/report?scan_id=16051057) | Critical | N/A | 2024-10-08 02:33:19 (UTC) |
-| "Oops! This project isn't running." | [http://enthusiastic-sepia-hourglass.glitch.me](https://www.criminalip.io/domain/report?scan_id=16051067) | Low | US | 2024-10-08 02:34:04 (UTC) |
+| "app-software-development-training-78099.bond" | [http://app-software-development-training-78099.bond](https://www.criminalip.io/domain/report?scan_id=16067635) | Critical | N/A | 2024-10-09 02:30:32 (UTC) |
+| "hotel-management-degrees-81641.bond" | [http://hotel-management-degrees-81641.bond](https://www.criminalip.io/domain/report?scan_id=16067648) | Critical | US | 2024-10-09 02:33:39 (UTC) |
+| "The domain name arthriticarebynature.com is for sale | Dan.com" | [http://arthriticarebynature.com](https://www.criminalip.io/domain/report?scan_id=16067656) | Critical | US | 2024-10-09 02:35:40 (UTC) |
 
 ---
 

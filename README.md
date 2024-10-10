@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-78099.bond" | [http://app-software-development-training-78099.bond](https://www.criminalip.io/domain/report?scan_id=16067635) | Critical | N/A | 2024-10-09 02:30:32 (UTC) |
-| "hotel-management-degrees-81641.bond" | [http://hotel-management-degrees-81641.bond](https://www.criminalip.io/domain/report?scan_id=16067648) | Critical | US | 2024-10-09 02:33:39 (UTC) |
-| "The domain name arthriticarebynature.com is for sale | Dan.com" | [http://arthriticarebynature.com](https://www.criminalip.io/domain/report?scan_id=16067656) | Critical | US | 2024-10-09 02:35:40 (UTC) |
+| "beehivesocials.com" | [http://beehivesocials.com](https://www.criminalip.io/domain/report?scan_id=16084170) | Critical | GB | 2024-10-10 02:30:33 (UTC) |
+| "Roundcube Webmail :: Welcome to Roundcube Webmail" | [http://sk9021.asia](https://www.criminalip.io/domain/report?scan_id=16084178) | Critical | SG | 2024-10-10 02:31:32 (UTC) |
+| "2jr6dyhmsn.buzz" | [http://adguard01.2jr6dyhmsn.buzz](https://www.criminalip.io/domain/report?scan_id=16084184) | Critical | US | 2024-10-10 02:32:20 (UTC) |
 
 ---
 

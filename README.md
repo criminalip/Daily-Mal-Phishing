@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "beehivesocials.com" | [http://beehivesocials.com](https://www.criminalip.io/domain/report?scan_id=16084170) | Critical | GB | 2024-10-10 02:30:33 (UTC) |
-| "Roundcube Webmail :: Welcome to Roundcube Webmail" | [http://sk9021.asia](https://www.criminalip.io/domain/report?scan_id=16084178) | Critical | SG | 2024-10-10 02:31:32 (UTC) |
-| "2jr6dyhmsn.buzz" | [http://adguard01.2jr6dyhmsn.buzz](https://www.criminalip.io/domain/report?scan_id=16084184) | Critical | US | 2024-10-10 02:32:20 (UTC) |
+| "Site en construction" | [http://chaman.best](https://www.criminalip.io/domain/report?scan_id=16127238) | Critical | FR | 2024-10-12 02:30:58 (UTC) |
+| "yangzatang.top - yangzatang 자료와 정보" | [http://yangzatang.top](https://www.criminalip.io/domain/report?scan_id=16127245) | Critical | DE | 2024-10-12 02:31:53 (UTC) |
+| "N/A" | [http://claseconnected.com](https://www.criminalip.io/domain/report?scan_id=16127311) | Critical | N/A | 2024-10-12 02:41:26 (UTC) |
 
 ---
 

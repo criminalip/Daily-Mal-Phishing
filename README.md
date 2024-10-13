@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site en construction" | [http://chaman.best](https://www.criminalip.io/domain/report?scan_id=16127238) | Critical | FR | 2024-10-12 02:30:58 (UTC) |
-| "yangzatang.top - yangzatang 자료와 정보" | [http://yangzatang.top](https://www.criminalip.io/domain/report?scan_id=16127245) | Critical | DE | 2024-10-12 02:31:53 (UTC) |
-| "N/A" | [http://claseconnected.com](https://www.criminalip.io/domain/report?scan_id=16127311) | Critical | N/A | 2024-10-12 02:41:26 (UTC) |
+| "business-analytics-courses-bd.bond" | [http://business-analytics-courses-bd.bond](https://www.criminalip.io/domain/report?scan_id=16141323) | Critical | N/A | 2024-10-13 02:30:31 (UTC) |
+| "WhatsApp Bot" | [http://testwer.logterd.top](https://www.criminalip.io/domain/report?scan_id=16141375) | Critical | US | 2024-10-13 02:32:48 (UTC) |
+| "KO66 - Chân Dung Thiên Đường Giải Trí Mới Nhất 2024" | [http://nnko66.agency](https://www.criminalip.io/domain/report?scan_id=16141387) | Critical | N/A | 2024-10-13 02:33:43 (UTC) |
 
 ---
 

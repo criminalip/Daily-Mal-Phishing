@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Etrog Club" | [http://etrog.club](https://www.criminalip.io/domain/report?scan_id=16157213) | Critical | US | 2024-10-14 02:31:35 (UTC) |
-| "music-production-courses-72036.bond" | [http://music-production-courses-72036.bond](https://www.criminalip.io/domain/report?scan_id=16157231) | Critical | US | 2024-10-14 02:32:24 (UTC) |
-| "N/A" | [http://dcvxd.top](https://www.criminalip.io/domain/report?scan_id=16157238) | Critical | US | 2024-10-14 02:32:58 (UTC) |
+| "N/A" | [http://friendstechnologies.cloud](https://www.criminalip.io/domain/report?scan_id=16174108) | Critical | FR | 2024-10-15 02:30:32 (UTC) |
+| "gfsdgf.top - gfsdgf 자료와 정보" | [http://m.gfsdgf.top](https://www.criminalip.io/domain/report?scan_id=16174113) | Critical | N/A | 2024-10-15 02:31:28 (UTC) |
+| "howtomake.cloud" | [http://howtomake.cloud](https://www.criminalip.io/domain/report?scan_id=16174118) | Critical | N/A | 2024-10-15 02:32:16 (UTC) |
 
 ---
 

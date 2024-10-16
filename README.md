@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://friendstechnologies.cloud](https://www.criminalip.io/domain/report?scan_id=16174108) | Critical | FR | 2024-10-15 02:30:32 (UTC) |
-| "gfsdgf.top - gfsdgf 자료와 정보" | [http://m.gfsdgf.top](https://www.criminalip.io/domain/report?scan_id=16174113) | Critical | N/A | 2024-10-15 02:31:28 (UTC) |
-| "howtomake.cloud" | [http://howtomake.cloud](https://www.criminalip.io/domain/report?scan_id=16174118) | Critical | N/A | 2024-10-15 02:32:16 (UTC) |
+| "maryettaverba.best" | [http://maryettaverba.best](https://www.criminalip.io/domain/report?scan_id=16191946) | Critical | US | 2024-10-16 02:30:35 (UTC) |
+| "N/A" | [http://westwoodcounselling.com](https://www.criminalip.io/domain/report?scan_id=16192014) | Critical | US | 2024-10-16 02:32:06 (UTC) |
+| "www.bringdesign.com" | [http://bringdesign.com](https://www.criminalip.io/domain/report?scan_id=16192102) | Critical | US | 2024-10-16 02:32:55 (UTC) |
 
 ---
 

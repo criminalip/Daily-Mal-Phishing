@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "maryettaverba.best" | [http://maryettaverba.best](https://www.criminalip.io/domain/report?scan_id=16191946) | Critical | US | 2024-10-16 02:30:35 (UTC) |
-| "N/A" | [http://westwoodcounselling.com](https://www.criminalip.io/domain/report?scan_id=16192014) | Critical | US | 2024-10-16 02:32:06 (UTC) |
-| "www.bringdesign.com" | [http://bringdesign.com](https://www.criminalip.io/domain/report?scan_id=16192102) | Critical | US | 2024-10-16 02:32:55 (UTC) |
+| "car-transport-jobs-de-123.bond" | [http://car-transport-jobs-de-123.bond](https://www.criminalip.io/domain/report?scan_id=16217087) | Critical | N/A | 2024-10-17 02:32:35 (UTC) |
+| "www.dynovit.com" | [http://dynovit.com](https://www.criminalip.io/domain/report?scan_id=16217146) | Critical | US | 2024-10-17 02:39:43 (UTC) |
+| "amazaoms.xyz" | [http://amazaoms.xyz](https://www.criminalip.io/domain/report?scan_id=16217154) | Critical | AU | 2024-10-17 02:40:23 (UTC) |
 
 ---
 

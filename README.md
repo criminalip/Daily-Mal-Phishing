@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "car-transport-jobs-de-123.bond" | [http://car-transport-jobs-de-123.bond](https://www.criminalip.io/domain/report?scan_id=16217087) | Critical | N/A | 2024-10-17 02:32:35 (UTC) |
-| "www.dynovit.com" | [http://dynovit.com](https://www.criminalip.io/domain/report?scan_id=16217146) | Critical | US | 2024-10-17 02:39:43 (UTC) |
-| "amazaoms.xyz" | [http://amazaoms.xyz](https://www.criminalip.io/domain/report?scan_id=16217154) | Critical | AU | 2024-10-17 02:40:23 (UTC) |
+| "real-estate-investments-81001.bond" | [http://real-estate-investments-81001.bond](https://www.criminalip.io/domain/report?scan_id=16240765) | Critical | US | 2024-10-18 02:30:34 (UTC) |
+| "fjall.app" | [http://fjall.app](https://www.criminalip.io/domain/report?scan_id=16240770) | Critical | FR | 2024-10-18 02:31:12 (UTC) |
+| "truck-driver-jobs-54893.bond" | [http://truck-driver-jobs-54893.bond](https://www.criminalip.io/domain/report?scan_id=16240773) | Critical | US | 2024-10-18 02:31:56 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "real-estate-investments-81001.bond" | [http://real-estate-investments-81001.bond](https://www.criminalip.io/domain/report?scan_id=16240765) | Critical | US | 2024-10-18 02:30:34 (UTC) |
-| "fjall.app" | [http://fjall.app](https://www.criminalip.io/domain/report?scan_id=16240770) | Critical | FR | 2024-10-18 02:31:12 (UTC) |
-| "truck-driver-jobs-54893.bond" | [http://truck-driver-jobs-54893.bond](https://www.criminalip.io/domain/report?scan_id=16240773) | Critical | US | 2024-10-18 02:31:56 (UTC) |
+| "start-business-in-dubai-41041.bond" | [http://start-business-in-dubai-41041.bond](https://www.criminalip.io/domain/report?scan_id=16262219) | Critical | US | 2024-10-19 02:30:32 (UTC) |
+| "walk-in-tubs-96146.bond" | [http://walk-in-tubs-96146.bond](https://www.criminalip.io/domain/report?scan_id=16262223) | Critical | US | 2024-10-19 02:31:14 (UTC) |
+| "early-childhood-education-degree-29298.bond" | [http://early-childhood-education-degree-29298.bond](https://www.criminalip.io/domain/report?scan_id=16262227) | Critical | US | 2024-10-19 02:31:53 (UTC) |
 
 ---
 

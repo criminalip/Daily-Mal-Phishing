@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "start-business-in-dubai-41041.bond" | [http://start-business-in-dubai-41041.bond](https://www.criminalip.io/domain/report?scan_id=16262219) | Critical | US | 2024-10-19 02:30:32 (UTC) |
-| "walk-in-tubs-96146.bond" | [http://walk-in-tubs-96146.bond](https://www.criminalip.io/domain/report?scan_id=16262223) | Critical | US | 2024-10-19 02:31:14 (UTC) |
-| "early-childhood-education-degree-29298.bond" | [http://early-childhood-education-degree-29298.bond](https://www.criminalip.io/domain/report?scan_id=16262227) | Critical | US | 2024-10-19 02:31:53 (UTC) |
+| "Site en construction" | [http://revaleo.app](https://www.criminalip.io/domain/report?scan_id=16274078) | Critical | FR | 2024-10-20 02:30:46 (UTC) |
+| "Web Page Under Construction" | [http://justlightingequipment.com](https://www.criminalip.io/domain/report?scan_id=16274211) | Critical | US | 2024-10-20 02:35:09 (UTC) |
+| "menslx.top" | [http://menslx.top](https://www.criminalip.io/domain/report?scan_id=16274237) | Critical | US | 2024-10-20 02:37:50 (UTC) |
 
 ---
 

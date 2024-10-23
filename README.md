@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-92647.bond" | [http://app-software-development-training-92647.bond](https://www.criminalip.io/domain/report?scan_id=16312369) | Critical | US | 2024-10-22 02:30:32 (UTC) |
-| "ebike-electric-bicycle-12679.bond" | [http://ebike-electric-bicycle-12679.bond](https://www.criminalip.io/domain/report?scan_id=16312387) | Critical | N/A | 2024-10-22 02:33:29 (UTC) |
-| "start-business-in-dubai-41732.bond" | [http://start-business-in-dubai-41732.bond](https://www.criminalip.io/domain/report?scan_id=16316474) | Critical | US | 2024-10-22 05:38:28 (UTC) |
+| "mandala.business" | [http://mandala.business](https://www.criminalip.io/domain/report?scan_id=16338421) | Critical | US | 2024-10-23 02:31:40 (UTC) |
+| "real-estate-investments-86592.bond" | [http://real-estate-investments-86592.bond](https://www.criminalip.io/domain/report?scan_id=16338432) | Critical | US | 2024-10-23 02:32:25 (UTC) |
+| "work-from-home-89386.bond" | [http://work-from-home-89386.bond](https://www.criminalip.io/domain/report?scan_id=16338439) | Critical | US | 2024-10-23 02:33:20 (UTC) |
 
 ---
 

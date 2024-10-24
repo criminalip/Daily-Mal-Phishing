@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "mandala.business" | [http://mandala.business](https://www.criminalip.io/domain/report?scan_id=16338421) | Critical | US | 2024-10-23 02:31:40 (UTC) |
-| "real-estate-investments-86592.bond" | [http://real-estate-investments-86592.bond](https://www.criminalip.io/domain/report?scan_id=16338432) | Critical | US | 2024-10-23 02:32:25 (UTC) |
-| "work-from-home-89386.bond" | [http://work-from-home-89386.bond](https://www.criminalip.io/domain/report?scan_id=16338439) | Critical | US | 2024-10-23 02:33:20 (UTC) |
+| "affordable-dentist-and-dental-services-nearby.click" | [http://affordable-dentist-and-dental-services-nearby.click](https://www.criminalip.io/domain/report?scan_id=16356253) | Critical | US | 2024-10-24 02:30:49 (UTC) |
+| "macmini15.click" | [http://macmini15.click](https://www.criminalip.io/domain/report?scan_id=16356260) | Critical | N/A | 2024-10-24 02:32:15 (UTC) |
+| "tastysocial.club – Tasty Club Berlin e.V." | [http://tastysocial.club](https://www.criminalip.io/domain/report?scan_id=16356266) | Critical | DE | 2024-10-24 02:33:07 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "affordable-dentist-and-dental-services-nearby.click" | [http://affordable-dentist-and-dental-services-nearby.click](https://www.criminalip.io/domain/report?scan_id=16356253) | Critical | US | 2024-10-24 02:30:49 (UTC) |
-| "macmini15.click" | [http://macmini15.click](https://www.criminalip.io/domain/report?scan_id=16356260) | Critical | N/A | 2024-10-24 02:32:15 (UTC) |
-| "tastysocial.club – Tasty Club Berlin e.V." | [http://tastysocial.club](https://www.criminalip.io/domain/report?scan_id=16356266) | Critical | DE | 2024-10-24 02:33:07 (UTC) |
+| "career-coach-counselling-35623.bond" | [http://career-coach-counselling-35623.bond](https://www.criminalip.io/domain/report?scan_id=16383756) | Critical | US | 2024-10-25 02:31:01 (UTC) |
+| "work-in-usa-99346.bond" | [http://work-in-usa-99346.bond](https://www.criminalip.io/domain/report?scan_id=16383762) | Critical | US | 2024-10-25 02:31:45 (UTC) |
+| "truck-driver-training-94660.bond" | [http://truck-driver-training-94660.bond](https://www.criminalip.io/domain/report?scan_id=16383772) | Critical | US | 2024-10-25 02:33:13 (UTC) |
 
 ---
 

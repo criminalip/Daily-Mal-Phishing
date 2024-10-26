@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "career-coach-counselling-35623.bond" | [http://career-coach-counselling-35623.bond](https://www.criminalip.io/domain/report?scan_id=16383756) | Critical | US | 2024-10-25 02:31:01 (UTC) |
-| "work-in-usa-99346.bond" | [http://work-in-usa-99346.bond](https://www.criminalip.io/domain/report?scan_id=16383762) | Critical | US | 2024-10-25 02:31:45 (UTC) |
-| "truck-driver-training-94660.bond" | [http://truck-driver-training-94660.bond](https://www.criminalip.io/domain/report?scan_id=16383772) | Critical | US | 2024-10-25 02:33:13 (UTC) |
+| "N/A" | [http://2931tom.com](https://www.criminalip.io/domain/report?scan_id=16406274) | Critical | N/A | 2024-10-26 02:32:01 (UTC) |
+| "N/A" | [http://paleani.art](https://www.criminalip.io/domain/report?scan_id=16406291) | Critical | N/A | 2024-10-26 02:33:20 (UTC) |
+| "N/A" | [http://53165.academy](https://www.criminalip.io/domain/report?scan_id=16406346) | Critical | US | 2024-10-26 02:37:51 (UTC) |
 
 ---
 

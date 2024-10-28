@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://sadiq0909.github.io](https://www.criminalip.io/domain/report?scan_id=16419257) | Low | US | 2024-10-27 02:31:10 (UTC) |
-| "N/A" | [http://26401.academy](https://www.criminalip.io/domain/report?scan_id=16419287) | Critical | US | 2024-10-27 02:33:22 (UTC) |
-| "蓝云祥装修有限公司（XST Australia Pty Ltd）成立于2011年，是一家持牌的建筑装修公司。我们专注于提供高质量的装修服务，为客户提供满意的室内设计和装修解决方案。 我们的专业团队拥有多年的经验和技能，能够处理各种规模的装修项目。我们注重细节和质量，致力于在时间和预算范围内完成项目。" | [http://azgw168.com.au](https://www.criminalip.io/domain/report?scan_id=16419305) | Critical | US | 2024-10-27 02:34:58 (UTC) |
+| "The page is temporarily unavailable" | [http://giadungkemshop.click](https://www.criminalip.io/domain/report?scan_id=16433179) | Critical | SG | 2024-10-28 02:30:33 (UTC) |
+| "data-analyst-degree-21570.bond" | [http://data-analyst-degree-21570.bond](https://www.criminalip.io/domain/report?scan_id=16433185) | Critical | US | 2024-10-28 02:31:25 (UTC) |
+| "sinus-infection-treatment-86704.bond" | [http://sinus-infection-treatment-86704.bond](https://www.criminalip.io/domain/report?scan_id=16433188) | Critical | US | 2024-10-28 02:32:16 (UTC) |
 
 ---
 

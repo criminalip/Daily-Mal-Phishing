@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "The page is temporarily unavailable" | [http://giadungkemshop.click](https://www.criminalip.io/domain/report?scan_id=16433179) | Critical | SG | 2024-10-28 02:30:33 (UTC) |
-| "data-analyst-degree-21570.bond" | [http://data-analyst-degree-21570.bond](https://www.criminalip.io/domain/report?scan_id=16433185) | Critical | US | 2024-10-28 02:31:25 (UTC) |
-| "sinus-infection-treatment-86704.bond" | [http://sinus-infection-treatment-86704.bond](https://www.criminalip.io/domain/report?scan_id=16433188) | Critical | US | 2024-10-28 02:32:16 (UTC) |
+| "app-software-development-training-63814.bond" | [http://app-software-development-training-63814.bond](https://www.criminalip.io/domain/report?scan_id=16455332) | Critical | N/A | 2024-10-29 02:30:55 (UTC) |
+| "app-software-development-training-42504.bond" | [http://app-software-development-training-42504.bond](https://www.criminalip.io/domain/report?scan_id=16455347) | Critical | US | 2024-10-29 02:31:37 (UTC) |
+| "ถัง กระปุกออมสินไม้สักทองเกรดส่งออก CARA WOOD : Inspired by LnwShop.com" | [http://cara-wood.com](https://www.criminalip.io/domain/report?scan_id=16455354) | Critical | N/A | 2024-10-29 02:32:29 (UTC) |
 
 ---
 

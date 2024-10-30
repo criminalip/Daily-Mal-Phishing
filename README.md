@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-63814.bond" | [http://app-software-development-training-63814.bond](https://www.criminalip.io/domain/report?scan_id=16455332) | Critical | N/A | 2024-10-29 02:30:55 (UTC) |
-| "app-software-development-training-42504.bond" | [http://app-software-development-training-42504.bond](https://www.criminalip.io/domain/report?scan_id=16455347) | Critical | US | 2024-10-29 02:31:37 (UTC) |
-| "ถัง กระปุกออมสินไม้สักทองเกรดส่งออก CARA WOOD : Inspired by LnwShop.com" | [http://cara-wood.com](https://www.criminalip.io/domain/report?scan_id=16455354) | Critical | N/A | 2024-10-29 02:32:29 (UTC) |
+| "app-software-development-training-48621.bond" | [http://app-software-development-training-48621.bond](https://www.criminalip.io/domain/report?scan_id=16478441) | Critical | US | 2024-10-30 02:30:32 (UTC) |
+| "app-software-development-training-28778.bond" | [http://app-software-development-training-28778.bond](https://www.criminalip.io/domain/report?scan_id=16478455) | Critical | US | 2024-10-30 02:31:14 (UTC) |
+| "executive-assistant-jobs-83898.bond" | [http://executive-assistant-jobs-83898.bond](https://www.criminalip.io/domain/report?scan_id=16478472) | Critical | N/A | 2024-10-30 02:34:17 (UTC) |
 
 ---
 

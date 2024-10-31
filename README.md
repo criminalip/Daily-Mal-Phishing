@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-48621.bond" | [http://app-software-development-training-48621.bond](https://www.criminalip.io/domain/report?scan_id=16478441) | Critical | US | 2024-10-30 02:30:32 (UTC) |
-| "app-software-development-training-28778.bond" | [http://app-software-development-training-28778.bond](https://www.criminalip.io/domain/report?scan_id=16478455) | Critical | US | 2024-10-30 02:31:14 (UTC) |
-| "executive-assistant-jobs-83898.bond" | [http://executive-assistant-jobs-83898.bond](https://www.criminalip.io/domain/report?scan_id=16478472) | Critical | N/A | 2024-10-30 02:34:17 (UTC) |
+| "imarketing.agency" | [http://imarketing.agency](https://www.criminalip.io/domain/report?scan_id=16616375) | Critical | AU | 2024-10-31 02:31:06 (UTC) |
+| "work-from-home-56116.bond" | [http://work-from-home-56116.bond](https://www.criminalip.io/domain/report?scan_id=16616386) | Critical | N/A | 2024-10-31 02:31:55 (UTC) |
+| ":: El Prince Investment & Services Company ::" | [http://elprincesudan.com](https://www.criminalip.io/domain/report?scan_id=16616390) | Critical | US | 2024-10-31 02:32:40 (UTC) |
 
 ---
 

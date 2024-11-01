@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "imarketing.agency" | [http://imarketing.agency](https://www.criminalip.io/domain/report?scan_id=16616375) | Critical | AU | 2024-10-31 02:31:06 (UTC) |
-| "work-from-home-56116.bond" | [http://work-from-home-56116.bond](https://www.criminalip.io/domain/report?scan_id=16616386) | Critical | N/A | 2024-10-31 02:31:55 (UTC) |
-| ":: El Prince Investment & Services Company ::" | [http://elprincesudan.com](https://www.criminalip.io/domain/report?scan_id=16616390) | Critical | US | 2024-10-31 02:32:40 (UTC) |
+| "healthcare-software-32348.bond" | [http://healthcare-software-32348.bond](https://www.criminalip.io/domain/report?scan_id=16631383) | Critical | US | 2024-11-01 02:30:37 (UTC) |
+| "online-gaming-17000.bond" | [http://online-gaming-17000.bond](https://www.criminalip.io/domain/report?scan_id=16631395) | Critical | US | 2024-11-01 02:31:48 (UTC) |
+| "404: NOT_FOUND" | [http://paginoquaule-3007.vercel.app](https://www.criminalip.io/domain/report?scan_id=16631406) | Critical | US | 2024-11-01 02:32:25 (UTC) |
 
 ---
 

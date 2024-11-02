@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "healthcare-software-32348.bond" | [http://healthcare-software-32348.bond](https://www.criminalip.io/domain/report?scan_id=16631383) | Critical | US | 2024-11-01 02:30:37 (UTC) |
-| "online-gaming-17000.bond" | [http://online-gaming-17000.bond](https://www.criminalip.io/domain/report?scan_id=16631395) | Critical | US | 2024-11-01 02:31:48 (UTC) |
-| "404: NOT_FOUND" | [http://paginoquaule-3007.vercel.app](https://www.criminalip.io/domain/report?scan_id=16631406) | Critical | US | 2024-11-01 02:32:25 (UTC) |
+| "TikTok Shop" | [http://tik-tok.cam](https://www.criminalip.io/domain/report?scan_id=16646549) | Critical | HK | 2024-11-02 02:31:51 (UTC) |
+| "Accéder à mes comptes en ligne | BNP Paribas" | [http://francesanterenouvellement.com](https://www.criminalip.io/domain/report?scan_id=16646574) | Critical | HK | 2024-11-02 02:32:56 (UTC) |
+| "Central Florida Porta Potty Rental Services" | [http://cfppfl.com](https://www.criminalip.io/domain/report?scan_id=16646589) | Critical | US | 2024-11-02 02:34:22 (UTC) |
 
 ---
 

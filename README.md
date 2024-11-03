@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "TikTok Shop" | [http://tik-tok.cam](https://www.criminalip.io/domain/report?scan_id=16646549) | Critical | HK | 2024-11-02 02:31:51 (UTC) |
-| "Accéder à mes comptes en ligne | BNP Paribas" | [http://francesanterenouvellement.com](https://www.criminalip.io/domain/report?scan_id=16646574) | Critical | HK | 2024-11-02 02:32:56 (UTC) |
-| "Central Florida Porta Potty Rental Services" | [http://cfppfl.com](https://www.criminalip.io/domain/report?scan_id=16646589) | Critical | US | 2024-11-02 02:34:22 (UTC) |
+| "beauty-services-95683.bond" | [http://beauty-services-95683.bond](https://www.criminalip.io/domain/report?scan_id=16659803) | Critical | US | 2024-11-03 02:30:59 (UTC) |
+| "aisnl.ink" | [http://aisnl.ink](https://www.criminalip.io/domain/report?scan_id=16659815) | Critical | BG | 2024-11-03 02:31:47 (UTC) |
+| "Hire a Broker to get yandex.sbermegamarket.avito.kwid9.inteam.xyz" | [http://yandex.sbermegamarket.avito.kwid9.inteam.xyz](https://www.criminalip.io/domain/report?scan_id=16659828) | Critical | DE | 2024-11-03 02:33:14 (UTC) |
 
 ---
 

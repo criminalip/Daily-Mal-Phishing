@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "beauty-services-95683.bond" | [http://beauty-services-95683.bond](https://www.criminalip.io/domain/report?scan_id=16659803) | Critical | US | 2024-11-03 02:30:59 (UTC) |
-| "aisnl.ink" | [http://aisnl.ink](https://www.criminalip.io/domain/report?scan_id=16659815) | Critical | BG | 2024-11-03 02:31:47 (UTC) |
-| "Hire a Broker to get yandex.sbermegamarket.avito.kwid9.inteam.xyz" | [http://yandex.sbermegamarket.avito.kwid9.inteam.xyz](https://www.criminalip.io/domain/report?scan_id=16659828) | Critical | DE | 2024-11-03 02:33:14 (UTC) |
+| "influencer-marketing-32046.bond" | [http://influencer-marketing-32046.bond](https://www.criminalip.io/domain/report?scan_id=16674280) | Critical | N/A | 2024-11-04 02:32:04 (UTC) |
+| "project-plan-40935.bond" | [http://project-plan-40935.bond](https://www.criminalip.io/domain/report?scan_id=16674289) | Critical | US | 2024-11-04 02:32:35 (UTC) |
+| "influencer-marketing-95069.bond" | [http://influencer-marketing-95069.bond](https://www.criminalip.io/domain/report?scan_id=16674322) | Critical | US | 2024-11-04 02:34:40 (UTC) |
 
 ---
 

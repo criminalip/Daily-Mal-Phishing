@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "influencer-marketing-32046.bond" | [http://influencer-marketing-32046.bond](https://www.criminalip.io/domain/report?scan_id=16674280) | Critical | N/A | 2024-11-04 02:32:04 (UTC) |
-| "project-plan-40935.bond" | [http://project-plan-40935.bond](https://www.criminalip.io/domain/report?scan_id=16674289) | Critical | US | 2024-11-04 02:32:35 (UTC) |
-| "influencer-marketing-95069.bond" | [http://influencer-marketing-95069.bond](https://www.criminalip.io/domain/report?scan_id=16674322) | Critical | US | 2024-11-04 02:34:40 (UTC) |
+| "influencer-marketing-86148.bond" | [http://influencer-marketing-86148.bond](https://www.criminalip.io/domain/report?scan_id=16690142) | Critical | US | 2024-11-05 02:30:31 (UTC) |
+| "automation-tools-60315.bond" | [http://automation-tools-60315.bond](https://www.criminalip.io/domain/report?scan_id=16690144) | Critical | US | 2024-11-05 02:31:13 (UTC) |
+| "app-software-development-training-34814.bond" | [http://app-software-development-training-34814.bond](https://www.criminalip.io/domain/report?scan_id=16690149) | Critical | US | 2024-11-05 02:31:53 (UTC) |
 
 ---
 

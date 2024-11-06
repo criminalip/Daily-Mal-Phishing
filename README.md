@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "influencer-marketing-86148.bond" | [http://influencer-marketing-86148.bond](https://www.criminalip.io/domain/report?scan_id=16690142) | Critical | US | 2024-11-05 02:30:31 (UTC) |
-| "automation-tools-60315.bond" | [http://automation-tools-60315.bond](https://www.criminalip.io/domain/report?scan_id=16690144) | Critical | US | 2024-11-05 02:31:13 (UTC) |
-| "app-software-development-training-34814.bond" | [http://app-software-development-training-34814.bond](https://www.criminalip.io/domain/report?scan_id=16690149) | Critical | US | 2024-11-05 02:31:53 (UTC) |
+| "Quota Exceeded" | [http://appcrdhvbcredit9.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=16710795) | Low | US | 2024-11-06 02:30:55 (UTC) |
+| "apartmentsforrent-bac824-ww-vm.click" | [http://apartmentsforrent-bac824-ww-vm.click](https://www.criminalip.io/domain/report?scan_id=16710802) | Critical | US | 2024-11-06 02:31:34 (UTC) |
+| "online-digital-marketing-55869.bond" | [http://online-digital-marketing-55869.bond](https://www.criminalip.io/domain/report?scan_id=16710806) | Critical | N/A | 2024-11-06 02:32:15 (UTC) |
 
 ---
 

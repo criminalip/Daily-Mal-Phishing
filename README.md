@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Quota Exceeded" | [http://appcrdhvbcredit9.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=16710795) | Low | US | 2024-11-06 02:30:55 (UTC) |
-| "apartmentsforrent-bac824-ww-vm.click" | [http://apartmentsforrent-bac824-ww-vm.click](https://www.criminalip.io/domain/report?scan_id=16710802) | Critical | US | 2024-11-06 02:31:34 (UTC) |
-| "online-digital-marketing-55869.bond" | [http://online-digital-marketing-55869.bond](https://www.criminalip.io/domain/report?scan_id=16710806) | Critical | N/A | 2024-11-06 02:32:15 (UTC) |
+| "N/A" | [http://wdfuygappwtr.top](https://www.criminalip.io/domain/report?scan_id=16729281) | Critical | US | 2024-11-07 02:30:27 (UTC) |
+| "Hostnet: De grootste domeinnaam- en hostingprovider van Nederland." | [http://fenerbahce.amsterdam](https://www.criminalip.io/domain/report?scan_id=16729381) | Critical | N/A | 2024-11-07 02:35:24 (UTC) |
+| "VR CRYO | Medicina e salute" | [http://vrcryo.it](https://www.criminalip.io/domain/report?scan_id=16729440) | Critical | IT | 2024-11-07 02:38:35 (UTC) |
 
 ---
 

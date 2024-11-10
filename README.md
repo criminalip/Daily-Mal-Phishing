@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "digital-marketing-jobs-47415.bond" | [http://digital-marketing-jobs-47415.bond](https://www.criminalip.io/domain/report?scan_id=16770595) | Critical | US | 2024-11-09 02:30:33 (UTC) |
-| "investing-courses-55478.bond" | [http://investing-courses-55478.bond](https://www.criminalip.io/domain/report?scan_id=16770607) | Critical | N/A | 2024-11-09 02:31:25 (UTC) |
-| "dance-classes-29395.bond" | [http://dance-classes-29395.bond](https://www.criminalip.io/domain/report?scan_id=16771020) | Critical | US | 2024-11-09 02:32:17 (UTC) |
+| "business-phone-systems-23405.bond" | [http://business-phone-systems-23405.bond](https://www.criminalip.io/domain/report?scan_id=16784058) | Critical | N/A | 2024-11-10 02:30:32 (UTC) |
+| "pregnancy-59313.bond" | [http://pregnancy-59313.bond](https://www.criminalip.io/domain/report?scan_id=16784063) | Critical | US | 2024-11-10 02:31:13 (UTC) |
+| "car-loans-83012.bond" | [http://car-loans-83012.bond](https://www.criminalip.io/domain/report?scan_id=16784070) | Critical | US | 2024-11-10 02:31:55 (UTC) |
 
 ---
 

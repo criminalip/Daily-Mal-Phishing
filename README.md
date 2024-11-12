@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "influencer-marketing-51438.bond" | [http://influencer-marketing-51438.bond](https://www.criminalip.io/domain/report?scan_id=16794629) | Critical | US | 2024-11-11 02:30:32 (UTC) |
-| "loans-credits-59313.bond" | [http://loans-credits-59313.bond](https://www.criminalip.io/domain/report?scan_id=16794639) | Critical | US | 2024-11-11 02:31:13 (UTC) |
-| "pregnancy-96422.bond" | [http://pregnancy-96422.bond](https://www.criminalip.io/domain/report?scan_id=16794652) | Critical | US | 2024-11-11 02:31:55 (UTC) |
+| "姬色" | [http://thf163.top](https://www.criminalip.io/domain/report?scan_id=16814695) | Critical | SG | 2024-11-12 02:31:43 (UTC) |
+| "Hire a Broker to get yandex.yandex.kwid9.corus.xyz" | [http://yandex.yandex.kwid9.corus.xyz](https://www.criminalip.io/domain/report?scan_id=16814709) | Critical | DE | 2024-11-12 02:33:06 (UTC) |
+| "Index of /" | [http://abuserecoverytherapistdirectory.best](https://www.criminalip.io/domain/report?scan_id=16814734) | Critical | US | 2024-11-12 02:36:42 (UTC) |
 
 ---
 

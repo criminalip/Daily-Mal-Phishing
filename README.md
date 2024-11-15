@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "pregnancy-36635.bond" | [http://pregnancy-36635.bond](https://www.criminalip.io/domain/report?scan_id=16872028) | Critical | US | 2024-11-14 02:30:31 (UTC) |
-| "ai-courses-34801.bond" | [http://ai-courses-34801.bond](https://www.criminalip.io/domain/report?scan_id=16872037) | Critical | US | 2024-11-14 02:31:13 (UTC) |
-| "satellite-internet-42192.bond" | [http://satellite-internet-42192.bond](https://www.criminalip.io/domain/report?scan_id=16872048) | Critical | US | 2024-11-14 02:32:04 (UTC) |
+| "concrete-crack-repair-41138.bond" | [http://concrete-crack-repair-41138.bond](https://www.criminalip.io/domain/report?scan_id=16895326) | Critical | US | 2024-11-15 02:30:31 (UTC) |
+| "automation-tools-91478.bond" | [http://automation-tools-91478.bond](https://www.criminalip.io/domain/report?scan_id=16895332) | Critical | US | 2024-11-15 02:31:14 (UTC) |
+| "Hier entsteht eine neue Website!" | [http://us-classic-trucks-switzerland.ch](https://www.criminalip.io/domain/report?scan_id=16895350) | Critical | N/A | 2024-11-15 02:32:22 (UTC) |
 
 ---
 

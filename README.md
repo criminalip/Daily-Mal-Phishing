@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "concrete-crack-repair-41138.bond" | [http://concrete-crack-repair-41138.bond](https://www.criminalip.io/domain/report?scan_id=16895326) | Critical | US | 2024-11-15 02:30:31 (UTC) |
-| "automation-tools-91478.bond" | [http://automation-tools-91478.bond](https://www.criminalip.io/domain/report?scan_id=16895332) | Critical | US | 2024-11-15 02:31:14 (UTC) |
-| "Hier entsteht eine neue Website!" | [http://us-classic-trucks-switzerland.ch](https://www.criminalip.io/domain/report?scan_id=16895350) | Critical | N/A | 2024-11-15 02:32:22 (UTC) |
+| "work-abroad-93427.bond" | [http://work-abroad-93427.bond](https://www.criminalip.io/domain/report?scan_id=16973827) | Critical | US | 2024-11-16 02:31:26 (UTC) |
+| "Index of /" | [http://firstniagarapavilionentertainment.best](https://www.criminalip.io/domain/report?scan_id=16973847) | Critical | N/A | 2024-11-16 02:32:35 (UTC) |
+| "没有找到站点" | [http://xqksf.asia](https://www.criminalip.io/domain/report?scan_id=16973852) | Critical | HK | 2024-11-16 02:33:16 (UTC) |
 
 ---
 

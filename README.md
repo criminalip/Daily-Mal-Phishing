@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "work-abroad-93427.bond" | [http://work-abroad-93427.bond](https://www.criminalip.io/domain/report?scan_id=16973827) | Critical | US | 2024-11-16 02:31:26 (UTC) |
-| "Index of /" | [http://firstniagarapavilionentertainment.best](https://www.criminalip.io/domain/report?scan_id=16973847) | Critical | N/A | 2024-11-16 02:32:35 (UTC) |
-| "没有找到站点" | [http://xqksf.asia](https://www.criminalip.io/domain/report?scan_id=16973852) | Critical | HK | 2024-11-16 02:33:16 (UTC) |
+| "braces-dental-splints-12620.bond" | [http://braces-dental-splints-12620.bond](https://www.criminalip.io/domain/report?scan_id=16986128) | Critical | US | 2024-11-17 02:30:31 (UTC) |
+| "3d-puzzle-23837.bond" | [http://3d-puzzle-23837.bond](https://www.criminalip.io/domain/report?scan_id=16986141) | Critical | US | 2024-11-17 02:31:13 (UTC) |
+| "home-care-84464.bond" | [http://home-care-84464.bond](https://www.criminalip.io/domain/report?scan_id=16986168) | Critical | US | 2024-11-17 02:33:08 (UTC) |
 
 ---
 

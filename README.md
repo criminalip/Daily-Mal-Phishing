@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "braces-dental-splints-12620.bond" | [http://braces-dental-splints-12620.bond](https://www.criminalip.io/domain/report?scan_id=16986128) | Critical | US | 2024-11-17 02:30:31 (UTC) |
-| "3d-puzzle-23837.bond" | [http://3d-puzzle-23837.bond](https://www.criminalip.io/domain/report?scan_id=16986141) | Critical | US | 2024-11-17 02:31:13 (UTC) |
-| "home-care-84464.bond" | [http://home-care-84464.bond](https://www.criminalip.io/domain/report?scan_id=16986168) | Critical | US | 2024-11-17 02:33:08 (UTC) |
+| "app-software-development-training-85977.bond" | [http://app-software-development-training-85977.bond](https://www.criminalip.io/domain/report?scan_id=17001709) | Critical | US | 2024-11-18 02:30:31 (UTC) |
+| "cash-loans-42370.bond" | [http://cash-loans-42370.bond](https://www.criminalip.io/domain/report?scan_id=17001714) | Critical | US | 2024-11-18 02:31:12 (UTC) |
+| "cruises-66345.bond" | [http://cruises-66345.bond](https://www.criminalip.io/domain/report?scan_id=17001718) | Critical | US | 2024-11-18 02:31:53 (UTC) |
 
 ---
 

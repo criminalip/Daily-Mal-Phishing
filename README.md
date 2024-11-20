@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "lung-cancer-treatment-92612.bond" | [http://lung-cancer-treatment-92612.bond](https://www.criminalip.io/domain/report?scan_id=17020676) | Critical | US | 2024-11-19 02:30:32 (UTC) |
-| "solar-panel-jobs-93820.bond" | [http://solar-panel-jobs-93820.bond](https://www.criminalip.io/domain/report?scan_id=17020692) | Critical | US | 2024-11-19 02:31:13 (UTC) |
-| "online-digital-marketing-degree-60390.bond" | [http://online-digital-marketing-degree-60390.bond](https://www.criminalip.io/domain/report?scan_id=17020705) | Critical | US | 2024-11-19 02:31:52 (UTC) |
+| "circuit-board-assembler-20241115-5.click" | [http://circuit-board-assembler-20241115-5.click](https://www.criminalip.io/domain/report?scan_id=17040086) | Critical | US | 2024-11-20 02:30:31 (UTC) |
+| "abdominal-liposuction-es-8398.click" | [http://abdominal-liposuction-es-8398.click](https://www.criminalip.io/domain/report?scan_id=17040095) | Critical | US | 2024-11-20 02:31:23 (UTC) |
+| "air-condition-cleaning-35898.bond" | [http://air-condition-cleaning-35898.bond](https://www.criminalip.io/domain/report?scan_id=17040103) | Critical | US | 2024-11-20 02:32:06 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "online-digital-marketing-degree-78474.bond" | [http://online-digital-marketing-degree-78474.bond](https://www.criminalip.io/domain/report?scan_id=17159351) | Critical | US | 2024-11-24 02:38:42 (UTC) |
-| "warehouse-inventory-94709.bond" | [http://warehouse-inventory-94709.bond](https://www.criminalip.io/domain/report?scan_id=17159358) | Critical | US | 2024-11-24 02:39:12 (UTC) |
-| "lingerie-33722.bond" | [http://lingerie-33722.bond](https://www.criminalip.io/domain/report?scan_id=17159456) | Critical | US | 2024-11-24 02:43:48 (UTC) |
+| "系统提示" | [http://cwqh79.cc](https://www.criminalip.io/domain/report?scan_id=17174521) | Critical | HK | 2024-11-25 02:30:28 (UTC) |
+| "relationship-coach-34350.bond" | [http://relationship-coach-34350.bond](https://www.criminalip.io/domain/report?scan_id=17174526) | Critical | US | 2024-11-25 02:31:13 (UTC) |
+| "portable-power-station-cz.bond" | [http://portable-power-station-cz.bond](https://www.criminalip.io/domain/report?scan_id=17174535) | Critical | US | 2024-11-25 02:32:15 (UTC) |
 
 ---
 

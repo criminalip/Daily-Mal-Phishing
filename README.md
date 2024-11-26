@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "系统提示" | [http://cwqh79.cc](https://www.criminalip.io/domain/report?scan_id=17174521) | Critical | HK | 2024-11-25 02:30:28 (UTC) |
-| "relationship-coach-34350.bond" | [http://relationship-coach-34350.bond](https://www.criminalip.io/domain/report?scan_id=17174526) | Critical | US | 2024-11-25 02:31:13 (UTC) |
-| "portable-power-station-cz.bond" | [http://portable-power-station-cz.bond](https://www.criminalip.io/domain/report?scan_id=17174535) | Critical | US | 2024-11-25 02:32:15 (UTC) |
+| "medical-cleaning-services-1811.click" | [http://medical-cleaning-services-1811.click](https://www.criminalip.io/domain/report?scan_id=17193415) | Critical | N/A | 2024-11-26 02:32:50 (UTC) |
+| "Startseite - ARANES GmbH & Co. KG" | [http://zenivo.app](https://www.criminalip.io/domain/report?scan_id=17193438) | Critical | DE | 2024-11-26 02:36:23 (UTC) |
+| "Website hiện không hoạt động" | [http://anitatsaquin.click](https://www.criminalip.io/domain/report?scan_id=17193454) | Critical | N/A | 2024-11-26 02:37:52 (UTC) |
 
 ---
 

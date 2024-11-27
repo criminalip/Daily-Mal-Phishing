@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "medical-cleaning-services-1811.click" | [http://medical-cleaning-services-1811.click](https://www.criminalip.io/domain/report?scan_id=17193415) | Critical | N/A | 2024-11-26 02:32:50 (UTC) |
-| "Startseite - ARANES GmbH & Co. KG" | [http://zenivo.app](https://www.criminalip.io/domain/report?scan_id=17193438) | Critical | DE | 2024-11-26 02:36:23 (UTC) |
-| "Website hiện không hoạt động" | [http://anitatsaquin.click](https://www.criminalip.io/domain/report?scan_id=17193454) | Critical | N/A | 2024-11-26 02:37:52 (UTC) |
+| "N/A" | [http://enyxus.network](https://www.criminalip.io/domain/report?scan_id=17276441) | Critical | US | 2024-11-27 02:30:52 (UTC) |
+| "欢迎来访" | [http://wq26-66.wjb35n51.top](https://www.criminalip.io/domain/report?scan_id=17276459) | Critical | SC | 2024-11-27 02:32:26 (UTC) |
+| "59hl.app" | [http://59hl.app](https://www.criminalip.io/domain/report?scan_id=17276513) | Critical | US | 2024-11-27 02:35:09 (UTC) |
 
 ---
 

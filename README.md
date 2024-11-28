@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://enyxus.network](https://www.criminalip.io/domain/report?scan_id=17276441) | Critical | US | 2024-11-27 02:30:52 (UTC) |
-| "欢迎来访" | [http://wq26-66.wjb35n51.top](https://www.criminalip.io/domain/report?scan_id=17276459) | Critical | SC | 2024-11-27 02:32:26 (UTC) |
-| "59hl.app" | [http://59hl.app](https://www.criminalip.io/domain/report?scan_id=17276513) | Critical | US | 2024-11-27 02:35:09 (UTC) |
+| "lycfeds.com" | [http://www.intelligence.lycfeds.com](https://www.criminalip.io/domain/report?scan_id=17311706) | Critical | DE | 2024-11-28 02:31:01 (UTC) |
+| "trackwehp.top" | [http://trackwehp.top](https://www.criminalip.io/domain/report?scan_id=17311789) | Critical | US | 2024-11-28 02:32:44 (UTC) |
+| "サニタリー配管施工なら和歌山県有田市のオーテック株式会社｜社員募集" | [http://otech8857.com](https://www.criminalip.io/domain/report?scan_id=17311795) | Critical | JP | 2024-11-28 02:33:37 (UTC) |
 
 ---
 

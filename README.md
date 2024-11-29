@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "lycfeds.com" | [http://www.intelligence.lycfeds.com](https://www.criminalip.io/domain/report?scan_id=17311706) | Critical | DE | 2024-11-28 02:31:01 (UTC) |
-| "trackwehp.top" | [http://trackwehp.top](https://www.criminalip.io/domain/report?scan_id=17311789) | Critical | US | 2024-11-28 02:32:44 (UTC) |
-| "サニタリー配管施工なら和歌山県有田市のオーテック株式会社｜社員募集" | [http://otech8857.com](https://www.criminalip.io/domain/report?scan_id=17311795) | Critical | JP | 2024-11-28 02:33:37 (UTC) |
+| "laser-hair-removal-1221.click" | [http://laser-hair-removal-1221.click](https://www.criminalip.io/domain/report?scan_id=17370789) | Critical | US | 2024-11-29 02:30:51 (UTC) |
+| "affiliate-marketing-53329.bond" | [http://affiliate-marketing-53329.bond](https://www.criminalip.io/domain/report?scan_id=17370845) | Critical | US | 2024-11-29 02:33:06 (UTC) |
+| "advertising-examples-16561.bond" | [http://advertising-examples-16561.bond](https://www.criminalip.io/domain/report?scan_id=17370857) | Critical | US | 2024-11-29 02:33:48 (UTC) |
 
 ---
 

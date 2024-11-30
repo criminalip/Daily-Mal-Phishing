@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "laser-hair-removal-1221.click" | [http://laser-hair-removal-1221.click](https://www.criminalip.io/domain/report?scan_id=17370789) | Critical | US | 2024-11-29 02:30:51 (UTC) |
-| "affiliate-marketing-53329.bond" | [http://affiliate-marketing-53329.bond](https://www.criminalip.io/domain/report?scan_id=17370845) | Critical | US | 2024-11-29 02:33:06 (UTC) |
-| "advertising-examples-16561.bond" | [http://advertising-examples-16561.bond](https://www.criminalip.io/domain/report?scan_id=17370857) | Critical | US | 2024-11-29 02:33:48 (UTC) |
+| "solar-panel-jobs-16261.bond" | [http://solar-panel-jobs-16261.bond](https://www.criminalip.io/domain/report?scan_id=17402438) | Critical | US | 2024-11-30 02:31:15 (UTC) |
+| "laser-face-lift-36091.bond" | [http://laser-face-lift-36091.bond](https://www.criminalip.io/domain/report?scan_id=17402455) | Critical | US | 2024-11-30 02:31:55 (UTC) |
+| "drain-pipe-cleaning-62043.bond" | [http://drain-pipe-cleaning-62043.bond](https://www.criminalip.io/domain/report?scan_id=17402471) | Critical | US | 2024-11-30 02:32:37 (UTC) |
 
 ---
 

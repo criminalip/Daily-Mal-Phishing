@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "solar-panel-jobs-16261.bond" | [http://solar-panel-jobs-16261.bond](https://www.criminalip.io/domain/report?scan_id=17402438) | Critical | US | 2024-11-30 02:31:15 (UTC) |
-| "laser-face-lift-36091.bond" | [http://laser-face-lift-36091.bond](https://www.criminalip.io/domain/report?scan_id=17402455) | Critical | US | 2024-11-30 02:31:55 (UTC) |
-| "drain-pipe-cleaning-62043.bond" | [http://drain-pipe-cleaning-62043.bond](https://www.criminalip.io/domain/report?scan_id=17402471) | Critical | US | 2024-11-30 02:32:37 (UTC) |
+| "app-software-development-training-33646.bond" | [http://app-software-development-training-33646.bond](https://www.criminalip.io/domain/report?scan_id=17434325) | Critical | US | 2024-12-01 02:30:41 (UTC) |
+| "apartments-for-rent-65302.bond" | [http://apartments-for-rent-65302.bond](https://www.criminalip.io/domain/report?scan_id=17434337) | Critical | US | 2024-12-01 02:31:23 (UTC) |
+| "app-software-development-training-16350.bond" | [http://app-software-development-training-16350.bond](https://www.criminalip.io/domain/report?scan_id=17434346) | Critical | N/A | 2024-12-01 02:32:04 (UTC) |
 
 ---
 

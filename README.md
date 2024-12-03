@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "online-digital-marketing-84817.bond" | [http://online-digital-marketing-84817.bond](https://www.criminalip.io/domain/report?scan_id=17464704) | Critical | US | 2024-12-02 02:30:52 (UTC) |
-| "Wikipedia, die freie Enzyklopädie" | [http://comdirect-photo-tan-systeme.app](https://www.criminalip.io/domain/report?scan_id=17464729) | Critical | NL | 2024-12-02 02:32:06 (UTC) |
-| "security-surveillance-cameras-74079.bond" | [http://security-surveillance-cameras-74079.bond](https://www.criminalip.io/domain/report?scan_id=17464751) | Critical | US | 2024-12-02 02:32:45 (UTC) |
+| "app-software-development-training-15861.bond" | [http://app-software-development-training-15861.bond](https://www.criminalip.io/domain/report?scan_id=17494334) | Critical | US | 2024-12-03 02:30:31 (UTC) |
+| "fungal-infection-treatment-74631.bond" | [http://fungal-infection-treatment-74631.bond](https://www.criminalip.io/domain/report?scan_id=17494429) | Critical | US | 2024-12-03 02:31:24 (UTC) |
+| "fashion-designing-course-67170.bond" | [http://fashion-designing-course-67170.bond](https://www.criminalip.io/domain/report?scan_id=17494445) | Critical | US | 2024-12-03 02:32:05 (UTC) |
 
 ---
 

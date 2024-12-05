@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Custom Domain by Bitly" | [http://arabellawellness.center](https://www.criminalip.io/domain/report?scan_id=17547148) | Critical | US | 2024-12-04 02:30:54 (UTC) |
-| "app-software-development-training-13922.bond" | [http://app-software-development-training-13922.bond](https://www.criminalip.io/domain/report?scan_id=17547179) | Critical | US | 2024-12-04 02:31:44 (UTC) |
-| "澳門新葡京-不凡造就非凡" | [http://65804.academy](https://www.criminalip.io/domain/report?scan_id=17547195) | Critical | HK | 2024-12-04 02:32:36 (UTC) |
+| "cicadamarketing.asia" | [http://cicadamarketing.asia](https://www.criminalip.io/domain/report?scan_id=17573801) | Critical | AU | 2024-12-05 02:30:31 (UTC) |
+| "oil-rig-jobs-16700.bond" | [http://oil-rig-jobs-16700.bond](https://www.criminalip.io/domain/report?scan_id=17573815) | Critical | US | 2024-12-05 02:32:05 (UTC) |
+| "pavement-job-to-gain-more-money-become-rich.bond" | [http://pavement-job-to-gain-more-money-become-rich.bond](https://www.criminalip.io/domain/report?scan_id=17573825) | Critical | US | 2024-12-05 02:33:19 (UTC) |
 
 ---
 

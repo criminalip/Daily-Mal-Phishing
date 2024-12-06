@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "cicadamarketing.asia" | [http://cicadamarketing.asia](https://www.criminalip.io/domain/report?scan_id=17573801) | Critical | AU | 2024-12-05 02:30:31 (UTC) |
-| "oil-rig-jobs-16700.bond" | [http://oil-rig-jobs-16700.bond](https://www.criminalip.io/domain/report?scan_id=17573815) | Critical | US | 2024-12-05 02:32:05 (UTC) |
-| "pavement-job-to-gain-more-money-become-rich.bond" | [http://pavement-job-to-gain-more-money-become-rich.bond](https://www.criminalip.io/domain/report?scan_id=17573825) | Critical | US | 2024-12-05 02:33:19 (UTC) |
+| "usps.com-trackgaz.top" | [http://usps.com-trackgaz.top](https://www.criminalip.io/domain/report?scan_id=17602298) | Critical | DE | 2024-12-06 02:32:15 (UTC) |
+| "U9彩票" | [http://www.vx7s.hd.u9cpy1.com](https://www.criminalip.io/domain/report?scan_id=17602309) | Critical | SG | 2024-12-06 02:34:14 (UTC) |
+| "N/A" | [http://ch.bwaa147.icu](https://www.criminalip.io/domain/report?scan_id=17602361) | Critical | US | 2024-12-06 02:37:47 (UTC) |
 
 ---
 

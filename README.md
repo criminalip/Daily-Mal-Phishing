@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "usps.com-trackgaz.top" | [http://usps.com-trackgaz.top](https://www.criminalip.io/domain/report?scan_id=17602298) | Critical | DE | 2024-12-06 02:32:15 (UTC) |
-| "U9彩票" | [http://www.vx7s.hd.u9cpy1.com](https://www.criminalip.io/domain/report?scan_id=17602309) | Critical | SG | 2024-12-06 02:34:14 (UTC) |
-| "N/A" | [http://ch.bwaa147.icu](https://www.criminalip.io/domain/report?scan_id=17602361) | Critical | US | 2024-12-06 02:37:47 (UTC) |
+| "UFC 321 Tickets - Don’t Miss the Action!" | [http://ufc321.com](https://www.criminalip.io/domain/report?scan_id=17629896) | Critical | US | 2024-12-07 02:31:51 (UTC) |
+| "www-hr-online.de" | [http://www.vpn.www-hr-online.de](https://www.criminalip.io/domain/report?scan_id=17629920) | Critical | DE | 2024-12-07 02:32:53 (UTC) |
+| "Oops! This project isn't running." | [http://enormous-orchid-howler.glitch.me](https://www.criminalip.io/domain/report?scan_id=17629954) | Low | US | 2024-12-07 02:34:50 (UTC) |
 
 ---
 

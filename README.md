@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "UFC 321 Tickets - Don’t Miss the Action!" | [http://ufc321.com](https://www.criminalip.io/domain/report?scan_id=17629896) | Critical | US | 2024-12-07 02:31:51 (UTC) |
-| "www-hr-online.de" | [http://www.vpn.www-hr-online.de](https://www.criminalip.io/domain/report?scan_id=17629920) | Critical | DE | 2024-12-07 02:32:53 (UTC) |
-| "Oops! This project isn't running." | [http://enormous-orchid-howler.glitch.me](https://www.criminalip.io/domain/report?scan_id=17629954) | Low | US | 2024-12-07 02:34:50 (UTC) |
+| "sendai-services-625097758.click" | [http://sendai-services-625097758.click](https://www.criminalip.io/domain/report?scan_id=17664676) | Critical | US | 2024-12-08 02:30:28 (UTC) |
+| "N/A" | [http://caasdagg.top](https://www.criminalip.io/domain/report?scan_id=17664705) | Critical | BG | 2024-12-08 02:32:33 (UTC) |
+| "LinkedIn Login, Sign in | LinkedIn" | [http://tableau-linkedin.analytic-aware.com](https://www.criminalip.io/domain/report?scan_id=17664721) | Critical | US | 2024-12-08 02:34:21 (UTC) |
 
 ---
 

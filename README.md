@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "sendai-services-625097758.click" | [http://sendai-services-625097758.click](https://www.criminalip.io/domain/report?scan_id=17664676) | Critical | US | 2024-12-08 02:30:28 (UTC) |
-| "N/A" | [http://caasdagg.top](https://www.criminalip.io/domain/report?scan_id=17664705) | Critical | BG | 2024-12-08 02:32:33 (UTC) |
-| "LinkedIn Login, Sign in | LinkedIn" | [http://tableau-linkedin.analytic-aware.com](https://www.criminalip.io/domain/report?scan_id=17664721) | Critical | US | 2024-12-08 02:34:21 (UTC) |
+| "canada.postescanadzx.top" | [http://canada.postescanadzx.top](https://www.criminalip.io/domain/report?scan_id=17691812) | Critical | US | 2024-12-09 02:30:32 (UTC) |
+| "usps.com-tracknwo.top" | [http://usps.com-tracknwo.top](https://www.criminalip.io/domain/report?scan_id=17691882) | Critical | DE | 2024-12-09 02:33:20 (UTC) |
+| "最新域名" | [http://wwwjav525.app](https://www.criminalip.io/domain/report?scan_id=17691914) | Critical | HK | 2024-12-09 02:34:17 (UTC) |
 
 ---
 

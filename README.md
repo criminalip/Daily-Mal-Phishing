@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "canada.postescanadzx.top" | [http://canada.postescanadzx.top](https://www.criminalip.io/domain/report?scan_id=17691812) | Critical | US | 2024-12-09 02:30:32 (UTC) |
-| "usps.com-tracknwo.top" | [http://usps.com-tracknwo.top](https://www.criminalip.io/domain/report?scan_id=17691882) | Critical | DE | 2024-12-09 02:33:20 (UTC) |
-| "最新域名" | [http://wwwjav525.app](https://www.criminalip.io/domain/report?scan_id=17691914) | Critical | HK | 2024-12-09 02:34:17 (UTC) |
+| "no Route matched with those values - CDN" | [http://843a53.app](https://www.criminalip.io/domain/report?scan_id=17719902) | Critical | HK | 2024-12-10 02:30:56 (UTC) |
+| "403 Forbidden" | [http://rjogws.cn](https://www.criminalip.io/domain/report?scan_id=17719914) | Critical | JP | 2024-12-10 02:31:26 (UTC) |
+| "This website is temporarily unavailable. Please check back soon." | [http://trust-verify-protocol.com](https://www.criminalip.io/domain/report?scan_id=17719936) | Critical | NL | 2024-12-10 02:32:26 (UTC) |
 
 ---
 

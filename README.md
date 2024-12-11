@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "no Route matched with those values - CDN" | [http://843a53.app](https://www.criminalip.io/domain/report?scan_id=17719902) | Critical | HK | 2024-12-10 02:30:56 (UTC) |
-| "403 Forbidden" | [http://rjogws.cn](https://www.criminalip.io/domain/report?scan_id=17719914) | Critical | JP | 2024-12-10 02:31:26 (UTC) |
-| "This website is temporarily unavailable. Please check back soon." | [http://trust-verify-protocol.com](https://www.criminalip.io/domain/report?scan_id=17719936) | Critical | NL | 2024-12-10 02:32:26 (UTC) |
+| "pau looka Site – Your SUPER-powered WP Engine Site" | [http://optionalbrob.wpenginepowered.com](https://www.criminalip.io/domain/report?scan_id=17748633) | Low | US | 2024-12-11 02:30:40 (UTC) |
+| "qzeusq.bio" | [http://ftp.qzeusq.bio](https://www.criminalip.io/domain/report?scan_id=17748665) | Critical | US | 2024-12-11 02:31:23 (UTC) |
+| "app-software-development-training-10533.bond" | [http://app-software-development-training-10533.bond](https://www.criminalip.io/domain/report?scan_id=17748692) | Critical | US | 2024-12-11 02:32:59 (UTC) |
 
 ---
 

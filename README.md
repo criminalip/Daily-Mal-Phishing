@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "pau looka Site – Your SUPER-powered WP Engine Site" | [http://optionalbrob.wpenginepowered.com](https://www.criminalip.io/domain/report?scan_id=17748633) | Low | US | 2024-12-11 02:30:40 (UTC) |
-| "qzeusq.bio" | [http://ftp.qzeusq.bio](https://www.criminalip.io/domain/report?scan_id=17748665) | Critical | US | 2024-12-11 02:31:23 (UTC) |
-| "app-software-development-training-10533.bond" | [http://app-software-development-training-10533.bond](https://www.criminalip.io/domain/report?scan_id=17748692) | Critical | US | 2024-12-11 02:32:59 (UTC) |
+| "Home - Bin Gold" | [http://binbullion.com](https://www.criminalip.io/domain/report?scan_id=17806273) | Critical | US | 2024-12-12 02:30:58 (UTC) |
+| "business-phone-systems-78388.bond" | [http://business-phone-systems-78388.bond](https://www.criminalip.io/domain/report?scan_id=17806286) | Critical | US | 2024-12-12 02:31:46 (UTC) |
+| "real-estate-investments-28454.bond" | [http://real-estate-investments-28454.bond](https://www.criminalip.io/domain/report?scan_id=17806289) | Critical | US | 2024-12-12 02:32:26 (UTC) |
 
 ---
 

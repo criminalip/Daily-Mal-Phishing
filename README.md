@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Home - Bin Gold" | [http://binbullion.com](https://www.criminalip.io/domain/report?scan_id=17806273) | Critical | US | 2024-12-12 02:30:58 (UTC) |
-| "business-phone-systems-78388.bond" | [http://business-phone-systems-78388.bond](https://www.criminalip.io/domain/report?scan_id=17806286) | Critical | US | 2024-12-12 02:31:46 (UTC) |
-| "real-estate-investments-28454.bond" | [http://real-estate-investments-28454.bond](https://www.criminalip.io/domain/report?scan_id=17806289) | Critical | US | 2024-12-12 02:32:26 (UTC) |
+| "online-digital-marketing-degree-88287.bond" | [http://online-digital-marketing-degree-88287.bond](https://www.criminalip.io/domain/report?scan_id=17828802) | Critical | US | 2024-12-13 02:30:33 (UTC) |
+| "laser-skin-treatment-43090.bond" | [http://laser-skin-treatment-43090.bond](https://www.criminalip.io/domain/report?scan_id=17828831) | Critical | US | 2024-12-13 02:32:06 (UTC) |
+| "app-software-development-training-51159.bond" | [http://app-software-development-training-51159.bond](https://www.criminalip.io/domain/report?scan_id=17828874) | Critical | US | 2024-12-13 02:34:51 (UTC) |
 
 ---
 

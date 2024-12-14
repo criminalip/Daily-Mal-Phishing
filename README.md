@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "online-digital-marketing-degree-88287.bond" | [http://online-digital-marketing-degree-88287.bond](https://www.criminalip.io/domain/report?scan_id=17828802) | Critical | US | 2024-12-13 02:30:33 (UTC) |
-| "laser-skin-treatment-43090.bond" | [http://laser-skin-treatment-43090.bond](https://www.criminalip.io/domain/report?scan_id=17828831) | Critical | US | 2024-12-13 02:32:06 (UTC) |
-| "app-software-development-training-51159.bond" | [http://app-software-development-training-51159.bond](https://www.criminalip.io/domain/report?scan_id=17828874) | Critical | US | 2024-12-13 02:34:51 (UTC) |
+| "crohns-disease-treatment-33897.bond" | [http://crohns-disease-treatment-33897.bond](https://www.criminalip.io/domain/report?scan_id=17858219) | Critical | N/A | 2024-12-14 02:30:34 (UTC) |
+| "app-software-development-training-59229.bond" | [http://app-software-development-training-59229.bond](https://www.criminalip.io/domain/report?scan_id=17858221) | Critical | US | 2024-12-14 02:31:15 (UTC) |
+| "app-software-development-training-70688.bond" | [http://app-software-development-training-70688.bond](https://www.criminalip.io/domain/report?scan_id=17858240) | Critical | US | 2024-12-14 02:33:58 (UTC) |
 
 ---
 

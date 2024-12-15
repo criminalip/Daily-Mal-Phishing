@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "crohns-disease-treatment-33897.bond" | [http://crohns-disease-treatment-33897.bond](https://www.criminalip.io/domain/report?scan_id=17858219) | Critical | N/A | 2024-12-14 02:30:34 (UTC) |
-| "app-software-development-training-59229.bond" | [http://app-software-development-training-59229.bond](https://www.criminalip.io/domain/report?scan_id=17858221) | Critical | US | 2024-12-14 02:31:15 (UTC) |
-| "app-software-development-training-70688.bond" | [http://app-software-development-training-70688.bond](https://www.criminalip.io/domain/report?scan_id=17858240) | Critical | US | 2024-12-14 02:33:58 (UTC) |
+| "百度一下，你就知道" | [http://sy0802.cc](https://www.criminalip.io/domain/report?scan_id=17875735) | Critical | HK | 2024-12-15 02:32:29 (UTC) |
+| "adult-only-hotels-39770.bond" | [http://adult-only-hotels-39770.bond](https://www.criminalip.io/domain/report?scan_id=17875742) | Critical | US | 2024-12-15 02:33:30 (UTC) |
+| "N/A" | [http://www.www.www.www.www.www.ce.kksdfs.com](https://www.criminalip.io/domain/report?scan_id=17875755) | Critical | GB | 2024-12-15 02:34:42 (UTC) |
 
 ---
 

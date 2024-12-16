@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "百度一下，你就知道" | [http://sy0802.cc](https://www.criminalip.io/domain/report?scan_id=17875735) | Critical | HK | 2024-12-15 02:32:29 (UTC) |
-| "adult-only-hotels-39770.bond" | [http://adult-only-hotels-39770.bond](https://www.criminalip.io/domain/report?scan_id=17875742) | Critical | US | 2024-12-15 02:33:30 (UTC) |
-| "N/A" | [http://www.www.www.www.www.www.ce.kksdfs.com](https://www.criminalip.io/domain/report?scan_id=17875755) | Critical | GB | 2024-12-15 02:34:42 (UTC) |
+| "work-from-home-94972.bond" | [http://work-from-home-94972.bond](https://www.criminalip.io/domain/report?scan_id=17893549) | Critical | US | 2024-12-16 02:30:33 (UTC) |
+| "nursing-caregiver-jobs-57791.bond" | [http://nursing-caregiver-jobs-57791.bond](https://www.criminalip.io/domain/report?scan_id=17893553) | Critical | US | 2024-12-16 02:31:14 (UTC) |
+| "澳門新葡京-不凡造就非凡" | [http://655041.academy](https://www.criminalip.io/domain/report?scan_id=17893556) | Critical | HK | 2024-12-16 02:32:04 (UTC) |
 
 ---
 

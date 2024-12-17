@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "work-from-home-94972.bond" | [http://work-from-home-94972.bond](https://www.criminalip.io/domain/report?scan_id=17893549) | Critical | US | 2024-12-16 02:30:33 (UTC) |
-| "nursing-caregiver-jobs-57791.bond" | [http://nursing-caregiver-jobs-57791.bond](https://www.criminalip.io/domain/report?scan_id=17893553) | Critical | US | 2024-12-16 02:31:14 (UTC) |
-| "澳門新葡京-不凡造就非凡" | [http://655041.academy](https://www.criminalip.io/domain/report?scan_id=17893556) | Critical | HK | 2024-12-16 02:32:04 (UTC) |
+| "english-classes-online-16821.bond" | [http://english-classes-online-16821.bond](https://www.criminalip.io/domain/report?scan_id=17915972) | Critical | US | 2024-12-17 02:30:33 (UTC) |
+| "app-software-development-training-73690.bond" | [http://app-software-development-training-73690.bond](https://www.criminalip.io/domain/report?scan_id=17915982) | Critical | US | 2024-12-17 02:31:35 (UTC) |
+| "MOS Creative | Web Design, App Development, UX/UI Services" | [http://moscreative.biz](https://www.criminalip.io/domain/report?scan_id=17915985) | Critical | US | 2024-12-17 02:32:47 (UTC) |
 
 ---
 

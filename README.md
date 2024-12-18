@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "english-classes-online-16821.bond" | [http://english-classes-online-16821.bond](https://www.criminalip.io/domain/report?scan_id=17915972) | Critical | US | 2024-12-17 02:30:33 (UTC) |
-| "app-software-development-training-73690.bond" | [http://app-software-development-training-73690.bond](https://www.criminalip.io/domain/report?scan_id=17915982) | Critical | US | 2024-12-17 02:31:35 (UTC) |
-| "MOS Creative | Web Design, App Development, UX/UI Services" | [http://moscreative.biz](https://www.criminalip.io/domain/report?scan_id=17915985) | Critical | US | 2024-12-17 02:32:47 (UTC) |
+| "linux-certification-training-45852.bond" | [http://linux-certification-training-45852.bond](https://www.criminalip.io/domain/report?scan_id=17948314) | Critical | US | 2024-12-18 02:30:33 (UTC) |
+| "crohns-disease-treatment-41438.bond" | [http://crohns-disease-treatment-41438.bond](https://www.criminalip.io/domain/report?scan_id=17948317) | Critical | US | 2024-12-18 02:31:15 (UTC) |
+| "digital-marketing-courses-15431.bond" | [http://digital-marketing-courses-15431.bond](https://www.criminalip.io/domain/report?scan_id=17948320) | Critical | US | 2024-12-18 02:31:55 (UTC) |
 
 ---
 

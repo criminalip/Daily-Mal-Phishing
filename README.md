@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "linux-certification-training-45852.bond" | [http://linux-certification-training-45852.bond](https://www.criminalip.io/domain/report?scan_id=17948314) | Critical | US | 2024-12-18 02:30:33 (UTC) |
-| "crohns-disease-treatment-41438.bond" | [http://crohns-disease-treatment-41438.bond](https://www.criminalip.io/domain/report?scan_id=17948317) | Critical | US | 2024-12-18 02:31:15 (UTC) |
-| "digital-marketing-courses-15431.bond" | [http://digital-marketing-courses-15431.bond](https://www.criminalip.io/domain/report?scan_id=17948320) | Critical | US | 2024-12-18 02:31:55 (UTC) |
+| "braces-dental-splints-38514.bond" | [http://braces-dental-splints-38514.bond](https://www.criminalip.io/domain/report?scan_id=17981374) | Critical | US | 2024-12-19 02:30:53 (UTC) |
+| "N/A" | [http://dhodlg.vip](https://www.criminalip.io/domain/report?scan_id=17981385) | Critical | US | 2024-12-19 02:31:46 (UTC) |
+| "menschannel.club" | [http://menschannel.club](https://www.criminalip.io/domain/report?scan_id=17981422) | Critical | N/A | 2024-12-19 02:34:04 (UTC) |
 
 ---
 

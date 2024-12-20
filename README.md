@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "braces-dental-splints-38514.bond" | [http://braces-dental-splints-38514.bond](https://www.criminalip.io/domain/report?scan_id=17981374) | Critical | US | 2024-12-19 02:30:53 (UTC) |
-| "N/A" | [http://dhodlg.vip](https://www.criminalip.io/domain/report?scan_id=17981385) | Critical | US | 2024-12-19 02:31:46 (UTC) |
-| "menschannel.club" | [http://menschannel.club](https://www.criminalip.io/domain/report?scan_id=17981422) | Critical | N/A | 2024-12-19 02:34:04 (UTC) |
+| "usps.com-tracking-helpqs.cc" | [http://usps.com-tracking-helpqs.cc](https://www.criminalip.io/domain/report?scan_id=18037367) | Critical | US | 2024-12-20 02:30:52 (UTC) |
+| "online-digital-marketing-74444.bond" | [http://online-digital-marketing-74444.bond](https://www.criminalip.io/domain/report?scan_id=18037501) | Critical | US | 2024-12-20 02:31:55 (UTC) |
+| "yandex.pay.yandex.kwid9.metavibe.xyz is available for purchase - Sedo.com" | [http://yandex.pay.yandex.kwid9.metavibe.xyz](https://www.criminalip.io/domain/report?scan_id=18037578) | Critical | DE | 2024-12-20 02:33:18 (UTC) |
 
 ---
 

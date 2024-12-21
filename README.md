@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "usps.com-tracking-helpqs.cc" | [http://usps.com-tracking-helpqs.cc](https://www.criminalip.io/domain/report?scan_id=18037367) | Critical | US | 2024-12-20 02:30:52 (UTC) |
-| "online-digital-marketing-74444.bond" | [http://online-digital-marketing-74444.bond](https://www.criminalip.io/domain/report?scan_id=18037501) | Critical | US | 2024-12-20 02:31:55 (UTC) |
-| "yandex.pay.yandex.kwid9.metavibe.xyz is available for purchase - Sedo.com" | [http://yandex.pay.yandex.kwid9.metavibe.xyz](https://www.criminalip.io/domain/report?scan_id=18037578) | Critical | DE | 2024-12-20 02:33:18 (UTC) |
+| "app-software-development-training-42995.bond" | [http://app-software-development-training-42995.bond](https://www.criminalip.io/domain/report?scan_id=18093423) | Critical | US | 2024-12-21 02:30:36 (UTC) |
+| "video-game-design-classes-90192.bond" | [http://video-game-design-classes-90192.bond](https://www.criminalip.io/domain/report?scan_id=18093469) | Critical | N/A | 2024-12-21 02:31:48 (UTC) |
+| "food-packing-job-87469.bond" | [http://food-packing-job-87469.bond](https://www.criminalip.io/domain/report?scan_id=18093476) | Critical | US | 2024-12-21 02:32:39 (UTC) |
 
 ---
 

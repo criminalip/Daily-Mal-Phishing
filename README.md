@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-42995.bond" | [http://app-software-development-training-42995.bond](https://www.criminalip.io/domain/report?scan_id=18093423) | Critical | US | 2024-12-21 02:30:36 (UTC) |
-| "video-game-design-classes-90192.bond" | [http://video-game-design-classes-90192.bond](https://www.criminalip.io/domain/report?scan_id=18093469) | Critical | N/A | 2024-12-21 02:31:48 (UTC) |
-| "food-packing-job-87469.bond" | [http://food-packing-job-87469.bond](https://www.criminalip.io/domain/report?scan_id=18093476) | Critical | US | 2024-12-21 02:32:39 (UTC) |
+| "business-phone-systems-25428.bond" | [http://business-phone-systems-25428.bond](https://www.criminalip.io/domain/report?scan_id=18138376) | Critical | N/A | 2024-12-22 02:30:36 (UTC) |
+| "jobs-for-seniors-92170.bond" | [http://jobs-for-seniors-92170.bond](https://www.criminalip.io/domain/report?scan_id=18138381) | Critical | US | 2024-12-22 02:31:26 (UTC) |
+| "Telegram Web" | [http://fh.telegrama.xin](https://www.criminalip.io/domain/report?scan_id=18138388) | Critical | CN | 2024-12-22 02:32:25 (UTC) |
 
 ---
 

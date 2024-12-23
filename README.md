@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "business-phone-systems-25428.bond" | [http://business-phone-systems-25428.bond](https://www.criminalip.io/domain/report?scan_id=18138376) | Critical | N/A | 2024-12-22 02:30:36 (UTC) |
-| "jobs-for-seniors-92170.bond" | [http://jobs-for-seniors-92170.bond](https://www.criminalip.io/domain/report?scan_id=18138381) | Critical | US | 2024-12-22 02:31:26 (UTC) |
-| "Telegram Web" | [http://fh.telegrama.xin](https://www.criminalip.io/domain/report?scan_id=18138388) | Critical | CN | 2024-12-22 02:32:25 (UTC) |
+| "Site not found · GitHub Pages" | [http://rameshreddydwarakacherla.github.io](https://www.criminalip.io/domain/report?scan_id=18201048) | Low | US | 2024-12-23 02:35:21 (UTC) |
+| "bet365集团 365体育在线-上网导航" | [http://3115dh12.com](https://www.criminalip.io/domain/report?scan_id=18201055) | Critical | JP | 2024-12-23 02:36:18 (UTC) |
+| "bibfix.com" | [http://6704bfca-6f08-472c-948d-750de864e32c.bibfix.com](https://www.criminalip.io/domain/report?scan_id=18201066) | Critical | N/A | 2024-12-23 02:37:17 (UTC) |
 
 ---
 

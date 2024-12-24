@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://rameshreddydwarakacherla.github.io](https://www.criminalip.io/domain/report?scan_id=18201048) | Low | US | 2024-12-23 02:35:21 (UTC) |
-| "bet365集团 365体育在线-上网导航" | [http://3115dh12.com](https://www.criminalip.io/domain/report?scan_id=18201055) | Critical | JP | 2024-12-23 02:36:18 (UTC) |
-| "bibfix.com" | [http://6704bfca-6f08-472c-948d-750de864e32c.bibfix.com](https://www.criminalip.io/domain/report?scan_id=18201066) | Critical | N/A | 2024-12-23 02:37:17 (UTC) |
+| "air-conditioner-installation-71865.bond" | [http://air-conditioner-installation-71865.bond](https://www.criminalip.io/domain/report?scan_id=18247818) | Critical | US | 2024-12-24 02:30:34 (UTC) |
+| "app-software-development-training-37077.bond" | [http://app-software-development-training-37077.bond](https://www.criminalip.io/domain/report?scan_id=18247868) | Critical | N/A | 2024-12-24 02:31:17 (UTC) |
+| "personal-loan-in-sg.click" | [http://personal-loan-in-sg.click](https://www.criminalip.io/domain/report?scan_id=18247878) | Critical | US | 2024-12-24 02:32:05 (UTC) |
 
 ---
 

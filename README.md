@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "air-conditioner-installation-71865.bond" | [http://air-conditioner-installation-71865.bond](https://www.criminalip.io/domain/report?scan_id=18247818) | Critical | US | 2024-12-24 02:30:34 (UTC) |
-| "app-software-development-training-37077.bond" | [http://app-software-development-training-37077.bond](https://www.criminalip.io/domain/report?scan_id=18247868) | Critical | N/A | 2024-12-24 02:31:17 (UTC) |
-| "personal-loan-in-sg.click" | [http://personal-loan-in-sg.click](https://www.criminalip.io/domain/report?scan_id=18247878) | Critical | US | 2024-12-24 02:32:05 (UTC) |
+| "franchise-opportunity-nearby-20123.click" | [http://franchise-opportunity-nearby-20123.click](https://www.criminalip.io/domain/report?scan_id=18304857) | Critical | US | 2024-12-25 02:30:31 (UTC) |
+| "dentist-dental-care-83117.bond" | [http://dentist-dental-care-83117.bond](https://www.criminalip.io/domain/report?scan_id=18304872) | Critical | US | 2024-12-25 02:31:29 (UTC) |
+| "nursing-degrees-in-mexico-2.bond" | [http://nursing-degrees-in-mexico-2.bond](https://www.criminalip.io/domain/report?scan_id=18304885) | Critical | US | 2024-12-25 02:32:17 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "franchise-opportunity-nearby-20123.click" | [http://franchise-opportunity-nearby-20123.click](https://www.criminalip.io/domain/report?scan_id=18304857) | Critical | US | 2024-12-25 02:30:31 (UTC) |
-| "dentist-dental-care-83117.bond" | [http://dentist-dental-care-83117.bond](https://www.criminalip.io/domain/report?scan_id=18304872) | Critical | US | 2024-12-25 02:31:29 (UTC) |
-| "nursing-degrees-in-mexico-2.bond" | [http://nursing-degrees-in-mexico-2.bond](https://www.criminalip.io/domain/report?scan_id=18304885) | Critical | US | 2024-12-25 02:32:17 (UTC) |
+| "open-a-business-bank-account.click - open a business bank account 자료와 정보" | [http://open-a-business-bank-account.click](https://www.criminalip.io/domain/report?scan_id=18359461) | Critical | DE | 2024-12-26 02:30:59 (UTC) |
+| "404 Not Found" | [http://razvoj.club](https://www.criminalip.io/domain/report?scan_id=18359478) | Critical | DE | 2024-12-26 02:31:45 (UTC) |
+| "Index of /" | [http://myquickorders.click](https://www.criminalip.io/domain/report?scan_id=18359484) | Critical | US | 2024-12-26 02:32:30 (UTC) |
 
 ---
 

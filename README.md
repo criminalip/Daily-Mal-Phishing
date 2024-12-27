@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "open-a-business-bank-account.click - open a business bank account 자료와 정보" | [http://open-a-business-bank-account.click](https://www.criminalip.io/domain/report?scan_id=18359461) | Critical | DE | 2024-12-26 02:30:59 (UTC) |
-| "404 Not Found" | [http://razvoj.club](https://www.criminalip.io/domain/report?scan_id=18359478) | Critical | DE | 2024-12-26 02:31:45 (UTC) |
-| "Index of /" | [http://myquickorders.click](https://www.criminalip.io/domain/report?scan_id=18359484) | Critical | US | 2024-12-26 02:32:30 (UTC) |
+| "快手直播 8007.TV" | [http://vkniyjn.restaurant](https://www.criminalip.io/domain/report?scan_id=18414904) | Critical | HK | 2024-12-27 02:30:58 (UTC) |
+| "tnachat.com" | [http://tnachat.com](https://www.criminalip.io/domain/report?scan_id=18414934) | Critical | AU | 2024-12-27 02:32:16 (UTC) |
+| "最新域名" | [http://901game.com](https://www.criminalip.io/domain/report?scan_id=18414937) | Critical | N/A | 2024-12-27 02:32:54 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "快手直播 8007.TV" | [http://vkniyjn.restaurant](https://www.criminalip.io/domain/report?scan_id=18414904) | Critical | HK | 2024-12-27 02:30:58 (UTC) |
-| "tnachat.com" | [http://tnachat.com](https://www.criminalip.io/domain/report?scan_id=18414934) | Critical | AU | 2024-12-27 02:32:16 (UTC) |
-| "最新域名" | [http://901game.com](https://www.criminalip.io/domain/report?scan_id=18414937) | Critical | N/A | 2024-12-27 02:32:54 (UTC) |
+| "digital-marketing-courses-71851.bond" | [http://digital-marketing-courses-71851.bond](https://www.criminalip.io/domain/report?scan_id=18470194) | Critical | US | 2024-12-28 02:32:03 (UTC) |
+| "cyber-security-degree-78036.bond" | [http://cyber-security-degree-78036.bond](https://www.criminalip.io/domain/report?scan_id=18470207) | Critical | US | 2024-12-28 02:32:51 (UTC) |
+| "cyber-security-degree-42771.bond" | [http://cyber-security-degree-42771.bond](https://www.criminalip.io/domain/report?scan_id=18470216) | Critical | US | 2024-12-28 02:33:42 (UTC) |
 
 ---
 

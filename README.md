@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "digital-marketing-courses-71851.bond" | [http://digital-marketing-courses-71851.bond](https://www.criminalip.io/domain/report?scan_id=18470194) | Critical | US | 2024-12-28 02:32:03 (UTC) |
-| "cyber-security-degree-78036.bond" | [http://cyber-security-degree-78036.bond](https://www.criminalip.io/domain/report?scan_id=18470207) | Critical | US | 2024-12-28 02:32:51 (UTC) |
-| "cyber-security-degree-42771.bond" | [http://cyber-security-degree-42771.bond](https://www.criminalip.io/domain/report?scan_id=18470216) | Critical | US | 2024-12-28 02:33:42 (UTC) |
+| "truck-driver-jobs-89900.bond" | [http://truck-driver-jobs-89900.bond](https://www.criminalip.io/domain/report?scan_id=18533415) | Critical | US | 2024-12-29 02:31:06 (UTC) |
+| "virtualreality.center" | [http://virtualreality.center](https://www.criminalip.io/domain/report?scan_id=18533427) | Critical | DE | 2024-12-29 02:31:59 (UTC) |
+| "7dacyhc.top" | [http://igqlc.7dacyhc.top](https://www.criminalip.io/domain/report?scan_id=18533497) | Critical | N/A | 2024-12-29 02:32:50 (UTC) |
 
 ---
 

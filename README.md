@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "truck-driver-jobs-89900.bond" | [http://truck-driver-jobs-89900.bond](https://www.criminalip.io/domain/report?scan_id=18533415) | Critical | US | 2024-12-29 02:31:06 (UTC) |
-| "virtualreality.center" | [http://virtualreality.center](https://www.criminalip.io/domain/report?scan_id=18533427) | Critical | DE | 2024-12-29 02:31:59 (UTC) |
-| "7dacyhc.top" | [http://igqlc.7dacyhc.top](https://www.criminalip.io/domain/report?scan_id=18533497) | Critical | N/A | 2024-12-29 02:32:50 (UTC) |
+| "404 Not Found" | [http://webhrt.com](https://www.criminalip.io/domain/report?scan_id=18579286) | Critical | DK | 2024-12-30 02:31:54 (UTC) |
+| "apartments-for-rent-11282.bond" | [http://apartments-for-rent-11282.bond](https://www.criminalip.io/domain/report?scan_id=18579292) | Critical | US | 2024-12-30 02:32:53 (UTC) |
+| "business-phone-systems-12469.bond" | [http://business-phone-systems-12469.bond](https://www.criminalip.io/domain/report?scan_id=18579317) | Critical | US | 2024-12-30 02:35:06 (UTC) |
 
 ---
 

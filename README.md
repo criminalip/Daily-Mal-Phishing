@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "ux-design-courses-11163.bond" | [http://ux-design-courses-11163.bond](https://www.criminalip.io/domain/report?scan_id=18639236) | Critical | US | 2024-12-31 02:31:15 (UTC) |
-| "Web Server's Default Page" | [http://temizayaksagligi.com](https://www.criminalip.io/domain/report?scan_id=18639256) | Critical | TR | 2024-12-31 02:33:08 (UTC) |
-| "study-in-spain-67580.bond" | [http://study-in-spain-67580.bond](https://www.criminalip.io/domain/report?scan_id=18639267) | Critical | N/A | 2024-12-31 02:33:51 (UTC) |
+| "app-design-development-44412.bond" | [http://app-design-development-44412.bond](https://www.criminalip.io/domain/report?scan_id=18695028) | Critical | US | 2025-01-01 02:30:36 (UTC) |
+| "neck-massage-rollers-55039.bond" | [http://neck-massage-rollers-55039.bond](https://www.criminalip.io/domain/report?scan_id=18695210) | Critical | US | 2025-01-01 02:31:27 (UTC) |
+| "solar-panel-jobs-94666.bond" | [http://solar-panel-jobs-94666.bond](https://www.criminalip.io/domain/report?scan_id=18695220) | Critical | US | 2025-01-01 02:32:20 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-design-development-44412.bond" | [http://app-design-development-44412.bond](https://www.criminalip.io/domain/report?scan_id=18695028) | Critical | US | 2025-01-01 02:30:36 (UTC) |
-| "neck-massage-rollers-55039.bond" | [http://neck-massage-rollers-55039.bond](https://www.criminalip.io/domain/report?scan_id=18695210) | Critical | US | 2025-01-01 02:31:27 (UTC) |
-| "solar-panel-jobs-94666.bond" | [http://solar-panel-jobs-94666.bond](https://www.criminalip.io/domain/report?scan_id=18695220) | Critical | US | 2025-01-01 02:32:20 (UTC) |
+| "SPERMCOIN" | [http://spermcoin.club](https://www.criminalip.io/domain/report?scan_id=18759561) | Critical | UA | 2025-01-02 02:30:58 (UTC) |
+| "SSL Error" | [http://byjackgable.com](https://www.criminalip.io/domain/report?scan_id=18759606) | Critical | N/A | 2025-01-02 02:31:44 (UTC) |
+| "404 Not Found" | [http://ctmhapepe12.club](https://www.criminalip.io/domain/report?scan_id=18759634) | Critical | CN | 2025-01-02 02:33:30 (UTC) |
 
 ---
 

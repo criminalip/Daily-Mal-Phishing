@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "SPERMCOIN" | [http://spermcoin.club](https://www.criminalip.io/domain/report?scan_id=18759561) | Critical | UA | 2025-01-02 02:30:58 (UTC) |
-| "SSL Error" | [http://byjackgable.com](https://www.criminalip.io/domain/report?scan_id=18759606) | Critical | N/A | 2025-01-02 02:31:44 (UTC) |
-| "404 Not Found" | [http://ctmhapepe12.club](https://www.criminalip.io/domain/report?scan_id=18759634) | Critical | CN | 2025-01-02 02:33:30 (UTC) |
+| "404: NOT_FOUND" | [http://get-ur-badge-now-on.vercel.app](https://www.criminalip.io/domain/report?scan_id=18817169) | Critical | US | 2025-01-03 02:30:22 (UTC) |
+| "Binance Wallet: ваш лучший помощник в криптовалюте" | [http://baninancewaellete.versoly.page](https://www.criminalip.io/domain/report?scan_id=18817175) | Critical | US | 2025-01-03 02:31:04 (UTC) |
+| "Game – engage next-generation bandwidth" | [http://google-jk4.com](https://www.criminalip.io/domain/report?scan_id=18817181) | Critical | PH | 2025-01-03 02:31:47 (UTC) |
 
 ---
 

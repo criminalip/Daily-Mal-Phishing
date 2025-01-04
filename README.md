@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://get-ur-badge-now-on.vercel.app](https://www.criminalip.io/domain/report?scan_id=18817169) | Critical | US | 2025-01-03 02:30:22 (UTC) |
-| "Binance Wallet: ваш лучший помощник в криптовалюте" | [http://baninancewaellete.versoly.page](https://www.criminalip.io/domain/report?scan_id=18817175) | Critical | US | 2025-01-03 02:31:04 (UTC) |
-| "Game – engage next-generation bandwidth" | [http://google-jk4.com](https://www.criminalip.io/domain/report?scan_id=18817181) | Critical | PH | 2025-01-03 02:31:47 (UTC) |
+| "best-real-estate-crm-with-website3012.click" | [http://best-real-estate-crm-with-website3012.click](https://www.criminalip.io/domain/report?scan_id=18870134) | Critical | US | 2025-01-04 02:30:30 (UTC) |
+| "Default Web Site Page" | [http://sangattop92.click](https://www.criminalip.io/domain/report?scan_id=18870141) | Critical | AU | 2025-01-04 02:31:33 (UTC) |
+| "juvederm-lip-filler-09.click" | [http://juvederm-lip-filler-09.click](https://www.criminalip.io/domain/report?scan_id=18870148) | Critical | US | 2025-01-04 02:32:32 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "best-real-estate-crm-with-website3012.click" | [http://best-real-estate-crm-with-website3012.click](https://www.criminalip.io/domain/report?scan_id=18870134) | Critical | US | 2025-01-04 02:30:30 (UTC) |
-| "Default Web Site Page" | [http://sangattop92.click](https://www.criminalip.io/domain/report?scan_id=18870141) | Critical | AU | 2025-01-04 02:31:33 (UTC) |
-| "juvederm-lip-filler-09.click" | [http://juvederm-lip-filler-09.click](https://www.criminalip.io/domain/report?scan_id=18870148) | Critical | US | 2025-01-04 02:32:32 (UTC) |
+| "x4vbhw17.sbs" | [http://x4vbhw17.sbs](https://www.criminalip.io/domain/report?scan_id=18928705) | Critical | US | 2025-01-05 02:30:35 (UTC) |
+| "Alimail" | [http://fanmi.cloud](https://www.criminalip.io/domain/report?scan_id=18928718) | Critical | N/A | 2025-01-05 02:31:37 (UTC) |
+| "app-design-development-63098.bond" | [http://app-design-development-63098.bond](https://www.criminalip.io/domain/report?scan_id=18928740) | Critical | US | 2025-01-05 02:33:30 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "x4vbhw17.sbs" | [http://x4vbhw17.sbs](https://www.criminalip.io/domain/report?scan_id=18928705) | Critical | US | 2025-01-05 02:30:35 (UTC) |
-| "Alimail" | [http://fanmi.cloud](https://www.criminalip.io/domain/report?scan_id=18928718) | Critical | N/A | 2025-01-05 02:31:37 (UTC) |
-| "app-design-development-63098.bond" | [http://app-design-development-63098.bond](https://www.criminalip.io/domain/report?scan_id=18928740) | Critical | US | 2025-01-05 02:33:30 (UTC) |
+| "usps.com-trackdax.top" | [http://usps.com-trackdax.top](https://www.criminalip.io/domain/report?scan_id=18984016) | Critical | US | 2025-01-06 02:30:28 (UTC) |
+| "com-tracking-cbp.cc" | [http://com-tracking-cbp.cc](https://www.criminalip.io/domain/report?scan_id=18984222) | Critical | US | 2025-01-06 02:34:17 (UTC) |
+| "Index of /" | [http://serviceesproteam.com](https://www.criminalip.io/domain/report?scan_id=18984427) | Critical | IN | 2025-01-06 02:35:18 (UTC) |
 
 ---
 

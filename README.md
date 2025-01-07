@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "usps.com-trackdax.top" | [http://usps.com-trackdax.top](https://www.criminalip.io/domain/report?scan_id=18984016) | Critical | US | 2025-01-06 02:30:28 (UTC) |
-| "com-tracking-cbp.cc" | [http://com-tracking-cbp.cc](https://www.criminalip.io/domain/report?scan_id=18984222) | Critical | US | 2025-01-06 02:34:17 (UTC) |
-| "Index of /" | [http://serviceesproteam.com](https://www.criminalip.io/domain/report?scan_id=18984427) | Critical | IN | 2025-01-06 02:35:18 (UTC) |
+| "solar-panel-jobs-59873.bond" | [http://solar-panel-jobs-59873.bond](https://www.criminalip.io/domain/report?scan_id=19047155) | Critical | US | 2025-01-07 02:30:35 (UTC) |
+| "senior-car-insurance-79686.bond" | [http://senior-car-insurance-79686.bond](https://www.criminalip.io/domain/report?scan_id=19047232) | Critical | US | 2025-01-07 02:31:16 (UTC) |
+| "english-classes-online-72913.bond" | [http://english-classes-online-72913.bond](https://www.criminalip.io/domain/report?scan_id=19047242) | Critical | US | 2025-01-07 02:32:08 (UTC) |
 
 ---
 

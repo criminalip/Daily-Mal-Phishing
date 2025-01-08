@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "solar-panel-jobs-59873.bond" | [http://solar-panel-jobs-59873.bond](https://www.criminalip.io/domain/report?scan_id=19047155) | Critical | US | 2025-01-07 02:30:35 (UTC) |
-| "senior-car-insurance-79686.bond" | [http://senior-car-insurance-79686.bond](https://www.criminalip.io/domain/report?scan_id=19047232) | Critical | US | 2025-01-07 02:31:16 (UTC) |
-| "english-classes-online-72913.bond" | [http://english-classes-online-72913.bond](https://www.criminalip.io/domain/report?scan_id=19047242) | Critical | US | 2025-01-07 02:32:08 (UTC) |
+| "fuel-fleet-cards-72535.bond" | [http://fuel-fleet-cards-72535.bond](https://www.criminalip.io/domain/report?scan_id=19106914) | Critical | US | 2025-01-08 02:31:28 (UTC) |
+| "early-childhood-education-71558.bond" | [http://early-childhood-education-71558.bond](https://www.criminalip.io/domain/report?scan_id=19106928) | Critical | US | 2025-01-08 02:32:20 (UTC) |
+| "english-classes-online-87411.bond" | [http://english-classes-online-87411.bond](https://www.criminalip.io/domain/report?scan_id=19106937) | Critical | N/A | 2025-01-08 02:33:20 (UTC) |
 
 ---
 

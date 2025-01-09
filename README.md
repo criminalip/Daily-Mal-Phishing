@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "fuel-fleet-cards-72535.bond" | [http://fuel-fleet-cards-72535.bond](https://www.criminalip.io/domain/report?scan_id=19106914) | Critical | US | 2025-01-08 02:31:28 (UTC) |
-| "early-childhood-education-71558.bond" | [http://early-childhood-education-71558.bond](https://www.criminalip.io/domain/report?scan_id=19106928) | Critical | US | 2025-01-08 02:32:20 (UTC) |
-| "english-classes-online-87411.bond" | [http://english-classes-online-87411.bond](https://www.criminalip.io/domain/report?scan_id=19106937) | Critical | N/A | 2025-01-08 02:33:20 (UTC) |
+| "N/A" | [http://pay.sber.yandex.nalozhka.yandex.pqid2b.4tkh7gccy7tjtrr.api.dota2t.com](https://www.criminalip.io/domain/report?scan_id=19167670) | Critical | US | 2025-01-09 02:30:46 (UTC) |
+| "nurse-jobs-in-us-32984.bond" | [http://nurse-jobs-in-us-32984.bond](https://www.criminalip.io/domain/report?scan_id=19167677) | Critical | US | 2025-01-09 02:31:27 (UTC) |
+| "apartments-for-sale-95870.bond" | [http://apartments-for-sale-95870.bond](https://www.criminalip.io/domain/report?scan_id=19167680) | Critical | US | 2025-01-09 02:32:18 (UTC) |
 
 ---
 

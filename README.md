@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "start-business-in-dubai-97713.bond" | [http://start-business-in-dubai-97713.bond](https://www.criminalip.io/domain/report?scan_id=19238408) | Critical | US | 2025-01-10 02:30:54 (UTC) |
-| "usps.com-renewbag.top" | [http://usps.com-renewbag.top](https://www.criminalip.io/domain/report?scan_id=19238415) | Critical | N/A | 2025-01-10 02:31:40 (UTC) |
-| "Netflix" | [http://netflix-account-support.info](https://www.criminalip.io/domain/report?scan_id=19238421) | Critical | IR | 2025-01-10 02:32:26 (UTC) |
+| "Domain registered on behalf of our client by domains.co.za" | [http://handsonbody.africa](https://www.criminalip.io/domain/report?scan_id=19283732) | Critical | ZA | 2025-01-11 02:31:12 (UTC) |
+| "Home Page - vfx-montreal.com" | [http://vfxmtl.com](https://www.criminalip.io/domain/report?scan_id=19283736) | Critical | CA | 2025-01-11 02:31:51 (UTC) |
+| "coinbase login" | [http://coinbaselogindesk.blogspot.sn](https://www.criminalip.io/domain/report?scan_id=19283749) | Critical | US | 2025-01-11 02:33:51 (UTC) |
 
 ---
 

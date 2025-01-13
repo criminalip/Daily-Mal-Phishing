@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "海外频道_央视网(cctv.com)" | [http://page01.642531.xyz](https://www.criminalip.io/domain/report?scan_id=19326901) | Critical | N/A | 2025-01-12 02:31:29 (UTC) |
-| "www.www.www.static.en.cpanel.ftp.owa.p580fhbl.com" | [http://www.www.www.static.en.cpanel.ftp.owa.p580fhbl.com](https://www.criminalip.io/domain/report?scan_id=19326972) | Critical | HK | 2025-01-12 02:32:39 (UTC) |
-| "yqrnpfctd2b8.skin" | [http://shop.yqrnpfctd2b8.skin](https://www.criminalip.io/domain/report?scan_id=19326984) | Critical | US | 2025-01-12 02:33:23 (UTC) |
+| "koi55gg.xyz" | [http://koi55gg.xyz](https://www.criminalip.io/domain/report?scan_id=19371255) | Critical | US | 2025-01-13 02:31:34 (UTC) |
+| "id197gnl.cc" | [http://yandex.nalozhka.id197gnl.cc](https://www.criminalip.io/domain/report?scan_id=19371677) | Critical | US | 2025-01-13 02:34:11 (UTC) |
+| "StrongShop 商城 - 免费开源的跨境电商网站" | [http://nimeishiba7.asia](https://www.criminalip.io/domain/report?scan_id=19371705) | Critical | HK | 2025-01-13 02:36:45 (UTC) |
 
 ---
 

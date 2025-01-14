@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "koi55gg.xyz" | [http://koi55gg.xyz](https://www.criminalip.io/domain/report?scan_id=19371255) | Critical | US | 2025-01-13 02:31:34 (UTC) |
-| "id197gnl.cc" | [http://yandex.nalozhka.id197gnl.cc](https://www.criminalip.io/domain/report?scan_id=19371677) | Critical | US | 2025-01-13 02:34:11 (UTC) |
-| "StrongShop 商城 - 免费开源的跨境电商网站" | [http://nimeishiba7.asia](https://www.criminalip.io/domain/report?scan_id=19371705) | Critical | HK | 2025-01-13 02:36:45 (UTC) |
+| "app-software-development-training-49419.bond" | [http://app-software-development-training-49419.bond](https://www.criminalip.io/domain/report?scan_id=19419249) | Critical | IE | 2025-01-14 02:30:41 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://chapminn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=19419260) | Critical | US | 2025-01-14 02:31:19 (UTC) |
+| "403 Forbidden" | [http://jk.301tz176.top](https://www.criminalip.io/domain/report?scan_id=19419276) | Critical | US | 2025-01-14 02:32:17 (UTC) |
 
 ---
 

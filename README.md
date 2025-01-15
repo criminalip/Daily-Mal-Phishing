@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "app-software-development-training-49419.bond" | [http://app-software-development-training-49419.bond](https://www.criminalip.io/domain/report?scan_id=19419249) | Critical | IE | 2025-01-14 02:30:41 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://chapminn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=19419260) | Critical | US | 2025-01-14 02:31:19 (UTC) |
-| "403 Forbidden" | [http://jk.301tz176.top](https://www.criminalip.io/domain/report?scan_id=19419276) | Critical | US | 2025-01-14 02:32:17 (UTC) |
+| "High Quality Home Essentials at Affordable Prices | Wolibeer Home Essentials" | [http://dajbvzmejk.shop](https://www.criminalip.io/domain/report?scan_id=19466839) | Critical | N/A | 2025-01-15 02:31:00 (UTC) |
+| "cyber-security-degree-90472.bond" | [http://cyber-security-degree-90472.bond](https://www.criminalip.io/domain/report?scan_id=19467033) | Critical | US | 2025-01-15 02:31:47 (UTC) |
+| "合肥花橘" | [http://hfshjxx.com](https://www.criminalip.io/domain/report?scan_id=19467088) | Critical | CN | 2025-01-15 02:32:37 (UTC) |
 
 ---
 

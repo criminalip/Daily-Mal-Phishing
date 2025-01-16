@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "High Quality Home Essentials at Affordable Prices | Wolibeer Home Essentials" | [http://dajbvzmejk.shop](https://www.criminalip.io/domain/report?scan_id=19466839) | Critical | N/A | 2025-01-15 02:31:00 (UTC) |
-| "cyber-security-degree-90472.bond" | [http://cyber-security-degree-90472.bond](https://www.criminalip.io/domain/report?scan_id=19467033) | Critical | US | 2025-01-15 02:31:47 (UTC) |
-| "合肥花橘" | [http://hfshjxx.com](https://www.criminalip.io/domain/report?scan_id=19467088) | Critical | CN | 2025-01-15 02:32:37 (UTC) |
+| "API Improvement Proposals" | [http://google.aip.dev](https://www.criminalip.io/domain/report?scan_id=19520259) | Critical | US | 2025-01-16 02:30:34 (UTC) |
+| "wpiq5m.us - wpiq5m 자료와 정보" | [http://wpiq5m.us](https://www.criminalip.io/domain/report?scan_id=19520266) | Critical | DE | 2025-01-16 02:31:25 (UTC) |
+| "Gameplay tips – revolutionize user-centric supply-chains" | [http://vothftiw.quest](https://www.criminalip.io/domain/report?scan_id=19520276) | Critical | N/A | 2025-01-16 02:32:17 (UTC) |
 
 ---
 

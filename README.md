@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "API Improvement Proposals" | [http://google.aip.dev](https://www.criminalip.io/domain/report?scan_id=19520259) | Critical | US | 2025-01-16 02:30:34 (UTC) |
-| "wpiq5m.us - wpiq5m 자료와 정보" | [http://wpiq5m.us](https://www.criminalip.io/domain/report?scan_id=19520266) | Critical | DE | 2025-01-16 02:31:25 (UTC) |
-| "Gameplay tips – revolutionize user-centric supply-chains" | [http://vothftiw.quest](https://www.criminalip.io/domain/report?scan_id=19520276) | Critical | N/A | 2025-01-16 02:32:17 (UTC) |
+| "wyqyfw.cn" | [http://www.jieihf.wyqyfw.cn](https://www.criminalip.io/domain/report?scan_id=19572963) | Critical | US | 2025-01-17 02:30:50 (UTC) |
+| "ers3zu.us - ers3zu 자료와 정보" | [http://ers3zu.us](https://www.criminalip.io/domain/report?scan_id=19572977) | Critical | DE | 2025-01-17 02:31:57 (UTC) |
+| "Not Found" | [http://goog1e.news](https://www.criminalip.io/domain/report?scan_id=19572980) | Critical | KR | 2025-01-17 02:32:39 (UTC) |
 
 ---
 

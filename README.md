@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "wyqyfw.cn" | [http://www.jieihf.wyqyfw.cn](https://www.criminalip.io/domain/report?scan_id=19572963) | Critical | US | 2025-01-17 02:30:50 (UTC) |
-| "ers3zu.us - ers3zu 자료와 정보" | [http://ers3zu.us](https://www.criminalip.io/domain/report?scan_id=19572977) | Critical | DE | 2025-01-17 02:31:57 (UTC) |
-| "Not Found" | [http://goog1e.news](https://www.criminalip.io/domain/report?scan_id=19572980) | Critical | KR | 2025-01-17 02:32:39 (UTC) |
+| "N/A" | [http://iunjeapq.com](https://www.criminalip.io/domain/report?scan_id=19621357) | Critical | JP | 2025-01-18 02:30:36 (UTC) |
+| "404 Not Found" | [http://wwwwww.forums.support.mobile.google.domainkey.europalegal.es](https://www.criminalip.io/domain/report?scan_id=19621366) | Critical | US | 2025-01-18 02:31:38 (UTC) |
+| "Site not found · GitHub Pages" | [http://riddhi2108.github.io](https://www.criminalip.io/domain/report?scan_id=19621388) | Low | US | 2025-01-18 02:33:26 (UTC) |
 
 ---
 

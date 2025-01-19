@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://iunjeapq.com](https://www.criminalip.io/domain/report?scan_id=19621357) | Critical | JP | 2025-01-18 02:30:36 (UTC) |
-| "404 Not Found" | [http://wwwwww.forums.support.mobile.google.domainkey.europalegal.es](https://www.criminalip.io/domain/report?scan_id=19621366) | Critical | US | 2025-01-18 02:31:38 (UTC) |
-| "Site not found · GitHub Pages" | [http://riddhi2108.github.io](https://www.criminalip.io/domain/report?scan_id=19621388) | Low | US | 2025-01-18 02:33:26 (UTC) |
+| "apartments-for-sale-11541.bond" | [http://apartments-for-sale-11541.bond](https://www.criminalip.io/domain/report?scan_id=19668250) | Critical | US | 2025-01-19 02:31:02 (UTC) |
+| "dentist-dental-care-66332.bond" | [http://dentist-dental-care-66332.bond](https://www.criminalip.io/domain/report?scan_id=19668253) | Critical | US | 2025-01-19 02:31:42 (UTC) |
+| "sinus-infection-treatment-25693.bond" | [http://sinus-infection-treatment-25693.bond](https://www.criminalip.io/domain/report?scan_id=19668255) | Critical | US | 2025-01-19 02:32:25 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "apartments-for-sale-11541.bond" | [http://apartments-for-sale-11541.bond](https://www.criminalip.io/domain/report?scan_id=19668250) | Critical | US | 2025-01-19 02:31:02 (UTC) |
-| "dentist-dental-care-66332.bond" | [http://dentist-dental-care-66332.bond](https://www.criminalip.io/domain/report?scan_id=19668253) | Critical | US | 2025-01-19 02:31:42 (UTC) |
-| "sinus-infection-treatment-25693.bond" | [http://sinus-infection-treatment-25693.bond](https://www.criminalip.io/domain/report?scan_id=19668255) | Critical | US | 2025-01-19 02:32:25 (UTC) |
+| "online-digital-marketing-58771.bond" | [http://online-digital-marketing-58771.bond](https://www.criminalip.io/domain/report?scan_id=19715574) | Critical | US | 2025-01-20 02:30:42 (UTC) |
+| "construction-job-mx-grey.click" | [http://construction-job-mx-grey.click](https://www.criminalip.io/domain/report?scan_id=19715593) | Critical | US | 2025-01-20 02:32:03 (UTC) |
+| "Socialbook" | [http://socialbook-frontend.vercel.app](https://www.criminalip.io/domain/report?scan_id=19715600) | Critical | US | 2025-01-20 02:33:01 (UTC) |
 
 ---
 

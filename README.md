@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "online-digital-marketing-58771.bond" | [http://online-digital-marketing-58771.bond](https://www.criminalip.io/domain/report?scan_id=19715574) | Critical | US | 2025-01-20 02:30:42 (UTC) |
-| "construction-job-mx-grey.click" | [http://construction-job-mx-grey.click](https://www.criminalip.io/domain/report?scan_id=19715593) | Critical | US | 2025-01-20 02:32:03 (UTC) |
-| "Socialbook" | [http://socialbook-frontend.vercel.app](https://www.criminalip.io/domain/report?scan_id=19715600) | Critical | US | 2025-01-20 02:33:01 (UTC) |
+| "The Success Club for You! – Build a success life filled with health, wealth and happiness!" | [http://success4u.club](https://www.criminalip.io/domain/report?scan_id=19762552) | Critical | US | 2025-01-21 02:30:54 (UTC) |
+| "Not Found" | [http://x-boron.click](https://www.criminalip.io/domain/report?scan_id=19762856) | Critical | TR | 2025-01-21 02:36:27 (UTC) |
+| "Amy Van Wyk - Design Portfolio" | [http://amyvwyk.com](https://www.criminalip.io/domain/report?scan_id=19762863) | Critical | US | 2025-01-21 02:37:29 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "sales-leads-management-59113.bond" | [http://sales-leads-management-59113.bond](https://www.criminalip.io/domain/report?scan_id=19814504) | Critical | IE | 2025-01-22 02:31:59 (UTC) |
-| "solar-systems-panels-53756.bond" | [http://solar-systems-panels-53756.bond](https://www.criminalip.io/domain/report?scan_id=19814529) | Critical | US | 2025-01-22 02:35:40 (UTC) |
-| "apartments-for-rent-25313.bond" | [http://apartments-for-rent-25313.bond](https://www.criminalip.io/domain/report?scan_id=19814540) | Critical | US | 2025-01-22 02:36:53 (UTC) |
+| "Telegram" | [http://clash-cn.top](https://www.criminalip.io/domain/report?scan_id=19904427) | Critical | N/A | 2025-01-23 09:41:14 (UTC) |
+| "Index of /" | [http://inoyapi.com](https://www.criminalip.io/domain/report?scan_id=19904520) | Critical | TR | 2025-01-23 09:46:06 (UTC) |
+| "Host - Hosting sicuro e professionale dedicato alle imprese" | [http://wallettsecureamz.sviluppo.host](https://www.criminalip.io/domain/report?scan_id=19904686) | Critical | IT | 2025-01-23 09:52:12 (UTC) |
 
 ---
 

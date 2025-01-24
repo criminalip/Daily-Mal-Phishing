@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Telegram" | [http://clash-cn.top](https://www.criminalip.io/domain/report?scan_id=19904427) | Critical | N/A | 2025-01-23 09:41:14 (UTC) |
-| "Index of /" | [http://inoyapi.com](https://www.criminalip.io/domain/report?scan_id=19904520) | Critical | TR | 2025-01-23 09:46:06 (UTC) |
-| "Host - Hosting sicuro e professionale dedicato alle imprese" | [http://wallettsecureamz.sviluppo.host](https://www.criminalip.io/domain/report?scan_id=19904686) | Critical | IT | 2025-01-23 09:52:12 (UTC) |
+| "403 Forbidden" | [http://teiegrnu.cc](https://www.criminalip.io/domain/report?scan_id=19937206) | Critical | US | 2025-01-24 02:30:46 (UTC) |
+| "Starxn - 荧主机" | [http://shtcsba.asia](https://www.criminalip.io/domain/report?scan_id=19937216) | Critical | HK | 2025-01-24 02:31:31 (UTC) |
+| "Сайт надёжно припаркован и ожидает открытия" | [http://joycity.art](https://www.criminalip.io/domain/report?scan_id=19937231) | Critical | RU | 2025-01-24 02:32:49 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://teiegrnu.cc](https://www.criminalip.io/domain/report?scan_id=19937206) | Critical | US | 2025-01-24 02:30:46 (UTC) |
-| "Starxn - 荧主机" | [http://shtcsba.asia](https://www.criminalip.io/domain/report?scan_id=19937216) | Critical | HK | 2025-01-24 02:31:31 (UTC) |
-| "Сайт надёжно припаркован и ожидает открытия" | [http://joycity.art](https://www.criminalip.io/domain/report?scan_id=19937231) | Critical | RU | 2025-01-24 02:32:49 (UTC) |
+| "DOMBA138 ! Panduan Sukses Bermain Slot, Gacor Tanpa Ribet" | [http://mitravat.info](https://www.criminalip.io/domain/report?scan_id=20276416) | Critical | N/A | 2025-01-31 02:30:58 (UTC) |
+| "Official_Services#0x2d076e" | [http://awesome-brown-867998.netlify.app](https://www.criminalip.io/domain/report?scan_id=20276438) | Low | SG | 2025-01-31 02:32:30 (UTC) |
+| "403 Forbidden" | [http://walkley.asia](https://www.criminalip.io/domain/report?scan_id=20276444) | Critical | N/A | 2025-01-31 02:33:16 (UTC) |
 
 ---
 

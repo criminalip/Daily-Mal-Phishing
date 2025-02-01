@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "DOMBA138 ! Panduan Sukses Bermain Slot, Gacor Tanpa Ribet" | [http://mitravat.info](https://www.criminalip.io/domain/report?scan_id=20276416) | Critical | N/A | 2025-01-31 02:30:58 (UTC) |
-| "Official_Services#0x2d076e" | [http://awesome-brown-867998.netlify.app](https://www.criminalip.io/domain/report?scan_id=20276438) | Low | SG | 2025-01-31 02:32:30 (UTC) |
-| "403 Forbidden" | [http://walkley.asia](https://www.criminalip.io/domain/report?scan_id=20276444) | Critical | N/A | 2025-01-31 02:33:16 (UTC) |
+| "Vertrauenswerk" | [http://vertrauenswerk.info](https://www.criminalip.io/domain/report?scan_id=20317792) | Critical | DE | 2025-02-01 02:32:52 (UTC) |
+| "water-heater-boiler-72217.bond" | [http://water-heater-boiler-72217.bond](https://www.criminalip.io/domain/report?scan_id=20317810) | Critical | US | 2025-02-01 02:33:44 (UTC) |
+| "N/A" | [http://fr-relais.info](https://www.criminalip.io/domain/report?scan_id=20317814) | Critical | MU | 2025-02-01 02:34:48 (UTC) |
 
 ---
 

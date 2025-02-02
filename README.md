@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Vertrauenswerk" | [http://vertrauenswerk.info](https://www.criminalip.io/domain/report?scan_id=20317792) | Critical | DE | 2025-02-01 02:32:52 (UTC) |
-| "water-heater-boiler-72217.bond" | [http://water-heater-boiler-72217.bond](https://www.criminalip.io/domain/report?scan_id=20317810) | Critical | US | 2025-02-01 02:33:44 (UTC) |
-| "N/A" | [http://fr-relais.info](https://www.criminalip.io/domain/report?scan_id=20317814) | Critical | MU | 2025-02-01 02:34:48 (UTC) |
+| "Telegram" | [http://jsoxwtnvbpq.ink](https://www.criminalip.io/domain/report?scan_id=20361452) | Critical | N/A | 2025-02-02 02:31:41 (UTC) |
+| "6wntxn.website | 525: SSL handshake failed" | [http://6wntxn.website](https://www.criminalip.io/domain/report?scan_id=20361484) | Critical | N/A | 2025-02-02 02:34:20 (UTC) |
+| "Website api-protect.ru is ready. The content is to be added" | [http://alfabank.object4774.ru](https://www.criminalip.io/domain/report?scan_id=20361488) | Critical | HK | 2025-02-02 02:35:00 (UTC) |
 
 ---
 

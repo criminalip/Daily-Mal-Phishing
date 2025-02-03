@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Telegram" | [http://jsoxwtnvbpq.ink](https://www.criminalip.io/domain/report?scan_id=20361452) | Critical | N/A | 2025-02-02 02:31:41 (UTC) |
-| "6wntxn.website | 525: SSL handshake failed" | [http://6wntxn.website](https://www.criminalip.io/domain/report?scan_id=20361484) | Critical | N/A | 2025-02-02 02:34:20 (UTC) |
-| "Website api-protect.ru is ready. The content is to be added" | [http://alfabank.object4774.ru](https://www.criminalip.io/domain/report?scan_id=20361488) | Critical | HK | 2025-02-02 02:35:00 (UTC) |
+| "food-processing-jobs-69925.bond" | [http://food-processing-jobs-69925.bond](https://www.criminalip.io/domain/report?scan_id=20401264) | Critical | US | 2025-02-03 02:31:04 (UTC) |
+| "english-classes-online-79630.bond" | [http://english-classes-online-79630.bond](https://www.criminalip.io/domain/report?scan_id=20401275) | Critical | US | 2025-02-03 02:32:34 (UTC) |
+| "app-software-development-training-41906.bond" | [http://app-software-development-training-41906.bond](https://www.criminalip.io/domain/report?scan_id=20401284) | Critical | US | 2025-02-03 02:33:25 (UTC) |
 
 ---
 

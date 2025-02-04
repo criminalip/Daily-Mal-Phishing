@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "food-processing-jobs-69925.bond" | [http://food-processing-jobs-69925.bond](https://www.criminalip.io/domain/report?scan_id=20401264) | Critical | US | 2025-02-03 02:31:04 (UTC) |
-| "english-classes-online-79630.bond" | [http://english-classes-online-79630.bond](https://www.criminalip.io/domain/report?scan_id=20401275) | Critical | US | 2025-02-03 02:32:34 (UTC) |
-| "app-software-development-training-41906.bond" | [http://app-software-development-training-41906.bond](https://www.criminalip.io/domain/report?scan_id=20401284) | Critical | US | 2025-02-03 02:33:25 (UTC) |
+| "Coming Soon" | [http://the-riley-roo-way.net](https://www.criminalip.io/domain/report?scan_id=20447137) | Critical | US | 2025-02-04 02:30:46 (UTC) |
+| "truck-driver-jobs-53923.bond" | [http://truck-driver-jobs-53923.bond](https://www.criminalip.io/domain/report?scan_id=20447140) | Critical | US | 2025-02-04 02:31:43 (UTC) |
+| "window-replacement-jobs-17489.bond" | [http://window-replacement-jobs-17489.bond](https://www.criminalip.io/domain/report?scan_id=20447233) | Critical | US | 2025-02-04 02:33:07 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Coming Soon" | [http://the-riley-roo-way.net](https://www.criminalip.io/domain/report?scan_id=20447137) | Critical | US | 2025-02-04 02:30:46 (UTC) |
-| "truck-driver-jobs-53923.bond" | [http://truck-driver-jobs-53923.bond](https://www.criminalip.io/domain/report?scan_id=20447140) | Critical | US | 2025-02-04 02:31:43 (UTC) |
-| "window-replacement-jobs-17489.bond" | [http://window-replacement-jobs-17489.bond](https://www.criminalip.io/domain/report?scan_id=20447233) | Critical | US | 2025-02-04 02:33:07 (UTC) |
+| "Риэлтор с обязательствами" | [http://priocompany.online](https://www.criminalip.io/domain/report?scan_id=20496557) | Critical | RU | 2025-02-05 02:32:36 (UTC) |
+| "Официально купите права в России или другом регионе РФ с оплатой при получении!" | [http://prava-onlinevmig.online](https://www.criminalip.io/domain/report?scan_id=20496571) | Critical | N/A | 2025-02-05 02:33:31 (UTC) |
+| "LockboxProps" | [http://lockboxprops.online](https://www.criminalip.io/domain/report?scan_id=20496602) | Critical | US | 2025-02-05 02:35:33 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Риэлтор с обязательствами" | [http://priocompany.online](https://www.criminalip.io/domain/report?scan_id=20496557) | Critical | RU | 2025-02-05 02:32:36 (UTC) |
-| "Официально купите права в России или другом регионе РФ с оплатой при получении!" | [http://prava-onlinevmig.online](https://www.criminalip.io/domain/report?scan_id=20496571) | Critical | N/A | 2025-02-05 02:33:31 (UTC) |
-| "LockboxProps" | [http://lockboxprops.online](https://www.criminalip.io/domain/report?scan_id=20496602) | Critical | US | 2025-02-05 02:35:33 (UTC) |
+| "www.youla.yandex.pochta.qiqsjp6id65v44ib.demo.aaa.betb8829.com" | [http://www.youla.yandex.pochta.qiqsjp6id65v44ib.demo.aaa.betb8829.com](https://www.criminalip.io/domain/report?scan_id=20560560) | Critical | HK | 2025-02-06 02:31:55 (UTC) |
+| "N/A" | [http://808039.asia](https://www.criminalip.io/domain/report?scan_id=20560748) | Critical | US | 2025-02-06 02:36:26 (UTC) |
+| "www4.your-server.de" | [http://anzeigetafel.app](https://www.criminalip.io/domain/report?scan_id=20560761) | Critical | DE | 2025-02-06 02:37:35 (UTC) |
 
 ---
 

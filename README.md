@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "www.youla.yandex.pochta.qiqsjp6id65v44ib.demo.aaa.betb8829.com" | [http://www.youla.yandex.pochta.qiqsjp6id65v44ib.demo.aaa.betb8829.com](https://www.criminalip.io/domain/report?scan_id=20560560) | Critical | HK | 2025-02-06 02:31:55 (UTC) |
-| "N/A" | [http://808039.asia](https://www.criminalip.io/domain/report?scan_id=20560748) | Critical | US | 2025-02-06 02:36:26 (UTC) |
-| "www4.your-server.de" | [http://anzeigetafel.app](https://www.criminalip.io/domain/report?scan_id=20560761) | Critical | DE | 2025-02-06 02:37:35 (UTC) |
+| "Smart Investor" | [http://beamlight.biz](https://www.criminalip.io/domain/report?scan_id=20615966) | Critical | IE | 2025-02-07 02:32:33 (UTC) |
+| "Secure your redirect with an SSL certificate at DomainIT" | [http://hillcountry.photography](https://www.criminalip.io/domain/report?scan_id=20616056) | Critical | US | 2025-02-07 02:37:26 (UTC) |
+| "SSL Error" | [http://b-lu.art](https://www.criminalip.io/domain/report?scan_id=20616198) | Critical | IT | 2025-02-07 02:41:06 (UTC) |
 
 ---
 

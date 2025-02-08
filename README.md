@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Smart Investor" | [http://beamlight.biz](https://www.criminalip.io/domain/report?scan_id=20615966) | Critical | IE | 2025-02-07 02:32:33 (UTC) |
-| "Secure your redirect with an SSL certificate at DomainIT" | [http://hillcountry.photography](https://www.criminalip.io/domain/report?scan_id=20616056) | Critical | US | 2025-02-07 02:37:26 (UTC) |
-| "SSL Error" | [http://b-lu.art](https://www.criminalip.io/domain/report?scan_id=20616198) | Critical | IT | 2025-02-07 02:41:06 (UTC) |
+| "crohns-disease-treatment-90794.bond" | [http://crohns-disease-treatment-90794.bond](https://www.criminalip.io/domain/report?scan_id=20670652) | Critical | US | 2025-02-08 02:30:42 (UTC) |
+| "登录 · FreshRSS" | [http://rss.tian051011.me](https://www.criminalip.io/domain/report?scan_id=20670666) | Critical | US | 2025-02-08 02:31:31 (UTC) |
+| "solar-systems-panels-35411.bond" | [http://solar-systems-panels-35411.bond](https://www.criminalip.io/domain/report?scan_id=20670702) | Critical | US | 2025-02-08 02:32:14 (UTC) |
 
 ---
 

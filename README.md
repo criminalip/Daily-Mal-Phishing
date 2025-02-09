@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "crohns-disease-treatment-90794.bond" | [http://crohns-disease-treatment-90794.bond](https://www.criminalip.io/domain/report?scan_id=20670652) | Critical | US | 2025-02-08 02:30:42 (UTC) |
-| "登录 · FreshRSS" | [http://rss.tian051011.me](https://www.criminalip.io/domain/report?scan_id=20670666) | Critical | US | 2025-02-08 02:31:31 (UTC) |
-| "solar-systems-panels-35411.bond" | [http://solar-systems-panels-35411.bond](https://www.criminalip.io/domain/report?scan_id=20670702) | Critical | US | 2025-02-08 02:32:14 (UTC) |
+| "域名未配置" | [http://auyew.africa](https://www.criminalip.io/domain/report?scan_id=20723415) | Critical | US | 2025-02-09 02:30:48 (UTC) |
+| "back-pain-treatment-36662.bond" | [http://back-pain-treatment-36662.bond](https://www.criminalip.io/domain/report?scan_id=20723430) | Critical | US | 2025-02-09 02:31:37 (UTC) |
+| "Spotify - Web Player: Music for everyone" | [http://ayushac234spotifyclone.freewebhostmost.com](https://www.criminalip.io/domain/report?scan_id=20727017) | Critical | IN | 2025-02-09 05:12:24 (UTC) |
 
 ---
 

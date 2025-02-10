@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "域名未配置" | [http://auyew.africa](https://www.criminalip.io/domain/report?scan_id=20723415) | Critical | US | 2025-02-09 02:30:48 (UTC) |
-| "back-pain-treatment-36662.bond" | [http://back-pain-treatment-36662.bond](https://www.criminalip.io/domain/report?scan_id=20723430) | Critical | US | 2025-02-09 02:31:37 (UTC) |
-| "Spotify - Web Player: Music for everyone" | [http://ayushac234spotifyclone.freewebhostmost.com](https://www.criminalip.io/domain/report?scan_id=20727017) | Critical | IN | 2025-02-09 05:12:24 (UTC) |
+| "nursing-caregiver-jobs-68140.bond" | [http://nursing-caregiver-jobs-68140.bond](https://www.criminalip.io/domain/report?scan_id=20775241) | Critical | US | 2025-02-10 02:31:19 (UTC) |
+| "truck-driver-jobs-42457.bond" | [http://truck-driver-jobs-42457.bond](https://www.criminalip.io/domain/report?scan_id=20775269) | Critical | US | 2025-02-10 02:32:12 (UTC) |
+| "app-software-development-training-41785.bond" | [http://app-software-development-training-41785.bond](https://www.criminalip.io/domain/report?scan_id=20775309) | Critical | US | 2025-02-10 02:34:50 (UTC) |
 
 ---
 

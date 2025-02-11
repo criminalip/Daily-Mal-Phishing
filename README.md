@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "nursing-caregiver-jobs-68140.bond" | [http://nursing-caregiver-jobs-68140.bond](https://www.criminalip.io/domain/report?scan_id=20775241) | Critical | US | 2025-02-10 02:31:19 (UTC) |
-| "truck-driver-jobs-42457.bond" | [http://truck-driver-jobs-42457.bond](https://www.criminalip.io/domain/report?scan_id=20775269) | Critical | US | 2025-02-10 02:32:12 (UTC) |
-| "app-software-development-training-41785.bond" | [http://app-software-development-training-41785.bond](https://www.criminalip.io/domain/report?scan_id=20775309) | Critical | US | 2025-02-10 02:34:50 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://learnprayermember.wixsite.com](https://www.criminalip.io/domain/report?scan_id=20828484) | Critical | US | 2025-02-11 02:30:39 (UTC) |
+| "Wikipedia, die freie Enzyklopädie" | [http://meine-deutsche-bank.info-tan-app.link](https://www.criminalip.io/domain/report?scan_id=20828533) | Critical | NL | 2025-02-11 02:34:16 (UTC) |
+| "truck-driver-training-38268.bond" | [http://truck-driver-training-38268.bond](https://www.criminalip.io/domain/report?scan_id=20828549) | Critical | US | 2025-02-11 02:35:45 (UTC) |
 
 ---
 

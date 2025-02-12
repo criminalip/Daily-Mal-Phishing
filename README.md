@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix.com" | [http://learnprayermember.wixsite.com](https://www.criminalip.io/domain/report?scan_id=20828484) | Critical | US | 2025-02-11 02:30:39 (UTC) |
-| "Wikipedia, die freie Enzyklopädie" | [http://meine-deutsche-bank.info-tan-app.link](https://www.criminalip.io/domain/report?scan_id=20828533) | Critical | NL | 2025-02-11 02:34:16 (UTC) |
-| "truck-driver-training-38268.bond" | [http://truck-driver-training-38268.bond](https://www.criminalip.io/domain/report?scan_id=20828549) | Critical | US | 2025-02-11 02:35:45 (UTC) |
+| "food-packing-job-97303.bond" | [http://food-packing-job-97303.bond](https://www.criminalip.io/domain/report?scan_id=20880428) | Critical | US | 2025-02-12 02:31:01 (UTC) |
+| "multiple-myeloma-treatment-70906.bond" | [http://multiple-myeloma-treatment-70906.bond](https://www.criminalip.io/domain/report?scan_id=20880445) | Critical | US | 2025-02-12 02:31:43 (UTC) |
+| "404: NOT_FOUND" | [http://dzxerg-23ll.vercel.app](https://www.criminalip.io/domain/report?scan_id=20880453) | Critical | US | 2025-02-12 02:32:14 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "food-packing-job-97303.bond" | [http://food-packing-job-97303.bond](https://www.criminalip.io/domain/report?scan_id=20880428) | Critical | US | 2025-02-12 02:31:01 (UTC) |
-| "multiple-myeloma-treatment-70906.bond" | [http://multiple-myeloma-treatment-70906.bond](https://www.criminalip.io/domain/report?scan_id=20880445) | Critical | US | 2025-02-12 02:31:43 (UTC) |
-| "404: NOT_FOUND" | [http://dzxerg-23ll.vercel.app](https://www.criminalip.io/domain/report?scan_id=20880453) | Critical | US | 2025-02-12 02:32:14 (UTC) |
+| "Default Web Site Page" | [http://sangattop299.click](https://www.criminalip.io/domain/report?scan_id=20934127) | Critical | AU | 2025-02-13 02:35:14 (UTC) |
+| "Site Not Found" | [http://thuaphatlai.cloud](https://www.criminalip.io/domain/report?scan_id=20934134) | Critical | US | 2025-02-13 02:35:46 (UTC) |
+| "solar-systems-panels-35307.bond" | [http://solar-systems-panels-35307.bond](https://www.criminalip.io/domain/report?scan_id=20934202) | Critical | US | 2025-02-13 02:40:55 (UTC) |
 
 ---
 

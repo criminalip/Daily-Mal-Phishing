@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "-" | [http://ruianxx.com](https://www.criminalip.io/domain/report?scan_id=20980426) | Critical | HK | 2025-02-14 02:36:59 (UTC) |
-| "403 Forbidden" | [http://blockblast.cloud](https://www.criminalip.io/domain/report?scan_id=20980441) | Critical | N/A | 2025-02-14 02:37:52 (UTC) |
-| "bathroom-renovation-sg-98.click" | [http://bathroom-renovation-sg-98.click](https://www.criminalip.io/domain/report?scan_id=20980462) | Critical | US | 2025-02-14 02:40:15 (UTC) |
+| "N/A" | [http://steamcommunity-game.com](https://www.criminalip.io/domain/report?scan_id=21029676) | Critical | N/A | 2025-02-15 02:31:46 (UTC) |
+| "Costa Magno - Official Art Store | Fine Art America" | [http://ondarmonica.art](https://www.criminalip.io/domain/report?scan_id=21029678) | Critical | US | 2025-02-15 02:32:57 (UTC) |
+| "all-inclusive-vacations-30191.bond" | [http://all-inclusive-vacations-30191.bond](https://www.criminalip.io/domain/report?scan_id=21029735) | Critical | US | 2025-02-15 02:37:49 (UTC) |
 
 ---
 

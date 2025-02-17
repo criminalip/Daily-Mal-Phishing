@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "cyber-security-degree-80784.bond" | [http://cyber-security-degree-80784.bond](https://www.criminalip.io/domain/report?scan_id=21077755) | Critical | US | 2025-02-16 02:30:42 (UTC) |
-| "digital-marketing-courses-16756.bond" | [http://digital-marketing-courses-16756.bond](https://www.criminalip.io/domain/report?scan_id=21077764) | Critical | US | 2025-02-16 02:31:43 (UTC) |
-| "remote-working-tools-90837.bond" | [http://remote-working-tools-90837.bond](https://www.criminalip.io/domain/report?scan_id=21077782) | Critical | US | 2025-02-16 02:32:31 (UTC) |
+| "adult-only-hotels-49999.bond" | [http://adult-only-hotels-49999.bond](https://www.criminalip.io/domain/report?scan_id=21126030) | Critical | US | 2025-02-17 02:30:56 (UTC) |
+| "app-software-development-training-86971.bond" | [http://app-software-development-training-86971.bond](https://www.criminalip.io/domain/report?scan_id=21126040) | Critical | US | 2025-02-17 02:32:13 (UTC) |
+| "local-food-packing-companies-2255.click" | [http://local-food-packing-companies-2255.click](https://www.criminalip.io/domain/report?scan_id=21126083) | Critical | US | 2025-02-17 02:34:30 (UTC) |
 
 ---
 

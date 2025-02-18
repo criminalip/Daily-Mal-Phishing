@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "adult-only-hotels-49999.bond" | [http://adult-only-hotels-49999.bond](https://www.criminalip.io/domain/report?scan_id=21126030) | Critical | US | 2025-02-17 02:30:56 (UTC) |
-| "app-software-development-training-86971.bond" | [http://app-software-development-training-86971.bond](https://www.criminalip.io/domain/report?scan_id=21126040) | Critical | US | 2025-02-17 02:32:13 (UTC) |
-| "local-food-packing-companies-2255.click" | [http://local-food-packing-companies-2255.click](https://www.criminalip.io/domain/report?scan_id=21126083) | Critical | US | 2025-02-17 02:34:30 (UTC) |
+| "Telegram Web" | [http://daili.dsyl.xyz](https://www.criminalip.io/domain/report?scan_id=21178933) | Critical | HK | 2025-02-18 02:35:24 (UTC) |
+| "阿乐分享 |" | [http://gongxua.asia](https://www.criminalip.io/domain/report?scan_id=21179010) | Critical | CN | 2025-02-18 02:39:41 (UTC) |
+| "oneFestival" | [http://onefestival.app](https://www.criminalip.io/domain/report?scan_id=21179141) | Critical | DE | 2025-02-18 02:48:33 (UTC) |
 
 ---
 

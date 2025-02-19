@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Telegram Web" | [http://daili.dsyl.xyz](https://www.criminalip.io/domain/report?scan_id=21178933) | Critical | HK | 2025-02-18 02:35:24 (UTC) |
-| "阿乐分享 |" | [http://gongxua.asia](https://www.criminalip.io/domain/report?scan_id=21179010) | Critical | CN | 2025-02-18 02:39:41 (UTC) |
-| "oneFestival" | [http://onefestival.app](https://www.criminalip.io/domain/report?scan_id=21179141) | Critical | DE | 2025-02-18 02:48:33 (UTC) |
+| "real-estate-investments-95919.bond" | [http://real-estate-investments-95919.bond](https://www.criminalip.io/domain/report?scan_id=21235432) | Critical | US | 2025-02-19 02:30:44 (UTC) |
+| "crohns-disease-treatment-27978.bond" | [http://crohns-disease-treatment-27978.bond](https://www.criminalip.io/domain/report?scan_id=21235578) | Critical | US | 2025-02-19 02:32:23 (UTC) |
+| "pinched-nerve-treatment-98205.bond" | [http://pinched-nerve-treatment-98205.bond](https://www.criminalip.io/domain/report?scan_id=21235618) | Critical | US | 2025-02-19 02:33:59 (UTC) |
 
 ---
 

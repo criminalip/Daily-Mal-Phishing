@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "real-estate-investments-95919.bond" | [http://real-estate-investments-95919.bond](https://www.criminalip.io/domain/report?scan_id=21235432) | Critical | US | 2025-02-19 02:30:44 (UTC) |
-| "crohns-disease-treatment-27978.bond" | [http://crohns-disease-treatment-27978.bond](https://www.criminalip.io/domain/report?scan_id=21235578) | Critical | US | 2025-02-19 02:32:23 (UTC) |
-| "pinched-nerve-treatment-98205.bond" | [http://pinched-nerve-treatment-98205.bond](https://www.criminalip.io/domain/report?scan_id=21235618) | Critical | US | 2025-02-19 02:33:59 (UTC) |
+| "The Flex Club" | [http://theflex.club](https://www.criminalip.io/domain/report?scan_id=21292612) | Critical | US | 2025-02-20 02:32:34 (UTC) |
+| "braces-dental-splints-10482.bond" | [http://braces-dental-splints-10482.bond](https://www.criminalip.io/domain/report?scan_id=21292633) | Critical | US | 2025-02-20 02:33:44 (UTC) |
+| "九游会|(中国)备用网址" | [http://zizaitongda.com](https://www.criminalip.io/domain/report?scan_id=21292647) | Critical | US | 2025-02-20 02:35:04 (UTC) |
 
 ---
 

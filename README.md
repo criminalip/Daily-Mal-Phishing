@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "The Flex Club" | [http://theflex.club](https://www.criminalip.io/domain/report?scan_id=21292612) | Critical | US | 2025-02-20 02:32:34 (UTC) |
-| "braces-dental-splints-10482.bond" | [http://braces-dental-splints-10482.bond](https://www.criminalip.io/domain/report?scan_id=21292633) | Critical | US | 2025-02-20 02:33:44 (UTC) |
-| "九游会|(中国)备用网址" | [http://zizaitongda.com](https://www.criminalip.io/domain/report?scan_id=21292647) | Critical | US | 2025-02-20 02:35:04 (UTC) |
+| "truck-driver-jobs-38149.bond" | [http://truck-driver-jobs-38149.bond](https://www.criminalip.io/domain/report?scan_id=21349451) | Critical | US | 2025-02-21 02:32:48 (UTC) |
+| "truck-driver-jobs-89878.bond" | [http://truck-driver-jobs-89878.bond](https://www.criminalip.io/domain/report?scan_id=21349462) | Critical | US | 2025-02-21 02:33:45 (UTC) |
+| "SSL Error" | [http://system-ai.art](https://www.criminalip.io/domain/report?scan_id=21349523) | Critical | IT | 2025-02-21 02:40:02 (UTC) |
 
 ---
 

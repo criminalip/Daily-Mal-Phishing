@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "truck-driver-jobs-38149.bond" | [http://truck-driver-jobs-38149.bond](https://www.criminalip.io/domain/report?scan_id=21349451) | Critical | US | 2025-02-21 02:32:48 (UTC) |
-| "truck-driver-jobs-89878.bond" | [http://truck-driver-jobs-89878.bond](https://www.criminalip.io/domain/report?scan_id=21349462) | Critical | US | 2025-02-21 02:33:45 (UTC) |
-| "SSL Error" | [http://system-ai.art](https://www.criminalip.io/domain/report?scan_id=21349523) | Critical | IT | 2025-02-21 02:40:02 (UTC) |
+| "N/A" | [http://daybyday365.art](https://www.criminalip.io/domain/report?scan_id=21403999) | Critical | US | 2025-02-22 02:31:00 (UTC) |
+| "ezdrivema.com-xiifab.vip" | [http://ezdrivema.com-xiifab.vip](https://www.criminalip.io/domain/report?scan_id=21404301) | Critical | US | 2025-02-22 02:32:45 (UTC) |
+| "ezdrivema.com-xaxbz.vip" | [http://ezdrivema.com-xaxbz.vip](https://www.criminalip.io/domain/report?scan_id=21404313) | Critical | US | 2025-02-22 02:33:48 (UTC) |
 
 ---
 

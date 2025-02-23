@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://daybyday365.art](https://www.criminalip.io/domain/report?scan_id=21403999) | Critical | US | 2025-02-22 02:31:00 (UTC) |
-| "ezdrivema.com-xiifab.vip" | [http://ezdrivema.com-xiifab.vip](https://www.criminalip.io/domain/report?scan_id=21404301) | Critical | US | 2025-02-22 02:32:45 (UTC) |
-| "ezdrivema.com-xaxbz.vip" | [http://ezdrivema.com-xaxbz.vip](https://www.criminalip.io/domain/report?scan_id=21404313) | Critical | US | 2025-02-22 02:33:48 (UTC) |
+| "Robot Challenge Screen" | [http://astelari.pekxel.com](https://www.criminalip.io/domain/report?scan_id=21450954) | Critical | US | 2025-02-23 02:31:38 (UTC) |
+| "SEX5欢迎你！" | [http://z9599a.com](https://www.criminalip.io/domain/report?scan_id=21450967) | Critical | N/A | 2025-02-23 02:32:26 (UTC) |
+| "dentist-dental-care-70063.bond" | [http://dentist-dental-care-70063.bond](https://www.criminalip.io/domain/report?scan_id=21451009) | Critical | US | 2025-02-23 02:36:25 (UTC) |
 
 ---
 

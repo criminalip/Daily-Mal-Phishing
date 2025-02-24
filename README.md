@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Robot Challenge Screen" | [http://astelari.pekxel.com](https://www.criminalip.io/domain/report?scan_id=21450954) | Critical | US | 2025-02-23 02:31:38 (UTC) |
-| "SEX5欢迎你！" | [http://z9599a.com](https://www.criminalip.io/domain/report?scan_id=21450967) | Critical | N/A | 2025-02-23 02:32:26 (UTC) |
-| "dentist-dental-care-70063.bond" | [http://dentist-dental-care-70063.bond](https://www.criminalip.io/domain/report?scan_id=21451009) | Critical | US | 2025-02-23 02:36:25 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://netflixmonthfree.blogspot.co.il](https://www.criminalip.io/domain/report?scan_id=21500678) | Critical | US | 2025-02-24 02:31:22 (UTC) |
+| "N/A" | [http://ads-setting-id100446688.vercel.app](https://www.criminalip.io/domain/report?scan_id=21500851) | Critical | US | 2025-02-24 02:33:53 (UTC) |
+| "Site not found · GitHub Pages" | [http://vighneshsoudu19.github.io](https://www.criminalip.io/domain/report?scan_id=21501351) | Low | US | 2025-02-24 02:34:54 (UTC) |
 
 ---
 

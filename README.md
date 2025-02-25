@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://netflixmonthfree.blogspot.co.il](https://www.criminalip.io/domain/report?scan_id=21500678) | Critical | US | 2025-02-24 02:31:22 (UTC) |
-| "N/A" | [http://ads-setting-id100446688.vercel.app](https://www.criminalip.io/domain/report?scan_id=21500851) | Critical | US | 2025-02-24 02:33:53 (UTC) |
-| "Site not found · GitHub Pages" | [http://vighneshsoudu19.github.io](https://www.criminalip.io/domain/report?scan_id=21501351) | Low | US | 2025-02-24 02:34:54 (UTC) |
+| "403 Forbidden" | [http://fantix.asia](https://www.criminalip.io/domain/report?scan_id=21556735) | Critical | US | 2025-02-25 02:31:50 (UTC) |
+| "Site not found · GitHub Pages" | [http://shagunsaxena.github.io](https://www.criminalip.io/domain/report?scan_id=21557490) | Low | US | 2025-02-25 02:32:59 (UTC) |
+| "th890.club" | [http://th890.club](https://www.criminalip.io/domain/report?scan_id=21558178) | Critical | JP | 2025-02-25 02:35:33 (UTC) |
 
 ---
 

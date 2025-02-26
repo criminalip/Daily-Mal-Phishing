@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://fantix.asia](https://www.criminalip.io/domain/report?scan_id=21556735) | Critical | US | 2025-02-25 02:31:50 (UTC) |
-| "Site not found · GitHub Pages" | [http://shagunsaxena.github.io](https://www.criminalip.io/domain/report?scan_id=21557490) | Low | US | 2025-02-25 02:32:59 (UTC) |
-| "th890.club" | [http://th890.club](https://www.criminalip.io/domain/report?scan_id=21558178) | Critical | JP | 2025-02-25 02:35:33 (UTC) |
+| "study-in-usa-99352.bond" | [http://study-in-usa-99352.bond](https://www.criminalip.io/domain/report?scan_id=21612019) | Critical | US | 2025-02-26 02:30:43 (UTC) |
+| "online-courses-classes-86776.bond" | [http://online-courses-classes-86776.bond](https://www.criminalip.io/domain/report?scan_id=21612031) | Critical | US | 2025-02-26 02:31:47 (UTC) |
+| "matchmaking-marriage-matching-10524.bond" | [http://matchmaking-marriage-matching-10524.bond](https://www.criminalip.io/domain/report?scan_id=21612036) | Critical | US | 2025-02-26 02:32:46 (UTC) |
 
 ---
 

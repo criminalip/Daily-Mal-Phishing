@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "study-in-usa-99352.bond" | [http://study-in-usa-99352.bond](https://www.criminalip.io/domain/report?scan_id=21612019) | Critical | US | 2025-02-26 02:30:43 (UTC) |
-| "online-courses-classes-86776.bond" | [http://online-courses-classes-86776.bond](https://www.criminalip.io/domain/report?scan_id=21612031) | Critical | US | 2025-02-26 02:31:47 (UTC) |
-| "matchmaking-marriage-matching-10524.bond" | [http://matchmaking-marriage-matching-10524.bond](https://www.criminalip.io/domain/report?scan_id=21612036) | Critical | US | 2025-02-26 02:32:46 (UTC) |
+| "local-cleaning-company-near-me-2222.click" | [http://local-cleaning-company-near-me-2222.click](https://www.criminalip.io/domain/report?scan_id=21670089) | Critical | US | 2025-02-27 02:33:55 (UTC) |
+| "lovestruck.club" | [http://lovestruck.club](https://www.criminalip.io/domain/report?scan_id=21670175) | Critical | US | 2025-02-27 02:36:19 (UTC) |
+| "superplus สล็อต: ประสบการณ์เล่นที่ไม่เหมือนใคร" | [http://superplus.club](https://www.criminalip.io/domain/report?scan_id=21670187) | Critical | N/A | 2025-02-27 02:37:36 (UTC) |
 
 ---
 

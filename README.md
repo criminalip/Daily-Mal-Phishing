@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "local-cleaning-company-near-me-2222.click" | [http://local-cleaning-company-near-me-2222.click](https://www.criminalip.io/domain/report?scan_id=21670089) | Critical | US | 2025-02-27 02:33:55 (UTC) |
-| "lovestruck.club" | [http://lovestruck.club](https://www.criminalip.io/domain/report?scan_id=21670175) | Critical | US | 2025-02-27 02:36:19 (UTC) |
-| "superplus สล็อต: ประสบการณ์เล่นที่ไม่เหมือนใคร" | [http://superplus.club](https://www.criminalip.io/domain/report?scan_id=21670187) | Critical | N/A | 2025-02-27 02:37:36 (UTC) |
+| "404 Not Found" | [http://manicdisorder.com](https://www.criminalip.io/domain/report?scan_id=21726979) | Critical | DK | 2025-02-28 02:32:56 (UTC) |
+| "SSL Error" | [http://trashpocket.com](https://www.criminalip.io/domain/report?scan_id=21726985) | Critical | IT | 2025-02-28 02:33:48 (UTC) |
+| "IIS 8.5 详细错误 - 403.14 - Forbidden" | [http://jxdn.club](https://www.criminalip.io/domain/report?scan_id=21726996) | Critical | US | 2025-02-28 02:34:38 (UTC) |
 
 ---
 

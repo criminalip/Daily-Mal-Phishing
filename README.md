@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://manicdisorder.com](https://www.criminalip.io/domain/report?scan_id=21726979) | Critical | DK | 2025-02-28 02:32:56 (UTC) |
-| "SSL Error" | [http://trashpocket.com](https://www.criminalip.io/domain/report?scan_id=21726985) | Critical | IT | 2025-02-28 02:33:48 (UTC) |
-| "IIS 8.5 详细错误 - 403.14 - Forbidden" | [http://jxdn.club](https://www.criminalip.io/domain/report?scan_id=21726996) | Critical | US | 2025-02-28 02:34:38 (UTC) |
+| "truck-driver-jobs-29104.bond" | [http://truck-driver-jobs-29104.bond](https://www.criminalip.io/domain/report?scan_id=21786395) | Critical | US | 2025-03-01 02:32:56 (UTC) |
+| "Business Help Center | Privacy Policy" | [http://case-id-1000228258209.counselschambers.co.uk](https://www.criminalip.io/domain/report?scan_id=21786426) | Critical | N/A | 2025-03-01 02:35:40 (UTC) |
+| "Just a moment..." | [http://710482-coinbase.com](https://www.criminalip.io/domain/report?scan_id=21786453) | Critical | N/A | 2025-03-01 02:38:55 (UTC) |
 
 ---
 

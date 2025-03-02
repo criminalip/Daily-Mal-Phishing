@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "truck-driver-jobs-29104.bond" | [http://truck-driver-jobs-29104.bond](https://www.criminalip.io/domain/report?scan_id=21786395) | Critical | US | 2025-03-01 02:32:56 (UTC) |
-| "Business Help Center | Privacy Policy" | [http://case-id-1000228258209.counselschambers.co.uk](https://www.criminalip.io/domain/report?scan_id=21786426) | Critical | N/A | 2025-03-01 02:35:40 (UTC) |
-| "Just a moment..." | [http://710482-coinbase.com](https://www.criminalip.io/domain/report?scan_id=21786453) | Critical | N/A | 2025-03-01 02:38:55 (UTC) |
+| "404: NOT_FOUND" | [http://krowwnd.com](https://www.criminalip.io/domain/report?scan_id=21844291) | Critical | US | 2025-03-02 02:32:14 (UTC) |
+| "N/A" | [http://elevativa.com](https://www.criminalip.io/domain/report?scan_id=21844303) | Critical | DE | 2025-03-02 02:33:02 (UTC) |
+| "域名出售" | [http://hmjinrong.com](https://www.criminalip.io/domain/report?scan_id=21844314) | Critical | HK | 2025-03-02 02:33:46 (UTC) |
 
 ---
 

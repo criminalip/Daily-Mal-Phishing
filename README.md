@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://krowwnd.com](https://www.criminalip.io/domain/report?scan_id=21844291) | Critical | US | 2025-03-02 02:32:14 (UTC) |
-| "N/A" | [http://elevativa.com](https://www.criminalip.io/domain/report?scan_id=21844303) | Critical | DE | 2025-03-02 02:33:02 (UTC) |
-| "域名出售" | [http://hmjinrong.com](https://www.criminalip.io/domain/report?scan_id=21844314) | Critical | HK | 2025-03-02 02:33:46 (UTC) |
+| "Business Help Center | Privacy Policy" | [http://account-5015412.kurhaus-steina.com](https://www.criminalip.io/domain/report?scan_id=21904304) | Critical | N/A | 2025-03-03 02:35:11 (UTC) |
+| "getipass.com-onlqj.top" | [http://getipass.com-onlqj.top](https://www.criminalip.io/domain/report?scan_id=21904402) | Critical | US | 2025-03-03 02:38:18 (UTC) |
+| "域名出售" | [http://cosmwiki.com](https://www.criminalip.io/domain/report?scan_id=21904446) | Critical | HK | 2025-03-03 02:43:31 (UTC) |
 
 ---
 

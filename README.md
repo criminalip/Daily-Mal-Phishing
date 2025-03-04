@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Business Help Center | Privacy Policy" | [http://account-5015412.kurhaus-steina.com](https://www.criminalip.io/domain/report?scan_id=21904304) | Critical | N/A | 2025-03-03 02:35:11 (UTC) |
-| "getipass.com-onlqj.top" | [http://getipass.com-onlqj.top](https://www.criminalip.io/domain/report?scan_id=21904402) | Critical | US | 2025-03-03 02:38:18 (UTC) |
-| "域名出售" | [http://cosmwiki.com](https://www.criminalip.io/domain/report?scan_id=21904446) | Critical | HK | 2025-03-03 02:43:31 (UTC) |
+| "buy-now-pay-later-25965.bond" | [http://buy-now-pay-later-25965.bond](https://www.criminalip.io/domain/report?scan_id=21963325) | Critical | US | 2025-03-04 02:37:02 (UTC) |
+| "instant-business-funding-loan.bond" | [http://instant-business-funding-loan.bond](https://www.criminalip.io/domain/report?scan_id=21963342) | Critical | US | 2025-03-04 02:38:06 (UTC) |
+| "404 Not Found" | [http://ichiang.asia](https://www.criminalip.io/domain/report?scan_id=21963358) | Critical | HK | 2025-03-04 02:39:28 (UTC) |
 
 ---
 

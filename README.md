@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Business Help Center | Privacy Policy" | [http://verification-center-10003282969.chateauxsharland.co.uk](https://www.criminalip.io/domain/report?scan_id=22037204) | Critical | N/A | 2025-03-05 02:31:04 (UTC) |
-| "Business Help Center | Privacy Policy" | [http://verification-center-10003204182.chateauxsharland.co.uk](https://www.criminalip.io/domain/report?scan_id=22037242) | Critical | N/A | 2025-03-05 02:34:33 (UTC) |
-| "matchmaking-marriage-matching-63908.bond" | [http://matchmaking-marriage-matching-63908.bond](https://www.criminalip.io/domain/report?scan_id=22037263) | Critical | US | 2025-03-05 02:35:26 (UTC) |
+| "porkbun.com | parked domain" | [http://stash.cam](https://www.criminalip.io/domain/report?scan_id=22097410) | Critical | US | 2025-03-06 02:30:39 (UTC) |
+| "Error 409" | [http://68440.academy](https://www.criminalip.io/domain/report?scan_id=22097419) | Critical | PH | 2025-03-06 02:31:40 (UTC) |
+| "404 Not Found" | [http://hnyhgd.art](https://www.criminalip.io/domain/report?scan_id=22097432) | Critical | HK | 2025-03-06 02:32:20 (UTC) |
 
 ---
 

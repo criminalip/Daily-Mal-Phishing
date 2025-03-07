@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "porkbun.com | parked domain" | [http://stash.cam](https://www.criminalip.io/domain/report?scan_id=22097410) | Critical | US | 2025-03-06 02:30:39 (UTC) |
-| "Error 409" | [http://68440.academy](https://www.criminalip.io/domain/report?scan_id=22097419) | Critical | PH | 2025-03-06 02:31:40 (UTC) |
-| "404 Not Found" | [http://hnyhgd.art](https://www.criminalip.io/domain/report?scan_id=22097432) | Critical | HK | 2025-03-06 02:32:20 (UTC) |
+| "Coming Soon" | [http://socialliability.club](https://www.criminalip.io/domain/report?scan_id=22158505) | Critical | US | 2025-03-07 02:30:45 (UTC) |
+| "N/A" | [http://unbranded.africa](https://www.criminalip.io/domain/report?scan_id=22158520) | Critical | ZA | 2025-03-07 02:31:36 (UTC) |
+| "N/A" | [http://bnkhvxk.club](https://www.criminalip.io/domain/report?scan_id=22158529) | Critical | US | 2025-03-07 02:32:20 (UTC) |
 
 ---
 

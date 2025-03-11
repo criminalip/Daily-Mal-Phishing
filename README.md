@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "TSEX" | [http://t-sex.com](https://www.criminalip.io/domain/report?scan_id=22334357) | Critical | US | 2025-03-10 02:31:36 (UTC) |
-| "N/A" | [http://emateks.com](https://www.criminalip.io/domain/report?scan_id=22334386) | Critical | TR | 2025-03-10 02:33:20 (UTC) |
-| "best365网页版登录 - 365best体育官网入口" | [http://amzonupdateaccount.com](https://www.criminalip.io/domain/report?scan_id=22334442) | Critical | US | 2025-03-10 02:34:20 (UTC) |
+| "DreamChase Fitness" | [http://fitnessdreamchase.club](https://www.criminalip.io/domain/report?scan_id=22432488) | Critical | N/A | 2025-03-11 02:35:06 (UTC) |
+| "404 Not Found" | [http://medlabequip.com](https://www.criminalip.io/domain/report?scan_id=22432525) | Critical | DK | 2025-03-11 02:36:17 (UTC) |
+| "石河子刹倏代理记账有限公司" | [http://xfjxpj.com](https://www.criminalip.io/domain/report?scan_id=22433031) | Critical | HK | 2025-03-11 02:37:07 (UTC) |
 
 ---
 

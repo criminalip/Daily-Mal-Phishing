@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://flashta.com](https://www.criminalip.io/domain/report?scan_id=22579147) | Critical | KR | 2025-03-13 02:32:37 (UTC) |
-| "403 Forbidden" | [http://long8918.com](https://www.criminalip.io/domain/report?scan_id=22579151) | Critical | US | 2025-03-13 02:33:54 (UTC) |
-| "e-zpass.com-etcxaaaa.vip" | [http://e-zpass.com-etcxaaaa.vip](https://www.criminalip.io/domain/report?scan_id=22579164) | Critical | US | 2025-03-13 02:34:48 (UTC) |
+| "星空网页版-星空（中国）" | [http://lacortedeitarocchi.com](https://www.criminalip.io/domain/report?scan_id=22611162) | Critical | HK | 2025-03-14 02:31:34 (UTC) |
+| "欢迎光临" | [http://wedfsdf887.com](https://www.criminalip.io/domain/report?scan_id=22611257) | Critical | US | 2025-03-14 02:39:06 (UTC) |
+| "www.aijiehui.com" | [http://aijiehui.com](https://www.criminalip.io/domain/report?scan_id=22611289) | Critical | US | 2025-03-14 02:42:19 (UTC) |
 
 ---
 

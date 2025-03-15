@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "星空网页版-星空（中国）" | [http://lacortedeitarocchi.com](https://www.criminalip.io/domain/report?scan_id=22611162) | Critical | HK | 2025-03-14 02:31:34 (UTC) |
-| "欢迎光临" | [http://wedfsdf887.com](https://www.criminalip.io/domain/report?scan_id=22611257) | Critical | US | 2025-03-14 02:39:06 (UTC) |
-| "www.aijiehui.com" | [http://aijiehui.com](https://www.criminalip.io/domain/report?scan_id=22611289) | Critical | US | 2025-03-14 02:42:19 (UTC) |
+| "成人色站,久久综合在线视频,看片 - 天天AV" | [http://jnmmjq.com](https://www.criminalip.io/domain/report?scan_id=22679175) | Critical | ZA | 2025-03-15 02:30:46 (UTC) |
+| "personal-finance-reddit.cfd" | [http://personal-finance-reddit.cfd](https://www.criminalip.io/domain/report?scan_id=22679200) | Critical | DE | 2025-03-15 02:31:44 (UTC) |
+| "circuit-board-manufacturing-companies-09.click" | [http://circuit-board-manufacturing-companies-09.click](https://www.criminalip.io/domain/report?scan_id=22679296) | Critical | US | 2025-03-15 02:35:01 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "成人色站,久久综合在线视频,看片 - 天天AV" | [http://jnmmjq.com](https://www.criminalip.io/domain/report?scan_id=22679175) | Critical | ZA | 2025-03-15 02:30:46 (UTC) |
-| "personal-finance-reddit.cfd" | [http://personal-finance-reddit.cfd](https://www.criminalip.io/domain/report?scan_id=22679200) | Critical | DE | 2025-03-15 02:31:44 (UTC) |
-| "circuit-board-manufacturing-companies-09.click" | [http://circuit-board-manufacturing-companies-09.click](https://www.criminalip.io/domain/report?scan_id=22679296) | Critical | US | 2025-03-15 02:35:01 (UTC) |
+| "marktgalerie.art" | [http://marktgalerie.art](https://www.criminalip.io/domain/report?scan_id=22729543) | Critical | DE | 2025-03-16 02:30:47 (UTC) |
+| "茅箭区五堰天明家居用品店企业网_茅箭区五堰天明家居用品店企业信息查询_茅箭区五堰天明家居用品店企业服务网" | [http://wytming.com](https://www.criminalip.io/domain/report?scan_id=22729596) | Critical | SG | 2025-03-16 02:31:53 (UTC) |
+| "meet-new-people-10876.bond" | [http://meet-new-people-10876.bond](https://www.criminalip.io/domain/report?scan_id=22729684) | Critical | US | 2025-03-16 02:40:49 (UTC) |
 
 ---
 

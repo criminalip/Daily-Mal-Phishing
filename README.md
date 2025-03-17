@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "marktgalerie.art" | [http://marktgalerie.art](https://www.criminalip.io/domain/report?scan_id=22729543) | Critical | DE | 2025-03-16 02:30:47 (UTC) |
-| "茅箭区五堰天明家居用品店企业网_茅箭区五堰天明家居用品店企业信息查询_茅箭区五堰天明家居用品店企业服务网" | [http://wytming.com](https://www.criminalip.io/domain/report?scan_id=22729596) | Critical | SG | 2025-03-16 02:31:53 (UTC) |
-| "meet-new-people-10876.bond" | [http://meet-new-people-10876.bond](https://www.criminalip.io/domain/report?scan_id=22729684) | Critical | US | 2025-03-16 02:40:49 (UTC) |
+| "destiladoscolombia.com | Registered at" | [http://destiladoscolombia.com](https://www.criminalip.io/domain/report?scan_id=22779081) | Critical | ES | 2025-03-17 02:30:55 (UTC) |
+| "Welcome to 2552.com" | [http://113163.com](https://www.criminalip.io/domain/report?scan_id=22779153) | Critical | HK | 2025-03-17 02:35:03 (UTC) |
+| "新葡萄新京威尼斯987(澳门有限公司)-BinG百科" | [http://bywzxx.com](https://www.criminalip.io/domain/report?scan_id=22779235) | Critical | US | 2025-03-17 02:40:53 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "destiladoscolombia.com | Registered at" | [http://destiladoscolombia.com](https://www.criminalip.io/domain/report?scan_id=22779081) | Critical | ES | 2025-03-17 02:30:55 (UTC) |
-| "Welcome to 2552.com" | [http://113163.com](https://www.criminalip.io/domain/report?scan_id=22779153) | Critical | HK | 2025-03-17 02:35:03 (UTC) |
-| "新葡萄新京威尼斯987(澳门有限公司)-BinG百科" | [http://bywzxx.com](https://www.criminalip.io/domain/report?scan_id=22779235) | Critical | US | 2025-03-17 02:40:53 (UTC) |
+| "debt-relief-us-7455.baby" | [http://debt-relief-us-7455.baby](https://www.criminalip.io/domain/report?scan_id=22832168) | Critical | US | 2025-03-18 02:33:05 (UTC) |
+| "hammer加速器-hammer锤子官网-hammer锤子加速器-hammer加速器官网" | [http://6orwoi.cc](https://www.criminalip.io/domain/report?scan_id=22832178) | Critical | N/A | 2025-03-18 02:34:26 (UTC) |
+| "Home" | [http://pixwell.club](https://www.criminalip.io/domain/report?scan_id=22832186) | Critical | IN | 2025-03-18 02:35:36 (UTC) |
 
 ---
 

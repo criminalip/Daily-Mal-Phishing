@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "debt-relief-us-7455.baby" | [http://debt-relief-us-7455.baby](https://www.criminalip.io/domain/report?scan_id=22832168) | Critical | US | 2025-03-18 02:33:05 (UTC) |
-| "hammer加速器-hammer锤子官网-hammer锤子加速器-hammer加速器官网" | [http://6orwoi.cc](https://www.criminalip.io/domain/report?scan_id=22832178) | Critical | N/A | 2025-03-18 02:34:26 (UTC) |
-| "Home" | [http://pixwell.club](https://www.criminalip.io/domain/report?scan_id=22832186) | Critical | IN | 2025-03-18 02:35:36 (UTC) |
+| "Site en construction" | [http://wolministry.com](https://www.criminalip.io/domain/report?scan_id=22889759) | Critical | FR | 2025-03-19 02:35:11 (UTC) |
+| "STRATO - Domain reserved" | [http://aerturia.com](https://www.criminalip.io/domain/report?scan_id=22889772) | Critical | DE | 2025-03-19 02:36:13 (UTC) |
+| "N/A" | [http://xmqtp.com](https://www.criminalip.io/domain/report?scan_id=22889784) | Critical | US | 2025-03-19 02:36:50 (UTC) |
 
 ---
 

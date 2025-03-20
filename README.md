@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site en construction" | [http://wolministry.com](https://www.criminalip.io/domain/report?scan_id=22889759) | Critical | FR | 2025-03-19 02:35:11 (UTC) |
-| "STRATO - Domain reserved" | [http://aerturia.com](https://www.criminalip.io/domain/report?scan_id=22889772) | Critical | DE | 2025-03-19 02:36:13 (UTC) |
-| "N/A" | [http://xmqtp.com](https://www.criminalip.io/domain/report?scan_id=22889784) | Critical | US | 2025-03-19 02:36:50 (UTC) |
+| "鲁瑞环保集团" | [http://xxppch.com](https://www.criminalip.io/domain/report?scan_id=22953273) | Critical | US | 2025-03-20 02:31:06 (UTC) |
+| "404 - Page Not Found" | [http://bklaswim.com](https://www.criminalip.io/domain/report?scan_id=22953437) | Critical | US | 2025-03-20 02:37:28 (UTC) |
+| "hdmoviesite.com" | [http://hdmoviesite.com](https://www.criminalip.io/domain/report?scan_id=22953442) | Critical | HK | 2025-03-20 02:38:19 (UTC) |
 
 ---
 

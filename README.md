@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "鲁瑞环保集团" | [http://xxppch.com](https://www.criminalip.io/domain/report?scan_id=22953273) | Critical | US | 2025-03-20 02:31:06 (UTC) |
-| "404 - Page Not Found" | [http://bklaswim.com](https://www.criminalip.io/domain/report?scan_id=22953437) | Critical | US | 2025-03-20 02:37:28 (UTC) |
-| "hdmoviesite.com" | [http://hdmoviesite.com](https://www.criminalip.io/domain/report?scan_id=22953442) | Critical | HK | 2025-03-20 02:38:19 (UTC) |
+| "zdqkl.com" | [http://zdqkl.com](https://www.criminalip.io/domain/report?scan_id=23025382) | Critical | US | 2025-03-21 02:33:28 (UTC) |
+| "This is the default server vhost" | [http://uprootedliving.com](https://www.criminalip.io/domain/report?scan_id=23025685) | Critical | US | 2025-03-21 02:34:30 (UTC) |
+| "伟德国际betvlctor1946(中国)有限公司-BinG百科" | [http://xjhjqc.com](https://www.criminalip.io/domain/report?scan_id=23025807) | Critical | US | 2025-03-21 02:35:40 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "zdqkl.com" | [http://zdqkl.com](https://www.criminalip.io/domain/report?scan_id=23025382) | Critical | US | 2025-03-21 02:33:28 (UTC) |
-| "This is the default server vhost" | [http://uprootedliving.com](https://www.criminalip.io/domain/report?scan_id=23025685) | Critical | US | 2025-03-21 02:34:30 (UTC) |
-| "伟德国际betvlctor1946(中国)有限公司-BinG百科" | [http://xjhjqc.com](https://www.criminalip.io/domain/report?scan_id=23025807) | Critical | US | 2025-03-21 02:35:40 (UTC) |
+| "北京黄钟大吕科技有限公司" | [http://tianfumusic.com](https://www.criminalip.io/domain/report?scan_id=23082589) | Critical | MU | 2025-03-22 02:36:31 (UTC) |
+| "访问密码" | [http://11mob.com](https://www.criminalip.io/domain/report?scan_id=23082624) | Critical | HK | 2025-03-22 02:39:53 (UTC) |
+| "Nguyễn Chí Tiến - Chuyên Gia Tham Vấn & Trị Liệu Tâm Lý Không Dùng Thuốc" | [http://nguyenchitien.com](https://www.criminalip.io/domain/report?scan_id=23082638) | Critical | VN | 2025-03-22 02:41:07 (UTC) |
 
 ---
 

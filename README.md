@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "北京黄钟大吕科技有限公司" | [http://tianfumusic.com](https://www.criminalip.io/domain/report?scan_id=23082589) | Critical | MU | 2025-03-22 02:36:31 (UTC) |
-| "访问密码" | [http://11mob.com](https://www.criminalip.io/domain/report?scan_id=23082624) | Critical | HK | 2025-03-22 02:39:53 (UTC) |
-| "Nguyễn Chí Tiến - Chuyên Gia Tham Vấn & Trị Liệu Tâm Lý Không Dùng Thuốc" | [http://nguyenchitien.com](https://www.criminalip.io/domain/report?scan_id=23082638) | Critical | VN | 2025-03-22 02:41:07 (UTC) |
+| "404 Not Found" | [http://allegrolokalnie.pl-oferta785525.cfd](https://www.criminalip.io/domain/report?scan_id=23140731) | Critical | N/A | 2025-03-23 02:30:32 (UTC) |
+| "Home" | [http://hendrixcontracting.com](https://www.criminalip.io/domain/report?scan_id=23140757) | Critical | US | 2025-03-23 02:33:37 (UTC) |
+| "404: NOT_FOUND" | [http://moderationhubcontentrise.vercel.app](https://www.criminalip.io/domain/report?scan_id=23140781) | Critical | US | 2025-03-23 02:36:46 (UTC) |
 
 ---
 

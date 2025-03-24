@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://allegrolokalnie.pl-oferta785525.cfd](https://www.criminalip.io/domain/report?scan_id=23140731) | Critical | N/A | 2025-03-23 02:30:32 (UTC) |
-| "Home" | [http://hendrixcontracting.com](https://www.criminalip.io/domain/report?scan_id=23140757) | Critical | US | 2025-03-23 02:33:37 (UTC) |
-| "404: NOT_FOUND" | [http://moderationhubcontentrise.vercel.app](https://www.criminalip.io/domain/report?scan_id=23140781) | Critical | US | 2025-03-23 02:36:46 (UTC) |
+| "meet-new-people-98527.bond" | [http://meet-new-people-98527.bond](https://www.criminalip.io/domain/report?scan_id=23199581) | Critical | US | 2025-03-24 02:33:02 (UTC) |
+| "快猫成年人短视频-成版人快猫app官方入口-快猫快猫成年短片app" | [http://ymkrr.com](https://www.criminalip.io/domain/report?scan_id=23199583) | Critical | HK | 2025-03-24 02:33:53 (UTC) |
+| "404: HOSTNAME_NOT_FOUND" | [http://lasiba-kuteri.zeabur.app](https://www.criminalip.io/domain/report?scan_id=23199589) | Critical | US | 2025-03-24 02:34:47 (UTC) |
 
 ---
 

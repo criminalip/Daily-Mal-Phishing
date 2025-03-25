@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "meet-new-people-98527.bond" | [http://meet-new-people-98527.bond](https://www.criminalip.io/domain/report?scan_id=23199581) | Critical | US | 2025-03-24 02:33:02 (UTC) |
-| "快猫成年人短视频-成版人快猫app官方入口-快猫快猫成年短片app" | [http://ymkrr.com](https://www.criminalip.io/domain/report?scan_id=23199583) | Critical | HK | 2025-03-24 02:33:53 (UTC) |
-| "404: HOSTNAME_NOT_FOUND" | [http://lasiba-kuteri.zeabur.app](https://www.criminalip.io/domain/report?scan_id=23199589) | Critical | US | 2025-03-24 02:34:47 (UTC) |
+| "Security Measure" | [http://alavenir.com](https://www.criminalip.io/domain/report?scan_id=23263527) | Critical | US | 2025-03-25 02:33:20 (UTC) |
+| "𝗞𝘂𝗽𝗼𝗻 𝗨𝗻𝗱𝗶𝗮𝗻 | 𝗕𝗮𝗻𝗸 𝗕𝗥𝗜 𝟮𝟬𝟮5" | [http://poinbr123-3-25i.80d1r.biz.id](https://www.criminalip.io/domain/report?scan_id=23263541) | Critical | N/A | 2025-03-25 02:34:17 (UTC) |
+| "404" | [http://ntkebolai.com](https://www.criminalip.io/domain/report?scan_id=23263565) | Critical | US | 2025-03-25 02:37:03 (UTC) |
 
 ---
 

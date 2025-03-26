@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Security Measure" | [http://alavenir.com](https://www.criminalip.io/domain/report?scan_id=23263527) | Critical | US | 2025-03-25 02:33:20 (UTC) |
-| "𝗞𝘂𝗽𝗼𝗻 𝗨𝗻𝗱𝗶𝗮𝗻 | 𝗕𝗮𝗻𝗸 𝗕𝗥𝗜 𝟮𝟬𝟮5" | [http://poinbr123-3-25i.80d1r.biz.id](https://www.criminalip.io/domain/report?scan_id=23263541) | Critical | N/A | 2025-03-25 02:34:17 (UTC) |
-| "404" | [http://ntkebolai.com](https://www.criminalip.io/domain/report?scan_id=23263565) | Critical | US | 2025-03-25 02:37:03 (UTC) |
+| "Caliber Holdings Corporation Retirement Savings Plan - Investigation" | [http://caliberretirementplaninvestigation.com](https://www.criminalip.io/domain/report?scan_id=23323523) | Critical | US | 2025-03-26 02:31:02 (UTC) |
+| "Google" | [http://searchlysolutions.com](https://www.criminalip.io/domain/report?scan_id=23323549) | Critical | US | 2025-03-26 02:31:49 (UTC) |
+| "Стоит ли торговать на биржах с высоким кредитным плечом?" | [http://tradebitnigeria.best](https://www.criminalip.io/domain/report?scan_id=23323565) | Critical | RU | 2025-03-26 02:33:08 (UTC) |
 
 ---
 

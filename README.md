@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Caliber Holdings Corporation Retirement Savings Plan - Investigation" | [http://caliberretirementplaninvestigation.com](https://www.criminalip.io/domain/report?scan_id=23323523) | Critical | US | 2025-03-26 02:31:02 (UTC) |
-| "Google" | [http://searchlysolutions.com](https://www.criminalip.io/domain/report?scan_id=23323549) | Critical | US | 2025-03-26 02:31:49 (UTC) |
-| "Стоит ли торговать на биржах с высоким кредитным плечом?" | [http://tradebitnigeria.best](https://www.criminalip.io/domain/report?scan_id=23323565) | Critical | RU | 2025-03-26 02:33:08 (UTC) |
+| "isimtescil.net | Türkiye'nin Domain ve Hosting Lideri | Hoş geldiniz" | [http://webastomarket.com](https://www.criminalip.io/domain/report?scan_id=23388792) | Critical | TR | 2025-03-27 02:30:51 (UTC) |
+| "404" | [http://tennny.com](https://www.criminalip.io/domain/report?scan_id=23389432) | Critical | US | 2025-03-27 02:36:44 (UTC) |
+| "404 - redirect.pizza" | [http://romanticoboi.com](https://www.criminalip.io/domain/report?scan_id=23389104) | Critical | NL | 2025-03-27 02:35:51 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "isimtescil.net | Türkiye'nin Domain ve Hosting Lideri | Hoş geldiniz" | [http://webastomarket.com](https://www.criminalip.io/domain/report?scan_id=23388792) | Critical | TR | 2025-03-27 02:30:51 (UTC) |
-| "404" | [http://tennny.com](https://www.criminalip.io/domain/report?scan_id=23389432) | Critical | US | 2025-03-27 02:36:44 (UTC) |
-| "404 - redirect.pizza" | [http://romanticoboi.com](https://www.criminalip.io/domain/report?scan_id=23389104) | Critical | NL | 2025-03-27 02:35:51 (UTC) |
+| "Domain im Kundenauftrag registriert" | [http://mondobarista.com](https://www.criminalip.io/domain/report?scan_id=23456785) | Critical | DE | 2025-03-28 02:32:54 (UTC) |
+| "巴黎人8907.com" | [http://34778.agency](https://www.criminalip.io/domain/report?scan_id=23457243) | Critical | JP | 2025-03-28 02:41:12 (UTC) |
+| "Global Talk Corner" | [http://driversdownload4u.com](https://www.criminalip.io/domain/report?scan_id=23457341) | Critical | SC | 2025-03-28 02:42:19 (UTC) |
 
 ---
 

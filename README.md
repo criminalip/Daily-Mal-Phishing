@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Domain im Kundenauftrag registriert" | [http://mondobarista.com](https://www.criminalip.io/domain/report?scan_id=23456785) | Critical | DE | 2025-03-28 02:32:54 (UTC) |
-| "巴黎人8907.com" | [http://34778.agency](https://www.criminalip.io/domain/report?scan_id=23457243) | Critical | JP | 2025-03-28 02:41:12 (UTC) |
-| "Global Talk Corner" | [http://driversdownload4u.com](https://www.criminalip.io/domain/report?scan_id=23457341) | Critical | SC | 2025-03-28 02:42:19 (UTC) |
+| "STRATO - Domain reserved" | [http://hapi-nutrition.com](https://www.criminalip.io/domain/report?scan_id=23520098) | Critical | DE | 2025-03-29 02:31:03 (UTC) |
+| "apartments-for-rent-94201.bond" | [http://apartments-for-rent-94201.bond](https://www.criminalip.io/domain/report?scan_id=23520117) | Critical | US | 2025-03-29 02:32:12 (UTC) |
+| "walk-in-showers-23699.bond" | [http://walk-in-showers-23699.bond](https://www.criminalip.io/domain/report?scan_id=23520141) | Critical | US | 2025-03-29 02:32:53 (UTC) |
 
 ---
 

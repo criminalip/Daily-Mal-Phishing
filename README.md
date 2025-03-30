@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "STRATO - Domain reserved" | [http://hapi-nutrition.com](https://www.criminalip.io/domain/report?scan_id=23520098) | Critical | DE | 2025-03-29 02:31:03 (UTC) |
-| "apartments-for-rent-94201.bond" | [http://apartments-for-rent-94201.bond](https://www.criminalip.io/domain/report?scan_id=23520117) | Critical | US | 2025-03-29 02:32:12 (UTC) |
-| "walk-in-showers-23699.bond" | [http://walk-in-showers-23699.bond](https://www.criminalip.io/domain/report?scan_id=23520141) | Critical | US | 2025-03-29 02:32:53 (UTC) |
+| "Error" | [http://large1-inc.com](https://www.criminalip.io/domain/report?scan_id=23586474) | Critical | JP | 2025-03-30 02:32:55 (UTC) |
+| "product-tester-jobs-27508.bond" | [http://product-tester-jobs-27508.bond](https://www.criminalip.io/domain/report?scan_id=23586519) | Critical | US | 2025-03-30 02:33:43 (UTC) |
+| "fxtkbhjy.top" | [http://fxtkbhjy.top](https://www.criminalip.io/domain/report?scan_id=23586607) | Critical | SG | 2025-03-30 02:34:18 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Error" | [http://large1-inc.com](https://www.criminalip.io/domain/report?scan_id=23586474) | Critical | JP | 2025-03-30 02:32:55 (UTC) |
-| "product-tester-jobs-27508.bond" | [http://product-tester-jobs-27508.bond](https://www.criminalip.io/domain/report?scan_id=23586519) | Critical | US | 2025-03-30 02:33:43 (UTC) |
-| "fxtkbhjy.top" | [http://fxtkbhjy.top](https://www.criminalip.io/domain/report?scan_id=23586607) | Critical | SG | 2025-03-30 02:34:18 (UTC) |
+| "Medical Health" | [http://ninashealthcarezanesville.com](https://www.criminalip.io/domain/report?scan_id=23649535) | Critical | US | 2025-03-31 02:34:15 (UTC) |
+| "mndot.us-etcux.xin" | [http://mndot.us-etcux.xin](https://www.criminalip.io/domain/report?scan_id=23649553) | Critical | US | 2025-03-31 02:34:58 (UTC) |
+| "Domain im Kundenauftrag registriert" | [http://noble-tick.com](https://www.criminalip.io/domain/report?scan_id=23649591) | Critical | DE | 2025-03-31 02:38:16 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Medical Health" | [http://ninashealthcarezanesville.com](https://www.criminalip.io/domain/report?scan_id=23649535) | Critical | US | 2025-03-31 02:34:15 (UTC) |
-| "mndot.us-etcux.xin" | [http://mndot.us-etcux.xin](https://www.criminalip.io/domain/report?scan_id=23649553) | Critical | US | 2025-03-31 02:34:58 (UTC) |
-| "Domain im Kundenauftrag registriert" | [http://noble-tick.com](https://www.criminalip.io/domain/report?scan_id=23649591) | Critical | DE | 2025-03-31 02:38:16 (UTC) |
+| "english-classes-online-94045.bond" | [http://english-classes-online-94045.bond](https://www.criminalip.io/domain/report?scan_id=23713045) | Critical | US | 2025-04-01 02:30:47 (UTC) |
+| "Under Construction" | [http://rainhugon.com](https://www.criminalip.io/domain/report?scan_id=23713665) | Critical | US | 2025-04-01 02:35:39 (UTC) |
+| "Site en construction" | [http://popwatercoolers.com](https://www.criminalip.io/domain/report?scan_id=23714680) | Critical | FR | 2025-04-01 02:38:49 (UTC) |
 
 ---
 

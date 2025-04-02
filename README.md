@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "english-classes-online-94045.bond" | [http://english-classes-online-94045.bond](https://www.criminalip.io/domain/report?scan_id=23713045) | Critical | US | 2025-04-01 02:30:47 (UTC) |
-| "Under Construction" | [http://rainhugon.com](https://www.criminalip.io/domain/report?scan_id=23713665) | Critical | US | 2025-04-01 02:35:39 (UTC) |
-| "Site en construction" | [http://popwatercoolers.com](https://www.criminalip.io/domain/report?scan_id=23714680) | Critical | FR | 2025-04-01 02:38:49 (UTC) |
+| "AdSolve" | [http://adsolvemarketing.com](https://www.criminalip.io/domain/report?scan_id=23779205) | Critical | US | 2025-04-02 02:30:51 (UTC) |
+| "Elevens4d - aksenbelanja.com Coming Soon" | [http://aksenbelanja.com](https://www.criminalip.io/domain/report?scan_id=23779270) | Critical | US | 2025-04-02 02:34:20 (UTC) |
+| "laser-hair-removal-49057.bond" | [http://laser-hair-removal-49057.bond](https://www.criminalip.io/domain/report?scan_id=23779416) | Critical | US | 2025-04-02 02:37:37 (UTC) |
 
 ---
 

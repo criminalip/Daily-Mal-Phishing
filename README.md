@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "AdSolve" | [http://adsolvemarketing.com](https://www.criminalip.io/domain/report?scan_id=23779205) | Critical | US | 2025-04-02 02:30:51 (UTC) |
-| "Elevens4d - aksenbelanja.com Coming Soon" | [http://aksenbelanja.com](https://www.criminalip.io/domain/report?scan_id=23779270) | Critical | US | 2025-04-02 02:34:20 (UTC) |
-| "laser-hair-removal-49057.bond" | [http://laser-hair-removal-49057.bond](https://www.criminalip.io/domain/report?scan_id=23779416) | Critical | US | 2025-04-02 02:37:37 (UTC) |
+| "没有找到站点" | [http://xhegou.com](https://www.criminalip.io/domain/report?scan_id=23837258) | Critical | US | 2025-04-03 02:30:50 (UTC) |
+| "getipass.com-etcctd.xin | 522: Connection timed out" | [http://getipass.com-etcctd.xin](https://www.criminalip.io/domain/report?scan_id=23837467) | Critical | N/A | 2025-04-03 02:32:25 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://neverlookdownpci.wixsite.com](https://www.criminalip.io/domain/report?scan_id=23838594) | Critical | US | 2025-04-03 02:35:36 (UTC) |
 
 ---
 

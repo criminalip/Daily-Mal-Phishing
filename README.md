@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "porkbun.com | parked domain" | [http://oneclickcomply.click](https://www.criminalip.io/domain/report?scan_id=23894047) | Critical | US | 2025-04-04 02:30:39 (UTC) |
-| "expensivenothing.art" | [http://expensivenothing.art](https://www.criminalip.io/domain/report?scan_id=23894699) | Critical | RU | 2025-04-04 02:32:09 (UTC) |
-| "Site en construction" | [http://maiaholidays.com](https://www.criminalip.io/domain/report?scan_id=23895269) | Critical | FR | 2025-04-04 02:33:31 (UTC) |
+| "YH" | [http://zxbmd.care](https://www.criminalip.io/domain/report?scan_id=23948920) | Dangerous | HK | 2025-04-05 02:31:28 (UTC) |
+| "matchmaking-marriage-matching-26939.bond" | [http://matchmaking-marriage-matching-26939.bond](https://www.criminalip.io/domain/report?scan_id=23948959) | Critical | US | 2025-04-05 02:32:45 (UTC) |
+| "This domain is not linked to any directory on the server!" | [http://blesk.best](https://www.criminalip.io/domain/report?scan_id=23949005) | Critical | RU | 2025-04-05 02:34:06 (UTC) |
 
 ---
 

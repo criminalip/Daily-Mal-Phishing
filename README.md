@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "YH" | [http://zxbmd.care](https://www.criminalip.io/domain/report?scan_id=23948920) | Dangerous | HK | 2025-04-05 02:31:28 (UTC) |
-| "matchmaking-marriage-matching-26939.bond" | [http://matchmaking-marriage-matching-26939.bond](https://www.criminalip.io/domain/report?scan_id=23948959) | Critical | US | 2025-04-05 02:32:45 (UTC) |
-| "This domain is not linked to any directory on the server!" | [http://blesk.best](https://www.criminalip.io/domain/report?scan_id=23949005) | Critical | RU | 2025-04-05 02:34:06 (UTC) |
+| "tardive-dyskinesia-treatment-36065.bond" | [http://tardive-dyskinesia-treatment-36065.bond](https://www.criminalip.io/domain/report?scan_id=24008103) | Critical | US | 2025-04-06 02:33:20 (UTC) |
+| "erectile-dysfunction-treatment-80570.bond" | [http://erectile-dysfunction-treatment-80570.bond](https://www.criminalip.io/domain/report?scan_id=24008430) | Critical | US | 2025-04-06 02:34:51 (UTC) |
+| "english-classes-online-36281.bond" | [http://english-classes-online-36281.bond](https://www.criminalip.io/domain/report?scan_id=24008629) | Critical | US | 2025-04-06 02:36:20 (UTC) |
 
 ---
 

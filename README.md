@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "tardive-dyskinesia-treatment-36065.bond" | [http://tardive-dyskinesia-treatment-36065.bond](https://www.criminalip.io/domain/report?scan_id=24008103) | Critical | US | 2025-04-06 02:33:20 (UTC) |
-| "erectile-dysfunction-treatment-80570.bond" | [http://erectile-dysfunction-treatment-80570.bond](https://www.criminalip.io/domain/report?scan_id=24008430) | Critical | US | 2025-04-06 02:34:51 (UTC) |
-| "english-classes-online-36281.bond" | [http://english-classes-online-36281.bond](https://www.criminalip.io/domain/report?scan_id=24008629) | Critical | US | 2025-04-06 02:36:20 (UTC) |
+| "N/A" | [http://altratum.biz](https://www.criminalip.io/domain/report?scan_id=24059902) | Critical | DE | 2025-04-07 02:31:08 (UTC) |
+| "meet-new-people-17285.bond" | [http://meet-new-people-17285.bond](https://www.criminalip.io/domain/report?scan_id=24059908) | Critical | US | 2025-04-07 02:32:20 (UTC) |
+| "furnished-apartments-in-dubai-monthly-basis-47805.click - furnished apartments in dubai monthly basis 47805 자료와 정보" | [http://furnished-apartments-in-dubai-monthly-basis-47805.click](https://www.criminalip.io/domain/report?scan_id=24059920) | Critical | DE | 2025-04-07 02:33:30 (UTC) |
 
 ---
 

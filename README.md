@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://altratum.biz](https://www.criminalip.io/domain/report?scan_id=24059902) | Critical | DE | 2025-04-07 02:31:08 (UTC) |
-| "meet-new-people-17285.bond" | [http://meet-new-people-17285.bond](https://www.criminalip.io/domain/report?scan_id=24059908) | Critical | US | 2025-04-07 02:32:20 (UTC) |
-| "furnished-apartments-in-dubai-monthly-basis-47805.click - furnished apartments in dubai monthly basis 47805 자료와 정보" | [http://furnished-apartments-in-dubai-monthly-basis-47805.click](https://www.criminalip.io/domain/report?scan_id=24059920) | Critical | DE | 2025-04-07 02:33:30 (UTC) |
+| "porkbun.com | parked domain" | [http://phonesay.app](https://www.criminalip.io/domain/report?scan_id=24117113) | Critical | US | 2025-04-08 02:30:46 (UTC) |
+| "bilgigi.com" | [http://bilgigi.com](https://www.criminalip.io/domain/report?scan_id=24117137) | Critical | US | 2025-04-08 02:34:28 (UTC) |
+| "湘乡市校园招聘网 - 先进制造业人才平台" | [http://galapagos-adventures.com](https://www.criminalip.io/domain/report?scan_id=24117147) | Critical | HK | 2025-04-08 02:35:28 (UTC) |
 
 ---
 

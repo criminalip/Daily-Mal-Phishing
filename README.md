@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "同安区宇仟网络有限责任公司" | [http://xiaoai256.com](https://www.criminalip.io/domain/report?scan_id=24290964) | Critical | CN | 2025-04-11 02:42:50 (UTC) |
-| "porkbun.com | parked domain" | [http://slop.business](https://www.criminalip.io/domain/report?scan_id=24291009) | Critical | US | 2025-04-11 02:44:23 (UTC) |
-| "Goldenmanga.com" | [http://goldenmanga.com](https://www.criminalip.io/domain/report?scan_id=24291026) | Critical | DE | 2025-04-11 02:45:22 (UTC) |
+| "高密市茂盛通讯技术有限责任公司" | [http://isssw.com](https://www.criminalip.io/domain/report?scan_id=24348135) | Critical | CN | 2025-04-12 02:31:08 (UTC) |
+| "域名出售" | [http://goooken.com](https://www.criminalip.io/domain/report?scan_id=24348767) | Critical | HK | 2025-04-12 02:34:40 (UTC) |
+| "nearestaxe.com" | [http://nearestaxe.com](https://www.criminalip.io/domain/report?scan_id=24349962) | Safe | US | 2025-04-12 02:38:41 (UTC) |
 
 ---
 

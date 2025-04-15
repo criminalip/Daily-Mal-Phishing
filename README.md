@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://dunhuacredit.com](https://www.criminalip.io/domain/report?scan_id=24468630) | Critical | US | 2025-04-14 02:30:37 (UTC) |
-| "egg-packing-jobs-94832.bond" | [http://egg-packing-jobs-94832.bond](https://www.criminalip.io/domain/report?scan_id=24469368) | Critical | IE | 2025-04-14 02:35:56 (UTC) |
-| "meet-new-people-47025.bond" | [http://meet-new-people-47025.bond](https://www.criminalip.io/domain/report?scan_id=24469874) | Critical | IE | 2025-04-14 02:38:42 (UTC) |
+| "painting-companies-20250408-2.click" | [http://painting-companies-20250408-2.click](https://www.criminalip.io/domain/report?scan_id=24532455) | Critical | US | 2025-04-15 02:30:57 (UTC) |
+| "47 Fergusson Street, Solway - 3 Bed House - For Sale" | [http://47fergussonst.com](https://www.criminalip.io/domain/report?scan_id=24533164) | Critical | AU | 2025-04-15 02:34:40 (UTC) |
+| "carpenter-near-me-1326-1744114038.click" | [http://carpenter-near-me-1326-1744114038.click](https://www.criminalip.io/domain/report?scan_id=24533365) | Critical | US | 2025-04-15 02:35:35 (UTC) |
 
 ---
 

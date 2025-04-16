@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "painting-companies-20250408-2.click" | [http://painting-companies-20250408-2.click](https://www.criminalip.io/domain/report?scan_id=24532455) | Critical | US | 2025-04-15 02:30:57 (UTC) |
-| "47 Fergusson Street, Solway - 3 Bed House - For Sale" | [http://47fergussonst.com](https://www.criminalip.io/domain/report?scan_id=24533164) | Critical | AU | 2025-04-15 02:34:40 (UTC) |
-| "carpenter-near-me-1326-1744114038.click" | [http://carpenter-near-me-1326-1744114038.click](https://www.criminalip.io/domain/report?scan_id=24533365) | Critical | US | 2025-04-15 02:35:35 (UTC) |
+| "pools-near-me-90364.click - pools near me 90364 자료와 정보" | [http://pools-near-me-90364.click](https://www.criminalip.io/domain/report?scan_id=24647928) | Critical | DE | 2025-04-16 02:30:52 (UTC) |
+| "hotel-management-degrees-62349.bond" | [http://hotel-management-degrees-62349.bond](https://www.criminalip.io/domain/report?scan_id=24648094) | Critical | US | 2025-04-16 02:32:00 (UTC) |
+| "belay-buddy-threads-archive" | [http://belaybuddies.club](https://www.criminalip.io/domain/report?scan_id=24648318) | Critical | AE | 2025-04-16 02:33:11 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "pools-near-me-90364.click - pools near me 90364 자료와 정보" | [http://pools-near-me-90364.click](https://www.criminalip.io/domain/report?scan_id=24647928) | Critical | DE | 2025-04-16 02:30:52 (UTC) |
-| "hotel-management-degrees-62349.bond" | [http://hotel-management-degrees-62349.bond](https://www.criminalip.io/domain/report?scan_id=24648094) | Critical | US | 2025-04-16 02:32:00 (UTC) |
-| "belay-buddy-threads-archive" | [http://belaybuddies.club](https://www.criminalip.io/domain/report?scan_id=24648318) | Critical | AE | 2025-04-16 02:33:11 (UTC) |
+| "N/A" | [http://bowman.club](https://www.criminalip.io/domain/report?scan_id=24709634) | Critical | US | 2025-04-17 02:31:20 (UTC) |
+| "One moment, please..." | [http://elitefundsrecovery.com](https://www.criminalip.io/domain/report?scan_id=24709757) | Critical | US | 2025-04-17 02:32:51 (UTC) |
+| "STRATO - Domain reserved" | [http://dreamingofholland.com](https://www.criminalip.io/domain/report?scan_id=24709767) | Critical | DE | 2025-04-17 02:33:47 (UTC) |
 
 ---
 

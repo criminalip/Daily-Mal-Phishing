@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "한국 온라인 카지노 게임 top 사이트 추천" | [http://500zj.com](https://www.criminalip.io/domain/report?scan_id=24839614) | Critical | KR | 2025-04-19 02:30:54 (UTC) |
-| "love.n-payfvo.shop" | [http://love.n-payfvo.shop](https://www.criminalip.io/domain/report?scan_id=24839667) | Critical | N/A | 2025-04-19 02:32:36 (UTC) |
-| "NameBright - Coming Soon" | [http://naturundkultur.com](https://www.criminalip.io/domain/report?scan_id=24839747) | Critical | US | 2025-04-19 02:35:22 (UTC) |
+| "Domain im Kundenauftrag registriert" | [http://futterherz.com](https://www.criminalip.io/domain/report?scan_id=24898471) | Critical | DE | 2025-04-20 02:30:41 (UTC) |
+| "atrial-fibrillation-treatment-45260.bond" | [http://atrial-fibrillation-treatment-45260.bond](https://www.criminalip.io/domain/report?scan_id=24898763) | Critical | US | 2025-04-20 02:33:34 (UTC) |
+| "Not found" | [http://builders-and-buffoonery-official.com](https://www.criminalip.io/domain/report?scan_id=24899002) | Critical | AU | 2025-04-20 02:36:43 (UTC) |
 
 ---
 

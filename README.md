@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Domain im Kundenauftrag registriert" | [http://futterherz.com](https://www.criminalip.io/domain/report?scan_id=24898471) | Critical | DE | 2025-04-20 02:30:41 (UTC) |
-| "atrial-fibrillation-treatment-45260.bond" | [http://atrial-fibrillation-treatment-45260.bond](https://www.criminalip.io/domain/report?scan_id=24898763) | Critical | US | 2025-04-20 02:33:34 (UTC) |
-| "Not found" | [http://builders-and-buffoonery-official.com](https://www.criminalip.io/domain/report?scan_id=24899002) | Critical | AU | 2025-04-20 02:36:43 (UTC) |
+| "合并公告 | Link3" | [http://7pmzrnq.com](https://www.criminalip.io/domain/report?scan_id=24962739) | Low | US | 2025-04-21 02:31:36 (UTC) |
+| "Nhà Phố Gladia Khang Điền - Giá Bán & Tiến Độ【04/2025】" | [http://nhaphogladiakhangdien.com](https://www.criminalip.io/domain/report?scan_id=24962792) | Critical | VN | 2025-04-21 02:36:00 (UTC) |
+| "懂你所想,从你所愿,7×24小时客服为您服务!" | [http://cn81uhp.com](https://www.criminalip.io/domain/report?scan_id=24962911) | Critical | US | 2025-04-21 02:38:57 (UTC) |
 
 ---
 

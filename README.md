@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "400 Bad Request" | [http://teatimelounge.com](https://www.criminalip.io/domain/report?scan_id=25089655) | Critical | DK | 2025-04-23 02:30:41 (UTC) |
-| "porkbun.com | parked domain" | [http://teto.asia](https://www.criminalip.io/domain/report?scan_id=25089693) | Critical | US | 2025-04-23 02:33:47 (UTC) |
-| "Plesk Obsidian 18.0.68" | [http://sonda-burdan-dahasini-istemeye-baslayanlar-var.com](https://www.criminalip.io/domain/report?scan_id=25090312) | Critical | NL | 2025-04-23 02:37:15 (UTC) |
+| "N/A" | [http://matchloft.com](https://www.criminalip.io/domain/report?scan_id=25156594) | Critical | DE | 2025-04-24 02:31:14 (UTC) |
+| "N/A" | [http://groundfloor24.center](https://www.criminalip.io/domain/report?scan_id=25156707) | Critical | US | 2025-04-24 02:32:25 (UTC) |
+| "N/A" | [http://joanngladden.com](https://www.criminalip.io/domain/report?scan_id=25156754) | Critical | DE | 2025-04-24 02:33:12 (UTC) |
 
 ---
 

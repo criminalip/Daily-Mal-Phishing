@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "patapas.com" | [http://patapas.com](https://www.criminalip.io/domain/report?scan_id=25220630) | Critical | GB | 2025-04-25 02:33:26 (UTC) |
-| "404 Not Found" | [http://chxtech.com](https://www.criminalip.io/domain/report?scan_id=25221129) | Critical | GB | 2025-04-25 02:41:40 (UTC) |
-| "gas-fireplace-104-3.asia" | [http://gas-fireplace-104-3.asia](https://www.criminalip.io/domain/report?scan_id=25221485) | Critical | DE | 2025-04-25 02:45:01 (UTC) |
+| "国产成人精品免高潮费视频频,中文字幕欧美日本亚洲,亚洲成AV人网址,精品国产高清在线拍,国产偷伦精品视频" | [http://politicalswagger.com](https://www.criminalip.io/domain/report?scan_id=25285425) | Critical | HK | 2025-04-26 02:30:41 (UTC) |
+| "auto-loans-gb-5184.click" | [http://auto-loans-gb-5184.click](https://www.criminalip.io/domain/report?scan_id=25285725) | Critical | US | 2025-04-26 02:31:22 (UTC) |
+| "alquiler-coches-con-compra-sin-entrada-con-asnef.bond" | [http://alquiler-coches-con-compra-sin-entrada-con-asnef.bond](https://www.criminalip.io/domain/report?scan_id=25286163) | Critical | US | 2025-04-26 02:32:33 (UTC) |
 
 ---
 

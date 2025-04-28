@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "usps.com-syfl.win" | [http://usps.com-syfl.win](https://www.criminalip.io/domain/report?scan_id=25348048) | Critical | US | 2025-04-27 02:38:41 (UTC) |
-| "bayareafastrak.org-dwah.win" | [http://bayareafastrak.org-dwah.win](https://www.criminalip.io/domain/report?scan_id=25348057) | Critical | US | 2025-04-27 02:39:39 (UTC) |
-| "N/A" | [http://presentmoon.baby](https://www.criminalip.io/domain/report?scan_id=25348151) | Critical | US | 2025-04-27 02:40:29 (UTC) |
+| "meet-new-people-93491.bond" | [http://meet-new-people-93491.bond](https://www.criminalip.io/domain/report?scan_id=25398486) | Critical | US | 2025-04-28 02:32:40 (UTC) |
+| "502 Bad Gateway" | [http://investigatorpro.com](https://www.criminalip.io/domain/report?scan_id=25398623) | Critical | US | 2025-04-28 02:36:24 (UTC) |
+| "ncquickpass.com-gxmf.win" | [http://ncquickpass.com-gxmf.win](https://www.criminalip.io/domain/report?scan_id=25398968) | Critical | US | 2025-04-28 02:37:05 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "expresstoll.com-kjvi.win" | [http://expresstoll.com-kjvi.win](https://www.criminalip.io/domain/report?scan_id=25453936) | Critical | US | 2025-04-29 02:33:37 (UTC) |
-| "N/A" | [http://cbiacr.click](https://www.criminalip.io/domain/report?scan_id=25453985) | Critical | US | 2025-04-29 02:34:14 (UTC) |
-| "com-drsm.win" | [http://com-drsm.win](https://www.criminalip.io/domain/report?scan_id=25454073) | Critical | US | 2025-04-29 02:37:11 (UTC) |
+| "forklift-co1-de-dafox.click" | [http://forklift-co1-de-dafox.click](https://www.criminalip.io/domain/report?scan_id=25509352) | Critical | US | 2025-04-30 02:30:42 (UTC) |
+| "edinburgh-airport-hotel-99572.click - edinburgh airport hotel 99572 자료와 정보" | [http://edinburgh-airport-hotel-99572.click](https://www.criminalip.io/domain/report?scan_id=25509364) | Critical | DE | 2025-04-30 02:31:28 (UTC) |
+| "Claim Justice" | [http://claimjustice.center](https://www.criminalip.io/domain/report?scan_id=25509378) | Critical | N/A | 2025-04-30 02:32:45 (UTC) |
 
 ---
 

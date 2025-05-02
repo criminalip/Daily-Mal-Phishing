@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://yusra.agency](https://www.criminalip.io/domain/report?scan_id=25572667) | Critical | HK | 2025-05-01 02:30:47 (UTC) |
-| "bania-life-hub" | [http://vparilke.club](https://www.criminalip.io/domain/report?scan_id=25572689) | Critical | SG | 2025-05-01 02:31:46 (UTC) |
-| "Well, you found a glitch." | [http://earthy-economic-leopard.glitch.me](https://www.criminalip.io/domain/report?scan_id=25572718) | Critical | JP | 2025-05-01 02:32:44 (UTC) |
+| "home-deck-repair-60691.click - home deck repair 60691 자료와 정보" | [http://home-deck-repair-60691.click](https://www.criminalip.io/domain/report?scan_id=25643284) | Critical | DE | 2025-05-02 02:40:05 (UTC) |
+| "Index of /" | [http://voajet.cloud](https://www.criminalip.io/domain/report?scan_id=25643455) | Critical | US | 2025-05-02 02:41:08 (UTC) |
+| "heliopure.club" | [http://heliopure.club](https://www.criminalip.io/domain/report?scan_id=25643841) | Critical | US | 2025-05-02 02:44:36 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "home-deck-repair-60691.click - home deck repair 60691 자료와 정보" | [http://home-deck-repair-60691.click](https://www.criminalip.io/domain/report?scan_id=25643284) | Critical | DE | 2025-05-02 02:40:05 (UTC) |
-| "Index of /" | [http://voajet.cloud](https://www.criminalip.io/domain/report?scan_id=25643455) | Critical | US | 2025-05-02 02:41:08 (UTC) |
-| "heliopure.club" | [http://heliopure.club](https://www.criminalip.io/domain/report?scan_id=25643841) | Critical | US | 2025-05-02 02:44:36 (UTC) |
+| "Navigating The Legal Process: What To Expect When Filing A Wrongful Death Claim In Seattle" | [http://potenzalaw.com](https://www.criminalip.io/domain/report?scan_id=25697091) | Critical | SG | 2025-05-03 02:34:04 (UTC) |
+| "noisy-neighbours.com" | [http://noisy-neighbours.com](https://www.criminalip.io/domain/report?scan_id=25697272) | Critical | US | 2025-05-03 02:34:43 (UTC) |
+| "403 Forbidden" | [http://zwischendurch.com](https://www.criminalip.io/domain/report?scan_id=25697417) | Dangerous | DE | 2025-05-03 02:37:47 (UTC) |
 
 ---
 

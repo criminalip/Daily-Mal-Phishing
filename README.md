@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "matchmaking-marriage-matching-86007.bond" | [http://matchmaking-marriage-matching-86007.bond](https://www.criminalip.io/domain/report?scan_id=25759110) | Critical | US | 2025-05-04 02:31:07 (UTC) |
-| "404 Not Found" | [http://theerror.click](https://www.criminalip.io/domain/report?scan_id=25759123) | Critical | N/A | 2025-05-04 02:32:00 (UTC) |
-| "online-courses-classes-50327.bond" | [http://online-courses-classes-50327.bond](https://www.criminalip.io/domain/report?scan_id=25759197) | Critical | US | 2025-05-04 02:39:20 (UTC) |
+| "apartments-for-rent-56988.bond" | [http://apartments-for-rent-56988.bond](https://www.criminalip.io/domain/report?scan_id=25812531) | Critical | US | 2025-05-05 02:35:08 (UTC) |
+| "affordable-dental-implants-30281.click" | [http://affordable-dental-implants-30281.click](https://www.criminalip.io/domain/report?scan_id=25812551) | Critical | US | 2025-05-05 02:36:01 (UTC) |
+| "dental-implants-for-seniors-36888.bond" | [http://dental-implants-for-seniors-36888.bond](https://www.criminalip.io/domain/report?scan_id=25812579) | Critical | US | 2025-05-05 02:37:23 (UTC) |
 
 ---
 

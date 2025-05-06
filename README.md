@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "apartments-for-rent-56988.bond" | [http://apartments-for-rent-56988.bond](https://www.criminalip.io/domain/report?scan_id=25812531) | Critical | US | 2025-05-05 02:35:08 (UTC) |
-| "affordable-dental-implants-30281.click" | [http://affordable-dental-implants-30281.click](https://www.criminalip.io/domain/report?scan_id=25812551) | Critical | US | 2025-05-05 02:36:01 (UTC) |
-| "dental-implants-for-seniors-36888.bond" | [http://dental-implants-for-seniors-36888.bond](https://www.criminalip.io/domain/report?scan_id=25812579) | Critical | US | 2025-05-05 02:37:23 (UTC) |
+| "N/A" | [http://nobugsystems.cloud](https://www.criminalip.io/domain/report?scan_id=25865899) | Critical | NL | 2025-05-06 02:30:43 (UTC) |
+| "Index of /" | [http://hotclaim.click](https://www.criminalip.io/domain/report?scan_id=25865902) | Critical | US | 2025-05-06 02:31:20 (UTC) |
+| "N/A" | [http://fameflip.club](https://www.criminalip.io/domain/report?scan_id=25865907) | Critical | US | 2025-05-06 02:32:05 (UTC) |
 
 ---
 

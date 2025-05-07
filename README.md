@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://nobugsystems.cloud](https://www.criminalip.io/domain/report?scan_id=25865899) | Critical | NL | 2025-05-06 02:30:43 (UTC) |
-| "Index of /" | [http://hotclaim.click](https://www.criminalip.io/domain/report?scan_id=25865902) | Critical | US | 2025-05-06 02:31:20 (UTC) |
-| "N/A" | [http://fameflip.club](https://www.criminalip.io/domain/report?scan_id=25865907) | Critical | US | 2025-05-06 02:32:05 (UTC) |
+| "pool-repair-service-2.click - pool repair service 2 자료와 정보" | [http://pool-repair-service-2.click](https://www.criminalip.io/domain/report?scan_id=25922096) | Critical | DE | 2025-05-07 02:31:35 (UTC) |
+| "Domain name juanlado.click is configured to use Shorten World Platform | ShortenWorld" | [http://juanlado.click](https://www.criminalip.io/domain/report?scan_id=25922102) | Safe | SG | 2025-05-07 02:32:56 (UTC) |
+| "502 Bad Gateway" | [http://profit-as-a-service.cloud](https://www.criminalip.io/domain/report?scan_id=25922110) | Critical | DE | 2025-05-07 02:34:09 (UTC) |
 
 ---
 

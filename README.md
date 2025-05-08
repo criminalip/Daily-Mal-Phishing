@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "pool-repair-service-2.click - pool repair service 2 자료와 정보" | [http://pool-repair-service-2.click](https://www.criminalip.io/domain/report?scan_id=25922096) | Critical | DE | 2025-05-07 02:31:35 (UTC) |
-| "Domain name juanlado.click is configured to use Shorten World Platform | ShortenWorld" | [http://juanlado.click](https://www.criminalip.io/domain/report?scan_id=25922102) | Safe | SG | 2025-05-07 02:32:56 (UTC) |
-| "502 Bad Gateway" | [http://profit-as-a-service.cloud](https://www.criminalip.io/domain/report?scan_id=25922110) | Critical | DE | 2025-05-07 02:34:09 (UTC) |
+| "solar-panel-jobs-37295.bond" | [http://solar-panel-jobs-37295.bond](https://www.criminalip.io/domain/report?scan_id=25982774) | Critical | US | 2025-05-08 02:32:56 (UTC) |
+| "DAPPS CRYPTO CHAIN" | [http://dappcryp.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=25982903) | Critical | US | 2025-05-08 02:33:42 (UTC) |
+| "casas-abandonadas-en-venta.bond" | [http://casas-abandonadas-en-venta.bond](https://www.criminalip.io/domain/report?scan_id=25982943) | Critical | US | 2025-05-08 02:35:43 (UTC) |
 
 ---
 

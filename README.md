@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "solar-panel-jobs-37295.bond" | [http://solar-panel-jobs-37295.bond](https://www.criminalip.io/domain/report?scan_id=25982774) | Critical | US | 2025-05-08 02:32:56 (UTC) |
-| "DAPPS CRYPTO CHAIN" | [http://dappcryp.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=25982903) | Critical | US | 2025-05-08 02:33:42 (UTC) |
-| "casas-abandonadas-en-venta.bond" | [http://casas-abandonadas-en-venta.bond](https://www.criminalip.io/domain/report?scan_id=25982943) | Critical | US | 2025-05-08 02:35:43 (UTC) |
+| "metroexpresslanes.net-hzy.win" | [http://metroexpresslanes.net-hzy.win](https://www.criminalip.io/domain/report?scan_id=26041902) | Critical | US | 2025-05-09 02:31:03 (UTC) |
+| "mypeachpass.com-seya.win" | [http://mypeachpass.com-seya.win](https://www.criminalip.io/domain/report?scan_id=26041905) | Critical | US | 2025-05-09 02:31:47 (UTC) |
+| "metroexpresslanes.net-nke.win" | [http://metroexpresslanes.net-nke.win](https://www.criminalip.io/domain/report?scan_id=26041913) | Critical | US | 2025-05-09 02:32:33 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "metroexpresslanes.net-hzy.win" | [http://metroexpresslanes.net-hzy.win](https://www.criminalip.io/domain/report?scan_id=26041902) | Critical | US | 2025-05-09 02:31:03 (UTC) |
-| "mypeachpass.com-seya.win" | [http://mypeachpass.com-seya.win](https://www.criminalip.io/domain/report?scan_id=26041905) | Critical | US | 2025-05-09 02:31:47 (UTC) |
-| "metroexpresslanes.net-nke.win" | [http://metroexpresslanes.net-nke.win](https://www.criminalip.io/domain/report?scan_id=26041913) | Critical | US | 2025-05-09 02:32:33 (UTC) |
+| "一个高手的网站" | [http://shiqi.asia](https://www.criminalip.io/domain/report?scan_id=26101975) | Critical | SG | 2025-05-10 02:30:41 (UTC) |
+| "Not Found" | [http://pub-6f5f5befe14e4f778ca278fd7e0a2abf.r2.dev](https://www.criminalip.io/domain/report?scan_id=26101984) | Critical | N/A | 2025-05-10 02:31:14 (UTC) |
+| "com-rfvh.win" | [http://com-rfvh.win](https://www.criminalip.io/domain/report?scan_id=26101993) | Critical | US | 2025-05-10 02:32:03 (UTC) |
 
 ---
 

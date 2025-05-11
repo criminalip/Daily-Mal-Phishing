@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "一个高手的网站" | [http://shiqi.asia](https://www.criminalip.io/domain/report?scan_id=26101975) | Critical | SG | 2025-05-10 02:30:41 (UTC) |
-| "Not Found" | [http://pub-6f5f5befe14e4f778ca278fd7e0a2abf.r2.dev](https://www.criminalip.io/domain/report?scan_id=26101984) | Critical | N/A | 2025-05-10 02:31:14 (UTC) |
-| "com-rfvh.win" | [http://com-rfvh.win](https://www.criminalip.io/domain/report?scan_id=26101993) | Critical | US | 2025-05-10 02:32:03 (UTC) |
+| "N/A" | [http://gdwghdeyi.asia](https://www.criminalip.io/domain/report?scan_id=26160671) | Critical | SC | 2025-05-11 02:30:44 (UTC) |
+| "Default Web Site Page" | [http://cao7000.biz](https://www.criminalip.io/domain/report?scan_id=26160707) | Critical | N/A | 2025-05-11 02:31:53 (UTC) |
+| "Default Web Site Page" | [http://atelier-176.biz](https://www.criminalip.io/domain/report?scan_id=26160721) | Critical | N/A | 2025-05-11 02:32:34 (UTC) |
 
 ---
 

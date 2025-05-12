@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://gdwghdeyi.asia](https://www.criminalip.io/domain/report?scan_id=26160671) | Critical | SC | 2025-05-11 02:30:44 (UTC) |
-| "Default Web Site Page" | [http://cao7000.biz](https://www.criminalip.io/domain/report?scan_id=26160707) | Critical | N/A | 2025-05-11 02:31:53 (UTC) |
-| "Default Web Site Page" | [http://atelier-176.biz](https://www.criminalip.io/domain/report?scan_id=26160721) | Critical | N/A | 2025-05-11 02:32:34 (UTC) |
+| "txdmv.gov-zv.xin" | [http://txdmv.gov-zv.xin](https://www.criminalip.io/domain/report?scan_id=26218013) | Critical | N/A | 2025-05-12 02:30:50 (UTC) |
+| "WhatsApp Web" | [http://whtassapp-ss.com](https://www.criminalip.io/domain/report?scan_id=26218030) | Critical | HK | 2025-05-12 02:32:03 (UTC) |
+| "ca-fhr.win" | [http://ca-fhr.win](https://www.criminalip.io/domain/report?scan_id=26218048) | Critical | US | 2025-05-12 02:33:04 (UTC) |
 
 ---
 

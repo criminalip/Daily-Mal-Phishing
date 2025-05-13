@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "txdmv.gov-zv.xin" | [http://txdmv.gov-zv.xin](https://www.criminalip.io/domain/report?scan_id=26218013) | Critical | N/A | 2025-05-12 02:30:50 (UTC) |
-| "WhatsApp Web" | [http://whtassapp-ss.com](https://www.criminalip.io/domain/report?scan_id=26218030) | Critical | HK | 2025-05-12 02:32:03 (UTC) |
-| "ca-fhr.win" | [http://ca-fhr.win](https://www.criminalip.io/domain/report?scan_id=26218048) | Critical | US | 2025-05-12 02:33:04 (UTC) |
+| "1-roof-repair-5.click" | [http://1-roof-repair-5.click](https://www.criminalip.io/domain/report?scan_id=26282216) | Critical | US | 2025-05-13 02:30:42 (UTC) |
+| "online-courses-classes-92324.bond" | [http://online-courses-classes-92324.bond](https://www.criminalip.io/domain/report?scan_id=26282288) | Critical | US | 2025-05-13 02:33:49 (UTC) |
+| "egg-packing-jobs-58844.bond" | [http://egg-packing-jobs-58844.bond](https://www.criminalip.io/domain/report?scan_id=26282420) | Critical | US | 2025-05-13 02:40:57 (UTC) |
 
 ---
 

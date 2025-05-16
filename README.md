@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://opgiws.club](https://www.criminalip.io/domain/report?scan_id=26402953) | Critical | HK | 2025-05-15 02:30:59 (UTC) |
-| "404 Not Found" | [http://acimhv.club](https://www.criminalip.io/domain/report?scan_id=26402985) | Critical | HK | 2025-05-15 02:33:40 (UTC) |
-| "404 Not Found" | [http://koohik.club](https://www.criminalip.io/domain/report?scan_id=26402995) | Critical | HK | 2025-05-15 02:34:24 (UTC) |
+| "404 Not Found" | [http://ywgkfu.club](https://www.criminalip.io/domain/report?scan_id=26465549) | Critical | HK | 2025-05-16 02:30:46 (UTC) |
+| "Deployment Unavailable" | [http://newkiamo05.vercel.app](https://www.criminalip.io/domain/report?scan_id=26465553) | Critical | US | 2025-05-16 02:31:38 (UTC) |
+| "Parked Domain name on Hostinger DNS system" | [http://s888.asia](https://www.criminalip.io/domain/report?scan_id=26465562) | Critical | LT | 2025-05-16 02:33:14 (UTC) |
 
 ---
 

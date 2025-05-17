@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://ywgkfu.club](https://www.criminalip.io/domain/report?scan_id=26465549) | Critical | HK | 2025-05-16 02:30:46 (UTC) |
-| "Deployment Unavailable" | [http://newkiamo05.vercel.app](https://www.criminalip.io/domain/report?scan_id=26465553) | Critical | US | 2025-05-16 02:31:38 (UTC) |
-| "Parked Domain name on Hostinger DNS system" | [http://s888.asia](https://www.criminalip.io/domain/report?scan_id=26465562) | Critical | LT | 2025-05-16 02:33:14 (UTC) |
+| "404 Not Found" | [http://zoomfr.com](https://www.criminalip.io/domain/report?scan_id=26539228) | Critical | HK | 2025-05-17 02:30:45 (UTC) |
+| "Home - Webeyez" | [http://appwebeyez.click](https://www.criminalip.io/domain/report?scan_id=26539695) | Safe | US | 2025-05-17 02:34:30 (UTC) |
+| "PrepoRisar - Servizio Auto e Ricambi | Milano" | [http://preporisar.center](https://www.criminalip.io/domain/report?scan_id=26539824) | Critical | N/A | 2025-05-17 02:35:25 (UTC) |
 
 ---
 

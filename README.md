@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://zoomfr.com](https://www.criminalip.io/domain/report?scan_id=26539228) | Critical | HK | 2025-05-17 02:30:45 (UTC) |
-| "Home - Webeyez" | [http://appwebeyez.click](https://www.criminalip.io/domain/report?scan_id=26539695) | Safe | US | 2025-05-17 02:34:30 (UTC) |
-| "PrepoRisar - Servizio Auto e Ricambi | Milano" | [http://preporisar.center](https://www.criminalip.io/domain/report?scan_id=26539824) | Critical | N/A | 2025-05-17 02:35:25 (UTC) |
+| "e-zpassny.com-wqe.xin" | [http://e-zpassny.com-wqe.xin](https://www.criminalip.io/domain/report?scan_id=26613825) | Critical | N/A | 2025-05-18 02:34:20 (UTC) |
+| "七博入口 - 多个平台登录网址入口" | [http://oubo668.com](https://www.criminalip.io/domain/report?scan_id=26613850) | Critical | US | 2025-05-18 02:35:11 (UTC) |
+| "N/A" | [http://s-l.agency](https://www.criminalip.io/domain/report?scan_id=26614038) | Critical | RU | 2025-05-18 02:38:31 (UTC) |
 
 ---
 

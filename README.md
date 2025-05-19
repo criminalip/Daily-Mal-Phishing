@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "e-zpassny.com-wqe.xin" | [http://e-zpassny.com-wqe.xin](https://www.criminalip.io/domain/report?scan_id=26613825) | Critical | N/A | 2025-05-18 02:34:20 (UTC) |
-| "七博入口 - 多个平台登录网址入口" | [http://oubo668.com](https://www.criminalip.io/domain/report?scan_id=26613850) | Critical | US | 2025-05-18 02:35:11 (UTC) |
-| "N/A" | [http://s-l.agency](https://www.criminalip.io/domain/report?scan_id=26614038) | Critical | RU | 2025-05-18 02:38:31 (UTC) |
+| "Site en construction" | [http://bati-web.com](https://www.criminalip.io/domain/report?scan_id=26687766) | Critical | FR | 2025-05-19 02:31:09 (UTC) |
+| "欧美黑人一级毛片-男女全黄一级带免费-韩国一级做a爱性色毛片 - JJXXXAV" | [http://lt880.com](https://www.criminalip.io/domain/report?scan_id=26687799) | Critical | SG | 2025-05-19 02:32:02 (UTC) |
+| "Unknown address" | [http://jewls.art](https://www.criminalip.io/domain/report?scan_id=26687812) | Critical | DE | 2025-05-19 02:32:48 (UTC) |
 
 ---
 

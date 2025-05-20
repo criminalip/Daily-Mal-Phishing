@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site en construction" | [http://bati-web.com](https://www.criminalip.io/domain/report?scan_id=26687766) | Critical | FR | 2025-05-19 02:31:09 (UTC) |
-| "欧美黑人一级毛片-男女全黄一级带免费-韩国一级做a爱性色毛片 - JJXXXAV" | [http://lt880.com](https://www.criminalip.io/domain/report?scan_id=26687799) | Critical | SG | 2025-05-19 02:32:02 (UTC) |
-| "Unknown address" | [http://jewls.art](https://www.criminalip.io/domain/report?scan_id=26687812) | Critical | DE | 2025-05-19 02:32:48 (UTC) |
+| "nursing-and-caregiving-near-me-24577.click - nursing and caregiving near me 24577 자료와 정보" | [http://nursing-and-caregiving-near-me-24577.click](https://www.criminalip.io/domain/report?scan_id=26757773) | Critical | DE | 2025-05-20 02:30:48 (UTC) |
+| "sedan-auto-sedans-cardeals.click <!-- Page created in 0.060277 seconds. [no comment] -->" | [http://sedan-auto-sedans-cardeals.click](https://www.criminalip.io/domain/report?scan_id=26758156) | Critical | US | 2025-05-20 02:36:25 (UTC) |
+| "etcjwr.win" | [http://etcjwr.win](https://www.criminalip.io/domain/report?scan_id=26758823) | Critical | US | 2025-05-20 02:39:53 (UTC) |
 
 ---
 

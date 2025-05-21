@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "nursing-and-caregiving-near-me-24577.click - nursing and caregiving near me 24577 자료와 정보" | [http://nursing-and-caregiving-near-me-24577.click](https://www.criminalip.io/domain/report?scan_id=26757773) | Critical | DE | 2025-05-20 02:30:48 (UTC) |
-| "sedan-auto-sedans-cardeals.click <!-- Page created in 0.060277 seconds. [no comment] -->" | [http://sedan-auto-sedans-cardeals.click](https://www.criminalip.io/domain/report?scan_id=26758156) | Critical | US | 2025-05-20 02:36:25 (UTC) |
-| "etcjwr.win" | [http://etcjwr.win](https://www.criminalip.io/domain/report?scan_id=26758823) | Critical | US | 2025-05-20 02:39:53 (UTC) |
+| "One moment, please..." | [http://forloveandnight.cloud](https://www.criminalip.io/domain/report?scan_id=26832150) | Critical | RO | 2025-05-21 02:31:50 (UTC) |
+| " " | [http://mashh.art](https://www.criminalip.io/domain/report?scan_id=26832160) | Critical | US | 2025-05-21 02:32:42 (UTC) |
+| "Site is created successfully!" | [http://agptfun.art](https://www.criminalip.io/domain/report?scan_id=26832175) | Critical | US | 2025-05-21 02:33:50 (UTC) |
 
 ---
 

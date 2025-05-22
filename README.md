@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "One moment, please..." | [http://forloveandnight.cloud](https://www.criminalip.io/domain/report?scan_id=26832150) | Critical | RO | 2025-05-21 02:31:50 (UTC) |
-| " " | [http://mashh.art](https://www.criminalip.io/domain/report?scan_id=26832160) | Critical | US | 2025-05-21 02:32:42 (UTC) |
-| "Site is created successfully!" | [http://agptfun.art](https://www.criminalip.io/domain/report?scan_id=26832175) | Critical | US | 2025-05-21 02:33:50 (UTC) |
+| "bad-credit-loans7-pt-mb11.click" | [http://bad-credit-loans7-pt-mb11.click](https://www.criminalip.io/domain/report?scan_id=26902613) | Critical | US | 2025-05-22 02:38:15 (UTC) |
+| "campuscostabrava.cat | Registrar a DonDominio" | [http://campuscostabrava.cat](https://www.criminalip.io/domain/report?scan_id=26902931) | Critical | ES | 2025-05-22 02:39:35 (UTC) |
+| "Home" | [http://jaymorristd.com](https://www.criminalip.io/domain/report?scan_id=26903227) | Critical | US | 2025-05-22 02:40:28 (UTC) |
 
 ---
 

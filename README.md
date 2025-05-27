@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "One moment, please..." | [http://trustsolar.africa](https://www.criminalip.io/domain/report?scan_id=27172021) | Critical | ZA | 2025-05-26 02:33:09 (UTC) |
-| "太阳成集团tyc151cc(中国)股份有限公司" | [http://hudongg.com](https://www.criminalip.io/domain/report?scan_id=27172034) | Critical | US | 2025-05-26 02:34:35 (UTC) |
-| "400 Bad Request" | [http://56286.bike](https://www.criminalip.io/domain/report?scan_id=27172195) | Critical | SG | 2025-05-26 02:37:45 (UTC) |
+| "金彩汇 - 首页" | [http://zhoujiyimin.com](https://www.criminalip.io/domain/report?scan_id=27240764) | Critical | ZA | 2025-05-27 02:31:07 (UTC) |
+| "Basket.asia: The domain name Basket.asia is for sale" | [http://basket.asia](https://www.criminalip.io/domain/report?scan_id=27240780) | Safe | US | 2025-05-27 02:32:33 (UTC) |
+| "澄迈屎呕会展服务有限公司" | [http://y4y9.com](https://www.criminalip.io/domain/report?scan_id=27240849) | Critical | US | 2025-05-27 02:37:48 (UTC) |
 
 ---
 

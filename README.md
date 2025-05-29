@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://tarunsingh7985.github.io](https://www.criminalip.io/domain/report?scan_id=27315385) | Critical | US | 2025-05-28 02:36:21 (UTC) |
-| "matchmaking-marriage-matching-17240.bond" | [http://matchmaking-marriage-matching-17240.bond](https://www.criminalip.io/domain/report?scan_id=27316326) | Critical | US | 2025-05-28 02:41:49 (UTC) |
-| "Attention Required! | Cloudflare" | [http://11kko.bond](https://www.criminalip.io/domain/report?scan_id=27316403) | Critical | HK | 2025-05-28 02:45:17 (UTC) |
+| "404 Not Found" | [http://youshuwenhua.com](https://www.criminalip.io/domain/report?scan_id=27392512) | Critical | US | 2025-05-29 02:30:51 (UTC) |
+| "به نت افراز خوش آمدید" | [http://alikafemilan.click](https://www.criminalip.io/domain/report?scan_id=27393018) | Critical | IR | 2025-05-29 02:31:46 (UTC) |
+| "Facebook - log in or sign up" | [http://losisii.click](https://www.criminalip.io/domain/report?scan_id=27393598) | Safe | US | 2025-05-29 02:32:42 (UTC) |
 
 ---
 

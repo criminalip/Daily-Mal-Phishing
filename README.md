@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://youshuwenhua.com](https://www.criminalip.io/domain/report?scan_id=27392512) | Critical | US | 2025-05-29 02:30:51 (UTC) |
-| "به نت افراز خوش آمدید" | [http://alikafemilan.click](https://www.criminalip.io/domain/report?scan_id=27393018) | Critical | IR | 2025-05-29 02:31:46 (UTC) |
-| "Facebook - log in or sign up" | [http://losisii.click](https://www.criminalip.io/domain/report?scan_id=27393598) | Safe | US | 2025-05-29 02:32:42 (UTC) |
+| "N/A" | [http://thechemistryacademy.com](https://www.criminalip.io/domain/report?scan_id=27460971) | Critical | DE | 2025-05-30 02:31:05 (UTC) |
+| "Mashburnpatentlaw" | [http://mashburnpatentlaw.com](https://www.criminalip.io/domain/report?scan_id=27461264) | Critical | NL | 2025-05-30 02:32:09 (UTC) |
+| "28473-online-school-college.asia - 28473 online school college 자료와 정보" | [http://28473-online-school-college.asia](https://www.criminalip.io/domain/report?scan_id=27461407) | Critical | DE | 2025-05-30 02:33:26 (UTC) |
 
 ---
 

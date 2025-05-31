@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://thechemistryacademy.com](https://www.criminalip.io/domain/report?scan_id=27460971) | Critical | DE | 2025-05-30 02:31:05 (UTC) |
-| "Mashburnpatentlaw" | [http://mashburnpatentlaw.com](https://www.criminalip.io/domain/report?scan_id=27461264) | Critical | NL | 2025-05-30 02:32:09 (UTC) |
-| "28473-online-school-college.asia - 28473 online school college 자료와 정보" | [http://28473-online-school-college.asia](https://www.criminalip.io/domain/report?scan_id=27461407) | Critical | DE | 2025-05-30 02:33:26 (UTC) |
+| "403 Forbidden" | [http://sbisec3-co-jp-wkanttgvziklaannhfaceriypyzrxypxe.jpps.asia](https://www.criminalip.io/domain/report?scan_id=27533207) | Critical | N/A | 2025-05-31 02:30:51 (UTC) |
+| "www.hfwgw.com" | [http://hfwgw.com](https://www.criminalip.io/domain/report?scan_id=27533939) | Critical | US | 2025-05-31 02:34:31 (UTC) |
+| "Vercel Security Checkpoint" | [http://sellcentere.vercel.app](https://www.criminalip.io/domain/report?scan_id=27534076) | Critical | US | 2025-05-31 02:35:42 (UTC) |
 
 ---
 

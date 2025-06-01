@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://sbisec3-co-jp-wkanttgvziklaannhfaceriypyzrxypxe.jpps.asia](https://www.criminalip.io/domain/report?scan_id=27533207) | Critical | N/A | 2025-05-31 02:30:51 (UTC) |
-| "www.hfwgw.com" | [http://hfwgw.com](https://www.criminalip.io/domain/report?scan_id=27533939) | Critical | US | 2025-05-31 02:34:31 (UTC) |
-| "Vercel Security Checkpoint" | [http://sellcentere.vercel.app](https://www.criminalip.io/domain/report?scan_id=27534076) | Critical | US | 2025-05-31 02:35:42 (UTC) |
+| "SSL Error" | [http://alienghost.com](https://www.criminalip.io/domain/report?scan_id=27604402) | Critical | IT | 2025-06-01 02:31:44 (UTC) |
+| "meet-new-people-87191.bond" | [http://meet-new-people-87191.bond](https://www.criminalip.io/domain/report?scan_id=27604414) | Critical | US | 2025-06-01 02:33:11 (UTC) |
+| "N/A" | [http://p59zb460wq.christmas](https://www.criminalip.io/domain/report?scan_id=27604527) | Critical | US | 2025-06-01 02:34:07 (UTC) |
 
 ---
 

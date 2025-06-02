@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "SSL Error" | [http://alienghost.com](https://www.criminalip.io/domain/report?scan_id=27604402) | Critical | IT | 2025-06-01 02:31:44 (UTC) |
-| "meet-new-people-87191.bond" | [http://meet-new-people-87191.bond](https://www.criminalip.io/domain/report?scan_id=27604414) | Critical | US | 2025-06-01 02:33:11 (UTC) |
-| "N/A" | [http://p59zb460wq.christmas](https://www.criminalip.io/domain/report?scan_id=27604527) | Critical | US | 2025-06-01 02:34:07 (UTC) |
+| "Robot Challenge Screen" | [http://shop1668.com](https://www.criminalip.io/domain/report?scan_id=27662540) | Critical | US | 2025-06-02 02:30:57 (UTC) |
+| "work-home-agent-pl.click" | [http://work-home-agent-pl.click](https://www.criminalip.io/domain/report?scan_id=27662572) | Critical | US | 2025-06-02 02:31:59 (UTC) |
+| "top-roller-shutter-service.click" | [http://top-roller-shutter-service.click](https://www.criminalip.io/domain/report?scan_id=27662650) | Critical | US | 2025-06-02 02:35:01 (UTC) |
 
 ---
 

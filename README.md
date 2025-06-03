@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Robot Challenge Screen" | [http://shop1668.com](https://www.criminalip.io/domain/report?scan_id=27662540) | Critical | US | 2025-06-02 02:30:57 (UTC) |
-| "work-home-agent-pl.click" | [http://work-home-agent-pl.click](https://www.criminalip.io/domain/report?scan_id=27662572) | Critical | US | 2025-06-02 02:31:59 (UTC) |
-| "top-roller-shutter-service.click" | [http://top-roller-shutter-service.click](https://www.criminalip.io/domain/report?scan_id=27662650) | Critical | US | 2025-06-02 02:35:01 (UTC) |
+| "恭喜，站点创建成功！" | [http://550521.com](https://www.criminalip.io/domain/report?scan_id=27743894) | Critical | US | 2025-06-03 02:31:19 (UTC) |
+| "food-tasting-jobs-58524.bond" | [http://food-tasting-jobs-58524.bond](https://www.criminalip.io/domain/report?scan_id=27744028) | Critical | US | 2025-06-03 02:36:46 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://pancakesswap.top](https://www.criminalip.io/domain/report?scan_id=27744066) | Critical | N/A | 2025-06-03 02:37:28 (UTC) |
 
 ---
 

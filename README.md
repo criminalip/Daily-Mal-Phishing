@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Squarespace - Domain Not Claimed" | [http://csl.art](https://www.criminalip.io/domain/report?scan_id=27823433) | Critical | US | 2025-06-04 02:35:02 (UTC) |
-| "恭喜，站点创建成功！" | [http://220813.com](https://www.criminalip.io/domain/report?scan_id=27823521) | Critical | US | 2025-06-04 02:40:06 (UTC) |
-| "ebike-electric-bicycle-92650.bond" | [http://ebike-electric-bicycle-92650.bond](https://www.criminalip.io/domain/report?scan_id=27823528) | Critical | US | 2025-06-04 02:41:00 (UTC) |
+| "N/A" | [http://architettolilianaadorante.cloud](https://www.criminalip.io/domain/report?scan_id=27903131) | Critical | IT | 2025-06-05 02:32:03 (UTC) |
+| "N/A" | [http://sinfoniahormonal.cloud](https://www.criminalip.io/domain/report?scan_id=27903178) | Critical | DE | 2025-06-05 02:33:05 (UTC) |
+| "凌夜邮箱 :: Welcome to 凌夜邮箱" | [http://sunsetglow.asia](https://www.criminalip.io/domain/report?scan_id=27903334) | Critical | CA | 2025-06-05 02:36:12 (UTC) |
 
 ---
 

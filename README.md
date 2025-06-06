@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://architettolilianaadorante.cloud](https://www.criminalip.io/domain/report?scan_id=27903131) | Critical | IT | 2025-06-05 02:32:03 (UTC) |
-| "N/A" | [http://sinfoniahormonal.cloud](https://www.criminalip.io/domain/report?scan_id=27903178) | Critical | DE | 2025-06-05 02:33:05 (UTC) |
-| "凌夜邮箱 :: Welcome to 凌夜邮箱" | [http://sunsetglow.asia](https://www.criminalip.io/domain/report?scan_id=27903334) | Critical | CA | 2025-06-05 02:36:12 (UTC) |
+| "Google" | [http://siriusverlag.com](https://www.criminalip.io/domain/report?scan_id=27983404) | Safe | US | 2025-06-06 02:38:13 (UTC) |
+| "Parked Domain name on Hostinger DNS system" | [http://inglesemcasa.com](https://www.criminalip.io/domain/report?scan_id=27983505) | Critical | LT | 2025-06-06 02:39:19 (UTC) |
+| "Just a moment..." | [http://nakipali.com](https://www.criminalip.io/domain/report?scan_id=27983566) | Moderate | US | 2025-06-06 02:42:39 (UTC) |
 
 ---
 

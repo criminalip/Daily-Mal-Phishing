@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Google" | [http://siriusverlag.com](https://www.criminalip.io/domain/report?scan_id=27983404) | Safe | US | 2025-06-06 02:38:13 (UTC) |
-| "Parked Domain name on Hostinger DNS system" | [http://inglesemcasa.com](https://www.criminalip.io/domain/report?scan_id=27983505) | Critical | LT | 2025-06-06 02:39:19 (UTC) |
-| "Just a moment..." | [http://nakipali.com](https://www.criminalip.io/domain/report?scan_id=27983566) | Moderate | US | 2025-06-06 02:42:39 (UTC) |
+| "Zenithfashion" | [http://zenithfashion.asia](https://www.criminalip.io/domain/report?scan_id=28047286) | Critical | HK | 2025-06-07 02:30:59 (UTC) |
+| "404 Not Found" | [http://allegrolokalnie.pl-oferta7726.icu](https://www.criminalip.io/domain/report?scan_id=28048080) | Critical | N/A | 2025-06-07 02:34:23 (UTC) |
+| "N/A" | [http://allegro.pl-oferta3399735.sbs](https://www.criminalip.io/domain/report?scan_id=28048187) | Critical | N/A | 2025-06-07 02:35:12 (UTC) |
 
 ---
 

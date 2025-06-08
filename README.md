@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Zenithfashion" | [http://zenithfashion.asia](https://www.criminalip.io/domain/report?scan_id=28047286) | Critical | HK | 2025-06-07 02:30:59 (UTC) |
-| "404 Not Found" | [http://allegrolokalnie.pl-oferta7726.icu](https://www.criminalip.io/domain/report?scan_id=28048080) | Critical | N/A | 2025-06-07 02:34:23 (UTC) |
-| "N/A" | [http://allegro.pl-oferta3399735.sbs](https://www.criminalip.io/domain/report?scan_id=28048187) | Critical | N/A | 2025-06-07 02:35:12 (UTC) |
+| "N/A" | [http://allegro.pl-oferta1227570.icu](https://www.criminalip.io/domain/report?scan_id=28106004) | Critical | N/A | 2025-06-08 02:31:04 (UTC) |
+| "Attention Required! | Cloudflare" | [http://jaccs-talouo.aqpjw.cn](https://www.criminalip.io/domain/report?scan_id=28106129) | Critical | N/A | 2025-06-08 02:32:22 (UTC) |
+| "404: NOT_FOUND" | [http://lightloopbe.vercel.app](https://www.criminalip.io/domain/report?scan_id=28106371) | Critical | US | 2025-06-08 02:33:01 (UTC) |
 
 ---
 

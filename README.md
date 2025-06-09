@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta1227570.icu](https://www.criminalip.io/domain/report?scan_id=28106004) | Critical | N/A | 2025-06-08 02:31:04 (UTC) |
-| "Attention Required! | Cloudflare" | [http://jaccs-talouo.aqpjw.cn](https://www.criminalip.io/domain/report?scan_id=28106129) | Critical | N/A | 2025-06-08 02:32:22 (UTC) |
-| "404: NOT_FOUND" | [http://lightloopbe.vercel.app](https://www.criminalip.io/domain/report?scan_id=28106371) | Critical | US | 2025-06-08 02:33:01 (UTC) |
+| "tardive-dyskinesia-treatment-54214.bond" | [http://tardive-dyskinesia-treatment-54214.bond](https://www.criminalip.io/domain/report?scan_id=28168102) | Critical | US | 2025-06-09 02:31:11 (UTC) |
+| "Domain not found" | [http://christiansen-christiansen.bond](https://www.criminalip.io/domain/report?scan_id=28168145) | Critical | US | 2025-06-09 02:33:59 (UTC) |
+| "plus-size-clothes-95519.bond" | [http://plus-size-clothes-95519.bond](https://www.criminalip.io/domain/report?scan_id=28168156) | Critical | US | 2025-06-09 02:35:02 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "tardive-dyskinesia-treatment-54214.bond" | [http://tardive-dyskinesia-treatment-54214.bond](https://www.criminalip.io/domain/report?scan_id=28168102) | Critical | US | 2025-06-09 02:31:11 (UTC) |
-| "Domain not found" | [http://christiansen-christiansen.bond](https://www.criminalip.io/domain/report?scan_id=28168145) | Critical | US | 2025-06-09 02:33:59 (UTC) |
-| "plus-size-clothes-95519.bond" | [http://plus-size-clothes-95519.bond](https://www.criminalip.io/domain/report?scan_id=28168156) | Critical | US | 2025-06-09 02:35:02 (UTC) |
+| "applehelp.center" | [http://applehelp.center](https://www.criminalip.io/domain/report?scan_id=28229950) | Critical | N/A | 2025-06-10 02:31:04 (UTC) |
+| "annuity-income-calculator-uk-84744.click - annuity income calculator uk 84744 자료와 정보" | [http://annuity-income-calculator-uk-84744.click](https://www.criminalip.io/domain/report?scan_id=28229991) | Critical | DE | 2025-06-10 02:34:27 (UTC) |
+| "find-online-psychiatrist-0607.asia - find online psychiatrist 0607 자료와 정보" | [http://find-online-psychiatrist-0607.asia](https://www.criminalip.io/domain/report?scan_id=28230008) | Critical | DE | 2025-06-10 02:35:26 (UTC) |
 
 ---
 

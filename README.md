@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "applehelp.center" | [http://applehelp.center](https://www.criminalip.io/domain/report?scan_id=28229950) | Critical | N/A | 2025-06-10 02:31:04 (UTC) |
-| "annuity-income-calculator-uk-84744.click - annuity income calculator uk 84744 자료와 정보" | [http://annuity-income-calculator-uk-84744.click](https://www.criminalip.io/domain/report?scan_id=28229991) | Critical | DE | 2025-06-10 02:34:27 (UTC) |
-| "find-online-psychiatrist-0607.asia - find online psychiatrist 0607 자료와 정보" | [http://find-online-psychiatrist-0607.asia](https://www.criminalip.io/domain/report?scan_id=28230008) | Critical | DE | 2025-06-10 02:35:26 (UTC) |
+| "PG娱乐城" | [http://66683.club](https://www.criminalip.io/domain/report?scan_id=28298169) | Critical | LU | 2025-06-11 02:31:52 (UTC) |
+| "404 Not Found" | [http://capjfx.club](https://www.criminalip.io/domain/report?scan_id=28298181) | Critical | HK | 2025-06-11 02:32:35 (UTC) |
+| "开云app官网下载入口版" | [http://mmsstore.com](https://www.criminalip.io/domain/report?scan_id=28298195) | Critical | ZA | 2025-06-11 02:33:32 (UTC) |
 
 ---
 

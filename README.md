@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "欢迎来到公赌船jcjc710-首页(欢迎您)" | [http://caishipu.com](https://www.criminalip.io/domain/report?scan_id=28367231) | Critical | US | 2025-06-12 02:30:57 (UTC) |
-| "Аккаунт заблокирован" | [http://s995243.ha003.t.mydomain.zone](https://www.criminalip.io/domain/report?scan_id=28367238) | Critical | RU | 2025-06-12 02:31:53 (UTC) |
-| "Celestial Chronicles - June Edition" | [http://update-trezor.com](https://www.criminalip.io/domain/report?scan_id=28367243) | Critical | RU | 2025-06-12 02:32:39 (UTC) |
+| "404 Not Found" | [http://vfanf.jqxyqdioa.es](https://www.criminalip.io/domain/report?scan_id=28439332) | Critical | N/A | 2025-06-13 02:30:40 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://msimkin123.wixsite.com](https://www.criminalip.io/domain/report?scan_id=28439888) | Critical | US | 2025-06-13 02:37:03 (UTC) |
+| "安全下载" | [http://59682.asia](https://www.criminalip.io/domain/report?scan_id=28440302) | Critical | HK | 2025-06-13 02:41:00 (UTC) |
 
 ---
 

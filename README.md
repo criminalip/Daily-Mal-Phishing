@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://vfanf.jqxyqdioa.es](https://www.criminalip.io/domain/report?scan_id=28439332) | Critical | N/A | 2025-06-13 02:30:40 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://msimkin123.wixsite.com](https://www.criminalip.io/domain/report?scan_id=28439888) | Critical | US | 2025-06-13 02:37:03 (UTC) |
-| "安全下载" | [http://59682.asia](https://www.criminalip.io/domain/report?scan_id=28440302) | Critical | HK | 2025-06-13 02:41:00 (UTC) |
+| "Virtuální servery s nejlepší administrací pro VPS ⬅️ | Váš-Hosting" | [http://spatenka.art](https://www.criminalip.io/domain/report?scan_id=28509410) | Safe | CZ | 2025-06-14 02:34:23 (UTC) |
+| "404 Not Found" | [http://942598.com](https://www.criminalip.io/domain/report?scan_id=28509432) | Critical | HK | 2025-06-14 02:37:35 (UTC) |
+| "2025最新成人视频,亚洲综合一区二区,高清看片-少女AV" | [http://shise110.com](https://www.criminalip.io/domain/report?scan_id=28509436) | Critical | MU | 2025-06-14 02:38:48 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Virtuální servery s nejlepší administrací pro VPS ⬅️ | Váš-Hosting" | [http://spatenka.art](https://www.criminalip.io/domain/report?scan_id=28509410) | Safe | CZ | 2025-06-14 02:34:23 (UTC) |
-| "404 Not Found" | [http://942598.com](https://www.criminalip.io/domain/report?scan_id=28509432) | Critical | HK | 2025-06-14 02:37:35 (UTC) |
-| "2025最新成人视频,亚洲综合一区二区,高清看片-少女AV" | [http://shise110.com](https://www.criminalip.io/domain/report?scan_id=28509436) | Critical | MU | 2025-06-14 02:38:48 (UTC) |
+| "N/A" | [http://allegrolokalnie.oferta-59515961.sbs](https://www.criminalip.io/domain/report?scan_id=28577171) | Critical | N/A | 2025-06-15 02:35:52 (UTC) |
+| "tanseki-guide.com-Domain Marketplace : Buy & Sell Domains" | [http://tanseki-guide.com](https://www.criminalip.io/domain/report?scan_id=28577254) | Safe | KR | 2025-06-15 02:46:53 (UTC) |
+| "404 Not Found" | [http://6sb.woltnq.es](https://www.criminalip.io/domain/report?scan_id=28577285) | Critical | N/A | 2025-06-15 02:48:46 (UTC) |
 
 ---
 

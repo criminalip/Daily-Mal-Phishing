@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.oferta-59515961.sbs](https://www.criminalip.io/domain/report?scan_id=28577171) | Critical | N/A | 2025-06-15 02:35:52 (UTC) |
-| "tanseki-guide.com-Domain Marketplace : Buy & Sell Domains" | [http://tanseki-guide.com](https://www.criminalip.io/domain/report?scan_id=28577254) | Safe | KR | 2025-06-15 02:46:53 (UTC) |
-| "404 Not Found" | [http://6sb.woltnq.es](https://www.criminalip.io/domain/report?scan_id=28577285) | Critical | N/A | 2025-06-15 02:48:46 (UTC) |
+| "Site not found · GitHub Pages" | [http://alishbaprogrammer.github.io](https://www.criminalip.io/domain/report?scan_id=28642820) | Critical | US | 2025-06-16 02:33:01 (UTC) |
+| "Non-compliance ICP Filing" | [http://apikey.asia](https://www.criminalip.io/domain/report?scan_id=28642846) | Critical | CN | 2025-06-16 02:34:18 (UTC) |
+| "Dominio no encontrado" | [http://nayra.art](https://www.criminalip.io/domain/report?scan_id=28642865) | Critical | ES | 2025-06-16 02:36:12 (UTC) |
 
 ---
 

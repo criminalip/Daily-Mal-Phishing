@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "matchmaking-marriage-matching-91069.bond" | [http://matchmaking-marriage-matching-91069.bond](https://www.criminalip.io/domain/report?scan_id=28712025) | Critical | US | 2025-06-17 02:32:53 (UTC) |
-| "蜜爱APP" | [http://82963.bike](https://www.criminalip.io/domain/report?scan_id=28712038) | Dangerous | US | 2025-06-17 02:34:59 (UTC) |
-| "Site not found · GitHub Pages" | [http://marcojames8909.github.io](https://www.criminalip.io/domain/report?scan_id=28712052) | Critical | US | 2025-06-17 02:36:28 (UTC) |
+| "tardive-dyskinesia-treatment-91183.bond" | [http://tardive-dyskinesia-treatment-91183.bond](https://www.criminalip.io/domain/report?scan_id=28781870) | Critical | US | 2025-06-18 02:33:05 (UTC) |
+| "tardive-dyskinesia-treatment-74001.bond" | [http://tardive-dyskinesia-treatment-74001.bond](https://www.criminalip.io/domain/report?scan_id=28781881) | Critical | US | 2025-06-18 02:34:45 (UTC) |
+| "security-guard-jobs-21423.bond" | [http://security-guard-jobs-21423.bond](https://www.criminalip.io/domain/report?scan_id=28781896) | Critical | US | 2025-06-18 02:38:42 (UTC) |
 
 ---
 

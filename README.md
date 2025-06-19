@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "tardive-dyskinesia-treatment-91183.bond" | [http://tardive-dyskinesia-treatment-91183.bond](https://www.criminalip.io/domain/report?scan_id=28781870) | Critical | US | 2025-06-18 02:33:05 (UTC) |
-| "tardive-dyskinesia-treatment-74001.bond" | [http://tardive-dyskinesia-treatment-74001.bond](https://www.criminalip.io/domain/report?scan_id=28781881) | Critical | US | 2025-06-18 02:34:45 (UTC) |
-| "security-guard-jobs-21423.bond" | [http://security-guard-jobs-21423.bond](https://www.criminalip.io/domain/report?scan_id=28781896) | Critical | US | 2025-06-18 02:38:42 (UTC) |
+| "403 Forbidden" | [http://security-surveillance-cameras-28960.bond](https://www.criminalip.io/domain/report?scan_id=28850909) | Critical | US | 2025-06-19 02:30:45 (UTC) |
+| "403 Forbidden" | [http://fixed-income-investments-50049.bond](https://www.criminalip.io/domain/report?scan_id=28850918) | Critical | US | 2025-06-19 02:32:40 (UTC) |
+| "Instagram Clone" | [http://www.react-next-js-instagram-clone.vercel.app](https://www.criminalip.io/domain/report?scan_id=28850929) | Critical | US | 2025-06-19 02:34:17 (UTC) |
 
 ---
 

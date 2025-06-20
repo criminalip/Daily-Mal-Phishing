@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://security-surveillance-cameras-28960.bond](https://www.criminalip.io/domain/report?scan_id=28850909) | Critical | US | 2025-06-19 02:30:45 (UTC) |
-| "403 Forbidden" | [http://fixed-income-investments-50049.bond](https://www.criminalip.io/domain/report?scan_id=28850918) | Critical | US | 2025-06-19 02:32:40 (UTC) |
-| "Instagram Clone" | [http://www.react-next-js-instagram-clone.vercel.app](https://www.criminalip.io/domain/report?scan_id=28850929) | Critical | US | 2025-06-19 02:34:17 (UTC) |
+| "ethereal.cat" | [http://ethereal.cat](https://www.criminalip.io/domain/report?scan_id=28917349) | Critical | FR | 2025-06-20 02:30:43 (UTC) |
+| "N/A" | [http://snqvqmyrea.duckdns.org](https://www.criminalip.io/domain/report?scan_id=28917361) | Critical | CA | 2025-06-20 02:33:08 (UTC) |
+| "N/A" | [http://allegrolokalnie.oferta5952996.sbs](https://www.criminalip.io/domain/report?scan_id=28917400) | Critical | N/A | 2025-06-20 02:38:43 (UTC) |
 
 ---
 

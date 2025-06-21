@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "ethereal.cat" | [http://ethereal.cat](https://www.criminalip.io/domain/report?scan_id=28917349) | Critical | FR | 2025-06-20 02:30:43 (UTC) |
-| "N/A" | [http://snqvqmyrea.duckdns.org](https://www.criminalip.io/domain/report?scan_id=28917361) | Critical | CA | 2025-06-20 02:33:08 (UTC) |
-| "N/A" | [http://allegrolokalnie.oferta5952996.sbs](https://www.criminalip.io/domain/report?scan_id=28917400) | Critical | N/A | 2025-06-20 02:38:43 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://xploredot.pages.dev](https://www.criminalip.io/domain/report?scan_id=28983549) | Critical | N/A | 2025-06-21 02:30:47 (UTC) |
+| "harroh.com-Domain Marketplace : Buy & Sell Domains" | [http://harroh.com](https://www.criminalip.io/domain/report?scan_id=28983551) | Safe | N/A | 2025-06-21 02:31:48 (UTC) |
+| "Attention Required! | Cloudflare" | [http://docom-axioain.wowwuw.cn](https://www.criminalip.io/domain/report?scan_id=28983562) | Critical | N/A | 2025-06-21 02:32:52 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://xploredot.pages.dev](https://www.criminalip.io/domain/report?scan_id=28983549) | Critical | N/A | 2025-06-21 02:30:47 (UTC) |
-| "harroh.com-Domain Marketplace : Buy & Sell Domains" | [http://harroh.com](https://www.criminalip.io/domain/report?scan_id=28983551) | Safe | N/A | 2025-06-21 02:31:48 (UTC) |
-| "Attention Required! | Cloudflare" | [http://docom-axioain.wowwuw.cn](https://www.criminalip.io/domain/report?scan_id=28983562) | Critical | N/A | 2025-06-21 02:32:52 (UTC) |
+| "403 Forbidden" | [http://okexybiandz.asia](https://www.criminalip.io/domain/report?scan_id=29094842) | Critical | JP | 2025-06-23 02:31:04 (UTC) |
+| "首页 - 白菜商城" | [http://baicai.asia](https://www.criminalip.io/domain/report?scan_id=29094940) | Critical | CN | 2025-06-23 02:35:04 (UTC) |
+| "porkbun.com | parked domain" | [http://keydesignwebsites.agency](https://www.criminalip.io/domain/report?scan_id=29094946) | Critical | US | 2025-06-23 02:36:51 (UTC) |
 
 ---
 

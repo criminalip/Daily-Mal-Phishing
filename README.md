@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://okexybiandz.asia](https://www.criminalip.io/domain/report?scan_id=29094842) | Critical | JP | 2025-06-23 02:31:04 (UTC) |
-| "首页 - 白菜商城" | [http://baicai.asia](https://www.criminalip.io/domain/report?scan_id=29094940) | Critical | CN | 2025-06-23 02:35:04 (UTC) |
-| "porkbun.com | parked domain" | [http://keydesignwebsites.agency](https://www.criminalip.io/domain/report?scan_id=29094946) | Critical | US | 2025-06-23 02:36:51 (UTC) |
+| "快连VPN下载 - LetsVPN官网" | [http://kuaivqn.club](https://www.criminalip.io/domain/report?scan_id=29212281) | Critical | US | 2025-06-25 02:31:00 (UTC) |
+| "403 Forbidden" | [http://business-phone-systems-15659.bond](https://www.criminalip.io/domain/report?scan_id=29212294) | Critical | US | 2025-06-25 02:32:40 (UTC) |
+| "备案" | [http://wen49.cloud](https://www.criminalip.io/domain/report?scan_id=29212302) | Dangerous | CN | 2025-06-25 02:34:25 (UTC) |
 
 ---
 

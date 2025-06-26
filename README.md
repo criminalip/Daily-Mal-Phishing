@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "快连VPN下载 - LetsVPN官网" | [http://kuaivqn.club](https://www.criminalip.io/domain/report?scan_id=29212281) | Critical | US | 2025-06-25 02:31:00 (UTC) |
-| "403 Forbidden" | [http://business-phone-systems-15659.bond](https://www.criminalip.io/domain/report?scan_id=29212294) | Critical | US | 2025-06-25 02:32:40 (UTC) |
-| "备案" | [http://wen49.cloud](https://www.criminalip.io/domain/report?scan_id=29212302) | Dangerous | CN | 2025-06-25 02:34:25 (UTC) |
+| "N/A" | [http://spaceplankton.com](https://www.criminalip.io/domain/report?scan_id=29269512) | Critical | IT | 2025-06-26 02:37:12 (UTC) |
+| "403 Forbidden" | [http://solar-panel-jobs-80625.bond](https://www.criminalip.io/domain/report?scan_id=29269515) | Critical | US | 2025-06-26 02:38:04 (UTC) |
+| "N/A" | [http://startthechat.com](https://www.criminalip.io/domain/report?scan_id=29269530) | Critical | DE | 2025-06-26 02:42:06 (UTC) |
 
 ---
 

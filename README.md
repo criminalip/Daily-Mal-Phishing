@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Roundcube Webmail :: 欢迎使用 Roundcube Webmail" | [http://sisi6829.asia](https://www.criminalip.io/domain/report?scan_id=29379638) | Critical | SG | 2025-06-28 02:35:03 (UTC) |
-| "N/A" | [http://zensekai.asia](https://www.criminalip.io/domain/report?scan_id=29379641) | Critical | SG | 2025-06-28 02:37:07 (UTC) |
-| "SSL Error" | [http://fism.academy](https://www.criminalip.io/domain/report?scan_id=29379650) | Critical | IT | 2025-06-28 02:40:50 (UTC) |
+| "Vercel Security Checkpoint" | [http://att-human-verification.vercel.app](https://www.criminalip.io/domain/report?scan_id=29431709) | Critical | US | 2025-06-29 02:30:51 (UTC) |
+| "N/A" | [http://sbi-bc.top](https://www.criminalip.io/domain/report?scan_id=29431918) | Critical | HK | 2025-06-29 02:31:54 (UTC) |
+| "Site not found · GitHub Pages" | [http://adityarrudola.github.io](https://www.criminalip.io/domain/report?scan_id=29432360) | Critical | US | 2025-06-29 02:33:35 (UTC) |
 
 ---
 

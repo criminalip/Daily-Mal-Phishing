@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Vercel Security Checkpoint" | [http://att-human-verification.vercel.app](https://www.criminalip.io/domain/report?scan_id=29431709) | Critical | US | 2025-06-29 02:30:51 (UTC) |
-| "N/A" | [http://sbi-bc.top](https://www.criminalip.io/domain/report?scan_id=29431918) | Critical | HK | 2025-06-29 02:31:54 (UTC) |
-| "Site not found · GitHub Pages" | [http://adityarrudola.github.io](https://www.criminalip.io/domain/report?scan_id=29432360) | Critical | US | 2025-06-29 02:33:35 (UTC) |
+| "403 Forbidden" | [http://erectile-dysfunction-treatment-84330.bond](https://www.criminalip.io/domain/report?scan_id=29484683) | Critical | US | 2025-06-30 02:30:48 (UTC) |
+| "cyber-security-jobs-72077.bond" | [http://cyber-security-jobs-72077.bond](https://www.criminalip.io/domain/report?scan_id=29484702) | Critical | US | 2025-06-30 02:34:41 (UTC) |
+| "N/A" | [http://pg555.center](https://www.criminalip.io/domain/report?scan_id=29484711) | Critical | US | 2025-06-30 02:36:35 (UTC) |
 
 ---
 

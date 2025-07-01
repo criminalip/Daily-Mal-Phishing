@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://erectile-dysfunction-treatment-84330.bond](https://www.criminalip.io/domain/report?scan_id=29484683) | Critical | US | 2025-06-30 02:30:48 (UTC) |
-| "cyber-security-jobs-72077.bond" | [http://cyber-security-jobs-72077.bond](https://www.criminalip.io/domain/report?scan_id=29484702) | Critical | US | 2025-06-30 02:34:41 (UTC) |
-| "N/A" | [http://pg555.center](https://www.criminalip.io/domain/report?scan_id=29484711) | Critical | US | 2025-06-30 02:36:35 (UTC) |
+| "N/A" | [http://dywp.asia](https://www.criminalip.io/domain/report?scan_id=29541298) | Critical | N/A | 2025-07-01 02:33:08 (UTC) |
+| "nam-power-station-zkm01.click" | [http://nam-power-station-zkm01.click](https://www.criminalip.io/domain/report?scan_id=29541312) | Critical | US | 2025-07-01 02:37:19 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-kategorie8174751828485.icu](https://www.criminalip.io/domain/report?scan_id=29541318) | Critical | N/A | 2025-07-01 02:38:01 (UTC) |
 
 ---
 

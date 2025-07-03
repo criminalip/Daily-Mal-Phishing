@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://krbajy.click](https://www.criminalip.io/domain/report?scan_id=29595666) | Critical | N/A | 2025-07-02 02:33:54 (UTC) |
-| "apartments-for-rent-76921.bond" | [http://apartments-for-rent-76921.bond](https://www.criminalip.io/domain/report?scan_id=29595669) | Critical | US | 2025-07-02 02:35:32 (UTC) |
-| "meet-new-people-22528.bond" | [http://meet-new-people-22528.bond](https://www.criminalip.io/domain/report?scan_id=29595671) | Critical | US | 2025-07-02 02:37:15 (UTC) |
+| "treatment-rejuvenation-laser-skin.click <!-- Page created in 0.060712 seconds. [no comment] -->" | [http://treatment-rejuvenation-laser-skin.click](https://www.criminalip.io/domain/report?scan_id=29664582) | Critical | US | 2025-07-03 02:37:23 (UTC) |
+| "Site not found · GitHub Pages" | [http://ashish-v-ai.github.io](https://www.criminalip.io/domain/report?scan_id=29664594) | Critical | US | 2025-07-03 02:38:48 (UTC) |
+| "N/A" | [http://onlybestfrequencies.cloud](https://www.criminalip.io/domain/report?scan_id=29664781) | Critical | DE | 2025-07-03 02:42:05 (UTC) |
 
 ---
 

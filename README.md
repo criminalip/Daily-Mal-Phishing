@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://www.notificationsetting100002-git-master-sdfsds-projects-3209b793.vercel.app](https://www.criminalip.io/domain/report?scan_id=29733928) | Critical | US | 2025-07-04 02:31:32 (UTC) |
-| "Default Web Site Page" | [http://7shipdinuocngoai.click](https://www.criminalip.io/domain/report?scan_id=29733932) | Critical | US | 2025-07-04 02:32:22 (UTC) |
-| "Çağ Bilgisayar Silifke – Çağ Bilgisayar, güncel eğitimler ile kendisini yenileyen, arızalar için yeterli yedek parça stoğu ile donatılmış, işini özen " | [http://cagbilgisayarsilifke.com](https://www.criminalip.io/domain/report?scan_id=29733949) | Critical | TR | 2025-07-04 02:36:06 (UTC) |
+| "Get robux" | [http://www.robuux12.blogspot.dk](https://www.criminalip.io/domain/report?scan_id=29802687) | Critical | US | 2025-07-05 02:30:39 (UTC) |
+| "Alex Keyy on X: "Build a personal brand that feels authentic and memorable. https://t.co/FLo9j3CG8i is perfect for influencers, artists, or consultant" | [http://mimimorales.com](https://www.criminalip.io/domain/report?scan_id=29802750) | Safe | US | 2025-07-05 02:32:14 (UTC) |
+| "Mail Portal | Login" | [http://real-imagination.com](https://www.criminalip.io/domain/report?scan_id=29802764) | Critical | US | 2025-07-05 02:33:29 (UTC) |
 
 ---
 

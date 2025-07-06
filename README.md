@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Get robux" | [http://www.robuux12.blogspot.dk](https://www.criminalip.io/domain/report?scan_id=29802687) | Critical | US | 2025-07-05 02:30:39 (UTC) |
-| "Alex Keyy on X: "Build a personal brand that feels authentic and memorable. https://t.co/FLo9j3CG8i is perfect for influencers, artists, or consultant" | [http://mimimorales.com](https://www.criminalip.io/domain/report?scan_id=29802750) | Safe | US | 2025-07-05 02:32:14 (UTC) |
-| "Mail Portal | Login" | [http://real-imagination.com](https://www.criminalip.io/domain/report?scan_id=29802764) | Critical | US | 2025-07-05 02:33:29 (UTC) |
+| "happy99.club" | [http://happy99.club](https://www.criminalip.io/domain/report?scan_id=29864362) | Critical | N/A | 2025-07-06 02:31:06 (UTC) |
+| "N/A" | [http://jfagan.com](https://www.criminalip.io/domain/report?scan_id=29864410) | Critical | DE | 2025-07-06 02:32:57 (UTC) |
+| "N/A" | [http://brandivegas.cloud](https://www.criminalip.io/domain/report?scan_id=29864491) | Critical | US | 2025-07-06 02:35:00 (UTC) |
 
 ---
 

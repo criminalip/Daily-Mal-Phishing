@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "happy99.club" | [http://happy99.club](https://www.criminalip.io/domain/report?scan_id=29864362) | Critical | N/A | 2025-07-06 02:31:06 (UTC) |
-| "N/A" | [http://jfagan.com](https://www.criminalip.io/domain/report?scan_id=29864410) | Critical | DE | 2025-07-06 02:32:57 (UTC) |
-| "N/A" | [http://brandivegas.cloud](https://www.criminalip.io/domain/report?scan_id=29864491) | Critical | US | 2025-07-06 02:35:00 (UTC) |
+| "Attention Required! | Cloudflare" | [http://trackings-nexarium.fglzt.cn](https://www.criminalip.io/domain/report?scan_id=29922254) | Critical | N/A | 2025-07-07 02:30:58 (UTC) |
+| "pink-eye-treatment-41405.bond" | [http://pink-eye-treatment-41405.bond](https://www.criminalip.io/domain/report?scan_id=29922291) | Critical | US | 2025-07-07 02:32:43 (UTC) |
+| "air-conditioner-installation-13915.bond" | [http://air-conditioner-installation-13915.bond](https://www.criminalip.io/domain/report?scan_id=29922332) | Critical | IE | 2025-07-07 02:34:32 (UTC) |
 
 ---
 

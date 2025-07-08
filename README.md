@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Attention Required! | Cloudflare" | [http://trackings-nexarium.fglzt.cn](https://www.criminalip.io/domain/report?scan_id=29922254) | Critical | N/A | 2025-07-07 02:30:58 (UTC) |
-| "pink-eye-treatment-41405.bond" | [http://pink-eye-treatment-41405.bond](https://www.criminalip.io/domain/report?scan_id=29922291) | Critical | US | 2025-07-07 02:32:43 (UTC) |
-| "air-conditioner-installation-13915.bond" | [http://air-conditioner-installation-13915.bond](https://www.criminalip.io/domain/report?scan_id=29922332) | Critical | IE | 2025-07-07 02:34:32 (UTC) |
+| "N/A" | [http://223137.com](https://www.criminalip.io/domain/report?scan_id=29985273) | Critical | US | 2025-07-08 02:30:47 (UTC) |
+| "lidcaps.com | Hello, this domain has been purchased at Hostpoint" | [http://lidcaps.com](https://www.criminalip.io/domain/report?scan_id=29985275) | Critical | CH | 2025-07-08 02:31:36 (UTC) |
+| "403 Forbidden" | [http://yousichuanmei.com](https://www.criminalip.io/domain/report?scan_id=29986006) | Critical | CN | 2025-07-08 02:35:09 (UTC) |
 
 ---
 

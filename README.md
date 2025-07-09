@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://223137.com](https://www.criminalip.io/domain/report?scan_id=29985273) | Critical | US | 2025-07-08 02:30:47 (UTC) |
-| "lidcaps.com | Hello, this domain has been purchased at Hostpoint" | [http://lidcaps.com](https://www.criminalip.io/domain/report?scan_id=29985275) | Critical | CH | 2025-07-08 02:31:36 (UTC) |
-| "403 Forbidden" | [http://yousichuanmei.com](https://www.criminalip.io/domain/report?scan_id=29986006) | Critical | CN | 2025-07-08 02:35:09 (UTC) |
+| "www.0437yc.com" | [http://0437yc.com](https://www.criminalip.io/domain/report?scan_id=30057561) | Critical | HK | 2025-07-09 02:30:49 (UTC) |
+| "百林乐成科技技术发展实业" | [http://7ubuybaron.com](https://www.criminalip.io/domain/report?scan_id=30057734) | Critical | HK | 2025-07-09 02:32:50 (UTC) |
+| "N/A" | [http://jiuseteng98.com](https://www.criminalip.io/domain/report?scan_id=30057882) | Critical | US | 2025-07-09 02:34:36 (UTC) |
 
 ---
 

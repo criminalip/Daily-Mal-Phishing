@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "www.0437yc.com" | [http://0437yc.com](https://www.criminalip.io/domain/report?scan_id=30057561) | Critical | HK | 2025-07-09 02:30:49 (UTC) |
-| "百林乐成科技技术发展实业" | [http://7ubuybaron.com](https://www.criminalip.io/domain/report?scan_id=30057734) | Critical | HK | 2025-07-09 02:32:50 (UTC) |
-| "N/A" | [http://jiuseteng98.com](https://www.criminalip.io/domain/report?scan_id=30057882) | Critical | US | 2025-07-09 02:34:36 (UTC) |
+| "elliablog.club - 이 웹 사이트는 판매용입니다! - elliablog 자료와 정보" | [http://elliablog.club](https://www.criminalip.io/domain/report?scan_id=30132541) | Low | US | 2025-07-10 02:30:57 (UTC) |
+| "biometric-attendance-system-10897.bond" | [http://biometric-attendance-system-10897.bond](https://www.criminalip.io/domain/report?scan_id=30132574) | Critical | US | 2025-07-10 02:32:06 (UTC) |
+| "The page is temporarily unavailable" | [http://agriculture.click](https://www.criminalip.io/domain/report?scan_id=30132694) | Critical | SG | 2025-07-10 02:37:03 (UTC) |
 
 ---
 

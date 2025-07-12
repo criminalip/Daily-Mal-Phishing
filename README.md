@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Roundcube Webmail :: 欢迎使用 Roundcube Webmail" | [http://aqing57564.asia](https://www.criminalip.io/domain/report?scan_id=30200756) | Critical | SG | 2025-07-11 02:30:54 (UTC) |
-| "Roundcube Webmail :: 欢迎使用 Roundcube Webmail" | [http://qimeng5339.asia](https://www.criminalip.io/domain/report?scan_id=30200850) | Critical | SG | 2025-07-11 02:32:37 (UTC) |
-| "Roundcube Webmail :: 欢迎使用 Roundcube Webmail" | [http://dagea53321.asia](https://www.criminalip.io/domain/report?scan_id=30200885) | Critical | SG | 2025-07-11 02:34:31 (UTC) |
+| "private-health-insurance-93057.bond" | [http://private-health-insurance-93057.bond](https://www.criminalip.io/domain/report?scan_id=30269790) | Critical | US | 2025-07-12 02:30:50 (UTC) |
+| "health-macular-degeneration-790cl7.bond" | [http://health-macular-degeneration-790cl7.bond](https://www.criminalip.io/domain/report?scan_id=30269920) | Critical | US | 2025-07-12 02:32:34 (UTC) |
+| "Roundcube Webmail :: 欢迎使用 Roundcube Webmail" | [http://xiaonan18273.asia](https://www.criminalip.io/domain/report?scan_id=30269925) | Critical | SG | 2025-07-12 02:35:40 (UTC) |
 
 ---
 

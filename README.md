@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "驻马店市求职网 - 先进制造业人才平台" | [http://discoverachurchinthesmokies.com](https://www.criminalip.io/domain/report?scan_id=30331694) | Critical | HK | 2025-07-13 02:30:47 (UTC) |
-| "Kei Camper" | [http://kei-camper.club](https://www.criminalip.io/domain/report?scan_id=30331740) | Critical | US | 2025-07-13 02:31:39 (UTC) |
-| "域名未配置" | [http://15702.club](https://www.criminalip.io/domain/report?scan_id=30331742) | Critical | HK | 2025-07-13 02:32:27 (UTC) |
+| "株洲市招聘网 - 智能匹配好工作" | [http://gadideas.com](https://www.criminalip.io/domain/report?scan_id=30395743) | Critical | HK | 2025-07-14 02:34:48 (UTC) |
+| "米兰体育-米兰（中国）" | [http://potashcorphealth.com](https://www.criminalip.io/domain/report?scan_id=30403681) | Critical | ZA | 2025-07-14 03:09:35 (UTC) |
+| "N/A" | [http://allegro.pl-kategorie812371723717212.icu](https://www.criminalip.io/domain/report?scan_id=30404015) | Critical | N/A | 2025-07-14 03:11:21 (UTC) |
 
 ---
 

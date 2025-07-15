@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "株洲市招聘网 - 智能匹配好工作" | [http://gadideas.com](https://www.criminalip.io/domain/report?scan_id=30395743) | Critical | HK | 2025-07-14 02:34:48 (UTC) |
-| "米兰体育-米兰（中国）" | [http://potashcorphealth.com](https://www.criminalip.io/domain/report?scan_id=30403681) | Critical | ZA | 2025-07-14 03:09:35 (UTC) |
-| "N/A" | [http://allegro.pl-kategorie812371723717212.icu](https://www.criminalip.io/domain/report?scan_id=30404015) | Critical | N/A | 2025-07-14 03:11:21 (UTC) |
+| "球友会体育-球友会（中国）" | [http://storagese.com](https://www.criminalip.io/domain/report?scan_id=30467434) | Critical | ZA | 2025-07-15 02:31:01 (UTC) |
+| "只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/ :: 欢迎使用 只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/" | [http://qiste.asia](https://www.criminalip.io/domain/report?scan_id=30467473) | Critical | SG | 2025-07-15 02:32:45 (UTC) |
+| "只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/ :: 欢迎使用 只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/" | [http://qistb.asia](https://www.criminalip.io/domain/report?scan_id=30467490) | Critical | SG | 2025-07-15 02:34:26 (UTC) |
 
 ---
 

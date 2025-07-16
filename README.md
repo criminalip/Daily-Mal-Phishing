@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "球友会体育-球友会（中国）" | [http://storagese.com](https://www.criminalip.io/domain/report?scan_id=30467434) | Critical | ZA | 2025-07-15 02:31:01 (UTC) |
-| "只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/ :: 欢迎使用 只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/" | [http://qiste.asia](https://www.criminalip.io/domain/report?scan_id=30467473) | Critical | SG | 2025-07-15 02:32:45 (UTC) |
-| "只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/ :: 欢迎使用 只收邮件 不能发件。不定期清理邮箱账号、邮件。请及时换绑邮箱 避免损失 http://gongrr.online/" | [http://qistb.asia](https://www.criminalip.io/domain/report?scan_id=30467490) | Critical | SG | 2025-07-15 02:34:26 (UTC) |
+| "My Blog – My WordPress Blog" | [http://jandamontok.biz](https://www.criminalip.io/domain/report?scan_id=30541237) | Critical | US | 2025-07-16 02:33:06 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://roblox-3e6.pages.dev](https://www.criminalip.io/domain/report?scan_id=30541261) | Critical | N/A | 2025-07-16 02:40:55 (UTC) |
+| "home-water-heater-ld7rbo.bond" | [http://home-water-heater-ld7rbo.bond](https://www.criminalip.io/domain/report?scan_id=30541414) | Critical | US | 2025-07-16 02:44:48 (UTC) |
 
 ---
 

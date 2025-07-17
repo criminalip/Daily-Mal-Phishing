@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "My Blog – My WordPress Blog" | [http://jandamontok.biz](https://www.criminalip.io/domain/report?scan_id=30541237) | Critical | US | 2025-07-16 02:33:06 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://roblox-3e6.pages.dev](https://www.criminalip.io/domain/report?scan_id=30541261) | Critical | N/A | 2025-07-16 02:40:55 (UTC) |
-| "home-water-heater-ld7rbo.bond" | [http://home-water-heater-ld7rbo.bond](https://www.criminalip.io/domain/report?scan_id=30541414) | Critical | US | 2025-07-16 02:44:48 (UTC) |
+| "James Smith Calculator | Track Calories & Weight In 2025" | [http://mfuu-u16u.buzz](https://www.criminalip.io/domain/report?scan_id=30612226) | Low | FR | 2025-07-17 02:33:24 (UTC) |
+| "Site not found · GitHub Pages" | [http://pranavturkar13.github.io](https://www.criminalip.io/domain/report?scan_id=30612434) | Critical | US | 2025-07-17 02:35:00 (UTC) |
+| "American Express" | [http://5kjandoiadkad.vercel.app](https://www.criminalip.io/domain/report?scan_id=30612731) | Critical | US | 2025-07-17 02:41:42 (UTC) |
 
 ---
 

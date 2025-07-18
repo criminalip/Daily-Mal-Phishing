@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "James Smith Calculator | Track Calories & Weight In 2025" | [http://mfuu-u16u.buzz](https://www.criminalip.io/domain/report?scan_id=30612226) | Low | FR | 2025-07-17 02:33:24 (UTC) |
-| "Site not found · GitHub Pages" | [http://pranavturkar13.github.io](https://www.criminalip.io/domain/report?scan_id=30612434) | Critical | US | 2025-07-17 02:35:00 (UTC) |
-| "American Express" | [http://5kjandoiadkad.vercel.app](https://www.criminalip.io/domain/report?scan_id=30612731) | Critical | US | 2025-07-17 02:41:42 (UTC) |
+| "Default Web Site Page" | [http://rwbmarine.com](https://www.criminalip.io/domain/report?scan_id=30680081) | Critical | IS | 2025-07-18 02:31:32 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://sarahestes7046.wixsite.com](https://www.criminalip.io/domain/report?scan_id=30680099) | Critical | US | 2025-07-18 02:35:34 (UTC) |
+| "tech-fiber-optic-g84gbs.bond" | [http://tech-fiber-optic-g84gbs.bond](https://www.criminalip.io/domain/report?scan_id=30680279) | Critical | US | 2025-07-18 02:39:48 (UTC) |
 
 ---
 

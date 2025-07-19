@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Default Web Site Page" | [http://rwbmarine.com](https://www.criminalip.io/domain/report?scan_id=30680081) | Critical | IS | 2025-07-18 02:31:32 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://sarahestes7046.wixsite.com](https://www.criminalip.io/domain/report?scan_id=30680099) | Critical | US | 2025-07-18 02:35:34 (UTC) |
-| "tech-fiber-optic-g84gbs.bond" | [http://tech-fiber-optic-g84gbs.bond](https://www.criminalip.io/domain/report?scan_id=30680279) | Critical | US | 2025-07-18 02:39:48 (UTC) |
+| "Login" | [http://login-mahsdgtyu-0928376-micro-jkaisurty.cashflowinnercircle.biz](https://www.criminalip.io/domain/report?scan_id=30750832) | Critical | RU | 2025-07-19 02:32:55 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://cloudflare-27r.pages.dev](https://www.criminalip.io/domain/report?scan_id=30750834) | Critical | N/A | 2025-07-19 02:34:20 (UTC) |
+| "Attention Required! | Cloudflare" | [http://fattur-id.com](https://www.criminalip.io/domain/report?scan_id=30752039) | Critical | N/A | 2025-07-19 03:04:23 (UTC) |
 
 ---
 

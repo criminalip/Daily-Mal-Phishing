@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Login" | [http://login-mahsdgtyu-0928376-micro-jkaisurty.cashflowinnercircle.biz](https://www.criminalip.io/domain/report?scan_id=30750832) | Critical | RU | 2025-07-19 02:32:55 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://cloudflare-27r.pages.dev](https://www.criminalip.io/domain/report?scan_id=30750834) | Critical | N/A | 2025-07-19 02:34:20 (UTC) |
-| "Attention Required! | Cloudflare" | [http://fattur-id.com](https://www.criminalip.io/domain/report?scan_id=30752039) | Critical | N/A | 2025-07-19 03:04:23 (UTC) |
+| "One moment, please..." | [http://asuiteescape.com](https://www.criminalip.io/domain/report?scan_id=30811387) | Critical | CA | 2025-07-20 02:35:23 (UTC) |
+| "visa cambodge evisa e-visa france covid e-visa officiel" | [http://petittemple.com](https://www.criminalip.io/domain/report?scan_id=30813135) | Dangerous | GB | 2025-07-20 02:52:26 (UTC) |
+| "One moment, please..." | [http://k-tee.com](https://www.criminalip.io/domain/report?scan_id=30813900) | Critical | CA | 2025-07-20 02:59:08 (UTC) |
 
 ---
 

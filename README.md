@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "One moment, please..." | [http://asuiteescape.com](https://www.criminalip.io/domain/report?scan_id=30811387) | Critical | CA | 2025-07-20 02:35:23 (UTC) |
-| "visa cambodge evisa e-visa france covid e-visa officiel" | [http://petittemple.com](https://www.criminalip.io/domain/report?scan_id=30813135) | Dangerous | GB | 2025-07-20 02:52:26 (UTC) |
-| "One moment, please..." | [http://k-tee.com](https://www.criminalip.io/domain/report?scan_id=30813900) | Critical | CA | 2025-07-20 02:59:08 (UTC) |
+| "Netflix" | [http://www.netflix-jet-eight.vercel.app](https://www.criminalip.io/domain/report?scan_id=30881239) | Critical | US | 2025-07-21 03:29:17 (UTC) |
+| "huzta.nimsite.uk" | [http://wightstuff.com](https://www.criminalip.io/domain/report?scan_id=30882436) | Critical | GB | 2025-07-21 03:35:01 (UTC) |
+| "029hyl.com" | [http://029hyl.com](https://www.criminalip.io/domain/report?scan_id=30883790) | Critical | US | 2025-07-21 03:41:17 (UTC) |
 
 ---
 

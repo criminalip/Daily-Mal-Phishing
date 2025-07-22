@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix" | [http://www.netflix-jet-eight.vercel.app](https://www.criminalip.io/domain/report?scan_id=30881239) | Critical | US | 2025-07-21 03:29:17 (UTC) |
-| "huzta.nimsite.uk" | [http://wightstuff.com](https://www.criminalip.io/domain/report?scan_id=30882436) | Critical | GB | 2025-07-21 03:35:01 (UTC) |
-| "029hyl.com" | [http://029hyl.com](https://www.criminalip.io/domain/report?scan_id=30883790) | Critical | US | 2025-07-21 03:41:17 (UTC) |
+| "成人av色站,极速高清久久综合在线视频,免费看片 -色窝TV" | [http://jishizhuangshi.com](https://www.criminalip.io/domain/report?scan_id=30944747) | Critical | US | 2025-07-22 02:30:54 (UTC) |
+| "bjczqy.com" | [http://bjczqy.com](https://www.criminalip.io/domain/report?scan_id=30944922) | Critical | US | 2025-07-22 02:32:35 (UTC) |
+| "NameBright - Coming Soon" | [http://allthehappiness.com](https://www.criminalip.io/domain/report?scan_id=30944924) | Critical | US | 2025-07-22 02:34:20 (UTC) |
 
 ---
 

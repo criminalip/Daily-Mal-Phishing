@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "成人av色站,极速高清久久综合在线视频,免费看片 -色窝TV" | [http://jishizhuangshi.com](https://www.criminalip.io/domain/report?scan_id=30944747) | Critical | US | 2025-07-22 02:30:54 (UTC) |
-| "bjczqy.com" | [http://bjczqy.com](https://www.criminalip.io/domain/report?scan_id=30944922) | Critical | US | 2025-07-22 02:32:35 (UTC) |
-| "NameBright - Coming Soon" | [http://allthehappiness.com](https://www.criminalip.io/domain/report?scan_id=30944924) | Critical | US | 2025-07-22 02:34:20 (UTC) |
+| "Site not found · GitHub Pages" | [http://sami768853.github.io](https://www.criminalip.io/domain/report?scan_id=31021977) | Critical | US | 2025-07-23 02:30:53 (UTC) |
+| "BUSINESSYAARI" | [http://businessyaari.com](https://www.criminalip.io/domain/report?scan_id=31022108) | Critical | GB | 2025-07-23 02:32:43 (UTC) |
+| "N/A" | [http://allegro.pl-oferta69485934.cfd](https://www.criminalip.io/domain/report?scan_id=31022152) | Critical | N/A | 2025-07-23 02:37:02 (UTC) |
 
 ---
 

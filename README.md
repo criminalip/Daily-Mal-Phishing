@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://sami768853.github.io](https://www.criminalip.io/domain/report?scan_id=31021977) | Critical | US | 2025-07-23 02:30:53 (UTC) |
-| "BUSINESSYAARI" | [http://businessyaari.com](https://www.criminalip.io/domain/report?scan_id=31022108) | Critical | GB | 2025-07-23 02:32:43 (UTC) |
-| "N/A" | [http://allegro.pl-oferta69485934.cfd](https://www.criminalip.io/domain/report?scan_id=31022152) | Critical | N/A | 2025-07-23 02:37:02 (UTC) |
+| "铜陵炊凶航天信息有限公司" | [http://8888woool.com](https://www.criminalip.io/domain/report?scan_id=31101257) | Critical | US | 2025-07-24 02:44:34 (UTC) |
+| "N/A" | [http://irresistiblemente.com](https://www.criminalip.io/domain/report?scan_id=31101567) | Critical | IT | 2025-07-24 02:54:54 (UTC) |
+| "mgh5" | [http://findingcory.com](https://www.criminalip.io/domain/report?scan_id=31101605) | Critical | MU | 2025-07-24 02:59:55 (UTC) |
 
 ---
 

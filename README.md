@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "铜陵炊凶航天信息有限公司" | [http://8888woool.com](https://www.criminalip.io/domain/report?scan_id=31101257) | Critical | US | 2025-07-24 02:44:34 (UTC) |
-| "N/A" | [http://irresistiblemente.com](https://www.criminalip.io/domain/report?scan_id=31101567) | Critical | IT | 2025-07-24 02:54:54 (UTC) |
-| "mgh5" | [http://findingcory.com](https://www.criminalip.io/domain/report?scan_id=31101605) | Critical | MU | 2025-07-24 02:59:55 (UTC) |
+| "Parking Page" | [http://signin-coinbase.com](https://www.criminalip.io/domain/report?scan_id=31183691) | Critical | US | 2025-07-25 03:20:51 (UTC) |
+| "DNS resolution error | mailsecureonline.com | Cloudflare" | [http://mailsecureonline.com](https://www.criminalip.io/domain/report?scan_id=31184026) | Critical | N/A | 2025-07-25 03:25:27 (UTC) |
+| "N/A" | [http://lifelinehousebuyers.com](https://www.criminalip.io/domain/report?scan_id=31184039) | Critical | DE | 2025-07-25 03:27:21 (UTC) |
 
 ---
 

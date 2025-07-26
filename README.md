@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Parking Page" | [http://signin-coinbase.com](https://www.criminalip.io/domain/report?scan_id=31183691) | Critical | US | 2025-07-25 03:20:51 (UTC) |
-| "DNS resolution error | mailsecureonline.com | Cloudflare" | [http://mailsecureonline.com](https://www.criminalip.io/domain/report?scan_id=31184026) | Critical | N/A | 2025-07-25 03:25:27 (UTC) |
-| "N/A" | [http://lifelinehousebuyers.com](https://www.criminalip.io/domain/report?scan_id=31184039) | Critical | DE | 2025-07-25 03:27:21 (UTC) |
+| "N/A" | [http://www69aff.com](https://www.criminalip.io/domain/report?scan_id=31255212) | Critical | US | 2025-07-26 02:30:54 (UTC) |
+| "Deployment Unavailable" | [http://www.qbnikrkmpn.vercel.app](https://www.criminalip.io/domain/report?scan_id=31255506) | Critical | US | 2025-07-26 02:41:11 (UTC) |
+| "Index of /" | [http://blogx.dev.glsnsw.com.au](https://www.criminalip.io/domain/report?scan_id=31255515) | Critical | AE | 2025-07-26 02:45:03 (UTC) |
 
 ---
 

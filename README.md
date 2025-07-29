@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Index of /" | [http://www.mijn.hpsafety.com.au](https://www.criminalip.io/domain/report?scan_id=31323550) | Critical | AE | 2025-07-27 03:18:35 (UTC) |
-| "Coming Soon" | [http://613.71d.mytemp.website](https://www.criminalip.io/domain/report?scan_id=31323571) | Critical | US | 2025-07-27 03:19:30 (UTC) |
-| "百度权重域名出售,百度高权重1|2|3|4域名转让,搜狗高PR收录,360收录,神马权重网站交易" | [http://czlujiejing.com](https://www.criminalip.io/domain/report?scan_id=31323646) | Critical | SG | 2025-07-27 03:23:38 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://govuk-apply-subsidies.fashion](https://www.criminalip.io/domain/report?scan_id=31459288) | Critical | N/A | 2025-07-29 02:36:50 (UTC) |
+| "Attention Required! | Cloudflare" | [http://pocketcard-regio.wzwzsp.cn](https://www.criminalip.io/domain/report?scan_id=31460136) | Critical | N/A | 2025-07-29 02:38:31 (UTC) |
+| "N/A" | [http://stonretta.com](https://www.criminalip.io/domain/report?scan_id=31460955) | Critical | N/A | 2025-07-29 02:40:24 (UTC) |
 
 ---
 

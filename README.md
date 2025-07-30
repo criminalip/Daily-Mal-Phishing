@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://govuk-apply-subsidies.fashion](https://www.criminalip.io/domain/report?scan_id=31459288) | Critical | N/A | 2025-07-29 02:36:50 (UTC) |
-| "Attention Required! | Cloudflare" | [http://pocketcard-regio.wzwzsp.cn](https://www.criminalip.io/domain/report?scan_id=31460136) | Critical | N/A | 2025-07-29 02:38:31 (UTC) |
-| "N/A" | [http://stonretta.com](https://www.criminalip.io/domain/report?scan_id=31460955) | Critical | N/A | 2025-07-29 02:40:24 (UTC) |
+| "N/A" | [http://flat-animal-swift.on-fleek.app](https://www.criminalip.io/domain/report?scan_id=31532575) | Critical | N/A | 2025-07-30 02:30:39 (UTC) |
+| "One moment, please..." | [http://jobsmartic.co.ke](https://www.criminalip.io/domain/report?scan_id=31532594) | Critical | US | 2025-07-30 02:32:16 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://rpcaccessrefix.pages.dev](https://www.criminalip.io/domain/report?scan_id=31532607) | Critical | N/A | 2025-07-30 02:33:29 (UTC) |
 
 ---
 

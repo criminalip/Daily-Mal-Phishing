@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Get robux" | [http://www.rouxx90.blogspot.co.nz](https://www.criminalip.io/domain/report?scan_id=31608693) | Critical | US | 2025-07-31 02:31:01 (UTC) |
-| "N/A" | [http://allegro.pl-oferta3944887.sbs](https://www.criminalip.io/domain/report?scan_id=31608905) | Critical | N/A | 2025-07-31 02:31:53 (UTC) |
-| "Meta for Business - Page Appeal" | [http://security-hygiene-guide.vercel.app](https://www.criminalip.io/domain/report?scan_id=31608995) | Critical | US | 2025-07-31 02:35:38 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://rouxx90.blogspot.qa](https://www.criminalip.io/domain/report?scan_id=31682318) | Critical | US | 2025-08-01 02:30:45 (UTC) |
+| "𝙆𝙪𝙥𝙤𝙣 𝙐𝙣𝙙𝙞𝙖𝙣 | 𝘽𝙖𝙣𝙠 𝘽𝙍𝙄 𝟮𝟬𝟮𝟱" | [http://a.cetaknkuponn.biz.id](https://www.criminalip.io/domain/report?scan_id=31682321) | Critical | SG | 2025-08-01 02:31:45 (UTC) |
+| "Telegram" | [http://lt1-link123.com](https://www.criminalip.io/domain/report?scan_id=31682326) | Critical | US | 2025-08-01 02:32:35 (UTC) |
 
 ---
 

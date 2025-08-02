@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://rouxx90.blogspot.qa](https://www.criminalip.io/domain/report?scan_id=31682318) | Critical | US | 2025-08-01 02:30:45 (UTC) |
-| "𝙆𝙪𝙥𝙤𝙣 𝙐𝙣𝙙𝙞𝙖𝙣 | 𝘽𝙖𝙣𝙠 𝘽𝙍𝙄 𝟮𝟬𝟮𝟱" | [http://a.cetaknkuponn.biz.id](https://www.criminalip.io/domain/report?scan_id=31682321) | Critical | SG | 2025-08-01 02:31:45 (UTC) |
-| "Telegram" | [http://lt1-link123.com](https://www.criminalip.io/domain/report?scan_id=31682326) | Critical | US | 2025-08-01 02:32:35 (UTC) |
+| "N/A" | [http://allegro.pl-kategoria73861859572685.shop](https://www.criminalip.io/domain/report?scan_id=31752694) | Critical | N/A | 2025-08-02 02:30:55 (UTC) |
+| "N/A" | [http://allegro.pl-oferta85373465234.shop](https://www.criminalip.io/domain/report?scan_id=31752756) | Critical | N/A | 2025-08-02 02:31:59 (UTC) |
+| "Le Monde.fr - Actualités et Infos en France et dans le monde" | [http://www-mrelay-distrib.com](https://www.criminalip.io/domain/report?scan_id=31752772) | Critical | US | 2025-08-02 02:33:09 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://moviethre.vercel.app](https://www.criminalip.io/domain/report?scan_id=31881503) | Critical | US | 2025-08-04 02:32:05 (UTC) |
-| "欢迎" | [http://699596.com](https://www.criminalip.io/domain/report?scan_id=31881508) | Critical | CA | 2025-08-04 02:33:43 (UTC) |
-| "verified" | [http://free-verified-progrm.vercel.app](https://www.criminalip.io/domain/report?scan_id=31881514) | Critical | US | 2025-08-04 02:34:30 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://game-sorice.blogspot.com.ng](https://www.criminalip.io/domain/report?scan_id=31948987) | Critical | US | 2025-08-05 02:32:51 (UTC) |
+| "N/A" | [http://allegro.pl-oferta84628.cfd](https://www.criminalip.io/domain/report?scan_id=31948995) | Critical | N/A | 2025-08-05 02:33:40 (UTC) |
+| "Site Not Found | Framer" | [http://largest-video-048484.framer.app](https://www.criminalip.io/domain/report?scan_id=31949002) | Critical | US | 2025-08-05 02:34:30 (UTC) |
 
 ---
 

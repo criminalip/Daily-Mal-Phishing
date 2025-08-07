@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://monespaces-telepeagesfr.com](https://www.criminalip.io/domain/report?scan_id=32023012) | Critical | CA | 2025-08-06 02:30:56 (UTC) |
-| "Deployment Unavailable" | [http://designed-dark-pi.vercel.app](https://www.criminalip.io/domain/report?scan_id=32023270) | Critical | US | 2025-08-06 02:34:52 (UTC) |
-| "Secure Redirect" | [http://dhl-redirect.vercel.app](https://www.criminalip.io/domain/report?scan_id=32023283) | Critical | US | 2025-08-06 02:35:43 (UTC) |
+| "Attention Required! | Cloudflare" | [http://jaccs-decaics.nxszmj.cn](https://www.criminalip.io/domain/report?scan_id=32092970) | Critical | N/A | 2025-08-07 02:32:08 (UTC) |
+| "Movistar Portal de Recaudos" | [http://pagafacil-enlinea.com](https://www.criminalip.io/domain/report?scan_id=32093126) | Critical | US | 2025-08-07 02:36:05 (UTC) |
+| "N/A" | [http://allegrolokalnie.pi-id5156726188.icu](https://www.criminalip.io/domain/report?scan_id=32093379) | Critical | N/A | 2025-08-07 02:37:42 (UTC) |
 
 ---
 

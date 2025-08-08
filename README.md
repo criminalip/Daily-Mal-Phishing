@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Attention Required! | Cloudflare" | [http://jaccs-decaics.nxszmj.cn](https://www.criminalip.io/domain/report?scan_id=32092970) | Critical | N/A | 2025-08-07 02:32:08 (UTC) |
-| "Movistar Portal de Recaudos" | [http://pagafacil-enlinea.com](https://www.criminalip.io/domain/report?scan_id=32093126) | Critical | US | 2025-08-07 02:36:05 (UTC) |
-| "N/A" | [http://allegrolokalnie.pi-id5156726188.icu](https://www.criminalip.io/domain/report?scan_id=32093379) | Critical | N/A | 2025-08-07 02:37:42 (UTC) |
+| "milles" | [http://www.cloud-log.blogspot.lt](https://www.criminalip.io/domain/report?scan_id=32175688) | Critical | US | 2025-08-08 02:32:22 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bradesco.pfseguroprime.com](https://www.criminalip.io/domain/report?scan_id=32176166) | Critical | N/A | 2025-08-08 02:33:08 (UTC) |
+| "Connectez-vous à votre compte sur Applesstors en ligne. | ApplesStors" | [http://applesstors-ykbl3pzpnxtqgybm.builder-preview.com](https://www.criminalip.io/domain/report?scan_id=32176533) | Critical | US | 2025-08-08 02:34:45 (UTC) |
 
 ---
 

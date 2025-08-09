@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "milles" | [http://www.cloud-log.blogspot.lt](https://www.criminalip.io/domain/report?scan_id=32175688) | Critical | US | 2025-08-08 02:32:22 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://bradesco.pfseguroprime.com](https://www.criminalip.io/domain/report?scan_id=32176166) | Critical | N/A | 2025-08-08 02:33:08 (UTC) |
-| "Connectez-vous à votre compte sur Applesstors en ligne. | ApplesStors" | [http://applesstors-ykbl3pzpnxtqgybm.builder-preview.com](https://www.criminalip.io/domain/report?scan_id=32176533) | Critical | US | 2025-08-08 02:34:45 (UTC) |
+| "Attention Required! | Cloudflare" | [http://sbisec.co-verify.cfd](https://www.criminalip.io/domain/report?scan_id=32226851) | Critical | N/A | 2025-08-09 02:37:21 (UTC) |
+| "Site not found · GitHub Pages" | [http://eslamawny.github.io](https://www.criminalip.io/domain/report?scan_id=32226896) | Critical | US | 2025-08-09 02:38:48 (UTC) |
+| "Deployment Unavailable" | [http://case1000gicsb6k0tzhau0808ti52zsja7buo20vlu9ozar6usm.vercel.app](https://www.criminalip.io/domain/report?scan_id=32226931) | Critical | US | 2025-08-09 02:40:08 (UTC) |
 
 ---
 

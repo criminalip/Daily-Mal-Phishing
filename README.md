@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Attention Required! | Cloudflare" | [http://sbisec.co-verify.cfd](https://www.criminalip.io/domain/report?scan_id=32226851) | Critical | N/A | 2025-08-09 02:37:21 (UTC) |
-| "Site not found · GitHub Pages" | [http://eslamawny.github.io](https://www.criminalip.io/domain/report?scan_id=32226896) | Critical | US | 2025-08-09 02:38:48 (UTC) |
-| "Deployment Unavailable" | [http://case1000gicsb6k0tzhau0808ti52zsja7buo20vlu9ozar6usm.vercel.app](https://www.criminalip.io/domain/report?scan_id=32226931) | Critical | US | 2025-08-09 02:40:08 (UTC) |
+| "苹果" | [http://sap10819sy.cc](https://www.criminalip.io/domain/report?scan_id=32270273) | Critical | US | 2025-08-10 02:37:24 (UTC) |
+| "404: NOT_FOUND" | [http://nei1002d-6zhc.vercel.app](https://www.criminalip.io/domain/report?scan_id=32270294) | Critical | US | 2025-08-10 02:38:11 (UTC) |
+| "403 Forbidden" | [http://sboxzcxxc3.top](https://www.criminalip.io/domain/report?scan_id=32270301) | Critical | HK | 2025-08-10 02:38:53 (UTC) |
 
 ---
 

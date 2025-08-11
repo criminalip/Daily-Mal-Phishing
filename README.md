@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "苹果" | [http://sap10819sy.cc](https://www.criminalip.io/domain/report?scan_id=32270273) | Critical | US | 2025-08-10 02:37:24 (UTC) |
-| "404: NOT_FOUND" | [http://nei1002d-6zhc.vercel.app](https://www.criminalip.io/domain/report?scan_id=32270294) | Critical | US | 2025-08-10 02:38:11 (UTC) |
-| "403 Forbidden" | [http://sboxzcxxc3.top](https://www.criminalip.io/domain/report?scan_id=32270301) | Critical | HK | 2025-08-10 02:38:53 (UTC) |
+| "Site not found · GitHub Pages" | [http://mudassir2111.github.io](https://www.criminalip.io/domain/report?scan_id=32318921) | Critical | US | 2025-08-11 02:30:50 (UTC) |
+| "N/A" | [http://j00pl0.top](https://www.criminalip.io/domain/report?scan_id=32319154) | Critical | SG | 2025-08-11 02:34:30 (UTC) |
+| "404: NOT_FOUND" | [http://carot-mate-sp-trxk.vercel.app](https://www.criminalip.io/domain/report?scan_id=32319626) | Critical | US | 2025-08-11 02:36:07 (UTC) |
 
 ---
 

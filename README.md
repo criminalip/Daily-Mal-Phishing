@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://smbccardnh.link](https://www.criminalip.io/domain/report?scan_id=32370154) | Critical | SG | 2025-08-12 02:30:47 (UTC) |
-| "N/A" | [http://www.k4y4hqbs.duckdns.org](https://www.criminalip.io/domain/report?scan_id=32370325) | Critical | HK | 2025-08-12 02:32:28 (UTC) |
-| "함께 만드는 세상" | [http://plx.asez.one](https://www.criminalip.io/domain/report?scan_id=32370410) | Critical | US | 2025-08-12 02:33:31 (UTC) |
+| "404: NOT_FOUND" | [http://case1000gicsb6k0tzhau1008zskwwmsoonuo48vlu9ozar6usl.vercel.app](https://www.criminalip.io/domain/report?scan_id=32424528) | Critical | US | 2025-08-13 02:30:39 (UTC) |
+| "Site not found · GitHub Pages" | [http://mdsajid7463.github.io](https://www.criminalip.io/domain/report?scan_id=32424900) | Critical | US | 2025-08-13 02:31:51 (UTC) |
+| "Meta for Business - Page Appeal" | [http://www.log-processor-15828003209.vercel.app](https://www.criminalip.io/domain/report?scan_id=32425051) | Critical | US | 2025-08-13 02:35:44 (UTC) |
 
 ---
 

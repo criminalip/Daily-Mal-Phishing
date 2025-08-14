@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://case1000gicsb6k0tzhau1008zskwwmsoonuo48vlu9ozar6usl.vercel.app](https://www.criminalip.io/domain/report?scan_id=32424528) | Critical | US | 2025-08-13 02:30:39 (UTC) |
-| "Site not found · GitHub Pages" | [http://mdsajid7463.github.io](https://www.criminalip.io/domain/report?scan_id=32424900) | Critical | US | 2025-08-13 02:31:51 (UTC) |
-| "Meta for Business - Page Appeal" | [http://www.log-processor-15828003209.vercel.app](https://www.criminalip.io/domain/report?scan_id=32425051) | Critical | US | 2025-08-13 02:35:44 (UTC) |
+| "Index of /" | [http://www.cadastro.jimpike.com.au](https://www.criminalip.io/domain/report?scan_id=32476110) | Critical | AE | 2025-08-14 02:30:52 (UTC) |
+| "服务器繁忙" | [http://mxapp46.com](https://www.criminalip.io/domain/report?scan_id=32476112) | Critical | N/A | 2025-08-14 02:31:36 (UTC) |
+| "Deployment Unavailable" | [http://playmixa.vercel.app](https://www.criminalip.io/domain/report?scan_id=32476252) | Critical | US | 2025-08-14 02:33:10 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Index of /" | [http://www.cadastro.jimpike.com.au](https://www.criminalip.io/domain/report?scan_id=32476110) | Critical | AE | 2025-08-14 02:30:52 (UTC) |
-| "服务器繁忙" | [http://mxapp46.com](https://www.criminalip.io/domain/report?scan_id=32476112) | Critical | N/A | 2025-08-14 02:31:36 (UTC) |
-| "Deployment Unavailable" | [http://playmixa.vercel.app](https://www.criminalip.io/domain/report?scan_id=32476252) | Critical | US | 2025-08-14 02:33:10 (UTC) |
+| "Home | new.hopto.org" | [http://new.hopto.org](https://www.criminalip.io/domain/report?scan_id=32531413) | Critical | TR | 2025-08-15 02:33:13 (UTC) |
+| "N/A" | [http://allegro.pl-kategorie1785287142528.shop](https://www.criminalip.io/domain/report?scan_id=32531741) | Critical | N/A | 2025-08-15 02:36:14 (UTC) |
+| "403 Forbidden" | [http://cvlls.com](https://www.criminalip.io/domain/report?scan_id=32532265) | Critical | UA | 2025-08-15 02:40:48 (UTC) |
 
 ---
 

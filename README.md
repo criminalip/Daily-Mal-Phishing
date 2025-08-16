@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Home | new.hopto.org" | [http://new.hopto.org](https://www.criminalip.io/domain/report?scan_id=32531413) | Critical | TR | 2025-08-15 02:33:13 (UTC) |
-| "N/A" | [http://allegro.pl-kategorie1785287142528.shop](https://www.criminalip.io/domain/report?scan_id=32531741) | Critical | N/A | 2025-08-15 02:36:14 (UTC) |
-| "403 Forbidden" | [http://cvlls.com](https://www.criminalip.io/domain/report?scan_id=32532265) | Critical | UA | 2025-08-15 02:40:48 (UTC) |
+| "Site Not Found" | [http://credit-agricole-fr-o1.web.app](https://www.criminalip.io/domain/report?scan_id=32580007) | Critical | US | 2025-08-16 02:30:45 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://brittanymunford35.wixsite.com](https://www.criminalip.io/domain/report?scan_id=32580229) | Critical | US | 2025-08-16 02:32:45 (UTC) |
+| "Cipora Properties, LLC - Residential and Commercial Property Management" | [http://ciporaproperties.com](https://www.criminalip.io/domain/report?scan_id=32580400) | Critical | US | 2025-08-16 02:34:36 (UTC) |
 
 ---
 

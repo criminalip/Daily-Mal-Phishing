@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta5870011.cfd](https://www.criminalip.io/domain/report?scan_id=32668753) | Critical | N/A | 2025-08-18 02:37:01 (UTC) |
-| "N/A" | [http://xzdnagivesbsj.xlayananxz.my.id](https://www.criminalip.io/domain/report?scan_id=32668843) | Critical | N/A | 2025-08-18 02:37:39 (UTC) |
-| "Site not found" | [http://phantomfix.netlify.app](https://www.criminalip.io/domain/report?scan_id=32668921) | Critical | SG | 2025-08-18 02:39:13 (UTC) |
+| "Index of /" | [http://mail.comune.attollo.com.au](https://www.criminalip.io/domain/report?scan_id=32720125) | Critical | AE | 2025-08-19 02:30:55 (UTC) |
+| "Deployment Unavailable" | [http://www.meta-reconnect-online-server.vercel.app](https://www.criminalip.io/domain/report?scan_id=32720142) | Critical | US | 2025-08-19 02:32:34 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://raydiumvalidatordao.pages.dev](https://www.criminalip.io/domain/report?scan_id=32720160) | Critical | N/A | 2025-08-19 02:34:10 (UTC) |
 
 ---
 

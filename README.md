@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://inktera-traffser.vercel.app](https://www.criminalip.io/domain/report?scan_id=32772108) | Critical | US | 2025-08-20 02:30:39 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://hometrade-nomura.j69vob.top](https://www.criminalip.io/domain/report?scan_id=32772215) | Critical | N/A | 2025-08-20 02:31:38 (UTC) |
-| "403 Forbidden" | [http://www-sblsec-jp.sykzfsj.com](https://www.criminalip.io/domain/report?scan_id=32772254) | Critical | N/A | 2025-08-20 02:33:20 (UTC) |
+| "Index of /" | [http://a1.pcpovo5.sa.com](https://www.criminalip.io/domain/report?scan_id=32827945) | Critical | BE | 2025-08-21 02:31:25 (UTC) |
+| "N/A" | [http://rewrdzpnts.replit.app](https://www.criminalip.io/domain/report?scan_id=32828824) | Critical | US | 2025-08-21 02:35:30 (UTC) |
+| "Home" | [http://site-7cd394ca75d3.mypreview.site](https://www.criminalip.io/domain/report?scan_id=32828934) | Critical | N/A | 2025-08-21 02:36:31 (UTC) |
 
 ---
 

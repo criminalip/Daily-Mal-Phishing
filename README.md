@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://www-verify-co-jp.shfld.com](https://www.criminalip.io/domain/report?scan_id=32872194) | Critical | N/A | 2025-08-22 02:32:58 (UTC) |
-| "Domain Default page" | [http://ubs.ebanking.osk18mlm.gustngale.com](https://www.criminalip.io/domain/report?scan_id=32872196) | Critical | US | 2025-08-22 02:34:11 (UTC) |
-| "OneDrive Style UI" | [http://688fc89b152c944a79ed89a3--inquisitive-crostata-9d495a.netlify.app](https://www.criminalip.io/domain/report?scan_id=32872311) | Critical | SG | 2025-08-22 02:38:04 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://suseydalton.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=32925490) | Critical | US | 2025-08-23 02:39:31 (UTC) |
+| "N/A" | [http://allegro.pl-oferta594832.icu](https://www.criminalip.io/domain/report?scan_id=32925500) | Critical | N/A | 2025-08-23 02:41:19 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-ennw.github.io](https://www.criminalip.io/domain/report?scan_id=32925511) | Critical | US | 2025-08-23 02:42:18 (UTC) |
 
 ---
 

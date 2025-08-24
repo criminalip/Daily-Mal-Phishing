@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://suseydalton.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=32925490) | Critical | US | 2025-08-23 02:39:31 (UTC) |
-| "N/A" | [http://allegro.pl-oferta594832.icu](https://www.criminalip.io/domain/report?scan_id=32925500) | Critical | N/A | 2025-08-23 02:41:19 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-ennw.github.io](https://www.criminalip.io/domain/report?scan_id=32925511) | Critical | US | 2025-08-23 02:42:18 (UTC) |
+| "Getting™ Started: Wallet Extension - Coinbase℗" | [http://help.extension-coinbasecom.addpotion.com](https://www.criminalip.io/domain/report?scan_id=32971862) | Critical | US | 2025-08-24 02:41:53 (UTC) |
+| "N/A" | [http://allegro.pl-oferta2109574.icu](https://www.criminalip.io/domain/report?scan_id=32972689) | Critical | N/A | 2025-08-24 02:47:47 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta8645378392.shop](https://www.criminalip.io/domain/report?scan_id=32973159) | Critical | N/A | 2025-08-24 03:02:06 (UTC) |
 
 ---
 

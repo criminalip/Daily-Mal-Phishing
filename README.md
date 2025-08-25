@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Getting™ Started: Wallet Extension - Coinbase℗" | [http://help.extension-coinbasecom.addpotion.com](https://www.criminalip.io/domain/report?scan_id=32971862) | Critical | US | 2025-08-24 02:41:53 (UTC) |
-| "N/A" | [http://allegro.pl-oferta2109574.icu](https://www.criminalip.io/domain/report?scan_id=32972689) | Critical | N/A | 2025-08-24 02:47:47 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta8645378392.shop](https://www.criminalip.io/domain/report?scan_id=32973159) | Critical | N/A | 2025-08-24 03:02:06 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://eng-us-ledge.pages.dev](https://www.criminalip.io/domain/report?scan_id=33017245) | Critical | N/A | 2025-08-25 02:32:52 (UTC) |
+| "N/A" | [http://wallet-coinbaseexttension.com.addpotion.com](https://www.criminalip.io/domain/report?scan_id=33017332) | Critical | US | 2025-08-25 02:38:01 (UTC) |
+| "404: NOT_FOUND" | [http://case10009zwpol0lm10oi2208fvupvlm4kqao47vlu9ozar6usk.vercel.app](https://www.criminalip.io/domain/report?scan_id=33017581) | Critical | US | 2025-08-25 02:39:01 (UTC) |
 
 ---
 

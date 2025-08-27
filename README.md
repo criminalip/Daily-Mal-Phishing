@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.pl-oferta87224385.icu](https://www.criminalip.io/domain/report?scan_id=33067600) | Critical | N/A | 2025-08-26 02:37:20 (UTC) |
-| "404 Not Found" | [http://allegrolokalnie.pl648201przedmiot.icu](https://www.criminalip.io/domain/report?scan_id=33067898) | Critical | N/A | 2025-08-26 02:40:44 (UTC) |
-| "Service Suspended" | [http://pro-extension-coinbase-en.onrender.com](https://www.criminalip.io/domain/report?scan_id=33068024) | Critical | US | 2025-08-26 02:44:38 (UTC) |
+| "N/A" | [http://accountmanager-il-il.ubpages.com](https://www.criminalip.io/domain/report?scan_id=33120113) | Critical | N/A | 2025-08-27 02:39:26 (UTC) |
+| "Facebook" | [http://facebook-login-page-five.vercel.app](https://www.criminalip.io/domain/report?scan_id=33121254) | Critical | US | 2025-08-27 02:51:46 (UTC) |
+| "imtokenweb3.app" | [http://imtokenweb3.app](https://www.criminalip.io/domain/report?scan_id=33121355) | Critical | US | 2025-08-27 02:55:21 (UTC) |
 
 ---
 

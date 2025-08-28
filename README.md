@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://accountmanager-il-il.ubpages.com](https://www.criminalip.io/domain/report?scan_id=33120113) | Critical | N/A | 2025-08-27 02:39:26 (UTC) |
-| "Facebook" | [http://facebook-login-page-five.vercel.app](https://www.criminalip.io/domain/report?scan_id=33121254) | Critical | US | 2025-08-27 02:51:46 (UTC) |
-| "imtokenweb3.app" | [http://imtokenweb3.app](https://www.criminalip.io/domain/report?scan_id=33121355) | Critical | US | 2025-08-27 02:55:21 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://coinbase-wallet-extension.pages.dev](https://www.criminalip.io/domain/report?scan_id=33175213) | Critical | N/A | 2025-08-28 02:33:40 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-kategorie7812572178591825.shop](https://www.criminalip.io/domain/report?scan_id=33175605) | Critical | N/A | 2025-08-28 02:35:52 (UTC) |
+| "Site Not Found | Framer" | [http://green-anything-896935.framer.app](https://www.criminalip.io/domain/report?scan_id=33175679) | Critical | US | 2025-08-28 02:36:36 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://coinbase-wallet-extension.pages.dev](https://www.criminalip.io/domain/report?scan_id=33175213) | Critical | N/A | 2025-08-28 02:33:40 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-kategorie7812572178591825.shop](https://www.criminalip.io/domain/report?scan_id=33175605) | Critical | N/A | 2025-08-28 02:35:52 (UTC) |
-| "Site Not Found | Framer" | [http://green-anything-896935.framer.app](https://www.criminalip.io/domain/report?scan_id=33175679) | Critical | US | 2025-08-28 02:36:36 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledgr-desktop-live-f41.pages.dev](https://www.criminalip.io/domain/report?scan_id=33229453) | Critical | N/A | 2025-08-29 02:44:16 (UTC) |
+| "Bell" | [http://updatemailbox.netlify.app](https://www.criminalip.io/domain/report?scan_id=33231500) | Critical | SG | 2025-08-29 03:03:35 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta-456329.top](https://www.criminalip.io/domain/report?scan_id=33231517) | Critical | N/A | 2025-08-29 03:07:09 (UTC) |
 
 ---
 

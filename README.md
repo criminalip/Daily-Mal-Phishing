@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://ledgr-desktop-live-f41.pages.dev](https://www.criminalip.io/domain/report?scan_id=33229453) | Critical | N/A | 2025-08-29 02:44:16 (UTC) |
-| "Bell" | [http://updatemailbox.netlify.app](https://www.criminalip.io/domain/report?scan_id=33231500) | Critical | SG | 2025-08-29 03:03:35 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta-456329.top](https://www.criminalip.io/domain/report?scan_id=33231517) | Critical | N/A | 2025-08-29 03:07:09 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://wallet-exdus.pages.dev](https://www.criminalip.io/domain/report?scan_id=33279392) | Critical | N/A | 2025-08-30 02:32:55 (UTC) |
+| "easybank" | [http://easybank-wine.vercel.app](https://www.criminalip.io/domain/report?scan_id=33279764) | Critical | US | 2025-08-30 02:39:57 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta08845.top](https://www.criminalip.io/domain/report?scan_id=33279882) | Critical | N/A | 2025-08-30 02:43:22 (UTC) |
 
 ---
 

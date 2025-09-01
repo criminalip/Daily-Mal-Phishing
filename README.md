@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.pl-oferta84955682.icu](https://www.criminalip.io/domain/report?scan_id=33325728) | Critical | N/A | 2025-08-31 02:30:53 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://help-trezor-en-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=33326123) | Critical | N/A | 2025-08-31 02:35:47 (UTC) |
-| "N/A" | [http://allegro.pl-oferta4949623.cfd](https://www.criminalip.io/domain/report?scan_id=33326750) | Critical | N/A | 2025-08-31 02:47:31 (UTC) |
+| "Sky" | [http://sky-v2.vercel.app](https://www.criminalip.io/domain/report?scan_id=33370856) | Critical | US | 2025-09-01 02:30:37 (UTC) |
+| "N/A" | [http://allegro.pl-oferta99428720.icu](https://www.criminalip.io/domain/report?scan_id=33370976) | Critical | N/A | 2025-09-01 02:31:29 (UTC) |
+| "https://facebook-alerts.blogspot.se/" | [http://facebook-alerts.blogspot.se](https://www.criminalip.io/domain/report?scan_id=33371084) | Critical | US | 2025-09-01 02:32:56 (UTC) |
 
 ---
 

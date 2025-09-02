@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Sky" | [http://sky-v2.vercel.app](https://www.criminalip.io/domain/report?scan_id=33370856) | Critical | US | 2025-09-01 02:30:37 (UTC) |
-| "N/A" | [http://allegro.pl-oferta99428720.icu](https://www.criminalip.io/domain/report?scan_id=33370976) | Critical | N/A | 2025-09-01 02:31:29 (UTC) |
-| "https://facebook-alerts.blogspot.se/" | [http://facebook-alerts.blogspot.se](https://www.criminalip.io/domain/report?scan_id=33371084) | Critical | US | 2025-09-01 02:32:56 (UTC) |
+| "Netflix" | [http://yasirclone.netlify.app](https://www.criminalip.io/domain/report?scan_id=33415521) | Critical | SG | 2025-09-02 02:33:24 (UTC) |
+| "Whatsapp" | [http://whatsapp-clone-21bce.web.app](https://www.criminalip.io/domain/report?scan_id=33416236) | Critical | US | 2025-09-02 02:36:29 (UTC) |
+| "One moment, please..." | [http://xn--x50bya24m22g78qo8ezpb21vrloi8e.ljsbp.com](https://www.criminalip.io/domain/report?scan_id=33416406) | Critical | US | 2025-09-02 02:37:26 (UTC) |
 
 ---
 

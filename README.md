@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix" | [http://yasirclone.netlify.app](https://www.criminalip.io/domain/report?scan_id=33415521) | Critical | SG | 2025-09-02 02:33:24 (UTC) |
-| "Whatsapp" | [http://whatsapp-clone-21bce.web.app](https://www.criminalip.io/domain/report?scan_id=33416236) | Critical | US | 2025-09-02 02:36:29 (UTC) |
-| "One moment, please..." | [http://xn--x50bya24m22g78qo8ezpb21vrloi8e.ljsbp.com](https://www.criminalip.io/domain/report?scan_id=33416406) | Critical | US | 2025-09-02 02:37:26 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app.escolhapresente.click](https://www.criminalip.io/domain/report?scan_id=33464329) | Critical | N/A | 2025-09-03 02:30:52 (UTC) |
+| "404 Not Found" | [http://steam.workshopcosmeticsdetil.com](https://www.criminalip.io/domain/report?scan_id=33464857) | Critical | DE | 2025-09-03 02:33:49 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app.escolhapresent.click](https://www.criminalip.io/domain/report?scan_id=33464887) | Critical | N/A | 2025-09-03 02:37:36 (UTC) |
 
 ---
 

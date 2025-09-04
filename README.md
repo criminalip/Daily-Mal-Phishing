@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://app.escolhapresente.click](https://www.criminalip.io/domain/report?scan_id=33464329) | Critical | N/A | 2025-09-03 02:30:52 (UTC) |
-| "404 Not Found" | [http://steam.workshopcosmeticsdetil.com](https://www.criminalip.io/domain/report?scan_id=33464857) | Critical | DE | 2025-09-03 02:33:49 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://app.escolhapresent.click](https://www.criminalip.io/domain/report?scan_id=33464887) | Critical | N/A | 2025-09-03 02:37:36 (UTC) |
+| "N/A" | [http://allegro.pl-oferta8945637841.shop](https://www.criminalip.io/domain/report?scan_id=33516121) | Critical | N/A | 2025-09-04 02:31:12 (UTC) |
+| "Official Site® | Ledger.com/Start® | Getting started — ledger" | [http://connect-ledgers-login.typedream.app](https://www.criminalip.io/domain/report?scan_id=33516286) | Low | N/A | 2025-09-04 02:32:27 (UTC) |
+| "Amazon Clone" | [http://www.amazon-clone-project-alpha.vercel.app](https://www.criminalip.io/domain/report?scan_id=33516522) | Low | US | 2025-09-04 02:35:47 (UTC) |
 
 ---
 

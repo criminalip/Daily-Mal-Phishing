@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta8945637841.shop](https://www.criminalip.io/domain/report?scan_id=33516121) | Critical | N/A | 2025-09-04 02:31:12 (UTC) |
-| "Official Site® | Ledger.com/Start® | Getting started — ledger" | [http://connect-ledgers-login.typedream.app](https://www.criminalip.io/domain/report?scan_id=33516286) | Low | N/A | 2025-09-04 02:32:27 (UTC) |
-| "Amazon Clone" | [http://www.amazon-clone-project-alpha.vercel.app](https://www.criminalip.io/domain/report?scan_id=33516522) | Low | US | 2025-09-04 02:35:47 (UTC) |
+| "AMAZON" | [http://amazon-website-clone-two-olive.vercel.app](https://www.criminalip.io/domain/report?scan_id=33566836) | Low | US | 2025-09-05 02:34:03 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://www3-vpass-jp.hhqzr.cn](https://www.criminalip.io/domain/report?scan_id=33566889) | Critical | N/A | 2025-09-05 02:34:55 (UTC) |
+| "Amazon Website Clone | CodingNepal" | [http://amazon-clone-part-1.vercel.app](https://www.criminalip.io/domain/report?scan_id=33566969) | Low | US | 2025-09-05 02:36:36 (UTC) |
 
 ---
 

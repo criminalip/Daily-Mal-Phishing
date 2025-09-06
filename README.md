@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "AMAZON" | [http://amazon-website-clone-two-olive.vercel.app](https://www.criminalip.io/domain/report?scan_id=33566836) | Low | US | 2025-09-05 02:34:03 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://www3-vpass-jp.hhqzr.cn](https://www.criminalip.io/domain/report?scan_id=33566889) | Critical | N/A | 2025-09-05 02:34:55 (UTC) |
-| "Amazon Website Clone | CodingNepal" | [http://amazon-clone-part-1.vercel.app](https://www.criminalip.io/domain/report?scan_id=33566969) | Low | US | 2025-09-05 02:36:36 (UTC) |
+| "(주)더지엠에스" | [http://pay.thegms.co.kr](https://www.criminalip.io/domain/report?scan_id=33631535) | Critical | KR | 2025-09-06 02:33:01 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://sso-portal-coinbase-74f.pages.dev](https://www.criminalip.io/domain/report?scan_id=33632658) | Critical | N/A | 2025-09-06 02:39:09 (UTC) |
+| "Site not found · GitHub Pages" | [http://amey021.github.io](https://www.criminalip.io/domain/report?scan_id=33632804) | Low | US | 2025-09-06 02:40:01 (UTC) |
 
 ---
 

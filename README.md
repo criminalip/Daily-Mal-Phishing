@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "(주)더지엠에스" | [http://pay.thegms.co.kr](https://www.criminalip.io/domain/report?scan_id=33631535) | Critical | KR | 2025-09-06 02:33:01 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://sso-portal-coinbase-74f.pages.dev](https://www.criminalip.io/domain/report?scan_id=33632658) | Critical | N/A | 2025-09-06 02:39:09 (UTC) |
-| "Site not found · GitHub Pages" | [http://amey021.github.io](https://www.criminalip.io/domain/report?scan_id=33632804) | Low | US | 2025-09-06 02:40:01 (UTC) |
+| "N/A" | [http://allegro.pl-oferta10526837249.lat](https://www.criminalip.io/domain/report?scan_id=33740407) | Low | N/A | 2025-09-07 02:33:09 (UTC) |
+| "Site Not Found | Framer" | [http://caring-beautifully-705515.framer.app](https://www.criminalip.io/domain/report?scan_id=33740615) | Low | US | 2025-09-07 02:34:03 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://secure-ledgar-download.pages.dev](https://www.criminalip.io/domain/report?scan_id=33741991) | Low | N/A | 2025-09-07 02:41:05 (UTC) |
 
 ---
 

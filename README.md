@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta10526837249.lat](https://www.criminalip.io/domain/report?scan_id=33740407) | Low | N/A | 2025-09-07 02:33:09 (UTC) |
-| "Site Not Found | Framer" | [http://caring-beautifully-705515.framer.app](https://www.criminalip.io/domain/report?scan_id=33740615) | Low | US | 2025-09-07 02:34:03 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://secure-ledgar-download.pages.dev](https://www.criminalip.io/domain/report?scan_id=33741991) | Low | N/A | 2025-09-07 02:41:05 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://kmkmkj.fjjlljgfhf.workers.dev](https://www.criminalip.io/domain/report?scan_id=33809104) | Low | N/A | 2025-09-08 02:30:39 (UTC) |
+| "403 Forbidden" | [http://update.account.support.login.oupzcj.cn](https://www.criminalip.io/domain/report?scan_id=33809255) | Low | SG | 2025-09-08 02:32:28 (UTC) |
+| "N/A" | [http://allegro.pl-oferta5767560.cfd](https://www.criminalip.io/domain/report?scan_id=33809464) | Critical | N/A | 2025-09-08 02:34:50 (UTC) |
 
 ---
 

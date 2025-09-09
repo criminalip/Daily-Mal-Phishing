@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://kmkmkj.fjjlljgfhf.workers.dev](https://www.criminalip.io/domain/report?scan_id=33809104) | Low | N/A | 2025-09-08 02:30:39 (UTC) |
-| "403 Forbidden" | [http://update.account.support.login.oupzcj.cn](https://www.criminalip.io/domain/report?scan_id=33809255) | Low | SG | 2025-09-08 02:32:28 (UTC) |
-| "N/A" | [http://allegro.pl-oferta5767560.cfd](https://www.criminalip.io/domain/report?scan_id=33809464) | Critical | N/A | 2025-09-08 02:34:50 (UTC) |
+| "Coinbase® Extension® | Getting Started® Help*" | [http://coinbase-chrome-docs-extension.typedream.app](https://www.criminalip.io/domain/report?scan_id=33872360) | Critical | N/A | 2025-09-09 02:33:19 (UTC) |
+| "Deployment Unavailable" | [http://featured-else.vercel.app](https://www.criminalip.io/domain/report?scan_id=33873754) | Low | US | 2025-09-09 02:40:17 (UTC) |
+| "Robinhood Login Account | Secure Access to Your Investments" | [http://www-robinhood-com-login-page.typedream.app](https://www.criminalip.io/domain/report?scan_id=33874397) | Critical | N/A | 2025-09-09 02:43:29 (UTC) |
 
 ---
 

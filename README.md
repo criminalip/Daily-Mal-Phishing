@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Coinbase® Extension® | Getting Started® Help*" | [http://coinbase-chrome-docs-extension.typedream.app](https://www.criminalip.io/domain/report?scan_id=33872360) | Critical | N/A | 2025-09-09 02:33:19 (UTC) |
-| "Deployment Unavailable" | [http://featured-else.vercel.app](https://www.criminalip.io/domain/report?scan_id=33873754) | Low | US | 2025-09-09 02:40:17 (UTC) |
-| "Robinhood Login Account | Secure Access to Your Investments" | [http://www-robinhood-com-login-page.typedream.app](https://www.criminalip.io/domain/report?scan_id=33874397) | Critical | N/A | 2025-09-09 02:43:29 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledger-bridge-swa.pages.dev](https://www.criminalip.io/domain/report?scan_id=34014670) | Low | N/A | 2025-09-10 02:32:53 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://coinbase-login-faqs.pages.dev](https://www.criminalip.io/domain/report?scan_id=34014870) | Critical | N/A | 2025-09-10 02:33:38 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta753478.icu](https://www.criminalip.io/domain/report?scan_id=34015045) | Low | N/A | 2025-09-10 02:34:26 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://ledger-bridge-swa.pages.dev](https://www.criminalip.io/domain/report?scan_id=34014670) | Low | N/A | 2025-09-10 02:32:53 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://coinbase-login-faqs.pages.dev](https://www.criminalip.io/domain/report?scan_id=34014870) | Critical | N/A | 2025-09-10 02:33:38 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta753478.icu](https://www.criminalip.io/domain/report?scan_id=34015045) | Low | N/A | 2025-09-10 02:34:26 (UTC) |
+| "Login to Coinbase® Wallet Extension™ | Coin Base® Sign In | Manage NFTs & Tokens" | [http://www.login-coinbaes-pro.vercel.app](https://www.criminalip.io/domain/report?scan_id=34113532) | Low | US | 2025-09-11 02:30:58 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app.promosbia.click](https://www.criminalip.io/domain/report?scan_id=34113809) | Critical | N/A | 2025-09-11 02:31:47 (UTC) |
+| "Site not found" | [http://qasdfzdvjlkx.netlify.app](https://www.criminalip.io/domain/report?scan_id=34113973) | Low | SG | 2025-09-11 02:32:32 (UTC) |
 
 ---
 

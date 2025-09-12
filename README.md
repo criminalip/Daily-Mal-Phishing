@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Login to Coinbase® Wallet Extension™ | Coin Base® Sign In | Manage NFTs & Tokens" | [http://www.login-coinbaes-pro.vercel.app](https://www.criminalip.io/domain/report?scan_id=34113532) | Low | US | 2025-09-11 02:30:58 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://app.promosbia.click](https://www.criminalip.io/domain/report?scan_id=34113809) | Critical | N/A | 2025-09-11 02:31:47 (UTC) |
-| "Site not found" | [http://qasdfzdvjlkx.netlify.app](https://www.criminalip.io/domain/report?scan_id=34113973) | Low | SG | 2025-09-11 02:32:32 (UTC) |
+| "Netflix India - Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-beige-48.vercel.app](https://www.criminalip.io/domain/report?scan_id=34230313) | Critical | US | 2025-09-12 02:31:06 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://doe-exodusweb-eky.pages.dev](https://www.criminalip.io/domain/report?scan_id=34230420) | Low | N/A | 2025-09-12 02:31:42 (UTC) |
+| "Site Not Found | Framer" | [http://telstranewmodification.framer.website](https://www.criminalip.io/domain/report?scan_id=34230603) | Low | US | 2025-09-12 02:32:26 (UTC) |
 
 ---
 

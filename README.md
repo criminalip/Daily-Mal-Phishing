@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix India - Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-beige-48.vercel.app](https://www.criminalip.io/domain/report?scan_id=34230313) | Critical | US | 2025-09-12 02:31:06 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://doe-exodusweb-eky.pages.dev](https://www.criminalip.io/domain/report?scan_id=34230420) | Low | N/A | 2025-09-12 02:31:42 (UTC) |
-| "Site Not Found | Framer" | [http://telstranewmodification.framer.website](https://www.criminalip.io/domain/report?scan_id=34230603) | Low | US | 2025-09-12 02:32:26 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://login-trezrio-eng-home.pages.dev](https://www.criminalip.io/domain/report?scan_id=34314539) | Low | N/A | 2025-09-13 02:31:45 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-dn.github.io](https://www.criminalip.io/domain/report?scan_id=34314869) | Critical | US | 2025-09-13 02:32:56 (UTC) |
+| "Website Information" | [http://sbermarket.yandex.yandex.avito.blablacar.covid19.miranda-world.com](https://www.criminalip.io/domain/report?scan_id=34316207) | Critical | AT | 2025-09-13 02:38:04 (UTC) |
 
 ---
 

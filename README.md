@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://login-trezrio-eng-home.pages.dev](https://www.criminalip.io/domain/report?scan_id=34314539) | Low | N/A | 2025-09-13 02:31:45 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-dn.github.io](https://www.criminalip.io/domain/report?scan_id=34314869) | Critical | US | 2025-09-13 02:32:56 (UTC) |
-| "Website Information" | [http://sbermarket.yandex.yandex.avito.blablacar.covid19.miranda-world.com](https://www.criminalip.io/domain/report?scan_id=34316207) | Critical | AT | 2025-09-13 02:38:04 (UTC) |
+| "florida.revenue-fr.net" | [http://florida.revenue-fr.net](https://www.criminalip.io/domain/report?scan_id=34396170) | Critical | N/A | 2025-09-14 02:30:39 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta12014233.icu](https://www.criminalip.io/domain/report?scan_id=34396517) | Low | N/A | 2025-09-14 02:32:20 (UTC) |
+| "N/A" | [http://allegro.pl-oferta78934.rest](https://www.criminalip.io/domain/report?scan_id=34396650) | Critical | N/A | 2025-09-14 02:32:59 (UTC) |
 
 ---
 

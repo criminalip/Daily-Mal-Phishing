@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://rakuten-cord-co-jp.968bet.info](https://www.criminalip.io/domain/report?scan_id=34582420) | Low | N/A | 2025-09-16 02:30:39 (UTC) |
-| "btncdhcdh.makeweb.co" | [http://btncdhcdh.makeweb.co](https://www.criminalip.io/domain/report?scan_id=34582735) | Low | SG | 2025-09-16 02:32:21 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://support-io-start.pages.dev](https://www.criminalip.io/domain/report?scan_id=34584256) | Low | N/A | 2025-09-16 02:36:10 (UTC) |
+| "QNB Giriş" | [http://vwvwwifnansbanks.click](https://www.criminalip.io/domain/report?scan_id=34667154) | Critical | SC | 2025-09-17 02:33:22 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://en-start-trezr-sso-gg.pages.dev](https://www.criminalip.io/domain/report?scan_id=34667847) | Low | N/A | 2025-09-17 02:37:00 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-rr.github.io](https://www.criminalip.io/domain/report?scan_id=34667997) | Critical | US | 2025-09-17 02:37:40 (UTC) |
 
 ---
 

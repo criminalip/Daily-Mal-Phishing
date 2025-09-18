@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "QNB Giriş" | [http://vwvwwifnansbanks.click](https://www.criminalip.io/domain/report?scan_id=34667154) | Critical | SC | 2025-09-17 02:33:22 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://en-start-trezr-sso-gg.pages.dev](https://www.criminalip.io/domain/report?scan_id=34667847) | Low | N/A | 2025-09-17 02:37:00 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-rr.github.io](https://www.criminalip.io/domain/report?scan_id=34667997) | Critical | US | 2025-09-17 02:37:40 (UTC) |
+| "COMING SOON" | [http://tlars.com.br](https://www.criminalip.io/domain/report?scan_id=34858467) | Low | BR | 2025-09-18 02:43:22 (UTC) |
+| "403 Forbidden" | [http://yandex.kwid9.x5wwa57.top](https://www.criminalip.io/domain/report?scan_id=34859600) | Critical | AE | 2025-09-18 02:47:04 (UTC) |
+| "nj.gov-ly.bar" | [http://nj.gov-ly.bar](https://www.criminalip.io/domain/report?scan_id=34860253) | Critical | SG | 2025-09-18 02:48:54 (UTC) |
 
 ---
 

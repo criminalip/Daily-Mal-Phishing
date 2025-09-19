@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "COMING SOON" | [http://tlars.com.br](https://www.criminalip.io/domain/report?scan_id=34858467) | Low | BR | 2025-09-18 02:43:22 (UTC) |
-| "403 Forbidden" | [http://yandex.kwid9.x5wwa57.top](https://www.criminalip.io/domain/report?scan_id=34859600) | Critical | AE | 2025-09-18 02:47:04 (UTC) |
-| "nj.gov-ly.bar" | [http://nj.gov-ly.bar](https://www.criminalip.io/domain/report?scan_id=34860253) | Critical | SG | 2025-09-18 02:48:54 (UTC) |
+| "Site not found" | [http://576983eg783et3g.netlify.app](https://www.criminalip.io/domain/report?scan_id=34955267) | Low | SG | 2025-09-19 02:33:05 (UTC) |
+| "N/A" | [http://hermes-de.qpon](https://www.criminalip.io/domain/report?scan_id=34955548) | Critical | SG | 2025-09-19 02:38:15 (UTC) |
+| "tax.ny-vo.cc" | [http://tax.ny-vo.cc](https://www.criminalip.io/domain/report?scan_id=34955771) | Critical | N/A | 2025-09-19 02:40:05 (UTC) |
 
 ---
 

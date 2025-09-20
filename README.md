@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://576983eg783et3g.netlify.app](https://www.criminalip.io/domain/report?scan_id=34955267) | Low | SG | 2025-09-19 02:33:05 (UTC) |
-| "N/A" | [http://hermes-de.qpon](https://www.criminalip.io/domain/report?scan_id=34955548) | Critical | SG | 2025-09-19 02:38:15 (UTC) |
-| "tax.ny-vo.cc" | [http://tax.ny-vo.cc](https://www.criminalip.io/domain/report?scan_id=34955771) | Critical | N/A | 2025-09-19 02:40:05 (UTC) |
+| "CCIP Explorer | Chainlink" | [http://ccip-etvq7j67k-chainlinklabs.vercel.app](https://www.criminalip.io/domain/report?scan_id=35029610) | Low | US | 2025-09-20 02:42:47 (UTC) |
+| "Trezor.io/Start — Easy Setup for Your Trezor Wallet" | [http://en-trezor-io-starrt.pages.dev](https://www.criminalip.io/domain/report?scan_id=35030590) | Low | N/A | 2025-09-20 02:47:44 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://web-coinbase-pro-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=35031011) | Critical | N/A | 2025-09-20 02:50:30 (UTC) |
 
 ---
 

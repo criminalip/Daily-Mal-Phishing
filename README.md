@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "CCIP Explorer | Chainlink" | [http://ccip-etvq7j67k-chainlinklabs.vercel.app](https://www.criminalip.io/domain/report?scan_id=35029610) | Low | US | 2025-09-20 02:42:47 (UTC) |
-| "Trezor.io/Start — Easy Setup for Your Trezor Wallet" | [http://en-trezor-io-starrt.pages.dev](https://www.criminalip.io/domain/report?scan_id=35030590) | Low | N/A | 2025-09-20 02:47:44 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://web-coinbase-pro-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=35031011) | Critical | N/A | 2025-09-20 02:50:30 (UTC) |
+| "Ledger.com/Start – Step-by-Step Ledger Wallet Setup Guide" | [http://ldgr---com---start.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103307) | Low | N/A | 2025-09-21 02:33:27 (UTC) |
+| "Blockchain Rectification - We are here to help you resolve your crypto related issues" | [http://orbidao.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103567) | Low | N/A | 2025-09-21 02:34:21 (UTC) |
+| "MetaMask Wallet Login | Manage Your Digital Assets Securely" | [http://metamask-eans.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103750) | Low | N/A | 2025-09-21 02:35:19 (UTC) |
 
 ---
 

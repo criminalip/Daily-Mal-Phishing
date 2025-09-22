@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Ledger.com/Start – Step-by-Step Ledger Wallet Setup Guide" | [http://ldgr---com---start.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103307) | Low | N/A | 2025-09-21 02:33:27 (UTC) |
-| "Blockchain Rectification - We are here to help you resolve your crypto related issues" | [http://orbidao.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103567) | Low | N/A | 2025-09-21 02:34:21 (UTC) |
-| "MetaMask Wallet Login | Manage Your Digital Assets Securely" | [http://metamask-eans.pages.dev](https://www.criminalip.io/domain/report?scan_id=35103750) | Low | N/A | 2025-09-21 02:35:19 (UTC) |
+| "Meta for Business | Page Appeal" | [http://meta-support-path.pages.dev](https://www.criminalip.io/domain/report?scan_id=35224953) | Low | N/A | 2025-09-22 02:30:45 (UTC) |
+| "Coinbase.com/Sign In Guide for New Users – Access Your Crypto Portfolio" | [http://learn-coinbas-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=35225974) | Critical | N/A | 2025-09-22 02:36:26 (UTC) |
+| "Trezor Wallet Login – Secure Access to Your Crypto" | [http://trrezorwalletlogin.pages.dev](https://www.criminalip.io/domain/report?scan_id=35226220) | Low | N/A | 2025-09-22 02:37:57 (UTC) |
 
 ---
 

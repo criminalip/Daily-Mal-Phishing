@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Meta for Business | Page Appeal" | [http://meta-support-path.pages.dev](https://www.criminalip.io/domain/report?scan_id=35224953) | Low | N/A | 2025-09-22 02:30:45 (UTC) |
-| "Coinbase.com/Sign In Guide for New Users – Access Your Crypto Portfolio" | [http://learn-coinbas-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=35225974) | Critical | N/A | 2025-09-22 02:36:26 (UTC) |
-| "Trezor Wallet Login – Secure Access to Your Crypto" | [http://trrezorwalletlogin.pages.dev](https://www.criminalip.io/domain/report?scan_id=35226220) | Low | N/A | 2025-09-22 02:37:57 (UTC) |
+| "tk.facebook.login.page.serveo.net" | [http://tk.facebook.login.page.serveo.net](https://www.criminalip.io/domain/report?scan_id=35419160) | Critical | DE | 2025-09-23 02:35:21 (UTC) |
+| "BabyBonk: V1 → V2" | [http://swap-babybonkcoin.pages.dev](https://www.criminalip.io/domain/report?scan_id=35419658) | Low | N/A | 2025-09-23 02:37:10 (UTC) |
+| "es-mobile-netflix.com" | [http://apps.es-mobile-netflix.com](https://www.criminalip.io/domain/report?scan_id=35419918) | Critical | US | 2025-09-23 02:38:30 (UTC) |
 
 ---
 

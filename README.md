@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "tk.facebook.login.page.serveo.net" | [http://tk.facebook.login.page.serveo.net](https://www.criminalip.io/domain/report?scan_id=35419160) | Critical | DE | 2025-09-23 02:35:21 (UTC) |
-| "BabyBonk: V1 → V2" | [http://swap-babybonkcoin.pages.dev](https://www.criminalip.io/domain/report?scan_id=35419658) | Low | N/A | 2025-09-23 02:37:10 (UTC) |
-| "es-mobile-netflix.com" | [http://apps.es-mobile-netflix.com](https://www.criminalip.io/domain/report?scan_id=35419918) | Critical | US | 2025-09-23 02:38:30 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://secure-x-up-held-io.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613215) | Low | N/A | 2025-09-24 02:30:39 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://io-eng-suites-trezor-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613221) | Low | N/A | 2025-09-24 02:31:34 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://usingtrezr-app-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613233) | Low | N/A | 2025-09-24 02:32:14 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://secure-x-up-held-io.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613215) | Low | N/A | 2025-09-24 02:30:39 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://io-eng-suites-trezor-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613221) | Low | N/A | 2025-09-24 02:31:34 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://usingtrezr-app-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=35613233) | Low | N/A | 2025-09-24 02:32:14 (UTC) |
+| "Meta for Business | Page Appeal" | [http://meta-support-passwordid.pages.dev](https://www.criminalip.io/domain/report?scan_id=35696488) | Low | N/A | 2025-09-25 02:33:00 (UTC) |
+| "Get Started with Ledger for Secure Crypto Management" | [http://homepage-ledger-live-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=35696769) | Low | N/A | 2025-09-25 02:33:39 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://tzer-suit-support-cgo.pages.dev](https://www.criminalip.io/domain/report?scan_id=35697021) | Low | N/A | 2025-09-25 02:34:28 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://new-extn-coinbse.pages.dev](https://www.criminalip.io/domain/report?scan_id=35899570) | Low | N/A | 2025-09-26 02:30:47 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ledgr-wallet-io.pages.dev](https://www.criminalip.io/domain/report?scan_id=35899711) | Low | N/A | 2025-09-26 02:31:57 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://mitamask-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=35900303) | Low | N/A | 2025-09-26 02:32:49 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-support-taglist.pages.dev](https://www.criminalip.io/domain/report?scan_id=35988270) | Low | N/A | 2025-09-27 02:30:31 (UTC) |
+| "coo.com - 이 웹 사이트는 판매용입니다! - coo 자료와 정보" | [http://people-pa.googleapis.com.coo.com](https://www.criminalip.io/domain/report?scan_id=35988807) | Critical | DE | 2025-09-27 02:32:05 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://logiiin---com----uphlddd.pages.dev](https://www.criminalip.io/domain/report?scan_id=35989200) | Low | N/A | 2025-09-27 02:33:40 (UTC) |
 
 ---
 

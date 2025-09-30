@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.ogloszenie-2hf4gh79rtfpvz33wla2.icu](https://www.criminalip.io/domain/report?scan_id=36247563) | Critical | N/A | 2025-09-29 02:31:02 (UTC) |
-| "Coinbase Login | Access Your Crypto Wallet Securely" | [http://coinbase-access-login.typedream.app](https://www.criminalip.io/domain/report?scan_id=36247739) | Critical | N/A | 2025-09-29 02:31:54 (UTC) |
-| "Site not found · GitHub Pages" | [http://btuan297.github.io](https://www.criminalip.io/domain/report?scan_id=36248086) | Low | US | 2025-09-29 02:36:35 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-support-regdoc.pages.dev](https://www.criminalip.io/domain/report?scan_id=36326331) | Low | N/A | 2025-09-30 02:30:59 (UTC) |
+| "N/A" | [http://allegrolokalnie.995358203.cfd](https://www.criminalip.io/domain/report?scan_id=36326775) | Critical | N/A | 2025-09-30 02:33:38 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-support-formid-8qa.pages.dev](https://www.criminalip.io/domain/report?scan_id=36326880) | Low | N/A | 2025-09-30 02:34:21 (UTC) |
 
 ---
 

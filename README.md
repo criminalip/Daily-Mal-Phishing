@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://meta-support-regdoc.pages.dev](https://www.criminalip.io/domain/report?scan_id=36326331) | Low | N/A | 2025-09-30 02:30:59 (UTC) |
-| "N/A" | [http://allegrolokalnie.995358203.cfd](https://www.criminalip.io/domain/report?scan_id=36326775) | Critical | N/A | 2025-09-30 02:33:38 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-support-formid-8qa.pages.dev](https://www.criminalip.io/domain/report?scan_id=36326880) | Low | N/A | 2025-09-30 02:34:21 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://overview-live-coinbse-public.pages.dev](https://www.criminalip.io/domain/report?scan_id=36444088) | Low | N/A | 2025-10-01 03:07:30 (UTC) |
+| "Site not found" | [http://moonlit-torte-925f9e.netlify.app](https://www.criminalip.io/domain/report?scan_id=36444243) | Low | SG | 2025-10-01 03:08:08 (UTC) |
+| "N/A" | [http://whats-zhv.vip](https://www.criminalip.io/domain/report?scan_id=36444787) | Critical | HK | 2025-10-01 03:11:18 (UTC) |
 
 ---
 

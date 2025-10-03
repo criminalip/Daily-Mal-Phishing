@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta864264318934.shop](https://www.criminalip.io/domain/report?scan_id=36520682) | Low | N/A | 2025-10-02 02:33:03 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://internal-garnith-meta-coordination-record.pages.dev](https://www.criminalip.io/domain/report?scan_id=36520847) | Low | N/A | 2025-10-02 02:33:47 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://internal-peldrix-meta-solution-path.pages.dev](https://www.criminalip.io/domain/report?scan_id=36520986) | Low | N/A | 2025-10-02 02:34:33 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://internal-nivren-meta-checklist-map.pages.dev](https://www.criminalip.io/domain/report?scan_id=36670378) | Low | N/A | 2025-10-03 02:33:19 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://facebook-alerts.blogspot.gr](https://www.criminalip.io/domain/report?scan_id=36671521) | Critical | US | 2025-10-03 02:40:18 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-security-update-access-hub.pages.dev](https://www.criminalip.io/domain/report?scan_id=36672631) | Low | N/A | 2025-10-03 02:43:02 (UTC) |
 
 ---
 

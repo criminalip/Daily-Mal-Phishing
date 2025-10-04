@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://internal-nivren-meta-checklist-map.pages.dev](https://www.criminalip.io/domain/report?scan_id=36670378) | Low | N/A | 2025-10-03 02:33:19 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://facebook-alerts.blogspot.gr](https://www.criminalip.io/domain/report?scan_id=36671521) | Critical | US | 2025-10-03 02:40:18 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-security-update-access-hub.pages.dev](https://www.criminalip.io/domain/report?scan_id=36672631) | Low | N/A | 2025-10-03 02:43:02 (UTC) |
+| "N/A" | [http://amazonzzv.co](https://www.criminalip.io/domain/report?scan_id=36749416) | Low | US | 2025-10-04 02:35:01 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://support-x-trzurio-start.pages.dev](https://www.criminalip.io/domain/report?scan_id=36752070) | Low | N/A | 2025-10-04 02:46:33 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://liveledger-auth-apps.pages.dev](https://www.criminalip.io/domain/report?scan_id=36754158) | Low | N/A | 2025-10-04 02:53:59 (UTC) |
 
 ---
 

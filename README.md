@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://amazonzzv.co](https://www.criminalip.io/domain/report?scan_id=36749416) | Low | US | 2025-10-04 02:35:01 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://support-x-trzurio-start.pages.dev](https://www.criminalip.io/domain/report?scan_id=36752070) | Low | N/A | 2025-10-04 02:46:33 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://liveledger-auth-apps.pages.dev](https://www.criminalip.io/domain/report?scan_id=36754158) | Low | N/A | 2025-10-04 02:53:59 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://page-trzor-start-auth.pages.dev](https://www.criminalip.io/domain/report?scan_id=36942624) | Low | N/A | 2025-10-05 02:41:00 (UTC) |
+| "Coming Soon" | [http://portalambiente-seguro.shop](https://www.criminalip.io/domain/report?scan_id=36942752) | Low | N/A | 2025-10-05 02:41:49 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://internal-xanvorn-meta-grolith-archive.pages.dev](https://www.criminalip.io/domain/report?scan_id=36943224) | Low | N/A | 2025-10-05 02:43:32 (UTC) |
 
 ---
 

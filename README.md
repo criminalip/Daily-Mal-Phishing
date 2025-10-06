@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://page-trzor-start-auth.pages.dev](https://www.criminalip.io/domain/report?scan_id=36942624) | Low | N/A | 2025-10-05 02:41:00 (UTC) |
-| "Coming Soon" | [http://portalambiente-seguro.shop](https://www.criminalip.io/domain/report?scan_id=36942752) | Low | N/A | 2025-10-05 02:41:49 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://internal-xanvorn-meta-grolith-archive.pages.dev](https://www.criminalip.io/domain/report?scan_id=36943224) | Low | N/A | 2025-10-05 02:43:32 (UTC) |
+| "Johanna-jik" | [http://mein-gebuhrenfrei.de.cool](https://www.criminalip.io/domain/report?scan_id=37018033) | Low | DE | 2025-10-06 02:32:52 (UTC) |
+| "404 Not Found" | [http://allagrolokalnie.pl-prywatna2948.icu](https://www.criminalip.io/domain/report?scan_id=37018784) | Low | N/A | 2025-10-06 02:34:24 (UTC) |
+| "N/A" | [http://gov.uk-dwpdic.qpon](https://www.criminalip.io/domain/report?scan_id=37019597) | Critical | N/A | 2025-10-06 02:37:55 (UTC) |
 
 ---
 

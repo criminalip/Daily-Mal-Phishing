@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Johanna-jik" | [http://mein-gebuhrenfrei.de.cool](https://www.criminalip.io/domain/report?scan_id=37018033) | Low | DE | 2025-10-06 02:32:52 (UTC) |
-| "404 Not Found" | [http://allagrolokalnie.pl-prywatna2948.icu](https://www.criminalip.io/domain/report?scan_id=37018784) | Low | N/A | 2025-10-06 02:34:24 (UTC) |
-| "N/A" | [http://gov.uk-dwpdic.qpon](https://www.criminalip.io/domain/report?scan_id=37019597) | Critical | N/A | 2025-10-06 02:37:55 (UTC) |
+| "N/A" | [http://allegro.pl-oferta1048101.icu](https://www.criminalip.io/domain/report?scan_id=37130442) | Critical | N/A | 2025-10-07 02:32:43 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta1048101.icu](https://www.criminalip.io/domain/report?scan_id=37130578) | Low | N/A | 2025-10-07 02:33:19 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://project-coinbase-extension.pages.dev](https://www.criminalip.io/domain/report?scan_id=37130789) | Critical | N/A | 2025-10-07 02:34:07 (UTC) |
 
 ---
 

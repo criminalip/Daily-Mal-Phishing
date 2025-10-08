@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-oferta1048101.icu](https://www.criminalip.io/domain/report?scan_id=37130442) | Critical | N/A | 2025-10-07 02:32:43 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta1048101.icu](https://www.criminalip.io/domain/report?scan_id=37130578) | Low | N/A | 2025-10-07 02:33:19 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://project-coinbase-extension.pages.dev](https://www.criminalip.io/domain/report?scan_id=37130789) | Critical | N/A | 2025-10-07 02:34:07 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledger-livedesktp.pages.dev](https://www.criminalip.io/domain/report?scan_id=37235609) | Low | N/A | 2025-10-08 02:32:39 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://chrome-webexdos.pages.dev](https://www.criminalip.io/domain/report?scan_id=37237447) | Low | N/A | 2025-10-08 02:40:03 (UTC) |
+| "502 Bad Gateway" | [http://cdek.yandex.ozon.er.ord3twoj7gus.wswedisblossdev.maaau.ru](https://www.criminalip.io/domain/report?scan_id=37237851) | Critical | RU | 2025-10-08 02:40:59 (UTC) |
 
 ---
 

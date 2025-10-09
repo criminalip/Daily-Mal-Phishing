@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://ledger-livedesktp.pages.dev](https://www.criminalip.io/domain/report?scan_id=37235609) | Low | N/A | 2025-10-08 02:32:39 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://chrome-webexdos.pages.dev](https://www.criminalip.io/domain/report?scan_id=37237447) | Low | N/A | 2025-10-08 02:40:03 (UTC) |
-| "502 Bad Gateway" | [http://cdek.yandex.ozon.er.ord3twoj7gus.wswedisblossdev.maaau.ru](https://www.criminalip.io/domain/report?scan_id=37237851) | Critical | RU | 2025-10-08 02:40:59 (UTC) |
+| "FACEBOOK" | [http://www.appiah88.blogspot.com.ng](https://www.criminalip.io/domain/report?scan_id=37396242) | Low | US | 2025-10-09 02:41:26 (UTC) |
+| "mostlylucid.org" | [http://www.outlook.mostlylucid.org](https://www.criminalip.io/domain/report?scan_id=37396278) | Critical | US | 2025-10-09 02:42:23 (UTC) |
+| "FACEBOOK" | [http://appiah88.blogspot.se](https://www.criminalip.io/domain/report?scan_id=37396648) | Low | US | 2025-10-09 02:46:39 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "FACEBOOK" | [http://www.appiah88.blogspot.com.ng](https://www.criminalip.io/domain/report?scan_id=37396242) | Low | US | 2025-10-09 02:41:26 (UTC) |
-| "mostlylucid.org" | [http://www.outlook.mostlylucid.org](https://www.criminalip.io/domain/report?scan_id=37396278) | Critical | US | 2025-10-09 02:42:23 (UTC) |
-| "FACEBOOK" | [http://appiah88.blogspot.se](https://www.criminalip.io/domain/report?scan_id=37396648) | Low | US | 2025-10-09 02:46:39 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://coinbase-extnusin--visit.pages.dev](https://www.criminalip.io/domain/report?scan_id=37477803) | Critical | N/A | 2025-10-10 02:33:08 (UTC) |
+| "Site not found" | [http://effulgent-kh-dbaae6.netlify.app](https://www.criminalip.io/domain/report?scan_id=37477991) | Low | SG | 2025-10-10 02:34:08 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-37937.cfd](https://www.criminalip.io/domain/report?scan_id=37478301) | Critical | N/A | 2025-10-10 02:35:20 (UTC) |
 
 ---
 

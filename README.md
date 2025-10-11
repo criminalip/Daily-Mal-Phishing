@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://coinbase-extnusin--visit.pages.dev](https://www.criminalip.io/domain/report?scan_id=37477803) | Critical | N/A | 2025-10-10 02:33:08 (UTC) |
-| "Site not found" | [http://effulgent-kh-dbaae6.netlify.app](https://www.criminalip.io/domain/report?scan_id=37477991) | Low | SG | 2025-10-10 02:34:08 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-37937.cfd](https://www.criminalip.io/domain/report?scan_id=37478301) | Critical | N/A | 2025-10-10 02:35:20 (UTC) |
+| "N/A" | [http://webmailupdater.glide.page](https://www.criminalip.io/domain/report?scan_id=37685079) | Low | N/A | 2025-10-11 02:32:33 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-user-config-portal-panel.pages.dev](https://www.criminalip.io/domain/report?scan_id=37685228) | Low | N/A | 2025-10-11 02:33:15 (UTC) |
+| "whatsapp business| 如何设置状态隐私选项：保护个人信息" | [http://app-nbd-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37685357) | Critical | KR | 2025-10-11 02:34:17 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://webmailupdater.glide.page](https://www.criminalip.io/domain/report?scan_id=37685079) | Low | N/A | 2025-10-11 02:32:33 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-user-config-portal-panel.pages.dev](https://www.criminalip.io/domain/report?scan_id=37685228) | Low | N/A | 2025-10-11 02:33:15 (UTC) |
-| "whatsapp business| 如何设置状态隐私选项：保护个人信息" | [http://app-nbd-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37685357) | Critical | KR | 2025-10-11 02:34:17 (UTC) |
+| "whatsapp在线登录电脑- 如何发送和接收视频文件：丰富聊天内容" | [http://app-igi-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37855696) | Critical | HK | 2025-10-12 02:31:12 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta8294061872.cfd](https://www.criminalip.io/domain/report?scan_id=37855822) | Critical | N/A | 2025-10-12 02:32:43 (UTC) |
+| "whatsapp business| 如何使用语音通话功能：畅享无障碍沟通" | [http://app-fnl-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37855871) | Critical | KR | 2025-10-12 02:33:45 (UTC) |
 
 ---
 

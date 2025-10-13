@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "whatsapp在线登录电脑- 如何发送和接收视频文件：丰富聊天内容" | [http://app-igi-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37855696) | Critical | HK | 2025-10-12 02:31:12 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta8294061872.cfd](https://www.criminalip.io/domain/report?scan_id=37855822) | Critical | N/A | 2025-10-12 02:32:43 (UTC) |
-| "whatsapp business| 如何使用语音通话功能：畅享无障碍沟通" | [http://app-fnl-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37855871) | Critical | KR | 2025-10-12 02:33:45 (UTC) |
+| "whatsapp手机网页版| 聊天记录的安全性分析：数据保护的重要性" | [http://app-vhd-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37937839) | Critical | HK | 2025-10-13 02:30:43 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta-polecane-elektronika.sbs](https://www.criminalip.io/domain/report?scan_id=37938257) | Low | N/A | 2025-10-13 02:32:23 (UTC) |
+| "online.jp" | [http://www.outlook.online.jp](https://www.criminalip.io/domain/report?scan_id=37938792) | Critical | DE | 2025-10-13 02:35:18 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "whatsapp手机网页版| 聊天记录的安全性分析：数据保护的重要性" | [http://app-vhd-whatsappcc.com](https://www.criminalip.io/domain/report?scan_id=37937839) | Critical | HK | 2025-10-13 02:30:43 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta-polecane-elektronika.sbs](https://www.criminalip.io/domain/report?scan_id=37938257) | Low | N/A | 2025-10-13 02:32:23 (UTC) |
-| "online.jp" | [http://www.outlook.online.jp](https://www.criminalip.io/domain/report?scan_id=37938792) | Critical | DE | 2025-10-13 02:35:18 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://log-exodswallet-com.pages.dev](https://www.criminalip.io/domain/report?scan_id=38152088) | Low | N/A | 2025-10-14 02:36:54 (UTC) |
+| "Site not found" | [http://3463274782332.netlify.app](https://www.criminalip.io/domain/report?scan_id=38152223) | Low | SG | 2025-10-14 02:37:48 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledgerrr---liive---downloadd.pages.dev](https://www.criminalip.io/domain/report?scan_id=38153829) | Low | N/A | 2025-10-14 02:44:38 (UTC) |
 
 ---
 

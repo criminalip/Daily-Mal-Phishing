@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://log-exodswallet-com.pages.dev](https://www.criminalip.io/domain/report?scan_id=38152088) | Low | N/A | 2025-10-14 02:36:54 (UTC) |
-| "Site not found" | [http://3463274782332.netlify.app](https://www.criminalip.io/domain/report?scan_id=38152223) | Low | SG | 2025-10-14 02:37:48 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ledgerrr---liive---downloadd.pages.dev](https://www.criminalip.io/domain/report?scan_id=38153829) | Low | N/A | 2025-10-14 02:44:38 (UTC) |
+| "Deployment Unavailable" | [http://netflix-clone-vedielavan.vercel.app](https://www.criminalip.io/domain/report?scan_id=38266170) | Critical | US | 2025-10-15 02:32:38 (UTC) |
+| "peppino.it" | [http://www.outlook.peppino.it](https://www.criminalip.io/domain/report?scan_id=38267226) | Critical | US | 2025-10-15 02:37:44 (UTC) |
+| "Deployment Unavailable" | [http://vakifbireysel-basvuru.vercel.app](https://www.criminalip.io/domain/report?scan_id=38268658) | Low | US | 2025-10-15 02:41:19 (UTC) |
 
 ---
 

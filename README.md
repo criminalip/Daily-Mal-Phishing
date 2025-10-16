@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://netflix-clone-vedielavan.vercel.app](https://www.criminalip.io/domain/report?scan_id=38266170) | Critical | US | 2025-10-15 02:32:38 (UTC) |
-| "peppino.it" | [http://www.outlook.peppino.it](https://www.criminalip.io/domain/report?scan_id=38267226) | Critical | US | 2025-10-15 02:37:44 (UTC) |
-| "Deployment Unavailable" | [http://vakifbireysel-basvuru.vercel.app](https://www.criminalip.io/domain/report?scan_id=38268658) | Low | US | 2025-10-15 02:41:19 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://start-ldger-hellp.pages.dev](https://www.criminalip.io/domain/report?scan_id=38458273) | Low | N/A | 2025-10-16 02:30:39 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-cf.github.io](https://www.criminalip.io/domain/report?scan_id=38458520) | Critical | US | 2025-10-16 02:31:30 (UTC) |
+| "sber.ozon.yandex.youla.sber.yandex.lod7luknsv5paiu4.boldt.info is available for purchase - Sedo.com" | [http://sber.ozon.yandex.youla.sber.yandex.lod7luknsv5paiu4.boldt.info](https://www.criminalip.io/domain/report?scan_id=38458824) | Critical | DE | 2025-10-16 02:33:29 (UTC) |
 
 ---
 

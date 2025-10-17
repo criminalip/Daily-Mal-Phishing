@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://start-ldger-hellp.pages.dev](https://www.criminalip.io/domain/report?scan_id=38458273) | Low | N/A | 2025-10-16 02:30:39 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-cf.github.io](https://www.criminalip.io/domain/report?scan_id=38458520) | Critical | US | 2025-10-16 02:31:30 (UTC) |
-| "sber.ozon.yandex.youla.sber.yandex.lod7luknsv5paiu4.boldt.info is available for purchase - Sedo.com" | [http://sber.ozon.yandex.youla.sber.yandex.lod7luknsv5paiu4.boldt.info](https://www.criminalip.io/domain/report?scan_id=38458824) | Critical | DE | 2025-10-16 02:33:29 (UTC) |
+| "Deployment Unavailable" | [http://facebook-ui-seven.vercel.app](https://www.criminalip.io/domain/report?scan_id=38709016) | Critical | US | 2025-10-17 05:18:06 (UTC) |
+| "contribute-seek.pages.dev" | [http://contribute-seek.pages.dev](https://www.criminalip.io/domain/report?scan_id=38676216) | Low | N/A | 2025-10-17 02:38:01 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-pillar-erl.pages.dev](https://www.criminalip.io/domain/report?scan_id=38677099) | Low | N/A | 2025-10-17 02:40:52 (UTC) |
 
 ---
 

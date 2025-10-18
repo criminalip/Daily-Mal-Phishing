@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://facebook-ui-seven.vercel.app](https://www.criminalip.io/domain/report?scan_id=38709016) | Critical | US | 2025-10-17 05:18:06 (UTC) |
-| "contribute-seek.pages.dev" | [http://contribute-seek.pages.dev](https://www.criminalip.io/domain/report?scan_id=38676216) | Low | N/A | 2025-10-17 02:38:01 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-pillar-erl.pages.dev](https://www.criminalip.io/domain/report?scan_id=38677099) | Low | N/A | 2025-10-17 02:40:52 (UTC) |
+| "Site not found · GitHub Pages" | [http://gabrielndibe.github.io](https://www.criminalip.io/domain/report?scan_id=38768311) | Low | US | 2025-10-18 02:30:37 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://base-start-trzor.pages.dev](https://www.criminalip.io/domain/report?scan_id=38768419) | Low | N/A | 2025-10-18 02:31:54 (UTC) |
+| "Store Doesn't Exist" | [http://btinternetupbeat.sellfy.store](https://www.criminalip.io/domain/report?scan_id=38768507) | Low | US | 2025-10-18 02:34:38 (UTC) |
 
 ---
 

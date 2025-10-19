@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://gabrielndibe.github.io](https://www.criminalip.io/domain/report?scan_id=38768311) | Low | US | 2025-10-18 02:30:37 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://base-start-trzor.pages.dev](https://www.criminalip.io/domain/report?scan_id=38768419) | Low | N/A | 2025-10-18 02:31:54 (UTC) |
-| "Store Doesn't Exist" | [http://btinternetupbeat.sellfy.store](https://www.criminalip.io/domain/report?scan_id=38768507) | Low | US | 2025-10-18 02:34:38 (UTC) |
+| "HOKI138 : SITUS GAME HOKI SLOT RESMI RUANG TERBARU PARA BETTOR INDONESIA" | [http://facebook-az.click](https://www.criminalip.io/domain/report?scan_id=38855307) | Critical | N/A | 2025-10-19 02:32:56 (UTC) |
+| "N/A" | [http://www-drake-only-top.ubpages.com](https://www.criminalip.io/domain/report?scan_id=38855657) | Low | N/A | 2025-10-19 02:34:45 (UTC) |
+| "The app is currently not running. Deploy this app to keep it running externally." | [http://51d2e34e-9df5-4614-908d-57114e67599f-00-2lybb8gw6al7f.janeway.replit.dev](https://www.criminalip.io/domain/report?scan_id=38857192) | Low | US | 2025-10-19 02:40:27 (UTC) |
 
 ---
 

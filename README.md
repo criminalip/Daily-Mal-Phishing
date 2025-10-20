@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "HOKI138 : SITUS GAME HOKI SLOT RESMI RUANG TERBARU PARA BETTOR INDONESIA" | [http://facebook-az.click](https://www.criminalip.io/domain/report?scan_id=38855307) | Critical | N/A | 2025-10-19 02:32:56 (UTC) |
-| "N/A" | [http://www-drake-only-top.ubpages.com](https://www.criminalip.io/domain/report?scan_id=38855657) | Low | N/A | 2025-10-19 02:34:45 (UTC) |
-| "The app is currently not running. Deploy this app to keep it running externally." | [http://51d2e34e-9df5-4614-908d-57114e67599f-00-2lybb8gw6al7f.janeway.replit.dev](https://www.criminalip.io/domain/report?scan_id=38857192) | Low | US | 2025-10-19 02:40:27 (UTC) |
+| "Deployment Unavailable" | [http://www.live-tokensmintnow21.vercel.app](https://www.criminalip.io/domain/report?scan_id=39069736) | Low | US | 2025-10-20 02:30:45 (UTC) |
+| "Worker threw exception | onlinebdo.access-blocked.workers.dev | Cloudflare" | [http://onlinebdo.access-blocked.workers.dev](https://www.criminalip.io/domain/report?scan_id=39070907) | Low | N/A | 2025-10-20 02:34:17 (UTC) |
+| "Deployment Unavailable" | [http://www.live-tokensmintnow3.vercel.app](https://www.criminalip.io/domain/report?scan_id=39071457) | Low | US | 2025-10-20 02:37:00 (UTC) |
 
 ---
 

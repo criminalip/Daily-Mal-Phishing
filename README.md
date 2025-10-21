@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://www.live-tokensmintnow21.vercel.app](https://www.criminalip.io/domain/report?scan_id=39069736) | Low | US | 2025-10-20 02:30:45 (UTC) |
-| "Worker threw exception | onlinebdo.access-blocked.workers.dev | Cloudflare" | [http://onlinebdo.access-blocked.workers.dev](https://www.criminalip.io/domain/report?scan_id=39070907) | Low | N/A | 2025-10-20 02:34:17 (UTC) |
-| "Deployment Unavailable" | [http://www.live-tokensmintnow3.vercel.app](https://www.criminalip.io/domain/report?scan_id=39071457) | Low | US | 2025-10-20 02:37:00 (UTC) |
+| "Facebook" | [http://facebook-blog-com.blogspot.co.ke](https://www.criminalip.io/domain/report?scan_id=39292092) | Critical | US | 2025-10-21 02:31:09 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app-suitrage-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=39292451) | Low | N/A | 2025-10-21 02:32:52 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://uppholdloginm.pages.dev](https://www.criminalip.io/domain/report?scan_id=39292924) | Low | N/A | 2025-10-21 02:34:51 (UTC) |
 
 ---
 

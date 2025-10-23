@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Facebook" | [http://facebook-blog-com.blogspot.co.ke](https://www.criminalip.io/domain/report?scan_id=39292092) | Critical | US | 2025-10-21 02:31:09 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://app-suitrage-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=39292451) | Low | N/A | 2025-10-21 02:32:52 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://uppholdloginm.pages.dev](https://www.criminalip.io/domain/report?scan_id=39292924) | Low | N/A | 2025-10-21 02:34:51 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-ff.github.io](https://www.criminalip.io/domain/report?scan_id=39547750) | Critical | US | 2025-10-23 02:30:37 (UTC) |
+| "Site not found" | [http://spectacular-croquembouche-fade7f.netlify.app](https://www.criminalip.io/domain/report?scan_id=39548336) | Low | SG | 2025-10-23 02:33:32 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-blockhub.pages.dev](https://www.criminalip.io/domain/report?scan_id=39550096) | Low | N/A | 2025-10-23 02:40:24 (UTC) |
 
 ---
 

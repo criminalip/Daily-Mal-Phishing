@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://google-ff.github.io](https://www.criminalip.io/domain/report?scan_id=39547750) | Critical | US | 2025-10-23 02:30:37 (UTC) |
-| "Site not found" | [http://spectacular-croquembouche-fade7f.netlify.app](https://www.criminalip.io/domain/report?scan_id=39548336) | Low | SG | 2025-10-23 02:33:32 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-blockhub.pages.dev](https://www.criminalip.io/domain/report?scan_id=39550096) | Low | N/A | 2025-10-23 02:40:24 (UTC) |
+| "Situs Slot Gacor Gampang Maxwin Hari Ini" | [http://situs-slot-gacor-1000x-tumblr.pages.dev](https://www.criminalip.io/domain/report?scan_id=39662803) | Critical | N/A | 2025-10-24 02:30:33 (UTC) |
+| "Site not found · GitHub Pages" | [http://tilakacharya13.github.io](https://www.criminalip.io/domain/report?scan_id=39662944) | Low | US | 2025-10-24 02:33:21 (UTC) |
+| "mesenger.com" | [http://www.microsoft.mesenger.com](https://www.criminalip.io/domain/report?scan_id=39666455) | Critical | DE | 2025-10-24 03:07:38 (UTC) |
 
 ---
 

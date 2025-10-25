@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Situs Slot Gacor Gampang Maxwin Hari Ini" | [http://situs-slot-gacor-1000x-tumblr.pages.dev](https://www.criminalip.io/domain/report?scan_id=39662803) | Critical | N/A | 2025-10-24 02:30:33 (UTC) |
-| "Site not found · GitHub Pages" | [http://tilakacharya13.github.io](https://www.criminalip.io/domain/report?scan_id=39662944) | Low | US | 2025-10-24 02:33:21 (UTC) |
-| "mesenger.com" | [http://www.microsoft.mesenger.com](https://www.criminalip.io/domain/report?scan_id=39666455) | Critical | DE | 2025-10-24 03:07:38 (UTC) |
+| "One moment, please..." | [http://mijn.overheid.nl.berichtenbox.l1tjxkgmdqghekubdurkea68msnzfea6kx1u2q2s9pwpvurkzexb.luizmatoso.com.br](https://www.criminalip.io/domain/report?scan_id=39753877) | Critical | BR | 2025-10-25 02:33:03 (UTC) |
+| "Trezor Wallet | Secure Hardware Wallet for Crypto" | [http://trezor-walleett.blogspot.com](https://www.criminalip.io/domain/report?scan_id=39754159) | Low | US | 2025-10-25 02:34:34 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-garden.pages.dev](https://www.criminalip.io/domain/report?scan_id=39755239) | Low | N/A | 2025-10-25 02:37:11 (UTC) |
 
 ---
 

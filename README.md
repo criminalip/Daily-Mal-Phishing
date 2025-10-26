@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "One moment, please..." | [http://mijn.overheid.nl.berichtenbox.l1tjxkgmdqghekubdurkea68msnzfea6kx1u2q2s9pwpvurkzexb.luizmatoso.com.br](https://www.criminalip.io/domain/report?scan_id=39753877) | Critical | BR | 2025-10-25 02:33:03 (UTC) |
-| "Trezor Wallet | Secure Hardware Wallet for Crypto" | [http://trezor-walleett.blogspot.com](https://www.criminalip.io/domain/report?scan_id=39754159) | Low | US | 2025-10-25 02:34:34 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-garden.pages.dev](https://www.criminalip.io/domain/report?scan_id=39755239) | Low | N/A | 2025-10-25 02:37:11 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://secure-leger-help.pages.dev](https://www.criminalip.io/domain/report?scan_id=39935910) | Low | N/A | 2025-10-26 02:32:42 (UTC) |
+| "Site not found · GitHub Pages" | [http://rajkotkar19.github.io](https://www.criminalip.io/domain/report?scan_id=39936010) | Low | US | 2025-10-26 02:33:20 (UTC) |
+| "Site not found · GitHub Pages" | [http://w3villa-rajveer-singh.github.io](https://www.criminalip.io/domain/report?scan_id=39936113) | Low | US | 2025-10-26 02:34:02 (UTC) |
 
 ---
 

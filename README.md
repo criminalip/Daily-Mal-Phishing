@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://business-for-trevexo-6lc.pages.dev](https://www.criminalip.io/domain/report?scan_id=40084556) | Low | N/A | 2025-10-27 02:30:35 (UTC) |
-| "tiare-banqtahit.socsecure.xyz" | [http://bbxcavrbbwxpynpqx.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=40086234) | Low | US | 2025-10-27 02:35:51 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://io-en-start-trez.pages.dev](https://www.criminalip.io/domain/report?scan_id=40087100) | Low | N/A | 2025-10-27 02:37:50 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://indigo-mesh.pages.dev](https://www.criminalip.io/domain/report?scan_id=40189478) | Low | N/A | 2025-10-28 02:34:50 (UTC) |
+| "Site not found · GitHub Pages" | [http://rakiblima018-lab.github.io](https://www.criminalip.io/domain/report?scan_id=40189652) | Low | US | 2025-10-28 02:35:43 (UTC) |
+| "N/A" | [http://73a2370016b7.contact.tracking.paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=40189954) | Low | VG | 2025-10-28 02:39:29 (UTC) |
 
 ---
 

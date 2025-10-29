@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://indigo-mesh.pages.dev](https://www.criminalip.io/domain/report?scan_id=40189478) | Low | N/A | 2025-10-28 02:34:50 (UTC) |
-| "Site not found · GitHub Pages" | [http://rakiblima018-lab.github.io](https://www.criminalip.io/domain/report?scan_id=40189652) | Low | US | 2025-10-28 02:35:43 (UTC) |
-| "N/A" | [http://73a2370016b7.contact.tracking.paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=40189954) | Low | VG | 2025-10-28 02:39:29 (UTC) |
+| "N/A" | [http://avito.yandex.youla.cdek.pochtabank.cdek.www.cod3d.com](https://www.criminalip.io/domain/report?scan_id=40272674) | Low | US | 2025-10-29 02:50:55 (UTC) |
+| "Vercel Security Checkpoint" | [http://live-openseasmint12.vercel.app](https://www.criminalip.io/domain/report?scan_id=40273268) | Low | US | 2025-10-29 02:52:57 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://metamask-ext--en.pages.dev](https://www.criminalip.io/domain/report?scan_id=40274676) | Low | N/A | 2025-10-29 03:02:12 (UTC) |
 
 ---
 

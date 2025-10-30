@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://avito.yandex.youla.cdek.pochtabank.cdek.www.cod3d.com](https://www.criminalip.io/domain/report?scan_id=40272674) | Low | US | 2025-10-29 02:50:55 (UTC) |
-| "Vercel Security Checkpoint" | [http://live-openseasmint12.vercel.app](https://www.criminalip.io/domain/report?scan_id=40273268) | Low | US | 2025-10-29 02:52:57 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://metamask-ext--en.pages.dev](https://www.criminalip.io/domain/report?scan_id=40274676) | Low | N/A | 2025-10-29 03:02:12 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://connect-trezor-bridges.pages.dev](https://www.criminalip.io/domain/report?scan_id=40399070) | Low | N/A | 2025-10-30 02:34:47 (UTC) |
+| "Site not found · GitHub Pages" | [http://umar99573.github.io](https://www.criminalip.io/domain/report?scan_id=40399294) | Low | US | 2025-10-30 02:35:37 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-beyond-csj.pages.dev](https://www.criminalip.io/domain/report?scan_id=40399532) | Low | N/A | 2025-10-30 02:36:41 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://connect-trezor-bridges.pages.dev](https://www.criminalip.io/domain/report?scan_id=40399070) | Low | N/A | 2025-10-30 02:34:47 (UTC) |
-| "Site not found · GitHub Pages" | [http://umar99573.github.io](https://www.criminalip.io/domain/report?scan_id=40399294) | Low | US | 2025-10-30 02:35:37 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-beyond-csj.pages.dev](https://www.criminalip.io/domain/report?scan_id=40399532) | Low | N/A | 2025-10-30 02:36:41 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-blade-2n4.pages.dev](https://www.criminalip.io/domain/report?scan_id=40568433) | Low | N/A | 2025-11-01 02:30:38 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledgor-loginn.pages.dev](https://www.criminalip.io/domain/report?scan_id=40568581) | Low | N/A | 2025-11-01 02:31:16 (UTC) |
+| "403 Forbidden" | [http://ndb01.com](https://www.criminalip.io/domain/report?scan_id=40570537) | Low | JP | 2025-11-01 02:38:30 (UTC) |
 
 ---
 

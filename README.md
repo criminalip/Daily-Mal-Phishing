@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://meta-blade-2n4.pages.dev](https://www.criminalip.io/domain/report?scan_id=40568433) | Low | N/A | 2025-11-01 02:30:38 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ledgor-loginn.pages.dev](https://www.criminalip.io/domain/report?scan_id=40568581) | Low | N/A | 2025-11-01 02:31:16 (UTC) |
-| "403 Forbidden" | [http://ndb01.com](https://www.criminalip.io/domain/report?scan_id=40570537) | Low | JP | 2025-11-01 02:38:30 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://auric-temple.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760080) | Low | N/A | 2025-11-02 02:32:43 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://upheld-homepage.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760083) | Low | N/A | 2025-11-02 02:33:16 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://apps-uphold-app-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760175) | Low | N/A | 2025-11-02 02:36:07 (UTC) |
 
 ---
 

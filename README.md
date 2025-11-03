@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://auric-temple.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760080) | Low | N/A | 2025-11-02 02:32:43 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://upheld-homepage.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760083) | Low | N/A | 2025-11-02 02:33:16 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://apps-uphold-app-cdn.pages.dev](https://www.criminalip.io/domain/report?scan_id=40760175) | Low | N/A | 2025-11-02 02:36:07 (UTC) |
+| "Deployment Unavailable" | [http://w4vs-casefb109505.vercel.app](https://www.criminalip.io/domain/report?scan_id=40825156) | Low | US | 2025-11-03 02:33:06 (UTC) |
+| "N/A" | [http://adsteams-ils.ubpages.com](https://www.criminalip.io/domain/report?scan_id=40825766) | Low | N/A | 2025-11-03 02:34:52 (UTC) |
+| "zsifoeyslk.myfunnelish.com" | [http://zsifoeyslk.myfunnelish.com](https://www.criminalip.io/domain/report?scan_id=40825924) | Low | US | 2025-11-03 02:35:37 (UTC) |
 
 ---
 

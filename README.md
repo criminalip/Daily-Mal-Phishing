@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://w4vs-casefb109505.vercel.app](https://www.criminalip.io/domain/report?scan_id=40825156) | Low | US | 2025-11-03 02:33:06 (UTC) |
-| "N/A" | [http://adsteams-ils.ubpages.com](https://www.criminalip.io/domain/report?scan_id=40825766) | Low | N/A | 2025-11-03 02:34:52 (UTC) |
-| "zsifoeyslk.myfunnelish.com" | [http://zsifoeyslk.myfunnelish.com](https://www.criminalip.io/domain/report?scan_id=40825924) | Low | US | 2025-11-03 02:35:37 (UTC) |
+| "Deployment Unavailable" | [http://nftclaims-proj.vercel.app](https://www.criminalip.io/domain/report?scan_id=40903902) | Low | US | 2025-11-04 02:37:15 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://trezor-us-suites.pages.dev](https://www.criminalip.io/domain/report?scan_id=40905161) | Low | N/A | 2025-11-04 02:41:35 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meto-line.pages.dev](https://www.criminalip.io/domain/report?scan_id=40905439) | Low | N/A | 2025-11-04 02:42:08 (UTC) |
 
 ---
 

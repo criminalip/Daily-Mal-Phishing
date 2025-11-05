@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://nftclaims-proj.vercel.app](https://www.criminalip.io/domain/report?scan_id=40903902) | Low | US | 2025-11-04 02:37:15 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://trezor-us-suites.pages.dev](https://www.criminalip.io/domain/report?scan_id=40905161) | Low | N/A | 2025-11-04 02:41:35 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meto-line.pages.dev](https://www.criminalip.io/domain/report?scan_id=40905439) | Low | N/A | 2025-11-04 02:42:08 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://desk-ledger-live-com.pages.dev](https://www.criminalip.io/domain/report?scan_id=40986197) | Low | N/A | 2025-11-05 02:30:33 (UTC) |
+| "Site not found" | [http://suportenubankavalia.netlify.app](https://www.criminalip.io/domain/report?scan_id=40986834) | Low | SG | 2025-11-05 02:31:58 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://secure-io-star.pages.dev](https://www.criminalip.io/domain/report?scan_id=40987456) | Low | N/A | 2025-11-05 02:33:36 (UTC) |
 
 ---
 

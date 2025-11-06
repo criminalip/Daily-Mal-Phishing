@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://desk-ledger-live-com.pages.dev](https://www.criminalip.io/domain/report?scan_id=40986197) | Low | N/A | 2025-11-05 02:30:33 (UTC) |
-| "Site not found" | [http://suportenubankavalia.netlify.app](https://www.criminalip.io/domain/report?scan_id=40986834) | Low | SG | 2025-11-05 02:31:58 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://secure-io-star.pages.dev](https://www.criminalip.io/domain/report?scan_id=40987456) | Low | N/A | 2025-11-05 02:33:36 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://robinhood---login-app.pages.dev](https://www.criminalip.io/domain/report?scan_id=41072174) | Low | N/A | 2025-11-06 02:30:30 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bolen-hold.pages.dev](https://www.criminalip.io/domain/report?scan_id=41072246) | Low | N/A | 2025-11-06 02:31:03 (UTC) |
+| "AD not found (captcha2)" | [http://confirmation0038-booking.com](https://www.criminalip.io/domain/report?scan_id=41072407) | Low | N/A | 2025-11-06 02:31:56 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://brim-hold.pages.dev](https://www.criminalip.io/domain/report?scan_id=41171062) | Low | N/A | 2025-11-07 02:34:29 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://start-m-trezor.pages.dev](https://www.criminalip.io/domain/report?scan_id=41171895) | Low | N/A | 2025-11-07 02:36:17 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://gron-meta.pages.dev](https://www.criminalip.io/domain/report?scan_id=41172862) | Low | N/A | 2025-11-07 02:37:48 (UTC) |
+| "N/A" | [http://kowa-lawer.com](https://www.criminalip.io/domain/report?scan_id=41295505) | Low | JP | 2025-11-08 02:30:34 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bridgr-en-trzr.pages.dev](https://www.criminalip.io/domain/report?scan_id=41296230) | Low | N/A | 2025-11-08 02:32:02 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://support-ledgr-view.pages.dev](https://www.criminalip.io/domain/report?scan_id=41296412) | Low | N/A | 2025-11-08 02:32:35 (UTC) |
 
 ---
 

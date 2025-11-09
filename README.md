@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://kowa-lawer.com](https://www.criminalip.io/domain/report?scan_id=41295505) | Low | JP | 2025-11-08 02:30:34 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://bridgr-en-trzr.pages.dev](https://www.criminalip.io/domain/report?scan_id=41296230) | Low | N/A | 2025-11-08 02:32:02 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://support-ledgr-view.pages.dev](https://www.criminalip.io/domain/report?scan_id=41296412) | Low | N/A | 2025-11-08 02:32:35 (UTC) |
+| "Verifying your connection..." | [http://wallspur.com](https://www.criminalip.io/domain/report?scan_id=41392388) | Low | GB | 2025-11-09 02:32:12 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://data-center-assessment-claim.pages.dev](https://www.criminalip.io/domain/report?scan_id=41392828) | Low | N/A | 2025-11-09 02:33:12 (UTC) |
+| "TikTOK Shop" | [http://wpofl80cjj.55998tk.com](https://www.criminalip.io/domain/report?scan_id=41393353) | Low | KR | 2025-11-09 02:34:16 (UTC) |
 
 ---
 

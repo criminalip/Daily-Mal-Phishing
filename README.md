@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://listed-livegrabs44.vercel.app](https://www.criminalip.io/domain/report?scan_id=41522301) | Low | US | 2025-11-10 02:30:32 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://plenor-meta-biz-valric.pages.dev](https://www.criminalip.io/domain/report?scan_id=41522474) | Low | N/A | 2025-11-10 02:31:22 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://appiah88.blogspot.com.es](https://www.criminalip.io/domain/report?scan_id=41522575) | Low | US | 2025-11-10 02:31:58 (UTC) |
+| "netflix-france-abonnement.com" | [http://uat.netflix-france-abonnement.com](https://www.criminalip.io/domain/report?scan_id=41729356) | Critical | US | 2025-11-11 02:31:16 (UTC) |
+| "Site not found · GitHub Pages" | [http://hmeconsultarnome.github.io](https://www.criminalip.io/domain/report?scan_id=41729654) | Low | US | 2025-11-11 02:32:13 (UTC) |
+| "Blockchain Rectification - We are help to help you resolve your crypto related issues One wallet, multiverse support" | [http://help-desk-presale.netlify.app](https://www.criminalip.io/domain/report?scan_id=41730498) | Low | SG | 2025-11-11 02:36:09 (UTC) |
 
 ---
 

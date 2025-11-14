@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://ledgr-live-account.pages.dev](https://www.criminalip.io/domain/report?scan_id=41812507) | Low | N/A | 2025-11-12 02:30:46 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-finance.pages.dev](https://www.criminalip.io/domain/report?scan_id=41812766) | Low | N/A | 2025-11-12 02:31:27 (UTC) |
-| "netflix-subscription-uae.com" | [http://hiex.netflix-subscription-uae.com](https://www.criminalip.io/domain/report?scan_id=41813142) | Critical | US | 2025-11-12 02:32:32 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://termsaccounnt-ass-op1211-infoshieldixx.pages.dev](https://www.criminalip.io/domain/report?scan_id=42005743) | Low | N/A | 2025-11-14 02:31:51 (UTC) |
+| "Whatsapp" | [http://whatsapp-clone3.vercel.app](https://www.criminalip.io/domain/report?scan_id=42006348) | Critical | US | 2025-11-14 02:34:48 (UTC) |
+| "(none)" | [http://kulnde-dkev.blogspot.hk](https://www.criminalip.io/domain/report?scan_id=42006730) | Low | US | 2025-11-14 02:36:31 (UTC) |
 
 ---
 

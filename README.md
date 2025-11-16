@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://mkm-42r.pages.dev](https://www.criminalip.io/domain/report?scan_id=42210927) | Low | N/A | 2025-11-15 02:30:38 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-o-oferta-715075.icu](https://www.criminalip.io/domain/report?scan_id=42211241) | Low | N/A | 2025-11-15 02:31:38 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-mnq.github.io](https://www.criminalip.io/domain/report?scan_id=42212239) | Critical | US | 2025-11-15 02:34:34 (UTC) |
+| "SHAHID BLADI" | [http://shahid-bladi.blogspot.com](https://www.criminalip.io/domain/report?scan_id=42351112) | Low | US | 2025-11-16 02:30:54 (UTC) |
+| "Deployment Unavailable" | [http://www.limitedfast-giftbx40.vercel.app](https://www.criminalip.io/domain/report?scan_id=42353029) | Low | US | 2025-11-16 02:34:44 (UTC) |
+| "Bulletproof Hosting" | [http://btnaheza.sa.com](https://www.criminalip.io/domain/report?scan_id=42353947) | Low | US | 2025-11-16 02:36:31 (UTC) |
 
 ---
 

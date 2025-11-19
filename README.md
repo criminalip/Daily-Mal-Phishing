@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://meta-xylen-varto-mari.pages.dev](https://www.criminalip.io/domain/report?scan_id=42620566) | Low | N/A | 2025-11-18 02:32:08 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-serin-kavro-zilo.pages.dev](https://www.criminalip.io/domain/report?scan_id=42620654) | Low | N/A | 2025-11-18 02:32:47 (UTC) |
-| "恭喜，站点创建成功！" | [http://ldy.token-im05.top](https://www.criminalip.io/domain/report?scan_id=42620829) | Low | HK | 2025-11-18 02:33:35 (UTC) |
+| "N/A" | [http://allegro.548325.me](https://www.criminalip.io/domain/report?scan_id=42776757) | Low | N/A | 2025-11-19 02:30:41 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://data-center-suspension-disablement.pages.dev](https://www.criminalip.io/domain/report?scan_id=42777020) | Low | N/A | 2025-11-19 02:31:32 (UTC) |
+| "Site Not Found | Framer" | [http://grateful-researchers-304487.framer.app](https://www.criminalip.io/domain/report?scan_id=42777219) | Low | US | 2025-11-19 02:32:16 (UTC) |
 
 ---
 

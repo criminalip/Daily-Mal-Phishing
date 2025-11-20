@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.548325.me](https://www.criminalip.io/domain/report?scan_id=42776757) | Low | N/A | 2025-11-19 02:30:41 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://data-center-suspension-disablement.pages.dev](https://www.criminalip.io/domain/report?scan_id=42777020) | Low | N/A | 2025-11-19 02:31:32 (UTC) |
-| "Site Not Found | Framer" | [http://grateful-researchers-304487.framer.app](https://www.criminalip.io/domain/report?scan_id=42777219) | Low | US | 2025-11-19 02:32:16 (UTC) |
+| "Get Robux" | [http://redeembuxnow.com](https://www.criminalip.io/domain/report?scan_id=42936620) | Critical | DE | 2025-11-20 02:21:16 (UTC) |
+| "Adobe eDocument Portal" | [http://wird6hq2e4knc.mocha.app](https://www.criminalip.io/domain/report?scan_id=42936664) | Critical | N/A | 2025-11-20 02:22:11 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://data-center-copyright-assessment.pages.dev](https://www.criminalip.io/domain/report?scan_id=42936668) | Low | N/A | 2025-11-20 02:22:51 (UTC) |
 
 ---
 

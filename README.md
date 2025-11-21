@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Get Robux" | [http://redeembuxnow.com](https://www.criminalip.io/domain/report?scan_id=42936620) | Critical | DE | 2025-11-20 02:21:16 (UTC) |
-| "Adobe eDocument Portal" | [http://wird6hq2e4knc.mocha.app](https://www.criminalip.io/domain/report?scan_id=42936664) | Critical | N/A | 2025-11-20 02:22:11 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://data-center-copyright-assessment.pages.dev](https://www.criminalip.io/domain/report?scan_id=42936668) | Low | N/A | 2025-11-20 02:22:51 (UTC) |
+| "Attention Required! | Cloudflare" | [http://app.atendimentoresgateonline.info](https://www.criminalip.io/domain/report?scan_id=43015601) | Low | N/A | 2025-11-21 02:21:00 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-jynros-halrek-venix.pages.dev](https://www.criminalip.io/domain/report?scan_id=43015772) | Low | N/A | 2025-11-21 02:22:29 (UTC) |
+| "Digital Resources Hub" | [http://booking.confirmation-id417113.com](https://www.criminalip.io/domain/report?scan_id=43015814) | Low | N/A | 2025-11-21 02:23:41 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Attention Required! | Cloudflare" | [http://app.atendimentoresgateonline.info](https://www.criminalip.io/domain/report?scan_id=43015601) | Low | N/A | 2025-11-21 02:21:00 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-jynros-halrek-venix.pages.dev](https://www.criminalip.io/domain/report?scan_id=43015772) | Low | N/A | 2025-11-21 02:22:29 (UTC) |
-| "Digital Resources Hub" | [http://booking.confirmation-id417113.com](https://www.criminalip.io/domain/report?scan_id=43015814) | Low | N/A | 2025-11-21 02:23:41 (UTC) |
+| "404 Not Found" | [http://95c36f2381734d6ab49727a4ba5927e0.panangthaserv.net](https://www.criminalip.io/domain/report?scan_id=43261726) | Low | BG | 2025-11-23 02:21:08 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegrolokalnie.pl-oferta92405.sbs](https://www.criminalip.io/domain/report?scan_id=43261946) | Critical | N/A | 2025-11-23 02:21:55 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-thavins.pages.dev](https://www.criminalip.io/domain/report?scan_id=43262060) | Low | N/A | 2025-11-23 02:22:40 (UTC) |
 
 ---
 

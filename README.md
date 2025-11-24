@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://95c36f2381734d6ab49727a4ba5927e0.panangthaserv.net](https://www.criminalip.io/domain/report?scan_id=43261726) | Low | BG | 2025-11-23 02:21:08 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://allegrolokalnie.pl-oferta92405.sbs](https://www.criminalip.io/domain/report?scan_id=43261946) | Critical | N/A | 2025-11-23 02:21:55 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-thavins.pages.dev](https://www.criminalip.io/domain/report?scan_id=43262060) | Low | N/A | 2025-11-23 02:22:40 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegro.1392132.cfd](https://www.criminalip.io/domain/report?scan_id=43391094) | Critical | N/A | 2025-11-24 02:21:31 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegrolokalnie.92922-2-0159251.cfd](https://www.criminalip.io/domain/report?scan_id=43391321) | Critical | N/A | 2025-11-24 02:22:17 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://strata-core-8f8.pages.dev](https://www.criminalip.io/domain/report?scan_id=43391503) | Low | N/A | 2025-11-24 02:23:04 (UTC) |
 
 ---
 

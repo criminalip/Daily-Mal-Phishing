@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://meta-domain-sss.pages.dev](https://www.criminalip.io/domain/report?scan_id=43600760) | Low | N/A | 2025-11-25 02:20:58 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-grido.pages.dev](https://www.criminalip.io/domain/report?scan_id=43600972) | Low | N/A | 2025-11-25 02:21:46 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta16818-macbook-air-m1-16-512-gb.sbs](https://www.criminalip.io/domain/report?scan_id=43601302) | Low | N/A | 2025-11-25 02:23:00 (UTC) |
+| "OpenSea.io" | [http://www.live-mingiftin18.vercel.app](https://www.criminalip.io/domain/report?scan_id=43699022) | Low | US | 2025-11-26 02:21:10 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-stagex.pages.dev](https://www.criminalip.io/domain/report?scan_id=43699469) | Low | N/A | 2025-11-26 02:22:44 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-hfn.github.io](https://www.criminalip.io/domain/report?scan_id=43699569) | Critical | US | 2025-11-26 02:23:25 (UTC) |
 
 ---
 

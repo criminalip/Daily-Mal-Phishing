@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "OpenSea.io" | [http://www.live-mingiftin18.vercel.app](https://www.criminalip.io/domain/report?scan_id=43699022) | Low | US | 2025-11-26 02:21:10 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-stagex.pages.dev](https://www.criminalip.io/domain/report?scan_id=43699469) | Low | N/A | 2025-11-26 02:22:44 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-hfn.github.io](https://www.criminalip.io/domain/report?scan_id=43699569) | Critical | US | 2025-11-26 02:23:25 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://lira-sunek-mavo.pages.dev](https://www.criminalip.io/domain/report?scan_id=43857528) | Low | N/A | 2025-11-27 02:21:15 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://iryn-grid-9x2.pages.dev](https://www.criminalip.io/domain/report?scan_id=43857944) | Low | N/A | 2025-11-27 02:22:55 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-dome-30y.pages.dev](https://www.criminalip.io/domain/report?scan_id=43858272) | Low | N/A | 2025-11-27 02:24:29 (UTC) |
 
 ---
 

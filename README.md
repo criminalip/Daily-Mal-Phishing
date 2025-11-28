@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://lira-sunek-mavo.pages.dev](https://www.criminalip.io/domain/report?scan_id=43857528) | Low | N/A | 2025-11-27 02:21:15 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://iryn-grid-9x2.pages.dev](https://www.criminalip.io/domain/report?scan_id=43857944) | Low | N/A | 2025-11-27 02:22:55 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-dome-30y.pages.dev](https://www.criminalip.io/domain/report?scan_id=43858272) | Low | N/A | 2025-11-27 02:24:29 (UTC) |
+| "nhde.hair | 522: Connection timed out" | [http://uos.nhde.hair](https://www.criminalip.io/domain/report?scan_id=43943601) | Low | N/A | 2025-11-28 02:21:50 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://wallettt-live.pages.dev](https://www.criminalip.io/domain/report?scan_id=43944187) | Low | N/A | 2025-11-28 02:24:54 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://support-live-dektop.pages.dev](https://www.criminalip.io/domain/report?scan_id=43944339) | Low | N/A | 2025-11-28 02:25:58 (UTC) |
 
 ---
 

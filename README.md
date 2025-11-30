@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "nhde.hair | 522: Connection timed out" | [http://uos.nhde.hair](https://www.criminalip.io/domain/report?scan_id=43943601) | Low | N/A | 2025-11-28 02:21:50 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://wallettt-live.pages.dev](https://www.criminalip.io/domain/report?scan_id=43944187) | Low | N/A | 2025-11-28 02:24:54 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://support-live-dektop.pages.dev](https://www.criminalip.io/domain/report?scan_id=43944339) | Low | N/A | 2025-11-28 02:25:58 (UTC) |
+| "TikTok Shop" | [http://_xmpp-server._tcp._tcp.virtualaccess3.tikmaillnow.com](https://www.criminalip.io/domain/report?scan_id=44104393) | Low | US | 2025-11-30 02:24:01 (UTC) |
+| "OpenSea.io" | [http://livesimple-session14.vercel.app](https://www.criminalip.io/domain/report?scan_id=44104449) | Low | US | 2025-11-30 02:29:33 (UTC) |
+| "Campanha Bonus – Responda nossa pesquisa e ganhe até R$ 850 em premiações." | [http://ttkpay-front-funil-cmr.vercel.app](https://www.criminalip.io/domain/report?scan_id=44104516) | Low | US | 2025-11-30 02:32:57 (UTC) |
 
 ---
 

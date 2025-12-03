@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "pukcc.cyou | 522: Connection timed out" | [http://oa.pukcc.cyou](https://www.criminalip.io/domain/report?scan_id=44260068) | Low | N/A | 2025-12-02 02:24:06 (UTC) |
-| "Frontend Mentor | Easybank landing page" | [http://easy-bank-landing-page-pi.vercel.app](https://www.criminalip.io/domain/report?scan_id=44260671) | Low | US | 2025-12-02 02:25:41 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-mwi.github.io](https://www.criminalip.io/domain/report?scan_id=44261304) | Critical | US | 2025-12-02 02:28:46 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://perlyn-node.pages.dev](https://www.criminalip.io/domain/report?scan_id=44347067) | Low | N/A | 2025-12-03 02:22:05 (UTC) |
+| "恭喜，站点创建成功！" | [http://ltijnh.cn](https://www.criminalip.io/domain/report?scan_id=44347395) | Low | N/A | 2025-12-03 02:23:17 (UTC) |
+| "Bulletproof Hosting" | [http://aetherbase.sa.com](https://www.criminalip.io/domain/report?scan_id=44347618) | Low | US | 2025-12-03 02:24:29 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://perlyn-node.pages.dev](https://www.criminalip.io/domain/report?scan_id=44347067) | Low | N/A | 2025-12-03 02:22:05 (UTC) |
-| "恭喜，站点创建成功！" | [http://ltijnh.cn](https://www.criminalip.io/domain/report?scan_id=44347395) | Low | N/A | 2025-12-03 02:23:17 (UTC) |
-| "Bulletproof Hosting" | [http://aetherbase.sa.com](https://www.criminalip.io/domain/report?scan_id=44347618) | Low | US | 2025-12-03 02:24:29 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bonhomme.planning-pickup.com](https://www.criminalip.io/domain/report?scan_id=44546457) | Critical | N/A | 2025-12-04 02:22:50 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-ge1.github.io](https://www.criminalip.io/domain/report?scan_id=44546752) | Critical | US | 2025-12-04 02:24:40 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://inpostpayseguro.wixsite.com](https://www.criminalip.io/domain/report?scan_id=44547058) | Low | US | 2025-12-04 02:25:54 (UTC) |
 
 ---
 

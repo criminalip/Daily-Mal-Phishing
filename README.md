@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://bonhomme.planning-pickup.com](https://www.criminalip.io/domain/report?scan_id=44546457) | Critical | N/A | 2025-12-04 02:22:50 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-ge1.github.io](https://www.criminalip.io/domain/report?scan_id=44546752) | Critical | US | 2025-12-04 02:24:40 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://inpostpayseguro.wixsite.com](https://www.criminalip.io/domain/report?scan_id=44547058) | Low | US | 2025-12-04 02:25:54 (UTC) |
+| "Site not found · GitHub Pages" | [http://yahoouserronlinee.github.io](https://www.criminalip.io/domain/report?scan_id=44660016) | Critical | US | 2025-12-05 02:23:43 (UTC) |
+| "Site Not Found | Framer" | [http://conclusive-job-594613.framer.app](https://www.criminalip.io/domain/report?scan_id=44661410) | Low | US | 2025-12-05 02:30:20 (UTC) |
+| "Secure Authentication" | [http://fearless-anything-858890.framer.app](https://www.criminalip.io/domain/report?scan_id=44662115) | Low | US | 2025-12-05 02:34:28 (UTC) |
 
 ---
 

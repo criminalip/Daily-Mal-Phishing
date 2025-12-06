@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://yahoouserronlinee.github.io](https://www.criminalip.io/domain/report?scan_id=44660016) | Critical | US | 2025-12-05 02:23:43 (UTC) |
-| "Site Not Found | Framer" | [http://conclusive-job-594613.framer.app](https://www.criminalip.io/domain/report?scan_id=44661410) | Low | US | 2025-12-05 02:30:20 (UTC) |
-| "Secure Authentication" | [http://fearless-anything-858890.framer.app](https://www.criminalip.io/domain/report?scan_id=44662115) | Low | US | 2025-12-05 02:34:28 (UTC) |
+| "Netflix India – Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-olive-mu.vercel.app](https://www.criminalip.io/domain/report?scan_id=44799907) | Low | US | 2025-12-06 02:25:50 (UTC) |
+| "함께 만드는 세상" | [http://mr.gyue.mobi](https://www.criminalip.io/domain/report?scan_id=44805146) | Critical | N/A | 2025-12-06 02:37:44 (UTC) |
+| "함께 만드는 세상" | [http://ccx.hasp.mobi](https://www.criminalip.io/domain/report?scan_id=44806067) | Critical | N/A | 2025-12-06 02:43:14 (UTC) |
 
 ---
 

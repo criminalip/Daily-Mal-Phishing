@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix India – Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-olive-mu.vercel.app](https://www.criminalip.io/domain/report?scan_id=44799907) | Low | US | 2025-12-06 02:25:50 (UTC) |
-| "함께 만드는 세상" | [http://mr.gyue.mobi](https://www.criminalip.io/domain/report?scan_id=44805146) | Critical | N/A | 2025-12-06 02:37:44 (UTC) |
-| "함께 만드는 세상" | [http://ccx.hasp.mobi](https://www.criminalip.io/domain/report?scan_id=44806067) | Critical | N/A | 2025-12-06 02:43:14 (UTC) |
+| "Amazon" | [http://www.amazon-clone-seven-opal.vercel.app](https://www.criminalip.io/domain/report?scan_id=44899026) | Low | US | 2025-12-07 02:22:14 (UTC) |
+| "Coinbase Sign In- acces your acount@" | [http://site-coinbasewalet-web.daftpage.com](https://www.criminalip.io/domain/report?scan_id=44899712) | Critical | US | 2025-12-07 02:25:23 (UTC) |
+| "404" | [http://le.lrtkzy18.shop](https://www.criminalip.io/domain/report?scan_id=44900096) | Low | IN | 2025-12-07 02:27:14 (UTC) |
 
 ---
 

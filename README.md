@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Amazon" | [http://www.amazon-clone-seven-opal.vercel.app](https://www.criminalip.io/domain/report?scan_id=44899026) | Low | US | 2025-12-07 02:22:14 (UTC) |
-| "Coinbase Sign In- acces your acount@" | [http://site-coinbasewalet-web.daftpage.com](https://www.criminalip.io/domain/report?scan_id=44899712) | Critical | US | 2025-12-07 02:25:23 (UTC) |
-| "404" | [http://le.lrtkzy18.shop](https://www.criminalip.io/domain/report?scan_id=44900096) | Low | IN | 2025-12-07 02:27:14 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegrolokainie.plsd2bgflstxlas41gk.icu](https://www.criminalip.io/domain/report?scan_id=45022089) | Critical | N/A | 2025-12-08 02:21:41 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegrolokalne.plsd2bgflstxlas41gk.icu](https://www.criminalip.io/domain/report?scan_id=45022387) | Critical | N/A | 2025-12-08 02:23:25 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://id34.business-partner-invite.com](https://www.criminalip.io/domain/report?scan_id=45023468) | Critical | N/A | 2025-12-08 02:28:22 (UTC) |
 
 ---
 

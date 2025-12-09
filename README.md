@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://allegrolokainie.plsd2bgflstxlas41gk.icu](https://www.criminalip.io/domain/report?scan_id=45022089) | Critical | N/A | 2025-12-08 02:21:41 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://allegrolokalne.plsd2bgflstxlas41gk.icu](https://www.criminalip.io/domain/report?scan_id=45022387) | Critical | N/A | 2025-12-08 02:23:25 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://id34.business-partner-invite.com](https://www.criminalip.io/domain/report?scan_id=45023468) | Critical | N/A | 2025-12-08 02:28:22 (UTC) |
+| "Daftpage" | [http://ext-coinbase-public-en.daftpage.com](https://www.criminalip.io/domain/report?scan_id=45115118) | Critical | US | 2025-12-09 02:22:00 (UTC) |
+| "Site Maintenance" | [http://rroblox.com.es](https://www.criminalip.io/domain/report?scan_id=45116116) | Low | N/A | 2025-12-09 02:24:10 (UTC) |
+| "Site Maintenance" | [http://vwww-roblox.com.ru](https://www.criminalip.io/domain/report?scan_id=45119520) | Critical | DE | 2025-12-09 02:37:08 (UTC) |
 
 ---
 

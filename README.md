@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Daftpage" | [http://ext-coinbase-public-en.daftpage.com](https://www.criminalip.io/domain/report?scan_id=45115118) | Critical | US | 2025-12-09 02:22:00 (UTC) |
-| "Site Maintenance" | [http://rroblox.com.es](https://www.criminalip.io/domain/report?scan_id=45116116) | Low | N/A | 2025-12-09 02:24:10 (UTC) |
-| "Site Maintenance" | [http://vwww-roblox.com.ru](https://www.criminalip.io/domain/report?scan_id=45119520) | Critical | DE | 2025-12-09 02:37:08 (UTC) |
+| "Blocklith for Developers - Enterprise-Grade Web3 APIs" | [http://defiflux.netlify.app](https://www.criminalip.io/domain/report?scan_id=45222400) | Low | SG | 2025-12-10 02:22:16 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegrolokalnie.pl-oferta91185129.sbs](https://www.criminalip.io/domain/report?scan_id=45222599) | Critical | N/A | 2025-12-10 02:23:22 (UTC) |
+| "Deployment Unavailable" | [http://ponit-sug3.vercel.app](https://www.criminalip.io/domain/report?scan_id=45223264) | Low | US | 2025-12-10 02:25:16 (UTC) |
 
 ---
 

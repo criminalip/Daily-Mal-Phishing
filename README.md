@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Blocklith for Developers - Enterprise-Grade Web3 APIs" | [http://defiflux.netlify.app](https://www.criminalip.io/domain/report?scan_id=45222400) | Low | SG | 2025-12-10 02:22:16 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://allegrolokalnie.pl-oferta91185129.sbs](https://www.criminalip.io/domain/report?scan_id=45222599) | Critical | N/A | 2025-12-10 02:23:22 (UTC) |
-| "Deployment Unavailable" | [http://ponit-sug3.vercel.app](https://www.criminalip.io/domain/report?scan_id=45223264) | Low | US | 2025-12-10 02:25:16 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://8329swqz021488hg6hlkk8980020200sl0l.blogspot.com](https://www.criminalip.io/domain/report?scan_id=45307475) | Low | US | 2025-12-11 02:24:00 (UTC) |
+| "One moment, please..." | [http://dopalo.tougas-bas.at](https://www.criminalip.io/domain/report?scan_id=45307575) | Low | N/A | 2025-12-11 02:24:59 (UTC) |
+| "Site not found · GitHub Pages" | [http://rinsiya.github.io](https://www.criminalip.io/domain/report?scan_id=45308403) | Low | US | 2025-12-11 02:29:24 (UTC) |
 
 ---
 

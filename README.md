@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://8329swqz021488hg6hlkk8980020200sl0l.blogspot.com](https://www.criminalip.io/domain/report?scan_id=45307475) | Low | US | 2025-12-11 02:24:00 (UTC) |
-| "One moment, please..." | [http://dopalo.tougas-bas.at](https://www.criminalip.io/domain/report?scan_id=45307575) | Low | N/A | 2025-12-11 02:24:59 (UTC) |
-| "Site not found · GitHub Pages" | [http://rinsiya.github.io](https://www.criminalip.io/domain/report?scan_id=45308403) | Low | US | 2025-12-11 02:29:24 (UTC) |
+| "للدخول لرابط التسجيل على المساعده انقر هنا 🎯" | [http://ziraat-55515-369-vgjgfg.netlify.app](https://www.criminalip.io/domain/report?scan_id=45379786) | Low | SG | 2025-12-12 02:21:38 (UTC) |
+| "Site Not Found | Framer" | [http://stellar-pages-007494.framer.app](https://www.criminalip.io/domain/report?scan_id=45380255) | Low | US | 2025-12-12 02:22:56 (UTC) |
+| "SHOPEE.2021" | [http://gebyar-shopee43.blogspot.com](https://www.criminalip.io/domain/report?scan_id=45380524) | Low | US | 2025-12-12 02:24:38 (UTC) |
 
 ---
 

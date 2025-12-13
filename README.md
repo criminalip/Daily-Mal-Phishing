@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "للدخول لرابط التسجيل على المساعده انقر هنا 🎯" | [http://ziraat-55515-369-vgjgfg.netlify.app](https://www.criminalip.io/domain/report?scan_id=45379786) | Low | SG | 2025-12-12 02:21:38 (UTC) |
-| "Site Not Found | Framer" | [http://stellar-pages-007494.framer.app](https://www.criminalip.io/domain/report?scan_id=45380255) | Low | US | 2025-12-12 02:22:56 (UTC) |
-| "SHOPEE.2021" | [http://gebyar-shopee43.blogspot.com](https://www.criminalip.io/domain/report?scan_id=45380524) | Low | US | 2025-12-12 02:24:38 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://id84.business-partner-invite.com](https://www.criminalip.io/domain/report?scan_id=45451553) | Critical | N/A | 2025-12-13 02:21:47 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.yutxc.icu](https://www.criminalip.io/domain/report?scan_id=45451889) | Critical | N/A | 2025-12-13 02:24:06 (UTC) |
+| "Apache2 Debian Default Page: It works" | [http://mail.natveh.si](https://www.criminalip.io/domain/report?scan_id=45452248) | Critical | SI | 2025-12-13 02:25:57 (UTC) |
 
 ---
 

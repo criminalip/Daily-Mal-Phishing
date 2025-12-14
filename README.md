@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://id84.business-partner-invite.com](https://www.criminalip.io/domain/report?scan_id=45451553) | Critical | N/A | 2025-12-13 02:21:47 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.yutxc.icu](https://www.criminalip.io/domain/report?scan_id=45451889) | Critical | N/A | 2025-12-13 02:24:06 (UTC) |
-| "Apache2 Debian Default Page: It works" | [http://mail.natveh.si](https://www.criminalip.io/domain/report?scan_id=45452248) | Critical | SI | 2025-12-13 02:25:57 (UTC) |
+| "404 - Quick Tip | Cofense" | [http://owa.sharememes.pictures](https://www.criminalip.io/domain/report?scan_id=45519860) | Critical | AU | 2025-12-14 02:21:23 (UTC) |
+| "zaloguj się do mBanku" | [http://mbanpld.web.app](https://www.criminalip.io/domain/report?scan_id=45520013) | Low | US | 2025-12-14 02:23:50 (UTC) |
+| "404 - Quick Tip | Cofense" | [http://owa.netaccess-management.net](https://www.criminalip.io/domain/report?scan_id=45520076) | Critical | AU | 2025-12-14 02:24:31 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://amex.pandacn8app.com](https://www.criminalip.io/domain/report?scan_id=45586986) | Critical | US | 2025-12-15 02:23:28 (UTC) |
-| "Acesse Agora" | [http://acesse-consultar.vercel.app](https://www.criminalip.io/domain/report?scan_id=45587113) | Low | US | 2025-12-15 02:24:54 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://spotifymar01.cc](https://www.criminalip.io/domain/report?scan_id=45587131) | Critical | N/A | 2025-12-15 02:25:28 (UTC) |
+| "fnke.info | 522: Connection timed out" | [http://gbx.fnke.info](https://www.criminalip.io/domain/report?scan_id=45659758) | Critical | N/A | 2025-12-16 02:22:02 (UTC) |
+| "404 - Quick Tip | Cofense" | [http://ssl.uk.securebankinggroup.com](https://www.criminalip.io/domain/report?scan_id=45659763) | Critical | DE | 2025-12-16 02:22:40 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-njc.github.io](https://www.criminalip.io/domain/report?scan_id=45659984) | Critical | US | 2025-12-16 02:25:14 (UTC) |
 
 ---
 

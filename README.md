@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "fnke.info | 522: Connection timed out" | [http://gbx.fnke.info](https://www.criminalip.io/domain/report?scan_id=45659758) | Critical | N/A | 2025-12-16 02:22:02 (UTC) |
-| "404 - Quick Tip | Cofense" | [http://ssl.uk.securebankinggroup.com](https://www.criminalip.io/domain/report?scan_id=45659763) | Critical | DE | 2025-12-16 02:22:40 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-njc.github.io](https://www.criminalip.io/domain/report?scan_id=45659984) | Critical | US | 2025-12-16 02:25:14 (UTC) |
+| "함께 만드는 세상" | [http://mox.fews.ink](https://www.criminalip.io/domain/report?scan_id=45728352) | Critical | N/A | 2025-12-17 02:21:24 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app.resgatependentes.live](https://www.criminalip.io/domain/report?scan_id=45728805) | Critical | N/A | 2025-12-17 02:22:59 (UTC) |
+| "Site not found · GitHub Pages" | [http://akshay-ambukar.github.io](https://www.criminalip.io/domain/report?scan_id=45729086) | Low | US | 2025-12-17 02:24:24 (UTC) |
 
 ---
 

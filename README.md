@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "함께 만드는 세상" | [http://mox.fews.ink](https://www.criminalip.io/domain/report?scan_id=45728352) | Critical | N/A | 2025-12-17 02:21:24 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://app.resgatependentes.live](https://www.criminalip.io/domain/report?scan_id=45728805) | Critical | N/A | 2025-12-17 02:22:59 (UTC) |
-| "Site not found · GitHub Pages" | [http://akshay-ambukar.github.io](https://www.criminalip.io/domain/report?scan_id=45729086) | Low | US | 2025-12-17 02:24:24 (UTC) |
+| "Document" | [http://netflix-amber-zeta.vercel.app](https://www.criminalip.io/domain/report?scan_id=45798061) | Critical | US | 2025-12-18 02:21:22 (UTC) |
+| "Viva Sorte" | [http://vivas-cam.vercel.app](https://www.criminalip.io/domain/report?scan_id=45798336) | Low | US | 2025-12-18 02:22:45 (UTC) |
+| "Site Not Found | Framer" | [http://swift-object-820881.framer.app](https://www.criminalip.io/domain/report?scan_id=45798660) | Low | US | 2025-12-18 02:24:32 (UTC) |
 
 ---
 

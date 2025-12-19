@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Document" | [http://netflix-amber-zeta.vercel.app](https://www.criminalip.io/domain/report?scan_id=45798061) | Critical | US | 2025-12-18 02:21:22 (UTC) |
-| "Viva Sorte" | [http://vivas-cam.vercel.app](https://www.criminalip.io/domain/report?scan_id=45798336) | Low | US | 2025-12-18 02:22:45 (UTC) |
-| "Site Not Found | Framer" | [http://swift-object-820881.framer.app](https://www.criminalip.io/domain/report?scan_id=45798660) | Low | US | 2025-12-18 02:24:32 (UTC) |
+| "Le Monde.fr - Actualités et Infos en France et dans le monde" | [http://marocco.client-smspickup.com](https://www.criminalip.io/domain/report?scan_id=45870439) | Safe | N/A | 2025-12-19 02:21:53 (UTC) |
+| "pl-7284.icu | 523: Origin is unreachable" | [http://allegro-lokalne.pl-7284.icu](https://www.criminalip.io/domain/report?scan_id=45870767) | Critical | N/A | 2025-12-19 02:23:36 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://delivery-evri.sbs](https://www.criminalip.io/domain/report?scan_id=45871199) | Critical | N/A | 2025-12-19 02:25:07 (UTC) |
 
 ---
 

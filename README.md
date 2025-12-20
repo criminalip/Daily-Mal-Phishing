@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Le Monde.fr - Actualités et Infos en France et dans le monde" | [http://marocco.client-smspickup.com](https://www.criminalip.io/domain/report?scan_id=45870439) | Safe | N/A | 2025-12-19 02:21:53 (UTC) |
-| "pl-7284.icu | 523: Origin is unreachable" | [http://allegro-lokalne.pl-7284.icu](https://www.criminalip.io/domain/report?scan_id=45870767) | Critical | N/A | 2025-12-19 02:23:36 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://delivery-evri.sbs](https://www.criminalip.io/domain/report?scan_id=45871199) | Critical | N/A | 2025-12-19 02:25:07 (UTC) |
+| "Welcome to GOV.UK" | [http://uk.paying-vd.vip](https://www.criminalip.io/domain/report?scan_id=45941684) | Safe | US | 2025-12-20 02:21:42 (UTC) |
+| "Welcome to nginx!" | [http://verizon.com-vddt.cc](https://www.criminalip.io/domain/report?scan_id=45941719) | Critical | N/A | 2025-12-20 02:23:06 (UTC) |
+| "Deployment Unavailable" | [http://www.openopenbox305.vercel.app](https://www.criminalip.io/domain/report?scan_id=45941726) | Low | US | 2025-12-20 02:24:37 (UTC) |
 
 ---
 

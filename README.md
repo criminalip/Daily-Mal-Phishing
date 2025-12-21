@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to GOV.UK" | [http://uk.paying-vd.vip](https://www.criminalip.io/domain/report?scan_id=45941684) | Safe | US | 2025-12-20 02:21:42 (UTC) |
-| "Welcome to nginx!" | [http://verizon.com-vddt.cc](https://www.criminalip.io/domain/report?scan_id=45941719) | Critical | N/A | 2025-12-20 02:23:06 (UTC) |
-| "Deployment Unavailable" | [http://www.openopenbox305.vercel.app](https://www.criminalip.io/domain/report?scan_id=45941726) | Low | US | 2025-12-20 02:24:37 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://interbenefit.website-formulario.click](https://www.criminalip.io/domain/report?scan_id=46008593) | Critical | N/A | 2025-12-21 02:21:38 (UTC) |
+| "Site not found" | [http://ingresa2faconfig.netlify.app](https://www.criminalip.io/domain/report?scan_id=46008645) | Low | SG | 2025-12-21 02:23:04 (UTC) |
+| "Banca Digital" | [http://continuarbpro.vercel.app](https://www.criminalip.io/domain/report?scan_id=46008657) | Low | US | 2025-12-21 02:23:49 (UTC) |
 
 ---
 

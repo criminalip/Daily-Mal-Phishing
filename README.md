@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://interbenefit.website-formulario.click](https://www.criminalip.io/domain/report?scan_id=46008593) | Critical | N/A | 2025-12-21 02:21:38 (UTC) |
-| "Site not found" | [http://ingresa2faconfig.netlify.app](https://www.criminalip.io/domain/report?scan_id=46008645) | Low | SG | 2025-12-21 02:23:04 (UTC) |
-| "Banca Digital" | [http://continuarbpro.vercel.app](https://www.criminalip.io/domain/report?scan_id=46008657) | Low | US | 2025-12-21 02:23:49 (UTC) |
+| "Faculdade Sírio-Libanês Digital" | [http://faculdadesiriolibanes.vercel.app](https://www.criminalip.io/domain/report?scan_id=46074527) | Low | US | 2025-12-22 02:21:49 (UTC) |
+| "webhub" | [http://webhub.ghost.io](https://www.criminalip.io/domain/report?scan_id=46074759) | Low | KR | 2025-12-22 02:22:31 (UTC) |
+| "验证页面 - Gemini Balance" | [http://plibealoo.zeabur.app](https://www.criminalip.io/domain/report?scan_id=46074932) | Low | SG | 2025-12-22 02:23:19 (UTC) |
 
 ---
 

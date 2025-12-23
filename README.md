@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Faculdade Sírio-Libanês Digital" | [http://faculdadesiriolibanes.vercel.app](https://www.criminalip.io/domain/report?scan_id=46074527) | Low | US | 2025-12-22 02:21:49 (UTC) |
-| "webhub" | [http://webhub.ghost.io](https://www.criminalip.io/domain/report?scan_id=46074759) | Low | KR | 2025-12-22 02:22:31 (UTC) |
-| "验证页面 - Gemini Balance" | [http://plibealoo.zeabur.app](https://www.criminalip.io/domain/report?scan_id=46074932) | Low | SG | 2025-12-22 02:23:19 (UTC) |
+| "Site is created successfully!" | [http://df.ppyvnc1.sa.com](https://www.criminalip.io/domain/report?scan_id=46142299) | Low | DE | 2025-12-23 02:21:37 (UTC) |
+| "Site is created successfully!" | [http://df.msqahn6.sa.com](https://www.criminalip.io/domain/report?scan_id=46142747) | Low | DE | 2025-12-23 02:23:07 (UTC) |
+| "N/A" | [http://allegro.pl-oferta738642.sbs](https://www.criminalip.io/domain/report?scan_id=46142864) | Critical | N/A | 2025-12-23 02:24:43 (UTC) |
 
 ---
 

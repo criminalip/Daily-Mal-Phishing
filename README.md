@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site is created successfully!" | [http://df.ppyvnc1.sa.com](https://www.criminalip.io/domain/report?scan_id=46142299) | Low | DE | 2025-12-23 02:21:37 (UTC) |
-| "Site is created successfully!" | [http://df.msqahn6.sa.com](https://www.criminalip.io/domain/report?scan_id=46142747) | Low | DE | 2025-12-23 02:23:07 (UTC) |
-| "N/A" | [http://allegro.pl-oferta738642.sbs](https://www.criminalip.io/domain/report?scan_id=46142864) | Critical | N/A | 2025-12-23 02:24:43 (UTC) |
+| "N/A" | [http://amexz.siratoriyasu.com](https://www.criminalip.io/domain/report?scan_id=46213166) | Critical | US | 2025-12-24 02:21:45 (UTC) |
+| "Site not found · GitHub Pages" | [http://aniruddha470.github.io](https://www.criminalip.io/domain/report?scan_id=46213175) | Low | US | 2025-12-24 02:23:10 (UTC) |
+| "404" | [http://ghvdysi.6667833.cyou](https://www.criminalip.io/domain/report?scan_id=46213182) | Critical | N/A | 2025-12-24 02:23:43 (UTC) |
 
 ---
 

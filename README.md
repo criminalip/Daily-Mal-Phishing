@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 - お探しのページは見つかりませんでした" | [http://aexnrlws.com](https://www.criminalip.io/domain/report?scan_id=46347410) | Critical | JP | 2025-12-26 02:21:34 (UTC) |
-| "N/A" | [http://allegrolokalnie.plso9klazs02xk.icu](https://www.criminalip.io/domain/report?scan_id=46347512) | Critical | N/A | 2025-12-26 02:22:56 (UTC) |
-| "N/A" | [http://uk.parking-pq.vip](https://www.criminalip.io/domain/report?scan_id=46347516) | Critical | US | 2025-12-26 02:23:34 (UTC) |
+| "404 Not Found" | [http://allegrolokainie.conformation-1925.shop](https://www.criminalip.io/domain/report?scan_id=46412349) | Critical | N/A | 2025-12-27 02:21:49 (UTC) |
+| "Site Not Found | Framer" | [http://relieved-nonogon-227566.framer.app](https://www.criminalip.io/domain/report?scan_id=46412476) | Low | US | 2025-12-27 02:24:36 (UTC) |
+| "N/A" | [http://parking-pcnaw.vip](https://www.criminalip.io/domain/report?scan_id=46412886) | Critical | SG | 2025-12-27 02:26:10 (UTC) |
 
 ---
 

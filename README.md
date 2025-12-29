@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://en-ledge-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=46476072) | Low | N/A | 2025-12-28 02:21:36 (UTC) |
-| "Site not found · GitHub Pages" | [http://shashwat232005.github.io](https://www.criminalip.io/domain/report?scan_id=46476637) | Low | US | 2025-12-28 02:22:54 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://pinlinkrewardbonus.pages.dev](https://www.criminalip.io/domain/report?scan_id=46477192) | Low | N/A | 2025-12-28 02:24:16 (UTC) |
+| "403 Forbidden" | [http://lcljtkmall.top](https://www.criminalip.io/domain/report?scan_id=46541855) | Critical | US | 2025-12-29 02:21:59 (UTC) |
+| "Site not found · GitHub Pages" | [http://samuelcastro787.github.io](https://www.criminalip.io/domain/report?scan_id=46541918) | Low | US | 2025-12-29 02:22:45 (UTC) |
+| "404 Not Found" | [http://allegrolokalnie.pl-4751652.icu](https://www.criminalip.io/domain/report?scan_id=46541928) | Critical | N/A | 2025-12-29 02:23:31 (UTC) |
 
 ---
 

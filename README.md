@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://lcljtkmall.top](https://www.criminalip.io/domain/report?scan_id=46541855) | Critical | US | 2025-12-29 02:21:59 (UTC) |
-| "Site not found · GitHub Pages" | [http://samuelcastro787.github.io](https://www.criminalip.io/domain/report?scan_id=46541918) | Low | US | 2025-12-29 02:22:45 (UTC) |
-| "404 Not Found" | [http://allegrolokalnie.pl-4751652.icu](https://www.criminalip.io/domain/report?scan_id=46541928) | Critical | N/A | 2025-12-29 02:23:31 (UTC) |
+| "Sign in – Google accounts" | [http://www.google.pp.ru](https://www.criminalip.io/domain/report?scan_id=46612051) | Low | PL | 2025-12-30 02:21:56 (UTC) |
+| "Site not found · GitHub Pages" | [http://sandhyaupadhyay16.github.io](https://www.criminalip.io/domain/report?scan_id=46612672) | Low | US | 2025-12-30 02:24:06 (UTC) |
+| "Facebook - log in or sign up" | [http://facebook-login-page-clone-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=46612963) | Low | US | 2025-12-30 02:24:43 (UTC) |
 
 ---
 

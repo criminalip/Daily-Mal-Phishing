@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Sign in – Google accounts" | [http://www.google.pp.ru](https://www.criminalip.io/domain/report?scan_id=46612051) | Low | PL | 2025-12-30 02:21:56 (UTC) |
-| "Site not found · GitHub Pages" | [http://sandhyaupadhyay16.github.io](https://www.criminalip.io/domain/report?scan_id=46612672) | Low | US | 2025-12-30 02:24:06 (UTC) |
-| "Facebook - log in or sign up" | [http://facebook-login-page-clone-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=46612963) | Low | US | 2025-12-30 02:24:43 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-jtd.github.io](https://www.criminalip.io/domain/report?scan_id=46682512) | Critical | US | 2025-12-31 02:21:37 (UTC) |
+| "OpenSea.io" | [http://www.liveclaim-lucky07.vercel.app](https://www.criminalip.io/domain/report?scan_id=46682532) | Low | US | 2025-12-31 02:22:25 (UTC) |
+| "Loterias Online Caixa" | [http://lotericacaixabrasil.com](https://www.criminalip.io/domain/report?scan_id=46682546) | Critical | US | 2025-12-31 02:23:13 (UTC) |
 
 ---
 

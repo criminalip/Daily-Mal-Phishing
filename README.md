@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://google-jtd.github.io](https://www.criminalip.io/domain/report?scan_id=46682512) | Critical | US | 2025-12-31 02:21:37 (UTC) |
-| "OpenSea.io" | [http://www.liveclaim-lucky07.vercel.app](https://www.criminalip.io/domain/report?scan_id=46682532) | Low | US | 2025-12-31 02:22:25 (UTC) |
-| "Loterias Online Caixa" | [http://lotericacaixabrasil.com](https://www.criminalip.io/domain/report?scan_id=46682546) | Critical | US | 2025-12-31 02:23:13 (UTC) |
+| "OpenSea.io" | [http://www.openseaprojectsmint04.vercel.app](https://www.criminalip.io/domain/report?scan_id=46738399) | Low | US | 2026-01-01 02:21:44 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://loginyahoo3.wixsite.com](https://www.criminalip.io/domain/report?scan_id=46738433) | Low | US | 2026-01-01 02:22:20 (UTC) |
+| "N/A" | [http://parking-pcnan.vip](https://www.criminalip.io/domain/report?scan_id=46738622) | Critical | SG | 2026-01-01 02:23:44 (UTC) |
 
 ---
 

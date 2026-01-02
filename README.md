@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "OpenSea.io" | [http://www.openseaprojectsmint04.vercel.app](https://www.criminalip.io/domain/report?scan_id=46738399) | Low | US | 2026-01-01 02:21:44 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://loginyahoo3.wixsite.com](https://www.criminalip.io/domain/report?scan_id=46738433) | Low | US | 2026-01-01 02:22:20 (UTC) |
-| "N/A" | [http://parking-pcnan.vip](https://www.criminalip.io/domain/report?scan_id=46738622) | Critical | SG | 2026-01-01 02:23:44 (UTC) |
+| "N/A" | [http://parking-pcnfq.vip](https://www.criminalip.io/domain/report?scan_id=46792060) | Critical | SG | 2026-01-02 02:21:43 (UTC) |
+| "Deployment Unavailable" | [http://falasecure.vercel.app](https://www.criminalip.io/domain/report?scan_id=46792306) | Low | US | 2026-01-02 02:23:20 (UTC) |
+| "bet365-亚洲最佳体育滚球首选平台，欧洲联赛足球和PGA高尔夫锦标赛赔率，真人视讯娱乐场，综合游戏。" | [http://0471365vip.vip](https://www.criminalip.io/domain/report?scan_id=46792364) | Low | US | 2026-01-02 02:26:07 (UTC) |
 
 ---
 

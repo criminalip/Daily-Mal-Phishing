@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://parking-pcnfq.vip](https://www.criminalip.io/domain/report?scan_id=46792060) | Critical | SG | 2026-01-02 02:21:43 (UTC) |
-| "Deployment Unavailable" | [http://falasecure.vercel.app](https://www.criminalip.io/domain/report?scan_id=46792306) | Low | US | 2026-01-02 02:23:20 (UTC) |
-| "bet365-亚洲最佳体育滚球首选平台，欧洲联赛足球和PGA高尔夫锦标赛赔率，真人视讯娱乐场，综合游戏。" | [http://0471365vip.vip](https://www.criminalip.io/domain/report?scan_id=46792364) | Low | US | 2026-01-02 02:26:07 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://notice-icloud.com](https://www.criminalip.io/domain/report?scan_id=46935789) | Critical | N/A | 2026-01-05 02:21:43 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ldr-df45-df76df.sd98.workers.dev](https://www.criminalip.io/domain/report?scan_id=46935936) | Low | N/A | 2026-01-05 02:23:04 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-65654468.cfd](https://www.criminalip.io/domain/report?scan_id=46936008) | Critical | N/A | 2026-01-05 02:24:41 (UTC) |
 
 ---
 

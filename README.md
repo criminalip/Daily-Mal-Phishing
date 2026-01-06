@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://notice-icloud.com](https://www.criminalip.io/domain/report?scan_id=46935789) | Critical | N/A | 2026-01-05 02:21:43 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ldr-df45-df76df.sd98.workers.dev](https://www.criminalip.io/domain/report?scan_id=46935936) | Low | N/A | 2026-01-05 02:23:04 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-65654468.cfd](https://www.criminalip.io/domain/report?scan_id=46936008) | Critical | N/A | 2026-01-05 02:24:41 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-le.github.io](https://www.criminalip.io/domain/report?scan_id=46984993) | Critical | US | 2026-01-06 02:21:54 (UTC) |
+| "Log-in | Coinbase Pro | Digital Asset Exchange®" | [http://learn-coinbases-docs.onepage.website](https://www.criminalip.io/domain/report?scan_id=46985033) | Critical | NL | 2026-01-06 02:22:43 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-89352.cfd](https://www.criminalip.io/domain/report?scan_id=46985035) | Critical | N/A | 2026-01-06 02:23:19 (UTC) |
 
 ---
 

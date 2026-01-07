@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://google-le.github.io](https://www.criminalip.io/domain/report?scan_id=46984993) | Critical | US | 2026-01-06 02:21:54 (UTC) |
-| "Log-in | Coinbase Pro | Digital Asset Exchange®" | [http://learn-coinbases-docs.onepage.website](https://www.criminalip.io/domain/report?scan_id=46985033) | Critical | NL | 2026-01-06 02:22:43 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-89352.cfd](https://www.criminalip.io/domain/report?scan_id=46985035) | Critical | N/A | 2026-01-06 02:23:19 (UTC) |
+| "Desio Copilot – AI Workspace" | [http://vae.yooroocrio.com.ru](https://www.criminalip.io/domain/report?scan_id=47037004) | Low | N/A | 2026-01-07 02:22:21 (UTC) |
+| "Site Not Found | Framer" | [http://large-interface-444768.framer.app](https://www.criminalip.io/domain/report?scan_id=47037239) | Critical | US | 2026-01-07 02:23:25 (UTC) |
+| "case.metaforbusiness-helpsite.com" | [http://pls-wait-for-page.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=47037276) | Low | US | 2026-01-07 02:24:04 (UTC) |
 
 ---
 

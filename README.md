@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Desio Copilot – AI Workspace" | [http://vae.yooroocrio.com.ru](https://www.criminalip.io/domain/report?scan_id=47037004) | Low | N/A | 2026-01-07 02:22:21 (UTC) |
-| "Site Not Found | Framer" | [http://large-interface-444768.framer.app](https://www.criminalip.io/domain/report?scan_id=47037239) | Critical | US | 2026-01-07 02:23:25 (UTC) |
-| "case.metaforbusiness-helpsite.com" | [http://pls-wait-for-page.firebaseapp.com](https://www.criminalip.io/domain/report?scan_id=47037276) | Low | US | 2026-01-07 02:24:04 (UTC) |
+| "Desio Copilot – AI Workspace" | [http://sleep.yooroocrio.com.ru](https://www.criminalip.io/domain/report?scan_id=47089429) | Low | N/A | 2026-01-08 02:21:48 (UTC) |
+| "WhatsApp Web - 免費即時通訊工具" | [http://ltv-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=47089597) | Critical | SC | 2026-01-08 02:22:41 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://spectrumwebhosting-27e.pages.dev](https://www.criminalip.io/domain/report?scan_id=47089725) | Low | N/A | 2026-01-08 02:24:00 (UTC) |
 
 ---
 

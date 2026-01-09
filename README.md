@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Desio Copilot – AI Workspace" | [http://sleep.yooroocrio.com.ru](https://www.criminalip.io/domain/report?scan_id=47089429) | Low | N/A | 2026-01-08 02:21:48 (UTC) |
-| "WhatsApp Web - 免費即時通訊工具" | [http://ltv-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=47089597) | Critical | SC | 2026-01-08 02:22:41 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://spectrumwebhosting-27e.pages.dev](https://www.criminalip.io/domain/report?scan_id=47089725) | Low | N/A | 2026-01-08 02:24:00 (UTC) |
+| "Le Monde.fr - Actualités et Infos en France et dans le monde" | [http://dormont.dispatch-pickup.com](https://www.criminalip.io/domain/report?scan_id=47142360) | Safe | N/A | 2026-01-09 02:21:58 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://pjnetempresarial.digital](https://www.criminalip.io/domain/report?scan_id=47142441) | Critical | N/A | 2026-01-09 02:23:25 (UTC) |
+| "PancakeSwap Finance - Leading DEX on BNB Chain & Multi-Chain DeFi" | [http://pancakewap.co.com](https://www.criminalip.io/domain/report?scan_id=47142518) | Low | US | 2026-01-09 02:25:06 (UTC) |
 
 ---
 

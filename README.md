@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Le Monde.fr - Actualités et Infos en France et dans le monde" | [http://dormont.dispatch-pickup.com](https://www.criminalip.io/domain/report?scan_id=47142360) | Safe | N/A | 2026-01-09 02:21:58 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://pjnetempresarial.digital](https://www.criminalip.io/domain/report?scan_id=47142441) | Critical | N/A | 2026-01-09 02:23:25 (UTC) |
-| "PancakeSwap Finance - Leading DEX on BNB Chain & Multi-Chain DeFi" | [http://pancakewap.co.com](https://www.criminalip.io/domain/report?scan_id=47142518) | Low | US | 2026-01-09 02:25:06 (UTC) |
+| "Prêmio Aprovado - Viva Sorte" | [http://up1p2.vercel.app](https://www.criminalip.io/domain/report?scan_id=47190754) | Low | US | 2026-01-10 02:22:32 (UTC) |
+| "Deployment Unavailable" | [http://seasonalairdrop05.vercel.app](https://www.criminalip.io/domain/report?scan_id=47190762) | Low | US | 2026-01-10 02:23:01 (UTC) |
+| "google-jqkt" | [http://google-jqkt.github.io](https://www.criminalip.io/domain/report?scan_id=47190854) | Critical | US | 2026-01-10 02:25:16 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Prêmio Aprovado - Viva Sorte" | [http://up1p2.vercel.app](https://www.criminalip.io/domain/report?scan_id=47190754) | Low | US | 2026-01-10 02:22:32 (UTC) |
-| "Deployment Unavailable" | [http://seasonalairdrop05.vercel.app](https://www.criminalip.io/domain/report?scan_id=47190762) | Low | US | 2026-01-10 02:23:01 (UTC) |
-| "google-jqkt" | [http://google-jqkt.github.io](https://www.criminalip.io/domain/report?scan_id=47190854) | Critical | US | 2026-01-10 02:25:16 (UTC) |
+| "403 Error" | [http://apu.jzt.temporary.site](https://www.criminalip.io/domain/report?scan_id=47284077) | Low | US | 2026-01-12 02:20:30 (UTC) |
+| "N/A" | [http://k51qzi5uqu5djyto818ici4u3w200gbtortbsxgnoeywdjzh82d80qm3efra8k.ipns.dweb.link](https://www.criminalip.io/domain/report?scan_id=47284351) | Low | US | 2026-01-12 02:22:03 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://live-ledgei.pages.dev](https://www.criminalip.io/domain/report?scan_id=47284466) | Low | N/A | 2026-01-12 02:24:50 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Error" | [http://apu.jzt.temporary.site](https://www.criminalip.io/domain/report?scan_id=47284077) | Low | US | 2026-01-12 02:20:30 (UTC) |
-| "N/A" | [http://k51qzi5uqu5djyto818ici4u3w200gbtortbsxgnoeywdjzh82d80qm3efra8k.ipns.dweb.link](https://www.criminalip.io/domain/report?scan_id=47284351) | Low | US | 2026-01-12 02:22:03 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://live-ledgei.pages.dev](https://www.criminalip.io/domain/report?scan_id=47284466) | Low | N/A | 2026-01-12 02:24:50 (UTC) |
+| "N/A" | [http://parking-pcnkw.cn](https://www.criminalip.io/domain/report?scan_id=47337710) | Critical | US | 2026-01-13 02:21:58 (UTC) |
+| "Site not found · GitHub Pages" | [http://google-jqki.github.io](https://www.criminalip.io/domain/report?scan_id=47338044) | Critical | US | 2026-01-13 02:23:43 (UTC) |
+| "Advanced Web Scraper - Página Inicial" | [http://credsponivel.digital](https://www.criminalip.io/domain/report?scan_id=47338055) | Critical | DE | 2026-01-13 02:24:33 (UTC) |
 
 ---
 

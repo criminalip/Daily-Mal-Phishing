@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://parking-pcnkw.cn](https://www.criminalip.io/domain/report?scan_id=47337710) | Critical | US | 2026-01-13 02:21:58 (UTC) |
-| "Site not found · GitHub Pages" | [http://google-jqki.github.io](https://www.criminalip.io/domain/report?scan_id=47338044) | Critical | US | 2026-01-13 02:23:43 (UTC) |
-| "Advanced Web Scraper - Página Inicial" | [http://credsponivel.digital](https://www.criminalip.io/domain/report?scan_id=47338055) | Critical | DE | 2026-01-13 02:24:33 (UTC) |
+| "Site not found" | [http://web-login-ndax-en-cdn.netlify.app](https://www.criminalip.io/domain/report?scan_id=47389764) | Low | SG | 2026-01-14 02:20:34 (UTC) |
+| "N/A" | [http://parking-pcngp.cn](https://www.criminalip.io/domain/report?scan_id=47390257) | Critical | SG | 2026-01-14 02:22:09 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://hardware-ledzer-wallet.pages.dev](https://www.criminalip.io/domain/report?scan_id=47390319) | Low | N/A | 2026-01-14 02:23:31 (UTC) |
 
 ---
 

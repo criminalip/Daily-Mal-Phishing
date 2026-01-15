@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://web-login-ndax-en-cdn.netlify.app](https://www.criminalip.io/domain/report?scan_id=47389764) | Low | SG | 2026-01-14 02:20:34 (UTC) |
-| "N/A" | [http://parking-pcngp.cn](https://www.criminalip.io/domain/report?scan_id=47390257) | Critical | SG | 2026-01-14 02:22:09 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://hardware-ledzer-wallet.pages.dev](https://www.criminalip.io/domain/report?scan_id=47390319) | Low | N/A | 2026-01-14 02:23:31 (UTC) |
+| "Just a moment..." | [http://santander-connectchat.com](https://www.criminalip.io/domain/report?scan_id=47439372) | Critical | DE | 2026-01-15 02:20:56 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ledgerr--liive--downloadd.pages.dev](https://www.criminalip.io/domain/report?scan_id=47439607) | Low | N/A | 2026-01-15 02:22:33 (UTC) |
+| "404 Not Found" | [http://allegro-lokalnie.pl-150189.cfd](https://www.criminalip.io/domain/report?scan_id=47439723) | Critical | N/A | 2026-01-15 02:25:40 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Just a moment..." | [http://santander-connectchat.com](https://www.criminalip.io/domain/report?scan_id=47439372) | Critical | DE | 2026-01-15 02:20:56 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ledgerr--liive--downloadd.pages.dev](https://www.criminalip.io/domain/report?scan_id=47439607) | Low | N/A | 2026-01-15 02:22:33 (UTC) |
-| "404 Not Found" | [http://allegro-lokalnie.pl-150189.cfd](https://www.criminalip.io/domain/report?scan_id=47439723) | Critical | N/A | 2026-01-15 02:25:40 (UTC) |
+| "Un instant..." | [http://distrib-transitfr.com](https://www.criminalip.io/domain/report?scan_id=47494762) | Critical | US | 2026-01-16 02:20:40 (UTC) |
+| "Facebook" | [http://facebook-reward.blogspot.com](https://www.criminalip.io/domain/report?scan_id=47494875) | Critical | US | 2026-01-16 02:22:14 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://hometrade-nomura.t8ur4b.top](https://www.criminalip.io/domain/report?scan_id=47495502) | Critical | N/A | 2026-01-16 02:25:51 (UTC) |
 
 ---
 

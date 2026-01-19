@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://mbtwjershw.cc](https://www.criminalip.io/domain/report?scan_id=47597396) | Critical | US | 2026-01-18 02:20:39 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.fynwh.cc](https://www.criminalip.io/domain/report?scan_id=47597420) | Critical | N/A | 2026-01-18 02:22:04 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.zapfh.cc](https://www.criminalip.io/domain/report?scan_id=47597436) | Critical | N/A | 2026-01-18 02:23:26 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.qkwhj.cc](https://www.criminalip.io/domain/report?scan_id=47650034) | Critical | US | 2026-01-19 02:20:41 (UTC) |
+| "403 Forbidden" | [http://wise-verify.click](https://www.criminalip.io/domain/report?scan_id=47650071) | Critical | BG | 2026-01-19 02:22:31 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.zskfc.cc](https://www.criminalip.io/domain/report?scan_id=47650093) | Critical | N/A | 2026-01-19 02:24:21 (UTC) |
 
 ---
 

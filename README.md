@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to nginx!" | [http://att.hapiw.icu](https://www.criminalip.io/domain/report?scan_id=47703530) | Critical | N/A | 2026-01-20 02:20:35 (UTC) |
-| "Netflix clone" | [http://netflix-clone.fzlx.uz](https://www.criminalip.io/domain/report?scan_id=47703693) | Critical | SG | 2026-01-20 02:24:10 (UTC) |
-| "Welcome to nginx!" | [http://att.vnijsabg.cc](https://www.criminalip.io/domain/report?scan_id=47703695) | Critical | N/A | 2026-01-20 02:25:33 (UTC) |
+| "Site not found · GitHub Pages" | [http://mahekshaikh87.github.io](https://www.criminalip.io/domain/report?scan_id=47755398) | Low | US | 2026-01-21 02:21:04 (UTC) |
+| "Attention Required! | Cloudflare" | [http://service-pigp.fr](https://www.criminalip.io/domain/report?scan_id=47755469) | Critical | N/A | 2026-01-21 02:22:55 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://wallet-trezoru.pages.dev](https://www.criminalip.io/domain/report?scan_id=47755539) | Low | N/A | 2026-01-21 02:24:14 (UTC) |
 
 ---
 

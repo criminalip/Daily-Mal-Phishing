@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to nginx!" | [http://att.rngdy.cc](https://www.criminalip.io/domain/report?scan_id=47916558) | Critical | N/A | 2026-01-24 02:20:38 (UTC) |
-| "SHOPEE INDONESIA" | [http://infoakhirtahun34.blogspot.com](https://www.criminalip.io/domain/report?scan_id=47917149) | Low | US | 2026-01-24 02:22:15 (UTC) |
-| "Site Not Found | Framer" | [http://reactivateyouraccount.framer.website](https://www.criminalip.io/domain/report?scan_id=47917330) | Low | US | 2026-01-24 02:22:54 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.htqdi.cc](https://www.criminalip.io/domain/report?scan_id=47967297) | Critical | N/A | 2026-01-25 02:20:51 (UTC) |
+| "验证页面 - Gemini Balance" | [http://soft-pro.de5.net](https://www.criminalip.io/domain/report?scan_id=47967356) | Critical | N/A | 2026-01-25 02:22:22 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.utafk.cc](https://www.criminalip.io/domain/report?scan_id=47967377) | Critical | N/A | 2026-01-25 02:23:01 (UTC) |
 
 ---
 

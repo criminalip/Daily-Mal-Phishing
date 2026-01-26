@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to nginx!" | [http://t-mobile.htqdi.cc](https://www.criminalip.io/domain/report?scan_id=47967297) | Critical | N/A | 2026-01-25 02:20:51 (UTC) |
-| "验证页面 - Gemini Balance" | [http://soft-pro.de5.net](https://www.criminalip.io/domain/report?scan_id=47967356) | Critical | N/A | 2026-01-25 02:22:22 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.utafk.cc](https://www.criminalip.io/domain/report?scan_id=47967377) | Critical | N/A | 2026-01-25 02:23:01 (UTC) |
+| "Easybank landing page" | [http://www.easy-bank-landing-page-ecru.vercel.app](https://www.criminalip.io/domain/report?scan_id=48018264) | Low | US | 2026-01-26 02:20:42 (UTC) |
+| "N/A" | [http://service-mail.safecurecarer.net](https://www.criminalip.io/domain/report?scan_id=48018411) | Critical | DE | 2026-01-26 02:22:08 (UTC) |
+| "验证页面 - Gemini Balance" | [http://gemini.hkmc.online](https://www.criminalip.io/domain/report?scan_id=48018572) | Critical | SG | 2026-01-26 02:22:50 (UTC) |
 
 ---
 

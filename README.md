@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Easybank landing page" | [http://www.easy-bank-landing-page-ecru.vercel.app](https://www.criminalip.io/domain/report?scan_id=48018264) | Low | US | 2026-01-26 02:20:42 (UTC) |
-| "N/A" | [http://service-mail.safecurecarer.net](https://www.criminalip.io/domain/report?scan_id=48018411) | Critical | DE | 2026-01-26 02:22:08 (UTC) |
-| "验证页面 - Gemini Balance" | [http://gemini.hkmc.online](https://www.criminalip.io/domain/report?scan_id=48018572) | Critical | SG | 2026-01-26 02:22:50 (UTC) |
+| "Site not found · GitHub Pages" | [http://hmahmd.github.io](https://www.criminalip.io/domain/report?scan_id=48072652) | Low | US | 2026-01-27 02:20:41 (UTC) |
+| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.pl-smart36219.sbs](https://www.criminalip.io/domain/report?scan_id=48072714) | Low | N/A | 2026-01-27 02:21:34 (UTC) |
+| "pl-urzadzenia-42942.cyou | 522: Connection timed out" | [http://allegrolokalnie.pl-urzadzenia-42942.cyou](https://www.criminalip.io/domain/report?scan_id=48072796) | Critical | N/A | 2026-01-27 02:22:39 (UTC) |
 
 ---
 

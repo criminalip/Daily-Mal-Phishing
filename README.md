@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "WhatsApp Security Testing Center" | [http://www.whatsapp-my.eu.cc](https://www.criminalip.io/domain/report?scan_id=48125270) | Low | JP | 2026-01-28 02:20:46 (UTC) |
-| "Facebook Login" | [http://facebookcolorvisitor.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48125386) | Low | US | 2026-01-28 02:22:18 (UTC) |
-| "Facebook" | [http://facebook-clone-nu-nine.vercel.app](https://www.criminalip.io/domain/report?scan_id=48125876) | Low | US | 2026-01-28 02:23:49 (UTC) |
+| "Instagram" | [http://instagram-clone-olive-ten.vercel.app](https://www.criminalip.io/domain/report?scan_id=48199100) | Low | US | 2026-01-29 06:44:33 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.vtoifdb.cc](https://www.criminalip.io/domain/report?scan_id=48178711) | Critical | N/A | 2026-01-29 02:21:45 (UTC) |
+| "Welcome to nginx!" | [http://att.skadm.cc](https://www.criminalip.io/domain/report?scan_id=48178723) | Critical | N/A | 2026-01-29 02:23:14 (UTC) |
 
 ---
 

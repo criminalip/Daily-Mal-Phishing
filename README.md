@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Instagram" | [http://instagram-clone-olive-ten.vercel.app](https://www.criminalip.io/domain/report?scan_id=48199100) | Low | US | 2026-01-29 06:44:33 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.vtoifdb.cc](https://www.criminalip.io/domain/report?scan_id=48178711) | Critical | N/A | 2026-01-29 02:21:45 (UTC) |
-| "Welcome to nginx!" | [http://att.skadm.cc](https://www.criminalip.io/domain/report?scan_id=48178723) | Critical | N/A | 2026-01-29 02:23:14 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://app.promocaosemana.live](https://www.criminalip.io/domain/report?scan_id=48232713) | Critical | N/A | 2026-01-30 02:21:14 (UTC) |
+| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegro-lokalnie.78298.cfd](https://www.criminalip.io/domain/report?scan_id=48233100) | Low | N/A | 2026-01-30 02:22:32 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.drmny.cc](https://www.criminalip.io/domain/report?scan_id=48233281) | Critical | US | 2026-01-30 02:24:09 (UTC) |
 
 ---
 

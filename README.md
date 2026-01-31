@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://app.promocaosemana.live](https://www.criminalip.io/domain/report?scan_id=48232713) | Critical | N/A | 2026-01-30 02:21:14 (UTC) |
-| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegro-lokalnie.78298.cfd](https://www.criminalip.io/domain/report?scan_id=48233100) | Low | N/A | 2026-01-30 02:22:32 (UTC) |
-| "Welcome to nginx!" | [http://t-mobile.drmny.cc](https://www.criminalip.io/domain/report?scan_id=48233281) | Critical | US | 2026-01-30 02:24:09 (UTC) |
+| "Site Not Found | Framer" | [http://fabulous-happen-628959.framer.app](https://www.criminalip.io/domain/report?scan_id=48284176) | Low | US | 2026-01-31 02:20:56 (UTC) |
+| "Hajatan Ulang Tahun GoPay: Bagi-Bagi Saldo Rp500.000 untuk Semua Pengguna" | [http://gopay24.ckbe.top](https://www.criminalip.io/domain/report?scan_id=48284189) | Critical | N/A | 2026-01-31 02:21:35 (UTC) |
+| "Site Not Found | Framer" | [http://shy-requests-890585.framer.app](https://www.criminalip.io/domain/report?scan_id=48284255) | Low | US | 2026-01-31 02:23:02 (UTC) |
 
 ---
 

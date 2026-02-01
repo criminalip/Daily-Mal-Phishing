@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site Not Found | Framer" | [http://fabulous-happen-628959.framer.app](https://www.criminalip.io/domain/report?scan_id=48284176) | Low | US | 2026-01-31 02:20:56 (UTC) |
-| "Hajatan Ulang Tahun GoPay: Bagi-Bagi Saldo Rp500.000 untuk Semua Pengguna" | [http://gopay24.ckbe.top](https://www.criminalip.io/domain/report?scan_id=48284189) | Critical | N/A | 2026-01-31 02:21:35 (UTC) |
-| "Site Not Found | Framer" | [http://shy-requests-890585.framer.app](https://www.criminalip.io/domain/report?scan_id=48284255) | Low | US | 2026-01-31 02:23:02 (UTC) |
+| "N/A" | [http://servicio-live-msn.replit.app](https://www.criminalip.io/domain/report?scan_id=48334327) | Low | US | 2026-02-01 02:21:08 (UTC) |
+| "The app is currently not running. Deploy this app to keep it running externally." | [http://fd97cb3d-99c0-4423-b270-9e33f7f01786-00-353n3777va4q1.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=48334590) | Low | US | 2026-02-01 02:23:48 (UTC) |
+| "Site en construction" | [http://xn--onlyfans-twitter-trkiye-tpc.com](https://www.criminalip.io/domain/report?scan_id=48334599) | Critical | FR | 2026-02-01 02:25:24 (UTC) |
 
 ---
 

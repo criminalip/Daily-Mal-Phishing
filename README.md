@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://servicio-live-msn.replit.app](https://www.criminalip.io/domain/report?scan_id=48334327) | Low | US | 2026-02-01 02:21:08 (UTC) |
-| "The app is currently not running. Deploy this app to keep it running externally." | [http://fd97cb3d-99c0-4423-b270-9e33f7f01786-00-353n3777va4q1.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=48334590) | Low | US | 2026-02-01 02:23:48 (UTC) |
-| "Site en construction" | [http://xn--onlyfans-twitter-trkiye-tpc.com](https://www.criminalip.io/domain/report?scan_id=48334599) | Critical | FR | 2026-02-01 02:25:24 (UTC) |
+| "Sandbox Environment Notice" | [http://dev-alomaadsw.pantheonsite.io](https://www.criminalip.io/domain/report?scan_id=48382766) | Low | US | 2026-02-02 02:20:49 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://sharonf40.wixsite.com](https://www.criminalip.io/domain/report?scan_id=48382768) | Low | US | 2026-02-02 02:21:20 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://att.kdyuw.cc](https://www.criminalip.io/domain/report?scan_id=48383107) | Critical | N/A | 2026-02-02 02:22:56 (UTC) |
 
 ---
 

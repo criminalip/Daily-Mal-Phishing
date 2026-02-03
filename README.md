@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Sandbox Environment Notice" | [http://dev-alomaadsw.pantheonsite.io](https://www.criminalip.io/domain/report?scan_id=48382766) | Low | US | 2026-02-02 02:20:49 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://sharonf40.wixsite.com](https://www.criminalip.io/domain/report?scan_id=48382768) | Low | US | 2026-02-02 02:21:20 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://att.kdyuw.cc](https://www.criminalip.io/domain/report?scan_id=48383107) | Critical | N/A | 2026-02-02 02:22:56 (UTC) |
+| "N/A" | [http://w93.activate-paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=48433928) | Critical | VG | 2026-02-03 02:20:54 (UTC) |
+| "Welcome to nginx!" | [http://t-mobile.cjsoy.cc](https://www.criminalip.io/domain/report?scan_id=48433934) | Critical | N/A | 2026-02-03 02:21:23 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://info-resmi4747.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48434044) | Low | US | 2026-02-03 02:22:48 (UTC) |
 
 ---
 

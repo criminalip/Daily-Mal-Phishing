@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://qa.conferma.paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=48490068) | Low | VG | 2026-02-04 02:20:55 (UTC) |
-| "N/A" | [http://chat-pyhee74.paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=48490238) | Low | VG | 2026-02-04 02:23:29 (UTC) |
-| "Estância – Climatização" | [http://estanciarefrigeracao.com.br](https://www.criminalip.io/domain/report?scan_id=48490490) | Critical | US | 2026-02-04 02:26:33 (UTC) |
+| "Crackers World" | [http://crackers.aiwebapp.in](https://www.criminalip.io/domain/report?scan_id=48551366) | Critical | IN | 2026-02-05 02:21:21 (UTC) |
+| "403 Forbidden" | [http://verificadigitalcertificado.shop](https://www.criminalip.io/domain/report?scan_id=48551857) | Critical | US | 2026-02-05 02:23:27 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.info-hadiah000.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48552460) | Low | US | 2026-02-05 02:25:13 (UTC) |
 
 ---
 

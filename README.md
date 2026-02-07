@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Crackers World" | [http://crackers.aiwebapp.in](https://www.criminalip.io/domain/report?scan_id=48551366) | Critical | IN | 2026-02-05 02:21:21 (UTC) |
-| "403 Forbidden" | [http://verificadigitalcertificado.shop](https://www.criminalip.io/domain/report?scan_id=48551857) | Critical | US | 2026-02-05 02:23:27 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://www.info-hadiah000.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48552460) | Low | US | 2026-02-05 02:25:13 (UTC) |
+| "Exodus Web3 Wallet" | [http://exods-web-wallet.created.app](https://www.criminalip.io/domain/report?scan_id=48655223) | Critical | US | 2026-02-07 02:21:04 (UTC) |
+| "N/A" | [http://servicios--tumundobhd.replit.app](https://www.criminalip.io/domain/report?scan_id=48655225) | Low | US | 2026-02-07 02:21:35 (UTC) |
+| "Makeswift - 404" | [http://amdyjm8srch.makeswift.site](https://www.criminalip.io/domain/report?scan_id=48655228) | Critical | US | 2026-02-07 02:22:17 (UTC) |
 
 ---
 

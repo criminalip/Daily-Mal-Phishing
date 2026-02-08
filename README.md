@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Exodus Web3 Wallet" | [http://exods-web-wallet.created.app](https://www.criminalip.io/domain/report?scan_id=48655223) | Critical | US | 2026-02-07 02:21:04 (UTC) |
-| "N/A" | [http://servicios--tumundobhd.replit.app](https://www.criminalip.io/domain/report?scan_id=48655225) | Low | US | 2026-02-07 02:21:35 (UTC) |
-| "Makeswift - 404" | [http://amdyjm8srch.makeswift.site](https://www.criminalip.io/domain/report?scan_id=48655228) | Critical | US | 2026-02-07 02:22:17 (UTC) |
+| "My Framer Site" | [http://unique-task-503860.framer.app](https://www.criminalip.io/domain/report?scan_id=48704448) | Low | US | 2026-02-08 02:20:57 (UTC) |
+| "PROGRAM SHOPEE INDONESIA" | [http://www.shopeeid467.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48704452) | Low | US | 2026-02-08 02:21:31 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://en-us-exodus.pages.dev](https://www.criminalip.io/domain/report?scan_id=48704470) | Low | N/A | 2026-02-08 02:22:08 (UTC) |
 
 ---
 

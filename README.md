@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://regnets.pages.dev](https://www.criminalip.io/domain/report?scan_id=48754398) | Low | N/A | 2026-02-09 02:20:55 (UTC) |
-| "TREZOR - Crypto Security Redefined" | [http://trezor-en.live](https://www.criminalip.io/domain/report?scan_id=48754405) | Critical | US | 2026-02-09 02:21:33 (UTC) |
-| "Sign in." | [http://amazing-author-690012.framer.app](https://www.criminalip.io/domain/report?scan_id=48754447) | Low | US | 2026-02-09 02:23:23 (UTC) |
+| "Plesk Obsidian 18.0.74" | [http://dsfekq.com](https://www.criminalip.io/domain/report?scan_id=48804778) | Critical | CA | 2026-02-10 02:21:34 (UTC) |
+| "shopee" | [http://shopeeid195.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48804992) | Low | US | 2026-02-10 02:23:09 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://hot-trendingvidoes.pages.dev](https://www.criminalip.io/domain/report?scan_id=48804996) | Low | N/A | 2026-02-10 02:23:41 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Plesk Obsidian 18.0.74" | [http://dsfekq.com](https://www.criminalip.io/domain/report?scan_id=48804778) | Critical | CA | 2026-02-10 02:21:34 (UTC) |
-| "shopee" | [http://shopeeid195.blogspot.com](https://www.criminalip.io/domain/report?scan_id=48804992) | Low | US | 2026-02-10 02:23:09 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://hot-trendingvidoes.pages.dev](https://www.criminalip.io/domain/report?scan_id=48804996) | Low | N/A | 2026-02-10 02:23:41 (UTC) |
+| "404: This page could not be found." | [http://web3-exodus-en.created.app](https://www.criminalip.io/domain/report?scan_id=48864240) | Critical | US | 2026-02-11 02:21:00 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://coins-mart-nav.pages.dev](https://www.criminalip.io/domain/report?scan_id=48864242) | Low | N/A | 2026-02-11 02:21:30 (UTC) |
+| "Attention Required! | Cloudflare" | [http://acesso.portal-brad.info](https://www.criminalip.io/domain/report?scan_id=48864245) | Critical | N/A | 2026-02-11 02:22:04 (UTC) |
 
 ---
 

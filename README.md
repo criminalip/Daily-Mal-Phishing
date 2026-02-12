@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: This page could not be found." | [http://web3-exodus-en.created.app](https://www.criminalip.io/domain/report?scan_id=48864240) | Critical | US | 2026-02-11 02:21:00 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://coins-mart-nav.pages.dev](https://www.criminalip.io/domain/report?scan_id=48864242) | Low | N/A | 2026-02-11 02:21:30 (UTC) |
-| "Attention Required! | Cloudflare" | [http://acesso.portal-brad.info](https://www.criminalip.io/domain/report?scan_id=48864245) | Critical | N/A | 2026-02-11 02:22:04 (UTC) |
+| "N/A" | [http://sellercentral-amazon.com-aws2.nl](https://www.criminalip.io/domain/report?scan_id=48916834) | Critical | US | 2026-02-12 02:21:06 (UTC) |
+| "N/A" | [http://map.line.paypal-panel.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=48916875) | Critical | VG | 2026-02-12 02:22:55 (UTC) |
+| "Detection|yrecVj59CyGXMtM9TK9CQyxbHIEdIMvr74YUitvh6cZ9q1Ib1jadIrBFRO3QMYwF" | [http://dolphin-app-htf8t.ondigitalocean.app](https://www.criminalip.io/domain/report?scan_id=48916894) | Low | N/A | 2026-02-12 02:23:32 (UTC) |
 
 ---
 

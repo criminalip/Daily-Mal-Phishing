@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://sellercentral-amazon.com-aws2.nl](https://www.criminalip.io/domain/report?scan_id=48916834) | Critical | US | 2026-02-12 02:21:06 (UTC) |
-| "N/A" | [http://map.line.paypal-panel.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=48916875) | Critical | VG | 2026-02-12 02:22:55 (UTC) |
-| "Detection|yrecVj59CyGXMtM9TK9CQyxbHIEdIMvr74YUitvh6cZ9q1Ib1jadIrBFRO3QMYwF" | [http://dolphin-app-htf8t.ondigitalocean.app](https://www.criminalip.io/domain/report?scan_id=48916894) | Low | N/A | 2026-02-12 02:23:32 (UTC) |
+| "Site Not Found | Framer" | [http://microsoft08.framer.website](https://www.criminalip.io/domain/report?scan_id=49002414) | Low | US | 2026-02-13 08:10:23 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://pl-01337.sbs](https://www.criminalip.io/domain/report?scan_id=49002492) | Critical | N/A | 2026-02-13 08:11:08 (UTC) |
+| "Attention Required! | Cloudflare" | [http://brasilpontos-banco.digital](https://www.criminalip.io/domain/report?scan_id=49002916) | Critical | N/A | 2026-02-13 08:14:37 (UTC) |
 
 ---
 

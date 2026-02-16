@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix.com" | [http://jessicaohema26.wixsite.com](https://www.criminalip.io/domain/report?scan_id=49073580) | Low | US | 2026-02-15 02:20:30 (UTC) |
-| "Site Not Found | Framer" | [http://clear-interfaces-723623.framer.app](https://www.criminalip.io/domain/report?scan_id=49073737) | Low | NL | 2026-02-15 02:21:50 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://bradespontos.top](https://www.criminalip.io/domain/report?scan_id=49073763) | Critical | N/A | 2026-02-15 02:22:22 (UTC) |
+| "YAHOO" | [http://www.yahoo302.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49122352) | Low | US | 2026-02-16 02:20:37 (UTC) |
+| "Site Not Found | Framer" | [http://gray-slide-448180.framer.app](https://www.criminalip.io/domain/report?scan_id=49122367) | Low | UA | 2026-02-16 02:21:08 (UTC) |
+| "Website Builder - Website Suspended" | [http://aqua-louse-357787.builder-preview.com](https://www.criminalip.io/domain/report?scan_id=49122384) | Low | US | 2026-02-16 02:21:42 (UTC) |
 
 ---
 

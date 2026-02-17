@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "YAHOO" | [http://www.yahoo302.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49122352) | Low | US | 2026-02-16 02:20:37 (UTC) |
-| "Site Not Found | Framer" | [http://gray-slide-448180.framer.app](https://www.criminalip.io/domain/report?scan_id=49122367) | Low | UA | 2026-02-16 02:21:08 (UTC) |
-| "Website Builder - Website Suspended" | [http://aqua-louse-357787.builder-preview.com](https://www.criminalip.io/domain/report?scan_id=49122384) | Low | US | 2026-02-16 02:21:42 (UTC) |
+| "Netflix India – Watch TV Shows Online, Watch Movies Online" | [http://www.netflix-clone-gamma-lemon-66.vercel.app](https://www.criminalip.io/domain/report?scan_id=49173479) | Critical | US | 2026-02-17 02:20:29 (UTC) |
+| "Ledger Start Guide®™ | Ledger.com/start Secure Hardware Wallet Setup" | [http://ledger-com-start.vercel.app](https://www.criminalip.io/domain/report?scan_id=49173571) | Low | US | 2026-02-17 02:21:11 (UTC) |
+| "Site Not Found | Framer" | [http://secure-uphold-com.framer.website](https://www.criminalip.io/domain/report?scan_id=49173722) | Low | NL | 2026-02-17 02:21:40 (UTC) |
 
 ---
 

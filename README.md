@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix India – Watch TV Shows Online, Watch Movies Online" | [http://www.netflix-clone-gamma-lemon-66.vercel.app](https://www.criminalip.io/domain/report?scan_id=49173479) | Critical | US | 2026-02-17 02:20:29 (UTC) |
-| "Ledger Start Guide®™ | Ledger.com/start Secure Hardware Wallet Setup" | [http://ledger-com-start.vercel.app](https://www.criminalip.io/domain/report?scan_id=49173571) | Low | US | 2026-02-17 02:21:11 (UTC) |
-| "Site Not Found | Framer" | [http://secure-uphold-com.framer.website](https://www.criminalip.io/domain/report?scan_id=49173722) | Low | NL | 2026-02-17 02:21:40 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-brython-advisory-grid-9v0.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222391) | Low | N/A | 2026-02-18 02:20:26 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://policy-trace-monitor-module.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222400) | Low | N/A | 2026-02-18 02:20:57 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://policy-alert-queue-processor.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222422) | Low | N/A | 2026-02-18 02:21:49 (UTC) |
 
 ---
 

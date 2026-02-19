@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://meta-brython-advisory-grid-9v0.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222391) | Low | N/A | 2026-02-18 02:20:26 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://policy-trace-monitor-module.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222400) | Low | N/A | 2026-02-18 02:20:57 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://policy-alert-queue-processor.pages.dev](https://www.criminalip.io/domain/report?scan_id=49222422) | Low | N/A | 2026-02-18 02:21:49 (UTC) |
+| "Site not found" | [http://unloadpaswordmiga2.netlify.app](https://www.criminalip.io/domain/report?scan_id=49273903) | Low | SG | 2026-02-19 02:20:31 (UTC) |
+| "Site not found · GitHub Pages" | [http://swaminitayde.github.io](https://www.criminalip.io/domain/report?scan_id=49273907) | Low | US | 2026-02-19 02:20:57 (UTC) |
+| "Site Not Found | Framer" | [http://glowing-others-786978.framer.app](https://www.criminalip.io/domain/report?scan_id=49273921) | Low | NL | 2026-02-19 02:21:28 (UTC) |
 
 ---
 

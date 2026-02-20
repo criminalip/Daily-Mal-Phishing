@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://unloadpaswordmiga2.netlify.app](https://www.criminalip.io/domain/report?scan_id=49273903) | Low | SG | 2026-02-19 02:20:31 (UTC) |
-| "Site not found · GitHub Pages" | [http://swaminitayde.github.io](https://www.criminalip.io/domain/report?scan_id=49273907) | Low | US | 2026-02-19 02:20:57 (UTC) |
-| "Site Not Found | Framer" | [http://glowing-others-786978.framer.app](https://www.criminalip.io/domain/report?scan_id=49273921) | Low | NL | 2026-02-19 02:21:28 (UTC) |
+| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.pl-oferta6583198-google-pixel-10-pro-xl-512.cfd](https://www.criminalip.io/domain/report?scan_id=49327224) | Critical | N/A | 2026-02-20 02:20:36 (UTC) |
+| "Mon site" | [http://livraison-directe.com](https://www.criminalip.io/domain/report?scan_id=49327507) | Critical | IR | 2026-02-20 02:21:22 (UTC) |
+| "N/A" | [http://chambrequebcnot.duckdns.org](https://www.criminalip.io/domain/report?scan_id=49328122) | Critical | DE | 2026-02-20 02:22:46 (UTC) |
 
 ---
 

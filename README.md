@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.pl-oferta6583198-google-pixel-10-pro-xl-512.cfd](https://www.criminalip.io/domain/report?scan_id=49327224) | Critical | N/A | 2026-02-20 02:20:36 (UTC) |
-| "Mon site" | [http://livraison-directe.com](https://www.criminalip.io/domain/report?scan_id=49327507) | Critical | IR | 2026-02-20 02:21:22 (UTC) |
-| "N/A" | [http://chambrequebcnot.duckdns.org](https://www.criminalip.io/domain/report?scan_id=49328122) | Critical | DE | 2026-02-20 02:22:46 (UTC) |
+| "Ecount WebMail - Login" | [http://www.mailverification-eta.vercel.app](https://www.criminalip.io/domain/report?scan_id=49379335) | Low | US | 2026-02-21 02:20:30 (UTC) |
+| "Ecount WebMail - Login" | [http://login-webmail-ecount.vercel.app](https://www.criminalip.io/domain/report?scan_id=49379360) | Low | US | 2026-02-21 02:20:59 (UTC) |
+| "Living-Bots.net Webhosting" | [http://dkbing-banking.91-218-65-223.plesk.page](https://www.criminalip.io/domain/report?scan_id=49379396) | Low | DE | 2026-02-21 02:21:59 (UTC) |
 
 ---
 

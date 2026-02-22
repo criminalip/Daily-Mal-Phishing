@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Ecount WebMail - Login" | [http://www.mailverification-eta.vercel.app](https://www.criminalip.io/domain/report?scan_id=49379335) | Low | US | 2026-02-21 02:20:30 (UTC) |
-| "Ecount WebMail - Login" | [http://login-webmail-ecount.vercel.app](https://www.criminalip.io/domain/report?scan_id=49379360) | Low | US | 2026-02-21 02:20:59 (UTC) |
-| "Living-Bots.net Webhosting" | [http://dkbing-banking.91-218-65-223.plesk.page](https://www.criminalip.io/domain/report?scan_id=49379396) | Low | DE | 2026-02-21 02:21:59 (UTC) |
+| "SHOPEE INDONESIA" | [http://www.info-hadiah336.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49428619) | Low | US | 2026-02-22 02:20:31 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta2833728273.sbs](https://www.criminalip.io/domain/report?scan_id=49428652) | Critical | N/A | 2026-02-22 02:20:59 (UTC) |
+| "404 - Quick Tip | Cofense" | [http://meeting.webaccess-alert.com](https://www.criminalip.io/domain/report?scan_id=49428843) | Critical | US | 2026-02-22 02:21:36 (UTC) |
 
 ---
 

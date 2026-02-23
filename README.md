@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "SHOPEE INDONESIA" | [http://www.info-hadiah336.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49428619) | Low | US | 2026-02-22 02:20:31 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta2833728273.sbs](https://www.criminalip.io/domain/report?scan_id=49428652) | Critical | N/A | 2026-02-22 02:20:59 (UTC) |
-| "404 - Quick Tip | Cofense" | [http://meeting.webaccess-alert.com](https://www.criminalip.io/domain/report?scan_id=49428843) | Critical | US | 2026-02-22 02:21:36 (UTC) |
+| "Log In | Binance" | [http://accounts.usnbweb.biz](https://www.criminalip.io/domain/report?scan_id=49479436) | Critical | KR | 2026-02-23 02:20:34 (UTC) |
+| "Site not found · GitHub Pages" | [http://munjasakhare.github.io](https://www.criminalip.io/domain/report?scan_id=49479926) | Low | US | 2026-02-23 02:22:08 (UTC) |
+| "Rackspace Webmail: Hosted Email for Business" | [http://criterion-est-connections-periodic.trycloudflare.com](https://www.criminalip.io/domain/report?scan_id=49480102) | Low | N/A | 2026-02-23 02:23:33 (UTC) |
 
 ---
 

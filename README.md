@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Log In | Binance" | [http://accounts.usnbweb.biz](https://www.criminalip.io/domain/report?scan_id=49479436) | Critical | KR | 2026-02-23 02:20:34 (UTC) |
-| "Site not found · GitHub Pages" | [http://munjasakhare.github.io](https://www.criminalip.io/domain/report?scan_id=49479926) | Low | US | 2026-02-23 02:22:08 (UTC) |
-| "Rackspace Webmail: Hosted Email for Business" | [http://criterion-est-connections-periodic.trycloudflare.com](https://www.criminalip.io/domain/report?scan_id=49480102) | Low | N/A | 2026-02-23 02:23:33 (UTC) |
+| "Site not found · GitHub Pages" | [http://shivamk15493.github.io](https://www.criminalip.io/domain/report?scan_id=49532737) | Low | US | 2026-02-24 02:20:29 (UTC) |
+| "Site not found · GitHub Pages" | [http://rithika-panolil.github.io](https://www.criminalip.io/domain/report?scan_id=49532741) | Low | US | 2026-02-24 02:21:20 (UTC) |
+| "N/A" | [http://temporada--solcitudmovil.replit.app](https://www.criminalip.io/domain/report?scan_id=49532750) | Low | US | 2026-02-24 02:21:49 (UTC) |
 
 ---
 

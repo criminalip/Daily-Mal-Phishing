@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://shivamk15493.github.io](https://www.criminalip.io/domain/report?scan_id=49532737) | Low | US | 2026-02-24 02:20:29 (UTC) |
-| "Site not found · GitHub Pages" | [http://rithika-panolil.github.io](https://www.criminalip.io/domain/report?scan_id=49532741) | Low | US | 2026-02-24 02:21:20 (UTC) |
-| "N/A" | [http://temporada--solcitudmovil.replit.app](https://www.criminalip.io/domain/report?scan_id=49532750) | Low | US | 2026-02-24 02:21:49 (UTC) |
+| "404 Not Found" | [http://allegrolokalnie.73401.cyou](https://www.criminalip.io/domain/report?scan_id=49585625) | Critical | N/A | 2026-02-25 02:20:29 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://exodus-web3en.pages.dev](https://www.criminalip.io/domain/report?scan_id=49585651) | Low | N/A | 2026-02-25 02:21:48 (UTC) |
+| "The app is currently not running. Deploy this app to keep it running externally." | [http://aa89729a-907a-4b15-822e-2e9f101512a4-00-1il02hn0y93h.riker.replit.dev](https://www.criminalip.io/domain/report?scan_id=49585689) | Low | US | 2026-02-25 02:22:34 (UTC) |
 
 ---
 

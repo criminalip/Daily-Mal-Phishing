@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://allegrolokalnie.73401.cyou](https://www.criminalip.io/domain/report?scan_id=49585625) | Critical | N/A | 2026-02-25 02:20:29 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://exodus-web3en.pages.dev](https://www.criminalip.io/domain/report?scan_id=49585651) | Low | N/A | 2026-02-25 02:21:48 (UTC) |
-| "The app is currently not running. Deploy this app to keep it running externally." | [http://aa89729a-907a-4b15-822e-2e9f101512a4-00-1il02hn0y93h.riker.replit.dev](https://www.criminalip.io/domain/report?scan_id=49585689) | Low | US | 2026-02-25 02:22:34 (UTC) |
+| "Plesk Obsidian 18.0.74" | [http://jienzac.com](https://www.criminalip.io/domain/report?scan_id=49640712) | Critical | PK | 2026-02-26 02:22:07 (UTC) |
+| "WhatsApp | 安全可靠的免费私密消息和通话" | [http://np-rt-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=49641003) | Critical | HK | 2026-02-26 02:24:59 (UTC) |
+| "SHOPEE INDONESIA" | [http://www.info-hadiah709.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49641131) | Low | US | 2026-02-26 02:26:31 (UTC) |
 
 ---
 

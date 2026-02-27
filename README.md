@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Plesk Obsidian 18.0.74" | [http://jienzac.com](https://www.criminalip.io/domain/report?scan_id=49640712) | Critical | PK | 2026-02-26 02:22:07 (UTC) |
-| "WhatsApp | 安全可靠的免费私密消息和通话" | [http://np-rt-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=49641003) | Critical | HK | 2026-02-26 02:24:59 (UTC) |
-| "SHOPEE INDONESIA" | [http://www.info-hadiah709.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49641131) | Low | US | 2026-02-26 02:26:31 (UTC) |
+| "WhatsApp Web - 安全可靠的通讯平台" | [http://app-zh-web-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=49696660) | Critical | ZA | 2026-02-27 02:20:42 (UTC) |
+| "Welcome to nginx!" | [http://emiratespost.naerts.top](https://www.criminalip.io/domain/report?scan_id=49696770) | Critical | N/A | 2026-02-27 02:22:01 (UTC) |
+| "Plesk Obsidian 18.0.74" | [http://crevnqle.com](https://www.criminalip.io/domain/report?scan_id=49696855) | Critical | PK | 2026-02-27 02:23:52 (UTC) |
 
 ---
 

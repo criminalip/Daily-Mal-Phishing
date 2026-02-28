@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "WhatsApp Web - 安全可靠的通讯平台" | [http://app-zh-web-whatsapp.com.cn](https://www.criminalip.io/domain/report?scan_id=49696660) | Critical | ZA | 2026-02-27 02:20:42 (UTC) |
-| "Welcome to nginx!" | [http://emiratespost.naerts.top](https://www.criminalip.io/domain/report?scan_id=49696770) | Critical | N/A | 2026-02-27 02:22:01 (UTC) |
-| "Plesk Obsidian 18.0.74" | [http://crevnqle.com](https://www.criminalip.io/domain/report?scan_id=49696855) | Critical | PK | 2026-02-27 02:23:52 (UTC) |
+| "Full Sail Events - Complete Event Management Platform for Conferences & Workshops" | [http://zyxupdate.ponmlkjihkjidcbamer-conference-2026.mario-s-event-organization.fullsailevents.com](https://www.criminalip.io/domain/report?scan_id=49751014) | Critical | US | 2026-02-28 02:20:41 (UTC) |
+| "Full Sail Events - Complete Event Management Platform for Conferences & Workshops" | [http://vutsrqponmlknupdate.fedcbupdate.zyxwvutsrmlsnmlkjihsummer-conference-2026.mario-s-event-organization.fullsailevents.com](https://www.criminalip.io/domain/report?scan_id=49751016) | Critical | US | 2026-02-28 02:21:23 (UTC) |
+| "Site Not Found | Framer" | [http://optimistic-function-730176.framer.app](https://www.criminalip.io/domain/report?scan_id=49751020) | Low | NL | 2026-02-28 02:22:10 (UTC) |
 
 ---
 

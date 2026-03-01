@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Full Sail Events - Complete Event Management Platform for Conferences & Workshops" | [http://zyxupdate.ponmlkjihkjidcbamer-conference-2026.mario-s-event-organization.fullsailevents.com](https://www.criminalip.io/domain/report?scan_id=49751014) | Critical | US | 2026-02-28 02:20:41 (UTC) |
-| "Full Sail Events - Complete Event Management Platform for Conferences & Workshops" | [http://vutsrqponmlknupdate.fedcbupdate.zyxwvutsrmlsnmlkjihsummer-conference-2026.mario-s-event-organization.fullsailevents.com](https://www.criminalip.io/domain/report?scan_id=49751016) | Critical | US | 2026-02-28 02:21:23 (UTC) |
-| "Site Not Found | Framer" | [http://optimistic-function-730176.framer.app](https://www.criminalip.io/domain/report?scan_id=49751020) | Low | NL | 2026-02-28 02:22:10 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-kategorie-polecane-74832.sbs](https://www.criminalip.io/domain/report?scan_id=49803019) | Critical | N/A | 2026-03-01 02:20:30 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://update-trezorsecurity.com](https://www.criminalip.io/domain/report?scan_id=49803129) | Critical | N/A | 2026-03-01 02:22:55 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-kategorie-polecane-38594.sbs](https://www.criminalip.io/domain/report?scan_id=49803158) | Critical | N/A | 2026-03-01 02:24:21 (UTC) |
 
 ---
 

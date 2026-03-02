@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.pl-kategorie-polecane-74832.sbs](https://www.criminalip.io/domain/report?scan_id=49803019) | Critical | N/A | 2026-03-01 02:20:30 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://update-trezorsecurity.com](https://www.criminalip.io/domain/report?scan_id=49803129) | Critical | N/A | 2026-03-01 02:22:55 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-kategorie-polecane-38594.sbs](https://www.criminalip.io/domain/report?scan_id=49803158) | Critical | N/A | 2026-03-01 02:24:21 (UTC) |
+| "starting-install" | [http://starting-install.ghost.io](https://www.criminalip.io/domain/report?scan_id=49853435) | Low | KR | 2026-03-02 02:20:33 (UTC) |
+| "N/A" | [http://allegrolokalnie.net-aukcja-nr-235040676654.sbs](https://www.criminalip.io/domain/report?scan_id=49853659) | Critical | N/A | 2026-03-02 02:21:11 (UTC) |
+| "WordPress › Error" | [http://bdslocksmiths.com.au](https://www.criminalip.io/domain/report?scan_id=49854108) | Critical | US | 2026-03-02 02:22:35 (UTC) |
 
 ---
 

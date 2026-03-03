@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "starting-install" | [http://starting-install.ghost.io](https://www.criminalip.io/domain/report?scan_id=49853435) | Low | KR | 2026-03-02 02:20:33 (UTC) |
-| "N/A" | [http://allegrolokalnie.net-aukcja-nr-235040676654.sbs](https://www.criminalip.io/domain/report?scan_id=49853659) | Critical | N/A | 2026-03-02 02:21:11 (UTC) |
-| "WordPress › Error" | [http://bdslocksmiths.com.au](https://www.criminalip.io/domain/report?scan_id=49854108) | Critical | US | 2026-03-02 02:22:35 (UTC) |
+| "Netflix Landing Page" | [http://sweet-maamoul-5cc4d1.netlify.app](https://www.criminalip.io/domain/report?scan_id=49907489) | Low | SG | 2026-03-03 02:20:30 (UTC) |
+| "allegrolokalnie.pl" | [http://allegro.pl-oferta-id-184936-kategorie-id-1923438.cfd](https://www.criminalip.io/domain/report?scan_id=49907510) | Low | N/A | 2026-03-03 02:21:02 (UTC) |
+| "KEJUTAN SHOPEE" | [http://info-hadiah-shopee333.blogspot.com](https://www.criminalip.io/domain/report?scan_id=49907515) | Low | US | 2026-03-03 02:21:33 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://bansamikaga.netlify.app](https://www.criminalip.io/domain/report?scan_id=49959574) | Low | SG | 2026-03-04 02:20:28 (UTC) |
-| "Error" | [http://deshunfavors69.wixforms.com](https://www.criminalip.io/domain/report?scan_id=49959658) | Critical | US | 2026-03-04 02:21:58 (UTC) |
-| "The Courier Guy" | [http://starlit-sherbet-9b3623.netlify.app](https://www.criminalip.io/domain/report?scan_id=49959689) | Low | SG | 2026-03-04 02:23:27 (UTC) |
+| "OpenSea.io" | [http://www.accessopenseamints4.vercel.app](https://www.criminalip.io/domain/report?scan_id=50017643) | Low | US | 2026-03-05 02:20:50 (UTC) |
+| "N/A" | [http://allegrolokalnie.oferta27645396.click](https://www.criminalip.io/domain/report?scan_id=50017650) | Critical | N/A | 2026-03-05 02:21:24 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-id98372829.cfd](https://www.criminalip.io/domain/report?scan_id=50017851) | Critical | N/A | 2026-03-05 02:22:01 (UTC) |
 
 ---
 

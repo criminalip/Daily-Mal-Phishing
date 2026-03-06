@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "OpenSea.io" | [http://www.accessopenseamints4.vercel.app](https://www.criminalip.io/domain/report?scan_id=50017643) | Low | US | 2026-03-05 02:20:50 (UTC) |
-| "N/A" | [http://allegrolokalnie.oferta27645396.click](https://www.criminalip.io/domain/report?scan_id=50017650) | Critical | N/A | 2026-03-05 02:21:24 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-id98372829.cfd](https://www.criminalip.io/domain/report?scan_id=50017851) | Critical | N/A | 2026-03-05 02:22:01 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-ogloszenie2423509.biz](https://www.criminalip.io/domain/report?scan_id=50074778) | Critical | N/A | 2026-03-06 02:20:33 (UTC) |
+| "N/A" | [http://staemconmunmity.click](https://www.criminalip.io/domain/report?scan_id=50074933) | Critical | IR | 2026-03-06 02:22:16 (UTC) |
+| "N/A" | [http://allegrolokalnie.743903.top](https://www.criminalip.io/domain/report?scan_id=50074967) | Critical | N/A | 2026-03-06 02:23:49 (UTC) |
 
 ---
 

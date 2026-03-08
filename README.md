@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "DenizBank İnternet Şubesi" | [http://ceksnt6099122.duckdns.org](https://www.criminalip.io/domain/report?scan_id=50128749) | Low | IR | 2026-03-07 02:20:37 (UTC) |
-| "N/A" | [http://allegro.pl-oferta61752791.cfd](https://www.criminalip.io/domain/report?scan_id=50128959) | Critical | N/A | 2026-03-07 02:22:02 (UTC) |
-| "Best URL Shortener 2024 - Free Link Shortener with Analytics | URLyte" | [http://urlyte.com](https://www.criminalip.io/domain/report?scan_id=50129066) | Critical | IN | 2026-03-07 02:23:22 (UTC) |
+| "N/A" | [http://allegro.299374322854.click](https://www.criminalip.io/domain/report?scan_id=50183379) | Critical | N/A | 2026-03-08 02:20:28 (UTC) |
+| "404 Not Found" | [http://87-106-21-208.cprapid.com](https://www.criminalip.io/domain/report?scan_id=50183464) | Low | DE | 2026-03-08 02:21:57 (UTC) |
+| "N/A" | [http://allegro.75995.click](https://www.criminalip.io/domain/report?scan_id=50183510) | Critical | N/A | 2026-03-08 02:23:24 (UTC) |
 
 ---
 

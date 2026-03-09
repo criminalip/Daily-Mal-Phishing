@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.299374322854.click](https://www.criminalip.io/domain/report?scan_id=50183379) | Critical | N/A | 2026-03-08 02:20:28 (UTC) |
-| "404 Not Found" | [http://87-106-21-208.cprapid.com](https://www.criminalip.io/domain/report?scan_id=50183464) | Low | DE | 2026-03-08 02:21:57 (UTC) |
-| "N/A" | [http://allegro.75995.click](https://www.criminalip.io/domain/report?scan_id=50183510) | Critical | N/A | 2026-03-08 02:23:24 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://web3verify.pages.dev](https://www.criminalip.io/domain/report?scan_id=50238062) | Low | N/A | 2026-03-09 02:20:37 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://alliviateapp.pages.dev](https://www.criminalip.io/domain/report?scan_id=50238072) | Low | N/A | 2026-03-09 02:21:19 (UTC) |
+| "Site not found · GitHub Pages" | [http://viktor-angelo.github.io](https://www.criminalip.io/domain/report?scan_id=50238203) | Low | US | 2026-03-09 02:23:01 (UTC) |
 
 ---
 

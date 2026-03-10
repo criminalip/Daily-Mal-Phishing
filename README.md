@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://web3verify.pages.dev](https://www.criminalip.io/domain/report?scan_id=50238062) | Low | N/A | 2026-03-09 02:20:37 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://alliviateapp.pages.dev](https://www.criminalip.io/domain/report?scan_id=50238072) | Low | N/A | 2026-03-09 02:21:19 (UTC) |
-| "Site not found · GitHub Pages" | [http://viktor-angelo.github.io](https://www.criminalip.io/domain/report?scan_id=50238203) | Low | US | 2026-03-09 02:23:01 (UTC) |
+| "N/A" | [http://allegro.pl-837224.click](https://www.criminalip.io/domain/report?scan_id=50294065) | Critical | N/A | 2026-03-10 02:20:31 (UTC) |
+| "Netflix Clone" | [http://netflix-clone-nu-nine.vercel.app](https://www.criminalip.io/domain/report?scan_id=50294066) | Critical | US | 2026-03-10 02:21:01 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://948260-coinbase.com](https://www.criminalip.io/domain/report?scan_id=50294070) | Critical | N/A | 2026-03-10 02:21:33 (UTC) |
 
 ---
 

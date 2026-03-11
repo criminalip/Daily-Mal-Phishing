@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.pl-837224.click](https://www.criminalip.io/domain/report?scan_id=50294065) | Critical | N/A | 2026-03-10 02:20:31 (UTC) |
-| "Netflix Clone" | [http://netflix-clone-nu-nine.vercel.app](https://www.criminalip.io/domain/report?scan_id=50294066) | Critical | US | 2026-03-10 02:21:01 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://948260-coinbase.com](https://www.criminalip.io/domain/report?scan_id=50294070) | Critical | N/A | 2026-03-10 02:21:33 (UTC) |
+| "Welcome to nginx!" | [http://emiratespost.mailed.top](https://www.criminalip.io/domain/report?scan_id=50355631) | Critical | N/A | 2026-03-11 02:20:56 (UTC) |
+| "네이버 : 로그인" | [http://wp-windowf9.vercel.app](https://www.criminalip.io/domain/report?scan_id=50355640) | Low | US | 2026-03-11 02:22:26 (UTC) |
+| "네이버 : 로그인" | [http://www.wordprsss.vercel.app](https://www.criminalip.io/domain/report?scan_id=50355641) | Low | US | 2026-03-11 02:23:08 (UTC) |
 
 ---
 

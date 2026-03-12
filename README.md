@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to nginx!" | [http://emiratespost.mailed.top](https://www.criminalip.io/domain/report?scan_id=50355631) | Critical | N/A | 2026-03-11 02:20:56 (UTC) |
-| "네이버 : 로그인" | [http://wp-windowf9.vercel.app](https://www.criminalip.io/domain/report?scan_id=50355640) | Low | US | 2026-03-11 02:22:26 (UTC) |
-| "네이버 : 로그인" | [http://www.wordprsss.vercel.app](https://www.criminalip.io/domain/report?scan_id=50355641) | Low | US | 2026-03-11 02:23:08 (UTC) |
+| "u.to — URL Shortening Service" | [http://u.to](https://www.criminalip.io/domain/report?scan_id=50417052) | Low | AE | 2026-03-12 02:20:58 (UTC) |
+| "Run this app to see the results here." | [http://eae58b0d-4a9b-4414-b7ba-5ac4cdea7b94-00-2f68ilxu7p2fj.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=50417492) | Low | US | 2026-03-12 02:22:08 (UTC) |
+| "N/A" | [http://allegrolokalnie.4wd834ji3.sbs](https://www.criminalip.io/domain/report?scan_id=50417797) | Critical | N/A | 2026-03-12 02:23:42 (UTC) |
 
 ---
 

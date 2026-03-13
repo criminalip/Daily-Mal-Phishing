@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "u.to — URL Shortening Service" | [http://u.to](https://www.criminalip.io/domain/report?scan_id=50417052) | Low | AE | 2026-03-12 02:20:58 (UTC) |
-| "Run this app to see the results here." | [http://eae58b0d-4a9b-4414-b7ba-5ac4cdea7b94-00-2f68ilxu7p2fj.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=50417492) | Low | US | 2026-03-12 02:22:08 (UTC) |
-| "N/A" | [http://allegrolokalnie.4wd834ji3.sbs](https://www.criminalip.io/domain/report?scan_id=50417797) | Critical | N/A | 2026-03-12 02:23:42 (UTC) |
+| "N/A" | [http://allegro.394534g34g-3.cyou](https://www.criminalip.io/domain/report?scan_id=50477066) | Critical | N/A | 2026-03-13 02:20:36 (UTC) |
+| "N/A" | [http://allegro.pl-id738283929.sbs](https://www.criminalip.io/domain/report?scan_id=50477179) | Critical | N/A | 2026-03-13 02:22:02 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://navietkoreeark-rqpfuaeubyuebrzkeoecfxqt.pages.dev](https://www.criminalip.io/domain/report?scan_id=50477180) | Low | N/A | 2026-03-13 02:22:31 (UTC) |
 
 ---
 

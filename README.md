@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.394534g34g-3.cyou](https://www.criminalip.io/domain/report?scan_id=50477066) | Critical | N/A | 2026-03-13 02:20:36 (UTC) |
-| "N/A" | [http://allegro.pl-id738283929.sbs](https://www.criminalip.io/domain/report?scan_id=50477179) | Critical | N/A | 2026-03-13 02:22:02 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://navietkoreeark-rqpfuaeubyuebrzkeoecfxqt.pages.dev](https://www.criminalip.io/domain/report?scan_id=50477180) | Low | N/A | 2026-03-13 02:22:31 (UTC) |
+| "Plesk Obsidian 18.0.76" | [http://fr-service-inforelay.com](https://www.criminalip.io/domain/report?scan_id=50537340) | Critical | BG | 2026-03-14 02:20:52 (UTC) |
+| "Katlego | forms.app" | [http://jgiq1hvc.forms.app](https://www.criminalip.io/domain/report?scan_id=50537370) | Low | N/A | 2026-03-14 02:22:37 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://90ij9m786fy543yhkonu64s.pages.dev](https://www.criminalip.io/domain/report?scan_id=50537497) | Low | N/A | 2026-03-14 02:23:13 (UTC) |
 
 ---
 

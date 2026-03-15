@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Plesk Obsidian 18.0.76" | [http://fr-service-inforelay.com](https://www.criminalip.io/domain/report?scan_id=50537340) | Critical | BG | 2026-03-14 02:20:52 (UTC) |
-| "Katlego | forms.app" | [http://jgiq1hvc.forms.app](https://www.criminalip.io/domain/report?scan_id=50537370) | Low | N/A | 2026-03-14 02:22:37 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://90ij9m786fy543yhkonu64s.pages.dev](https://www.criminalip.io/domain/report?scan_id=50537497) | Low | N/A | 2026-03-14 02:23:13 (UTC) |
+| "Not Found" | [http://nz8ka.bond](https://www.criminalip.io/domain/report?scan_id=50594146) | Critical | N/A | 2026-03-15 02:20:32 (UTC) |
+| "Site not found · GitHub Pages" | [http://muhammadzainm.github.io](https://www.criminalip.io/domain/report?scan_id=50594299) | Low | US | 2026-03-15 02:22:22 (UTC) |
+| "Not Found" | [http://a7b4x.sbs](https://www.criminalip.io/domain/report?scan_id=50594323) | Critical | N/A | 2026-03-15 02:22:52 (UTC) |
 
 ---
 

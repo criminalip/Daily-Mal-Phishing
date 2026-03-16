@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Not Found" | [http://nz8ka.bond](https://www.criminalip.io/domain/report?scan_id=50594146) | Critical | N/A | 2026-03-15 02:20:32 (UTC) |
-| "Site not found · GitHub Pages" | [http://muhammadzainm.github.io](https://www.criminalip.io/domain/report?scan_id=50594299) | Low | US | 2026-03-15 02:22:22 (UTC) |
-| "Not Found" | [http://a7b4x.sbs](https://www.criminalip.io/domain/report?scan_id=50594323) | Critical | N/A | 2026-03-15 02:22:52 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegro.pl-oferta8492648.click](https://www.criminalip.io/domain/report?scan_id=50651229) | Critical | N/A | 2026-03-16 02:20:29 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://allegro.pl-oferta239452.sbs](https://www.criminalip.io/domain/report?scan_id=50651233) | Critical | N/A | 2026-03-16 02:21:16 (UTC) |
+| "403 Forbidden" | [http://edfsvdsvsre.top](https://www.criminalip.io/domain/report?scan_id=50651234) | Critical | US | 2026-03-16 02:21:52 (UTC) |
 
 ---
 

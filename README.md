@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://allegro.pl-oferta8492648.click](https://www.criminalip.io/domain/report?scan_id=50651229) | Critical | N/A | 2026-03-16 02:20:29 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://allegro.pl-oferta239452.sbs](https://www.criminalip.io/domain/report?scan_id=50651233) | Critical | N/A | 2026-03-16 02:21:16 (UTC) |
-| "403 Forbidden" | [http://edfsvdsvsre.top](https://www.criminalip.io/domain/report?scan_id=50651234) | Critical | US | 2026-03-16 02:21:52 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://trozr-df87sd.randolfa20.workers.dev](https://www.criminalip.io/domain/report?scan_id=50712256) | Low | N/A | 2026-03-17 02:20:27 (UTC) |
+| "N/A" | [http://rdj.proxysales.cc](https://www.criminalip.io/domain/report?scan_id=50712266) | Critical | AE | 2026-03-17 02:22:05 (UTC) |
+| "N/A" | [http://echallanfpsce.cc](https://www.criminalip.io/domain/report?scan_id=50712457) | Critical | SG | 2026-03-17 02:22:45 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://trozr-df87sd.randolfa20.workers.dev](https://www.criminalip.io/domain/report?scan_id=50712256) | Low | N/A | 2026-03-17 02:20:27 (UTC) |
-| "N/A" | [http://rdj.proxysales.cc](https://www.criminalip.io/domain/report?scan_id=50712266) | Critical | AE | 2026-03-17 02:22:05 (UTC) |
-| "N/A" | [http://echallanfpsce.cc](https://www.criminalip.io/domain/report?scan_id=50712457) | Critical | SG | 2026-03-17 02:22:45 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta25323.cfd](https://www.criminalip.io/domain/report?scan_id=50772385) | Critical | N/A | 2026-03-18 02:22:32 (UTC) |
+| "USPS® Marketing Education Portal - United States Postal Service" | [http://uspsmailjourney.com](https://www.criminalip.io/domain/report?scan_id=50772482) | Critical | US | 2026-03-18 02:25:22 (UTC) |
+| "Website Takedown Notice - Lovable Trust & Safety" | [http://pichinchiaenlinea12.lovable.app](https://www.criminalip.io/domain/report?scan_id=50772579) | Low | SE | 2026-03-18 02:26:46 (UTC) |
 
 ---
 

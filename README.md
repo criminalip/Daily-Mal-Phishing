@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalnie.pl-oferta25323.cfd](https://www.criminalip.io/domain/report?scan_id=50772385) | Critical | N/A | 2026-03-18 02:22:32 (UTC) |
-| "USPS® Marketing Education Portal - United States Postal Service" | [http://uspsmailjourney.com](https://www.criminalip.io/domain/report?scan_id=50772482) | Critical | US | 2026-03-18 02:25:22 (UTC) |
-| "Website Takedown Notice - Lovable Trust & Safety" | [http://pichinchiaenlinea12.lovable.app](https://www.criminalip.io/domain/report?scan_id=50772579) | Low | SE | 2026-03-18 02:26:46 (UTC) |
+| "Site not found · GitHub Pages" | [http://ziad-alghawi.github.io](https://www.criminalip.io/domain/report?scan_id=50832507) | Low | US | 2026-03-19 02:22:30 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://view-exoodss-net.pages.dev](https://www.criminalip.io/domain/report?scan_id=50832513) | Low | N/A | 2026-03-19 02:23:00 (UTC) |
+| "N/A" | [http://allegrolokalnie.ogloszenie598433543-pl.click](https://www.criminalip.io/domain/report?scan_id=50832584) | Critical | N/A | 2026-03-19 02:24:52 (UTC) |
 
 ---
 

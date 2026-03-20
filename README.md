@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://ziad-alghawi.github.io](https://www.criminalip.io/domain/report?scan_id=50832507) | Low | US | 2026-03-19 02:22:30 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://view-exoodss-net.pages.dev](https://www.criminalip.io/domain/report?scan_id=50832513) | Low | N/A | 2026-03-19 02:23:00 (UTC) |
-| "N/A" | [http://allegrolokalnie.ogloszenie598433543-pl.click](https://www.criminalip.io/domain/report?scan_id=50832584) | Critical | N/A | 2026-03-19 02:24:52 (UTC) |
+| "WhatsApp Web" | [http://web.whatsapp.jo.hl.cn](https://www.criminalip.io/domain/report?scan_id=50892294) | Critical | ZA | 2026-03-20 02:20:49 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta-242841027.sbs](https://www.criminalip.io/domain/report?scan_id=50892297) | Critical | N/A | 2026-03-20 02:22:11 (UTC) |
+| "Reprise Mobile - Orange & Back2Buzz" | [http://otm-orng.back2buzz.eu](https://www.criminalip.io/domain/report?scan_id=50892302) | Critical | DK | 2026-03-20 02:23:41 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "WhatsApp Web" | [http://web.whatsapp.jo.hl.cn](https://www.criminalip.io/domain/report?scan_id=50892294) | Critical | ZA | 2026-03-20 02:20:49 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta-242841027.sbs](https://www.criminalip.io/domain/report?scan_id=50892297) | Critical | N/A | 2026-03-20 02:22:11 (UTC) |
-| "Reprise Mobile - Orange & Back2Buzz" | [http://otm-orng.back2buzz.eu](https://www.criminalip.io/domain/report?scan_id=50892302) | Critical | DK | 2026-03-20 02:23:41 (UTC) |
+| "Site not found · GitHub Pages" | [http://vinayjangra987.github.io](https://www.criminalip.io/domain/report?scan_id=50955797) | Low | US | 2026-03-21 02:20:26 (UTC) |
+| "Registrant WHOIS contact information verification | Namecheap.com" | [http://adiathe.info](https://www.criminalip.io/domain/report?scan_id=50955799) | Critical | US | 2026-03-21 02:22:07 (UTC) |
+| "Site not found" | [http://nimble-moxie-0c0c1d.netlify.app](https://www.criminalip.io/domain/report?scan_id=50955909) | Low | SG | 2026-03-21 02:22:44 (UTC) |
 
 ---
 

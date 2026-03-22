@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://vinayjangra987.github.io](https://www.criminalip.io/domain/report?scan_id=50955797) | Low | US | 2026-03-21 02:20:26 (UTC) |
-| "Registrant WHOIS contact information verification | Namecheap.com" | [http://adiathe.info](https://www.criminalip.io/domain/report?scan_id=50955799) | Critical | US | 2026-03-21 02:22:07 (UTC) |
-| "Site not found" | [http://nimble-moxie-0c0c1d.netlify.app](https://www.criminalip.io/domain/report?scan_id=50955909) | Low | SG | 2026-03-21 02:22:44 (UTC) |
+| "Home - Netflix" | [http://www.netflix-clone-blond-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=51016522) | Critical | US | 2026-03-22 02:20:29 (UTC) |
+| "404: This page could not be found." | [http://czk.transparency-violations-compl.click](https://www.criminalip.io/domain/report?scan_id=51016567) | Critical | N/A | 2026-03-22 02:22:20 (UTC) |
+| "N/A" | [http://allegrolokalnie.38287.cfd](https://www.criminalip.io/domain/report?scan_id=51016667) | Critical | N/A | 2026-03-22 02:24:00 (UTC) |
 
 ---
 

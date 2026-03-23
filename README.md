@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Home - Netflix" | [http://www.netflix-clone-blond-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=51016522) | Critical | US | 2026-03-22 02:20:29 (UTC) |
-| "404: This page could not be found." | [http://czk.transparency-violations-compl.click](https://www.criminalip.io/domain/report?scan_id=51016567) | Critical | N/A | 2026-03-22 02:22:20 (UTC) |
-| "N/A" | [http://allegrolokalnie.38287.cfd](https://www.criminalip.io/domain/report?scan_id=51016667) | Critical | N/A | 2026-03-22 02:24:00 (UTC) |
+| "facebook" | [http://facebookaccountrecovery.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51076066) | Low | US | 2026-03-23 02:20:31 (UTC) |
+| "Login | DeBank | The Web3 Messenger & Best Web3 Portfolio Tracker" | [http://www.dbanks.vercel.app](https://www.criminalip.io/domain/report?scan_id=51076198) | Low | US | 2026-03-23 02:21:53 (UTC) |
+| "Não é possível acessar esse site" | [http://consultar-descontos.vercel.app](https://www.criminalip.io/domain/report?scan_id=51076204) | Low | US | 2026-03-23 02:22:20 (UTC) |
 
 ---
 

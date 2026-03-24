@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "facebook" | [http://facebookaccountrecovery.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51076066) | Low | US | 2026-03-23 02:20:31 (UTC) |
-| "Login | DeBank | The Web3 Messenger & Best Web3 Portfolio Tracker" | [http://www.dbanks.vercel.app](https://www.criminalip.io/domain/report?scan_id=51076198) | Low | US | 2026-03-23 02:21:53 (UTC) |
-| "Não é possível acessar esse site" | [http://consultar-descontos.vercel.app](https://www.criminalip.io/domain/report?scan_id=51076204) | Low | US | 2026-03-23 02:22:20 (UTC) |
+| "Site not found · GitHub Pages" | [http://justjiya.github.io](https://www.criminalip.io/domain/report?scan_id=51139521) | Low | US | 2026-03-24 02:20:28 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://uniswapexchangez.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51139530) | Low | US | 2026-03-24 02:21:13 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://event-pancakeswap.app](https://www.criminalip.io/domain/report?scan_id=51139533) | Critical | N/A | 2026-03-24 02:21:43 (UTC) |
 
 ---
 

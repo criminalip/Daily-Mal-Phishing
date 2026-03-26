@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "iCloud" | [http://www.icloud-orcin.vercel.app](https://www.criminalip.io/domain/report?scan_id=51203917) | Low | US | 2026-03-25 02:20:32 (UTC) |
-| "N/A" | [http://facebockk.com.vn](https://www.criminalip.io/domain/report?scan_id=51203937) | Critical | VN | 2026-03-25 02:21:22 (UTC) |
-| "Service Suspended" | [http://bbdbdbbdbdb.onrender.com](https://www.criminalip.io/domain/report?scan_id=51204293) | Low | US | 2026-03-25 02:22:59 (UTC) |
+| "N/A" | [http://allegro.gujncftio789.sbs](https://www.criminalip.io/domain/report?scan_id=51270486) | Critical | N/A | 2026-03-26 02:20:29 (UTC) |
+| "USPS Informed Greetings" | [http://udev.informedgreetings.com](https://www.criminalip.io/domain/report?scan_id=51270527) | Critical | US | 2026-03-26 02:22:10 (UTC) |
+| "Site not found · GitHub Pages" | [http://maaz95-hashir.github.io](https://www.criminalip.io/domain/report?scan_id=51270733) | Low | US | 2026-03-26 02:23:04 (UTC) |
 
 ---
 

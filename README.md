@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro.gujncftio789.sbs](https://www.criminalip.io/domain/report?scan_id=51270486) | Critical | N/A | 2026-03-26 02:20:29 (UTC) |
-| "USPS Informed Greetings" | [http://udev.informedgreetings.com](https://www.criminalip.io/domain/report?scan_id=51270527) | Critical | US | 2026-03-26 02:22:10 (UTC) |
-| "Site not found · GitHub Pages" | [http://maaz95-hashir.github.io](https://www.criminalip.io/domain/report?scan_id=51270733) | Low | US | 2026-03-26 02:23:04 (UTC) |
+| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.927410691350627.click](https://www.criminalip.io/domain/report?scan_id=51335608) | Low | N/A | 2026-03-27 02:20:46 (UTC) |
+| "Attention Required! | Cloudflare" | [http://inf-support07.im](https://www.criminalip.io/domain/report?scan_id=51335689) | Critical | N/A | 2026-03-27 02:21:20 (UTC) |
+| "403 Forbidden" | [http://ivuonwbt.darksideinxx.cn](https://www.criminalip.io/domain/report?scan_id=51335723) | Critical | SG | 2026-03-27 02:22:48 (UTC) |
 
 ---
 

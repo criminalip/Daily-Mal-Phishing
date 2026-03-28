@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.927410691350627.click](https://www.criminalip.io/domain/report?scan_id=51335608) | Low | N/A | 2026-03-27 02:20:46 (UTC) |
-| "Attention Required! | Cloudflare" | [http://inf-support07.im](https://www.criminalip.io/domain/report?scan_id=51335689) | Critical | N/A | 2026-03-27 02:21:20 (UTC) |
-| "403 Forbidden" | [http://ivuonwbt.darksideinxx.cn](https://www.criminalip.io/domain/report?scan_id=51335723) | Critical | SG | 2026-03-27 02:22:48 (UTC) |
+| "Site not found" | [http://smoxiecba.netlify.app](https://www.criminalip.io/domain/report?scan_id=51398278) | Low | SG | 2026-03-28 02:20:28 (UTC) |
+| "shopee" | [http://shopee1969.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51398280) | Low | US | 2026-03-28 02:22:04 (UTC) |
+| "Airbnb" | [http://next-airbnb-clone-theta.vercel.app](https://www.criminalip.io/domain/report?scan_id=51398611) | Low | US | 2026-03-28 02:23:35 (UTC) |
 
 ---
 

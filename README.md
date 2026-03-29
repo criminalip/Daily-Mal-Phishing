@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://smoxiecba.netlify.app](https://www.criminalip.io/domain/report?scan_id=51398278) | Low | SG | 2026-03-28 02:20:28 (UTC) |
-| "shopee" | [http://shopee1969.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51398280) | Low | US | 2026-03-28 02:22:04 (UTC) |
-| "Airbnb" | [http://next-airbnb-clone-theta.vercel.app](https://www.criminalip.io/domain/report?scan_id=51398611) | Low | US | 2026-03-28 02:23:35 (UTC) |
+| "Binance Red Packet Code - Claim USDT" | [http://www.binance-red-packet.vercel.app](https://www.criminalip.io/domain/report?scan_id=51459424) | Low | US | 2026-03-29 02:20:27 (UTC) |
+| "SHOPEE" | [http://www.shopee-229.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51459688) | Low | US | 2026-03-29 02:21:54 (UTC) |
+| "shopee" | [http://www.shopee0109.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51459699) | Low | US | 2026-03-29 02:23:26 (UTC) |
 
 ---
 

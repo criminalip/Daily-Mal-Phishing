@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Binance Red Packet Code - Claim USDT" | [http://www.binance-red-packet.vercel.app](https://www.criminalip.io/domain/report?scan_id=51459424) | Low | US | 2026-03-29 02:20:27 (UTC) |
-| "SHOPEE" | [http://www.shopee-229.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51459688) | Low | US | 2026-03-29 02:21:54 (UTC) |
-| "shopee" | [http://www.shopee0109.blogspot.com](https://www.criminalip.io/domain/report?scan_id=51459699) | Low | US | 2026-03-29 02:23:26 (UTC) |
+| "403 Forbidden" | [http://aestheticacs.jhroeki.info](https://www.criminalip.io/domain/report?scan_id=51520849) | Critical | SG | 2026-03-30 02:21:56 (UTC) |
+| "N/A" | [http://allegro.pl-oferta7742433.online](https://www.criminalip.io/domain/report?scan_id=51521439) | Critical | N/A | 2026-03-30 02:29:45 (UTC) |
+| "N/A" | [http://bpnokyoas.sa.com](https://www.criminalip.io/domain/report?scan_id=51521560) | Low | BE | 2026-03-30 02:32:34 (UTC) |
 
 ---
 

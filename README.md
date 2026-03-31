@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://aestheticacs.jhroeki.info](https://www.criminalip.io/domain/report?scan_id=51520849) | Critical | SG | 2026-03-30 02:21:56 (UTC) |
-| "N/A" | [http://allegro.pl-oferta7742433.online](https://www.criminalip.io/domain/report?scan_id=51521439) | Critical | N/A | 2026-03-30 02:29:45 (UTC) |
-| "N/A" | [http://bpnokyoas.sa.com](https://www.criminalip.io/domain/report?scan_id=51521560) | Low | BE | 2026-03-30 02:32:34 (UTC) |
+| "Site not found · GitHub Pages" | [http://dominion200.github.io](https://www.criminalip.io/domain/report?scan_id=51583083) | Low | US | 2026-03-31 02:20:37 (UTC) |
+| "Site not found · GitHub Pages" | [http://klovyssantosbr.github.io](https://www.criminalip.io/domain/report?scan_id=51583113) | Low | US | 2026-03-31 02:21:30 (UTC) |
+| "Netflix-Clone" | [http://www.netflix-clone-alpha-sand.vercel.app](https://www.criminalip.io/domain/report?scan_id=51583114) | Critical | US | 2026-03-31 02:22:05 (UTC) |
 
 ---
 

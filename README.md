@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://dominion200.github.io](https://www.criminalip.io/domain/report?scan_id=51583083) | Low | US | 2026-03-31 02:20:37 (UTC) |
-| "Site not found · GitHub Pages" | [http://klovyssantosbr.github.io](https://www.criminalip.io/domain/report?scan_id=51583113) | Low | US | 2026-03-31 02:21:30 (UTC) |
-| "Netflix-Clone" | [http://www.netflix-clone-alpha-sand.vercel.app](https://www.criminalip.io/domain/report?scan_id=51583114) | Critical | US | 2026-03-31 02:22:05 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://connect-leddgerlive.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=52521176) | Low | US | 2026-04-15 02:21:18 (UTC) |
+| "403 Forbidden" | [http://driect-sm1tbj.com](https://www.criminalip.io/domain/report?scan_id=52521515) | Critical | N/A | 2026-04-15 02:22:19 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://datarace-nodes.pages.dev](https://www.criminalip.io/domain/report?scan_id=52521530) | Low | N/A | 2026-04-15 02:23:24 (UTC) |
 
 ---
 

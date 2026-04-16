@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://connect-leddgerlive.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=52521176) | Low | US | 2026-04-15 02:21:18 (UTC) |
-| "403 Forbidden" | [http://driect-sm1tbj.com](https://www.criminalip.io/domain/report?scan_id=52521515) | Critical | N/A | 2026-04-15 02:22:19 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://datarace-nodes.pages.dev](https://www.criminalip.io/domain/report?scan_id=52521530) | Low | N/A | 2026-04-15 02:23:24 (UTC) |
+| "My Framer Site" | [http://social-need-439234.framer.app](https://www.criminalip.io/domain/report?scan_id=52585568) | Low | UA | 2026-04-16 02:20:31 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://2663544264445342566172534566.blogspot.com](https://www.criminalip.io/domain/report?scan_id=52585570) | Low | US | 2026-04-16 02:21:15 (UTC) |
+| "OpenSea.io" | [http://www.claiminvites04.vercel.app](https://www.criminalip.io/domain/report?scan_id=52585593) | Low | US | 2026-04-16 02:22:25 (UTC) |
 
 ---
 

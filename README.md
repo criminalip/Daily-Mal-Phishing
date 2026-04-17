@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "My Framer Site" | [http://social-need-439234.framer.app](https://www.criminalip.io/domain/report?scan_id=52585568) | Low | UA | 2026-04-16 02:20:31 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://2663544264445342566172534566.blogspot.com](https://www.criminalip.io/domain/report?scan_id=52585570) | Low | US | 2026-04-16 02:21:15 (UTC) |
-| "OpenSea.io" | [http://www.claiminvites04.vercel.app](https://www.criminalip.io/domain/report?scan_id=52585593) | Low | US | 2026-04-16 02:22:25 (UTC) |
+| "Site not found · GitHub Pages" | [http://niloy7t7.github.io](https://www.criminalip.io/domain/report?scan_id=52654071) | Low | US | 2026-04-17 02:20:02 (UTC) |
+| "Deployment Unavailable" | [http://claiminvites09.vercel.app](https://www.criminalip.io/domain/report?scan_id=52654097) | Low | US | 2026-04-17 02:20:43 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://ledgrapp-com.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=52654101) | Low | US | 2026-04-17 02:21:14 (UTC) |
 
 ---
 

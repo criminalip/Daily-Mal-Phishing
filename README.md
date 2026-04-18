@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://niloy7t7.github.io](https://www.criminalip.io/domain/report?scan_id=52654071) | Low | US | 2026-04-17 02:20:02 (UTC) |
-| "Deployment Unavailable" | [http://claiminvites09.vercel.app](https://www.criminalip.io/domain/report?scan_id=52654097) | Low | US | 2026-04-17 02:20:43 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://ledgrapp-com.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=52654101) | Low | US | 2026-04-17 02:21:14 (UTC) |
+| "Sign in to your account" | [http://sharepoint2026iissjn-zynb.bolt.host](https://www.criminalip.io/domain/report?scan_id=52721607) | Critical | N/A | 2026-04-18 02:20:02 (UTC) |
+| "Peak Talent Co." | [http://peaktalentco.ca](https://www.criminalip.io/domain/report?scan_id=52721611) | Critical | US | 2026-04-18 02:20:44 (UTC) |
+| "404 Not Found" | [http://allegrolokalnie.pl-8349-oferta.click](https://www.criminalip.io/domain/report?scan_id=52721618) | Critical | N/A | 2026-04-18 02:21:57 (UTC) |
 
 ---
 

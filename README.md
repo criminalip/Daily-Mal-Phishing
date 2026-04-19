@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Sign in to your account" | [http://sharepoint2026iissjn-zynb.bolt.host](https://www.criminalip.io/domain/report?scan_id=52721607) | Critical | N/A | 2026-04-18 02:20:02 (UTC) |
-| "Peak Talent Co." | [http://peaktalentco.ca](https://www.criminalip.io/domain/report?scan_id=52721611) | Critical | US | 2026-04-18 02:20:44 (UTC) |
-| "404 Not Found" | [http://allegrolokalnie.pl-8349-oferta.click](https://www.criminalip.io/domain/report?scan_id=52721618) | Critical | N/A | 2026-04-18 02:21:57 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://zscaler-dev-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=52810580) | Low | N/A | 2026-04-19 02:20:04 (UTC) |
+| "bncrfi.eu.cc" | [http://bncrfi.eu.cc](https://www.criminalip.io/domain/report?scan_id=52810585) | Low | US | 2026-04-19 02:20:47 (UTC) |
+| "fr-mondial-relay.com" | [http://fr-mondial-relay.com](https://www.criminalip.io/domain/report?scan_id=52810683) | Critical | DE | 2026-04-19 02:21:21 (UTC) |
 
 ---
 

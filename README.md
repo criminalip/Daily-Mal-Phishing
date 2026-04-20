@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://zscaler-dev-login.pages.dev](https://www.criminalip.io/domain/report?scan_id=52810580) | Low | N/A | 2026-04-19 02:20:04 (UTC) |
-| "bncrfi.eu.cc" | [http://bncrfi.eu.cc](https://www.criminalip.io/domain/report?scan_id=52810585) | Low | US | 2026-04-19 02:20:47 (UTC) |
-| "fr-mondial-relay.com" | [http://fr-mondial-relay.com](https://www.criminalip.io/domain/report?scan_id=52810683) | Critical | DE | 2026-04-19 02:21:21 (UTC) |
+| "Add Robux" | [http://mdsends.info](https://www.criminalip.io/domain/report?scan_id=52900816) | Critical | UA | 2026-04-20 02:20:13 (UTC) |
+| "𝗗𝗔𝗡𝗔 | 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗮𝗿𝗲 𝗗𝗔𝗡𝗔" | [http://inewindopylterrnm.cocoux.biz.id](https://www.criminalip.io/domain/report?scan_id=52901041) | Critical | N/A | 2026-04-20 02:21:04 (UTC) |
+| "笔趣阁_书友最值得收藏的免费小说阅读网" | [http://338c5436.cdnf.cc](https://www.criminalip.io/domain/report?scan_id=52901412) | Low | US | 2026-04-20 02:22:16 (UTC) |
 
 ---
 

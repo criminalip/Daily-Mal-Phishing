@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Add Robux" | [http://mdsends.info](https://www.criminalip.io/domain/report?scan_id=52900816) | Critical | UA | 2026-04-20 02:20:13 (UTC) |
-| "𝗗𝗔𝗡𝗔 | 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗮𝗿𝗲 𝗗𝗔𝗡𝗔" | [http://inewindopylterrnm.cocoux.biz.id](https://www.criminalip.io/domain/report?scan_id=52901041) | Critical | N/A | 2026-04-20 02:21:04 (UTC) |
-| "笔趣阁_书友最值得收藏的免费小说阅读网" | [http://338c5436.cdnf.cc](https://www.criminalip.io/domain/report?scan_id=52901412) | Low | US | 2026-04-20 02:22:16 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://protl-project.pages.dev](https://www.criminalip.io/domain/report?scan_id=52987873) | Low | N/A | 2026-04-21 02:20:02 (UTC) |
+| "Energen - Free Bootstrap 4 Template by Colorlib" | [http://z2.voujay4.vu](https://www.criminalip.io/domain/report?scan_id=52987877) | Critical | AE | 2026-04-21 02:20:44 (UTC) |
+| "Plesk Obsidian 18.0.77" | [http://celine.montrajet-78310.pro](https://www.criminalip.io/domain/report?scan_id=52987912) | Critical | N/A | 2026-04-21 02:21:46 (UTC) |
 
 ---
 

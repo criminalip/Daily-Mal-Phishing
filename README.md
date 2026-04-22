@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://protl-project.pages.dev](https://www.criminalip.io/domain/report?scan_id=52987873) | Low | N/A | 2026-04-21 02:20:02 (UTC) |
-| "Energen - Free Bootstrap 4 Template by Colorlib" | [http://z2.voujay4.vu](https://www.criminalip.io/domain/report?scan_id=52987877) | Critical | AE | 2026-04-21 02:20:44 (UTC) |
-| "Plesk Obsidian 18.0.77" | [http://celine.montrajet-78310.pro](https://www.criminalip.io/domain/report?scan_id=52987912) | Critical | N/A | 2026-04-21 02:21:46 (UTC) |
+| "Attention Required! | Cloudflare" | [http://app.biaclientepromo.digital](https://www.criminalip.io/domain/report?scan_id=53080386) | Critical | N/A | 2026-04-22 02:20:02 (UTC) |
+| "N/A" | [http://allegro-lokalnie.smar019283829g4.cfd](https://www.criminalip.io/domain/report?scan_id=53080446) | Critical | N/A | 2026-04-22 02:20:44 (UTC) |
+| "Attention Required! | Cloudflare" | [http://bradesco.atendimento-empresarial.click](https://www.criminalip.io/domain/report?scan_id=53080450) | Critical | N/A | 2026-04-22 02:21:25 (UTC) |
 
 ---
 

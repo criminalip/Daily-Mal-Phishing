@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Attention Required! | Cloudflare" | [http://app.biaclientepromo.digital](https://www.criminalip.io/domain/report?scan_id=53080386) | Critical | N/A | 2026-04-22 02:20:02 (UTC) |
-| "N/A" | [http://allegro-lokalnie.smar019283829g4.cfd](https://www.criminalip.io/domain/report?scan_id=53080446) | Critical | N/A | 2026-04-22 02:20:44 (UTC) |
-| "Attention Required! | Cloudflare" | [http://bradesco.atendimento-empresarial.click](https://www.criminalip.io/domain/report?scan_id=53080450) | Critical | N/A | 2026-04-22 02:21:25 (UTC) |
+| "Deployment Unavailable" | [http://mismatesenvp2452452.vercel.app](https://www.criminalip.io/domain/report?scan_id=53172895) | Low | US | 2026-04-23 02:20:02 (UTC) |
+| "myotorgarcr.eu.cc" | [http://myotorgarcr.eu.cc](https://www.criminalip.io/domain/report?scan_id=53172897) | Low | US | 2026-04-23 02:20:33 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bradesco.chatscliente.app](https://www.criminalip.io/domain/report?scan_id=53172981) | Critical | N/A | 2026-04-23 02:21:14 (UTC) |
 
 ---
 

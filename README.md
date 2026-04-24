@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Unavailable" | [http://mismatesenvp2452452.vercel.app](https://www.criminalip.io/domain/report?scan_id=53172895) | Low | US | 2026-04-23 02:20:02 (UTC) |
-| "myotorgarcr.eu.cc" | [http://myotorgarcr.eu.cc](https://www.criminalip.io/domain/report?scan_id=53172897) | Low | US | 2026-04-23 02:20:33 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://bradesco.chatscliente.app](https://www.criminalip.io/domain/report?scan_id=53172981) | Critical | N/A | 2026-04-23 02:21:14 (UTC) |
+| "WeTransfer | Se connecter" | [http://fair-version-768376.framer.app](https://www.criminalip.io/domain/report?scan_id=53266858) | Low | NL | 2026-04-24 02:20:02 (UTC) |
+| "N/A" | [http://allegrolokalnie.pl-oferta77075600.click](https://www.criminalip.io/domain/report?scan_id=53266871) | Critical | N/A | 2026-04-24 02:20:44 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://ad-account-inspection-hub.pages.dev](https://www.criminalip.io/domain/report?scan_id=53266874) | Low | N/A | 2026-04-24 02:21:14 (UTC) |
 
 ---
 

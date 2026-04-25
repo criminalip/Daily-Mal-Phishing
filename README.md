@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "WeTransfer | Se connecter" | [http://fair-version-768376.framer.app](https://www.criminalip.io/domain/report?scan_id=53266858) | Low | NL | 2026-04-24 02:20:02 (UTC) |
-| "N/A" | [http://allegrolokalnie.pl-oferta77075600.click](https://www.criminalip.io/domain/report?scan_id=53266871) | Critical | N/A | 2026-04-24 02:20:44 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://ad-account-inspection-hub.pages.dev](https://www.criminalip.io/domain/report?scan_id=53266874) | Low | N/A | 2026-04-24 02:21:14 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://leddge-comstarts.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53364433) | Low | US | 2026-04-25 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://ledgr-live-us.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53364448) | Low | US | 2026-04-25 02:20:33 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://bradesco.validacaodecheques.live](https://www.criminalip.io/domain/report?scan_id=53364449) | Critical | N/A | 2026-04-25 02:21:04 (UTC) |
 
 ---
 

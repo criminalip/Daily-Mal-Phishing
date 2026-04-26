@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://leddge-comstarts.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53364433) | Low | US | 2026-04-25 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://ledgr-live-us.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53364448) | Low | US | 2026-04-25 02:20:33 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://bradesco.validacaodecheques.live](https://www.criminalip.io/domain/report?scan_id=53364449) | Critical | N/A | 2026-04-25 02:21:04 (UTC) |
+| "Site not found · GitHub Pages" | [http://sana-khan2776.github.io](https://www.criminalip.io/domain/report?scan_id=53428563) | Low | US | 2026-04-26 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://wixholdapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53428839) | Low | US | 2026-04-26 02:21:04 (UTC) |
+| "N/A" | [http://allegro.0230g034139.cfd](https://www.criminalip.io/domain/report?scan_id=53429065) | Critical | N/A | 2026-04-26 02:21:45 (UTC) |
 
 ---
 

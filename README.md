@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://sana-khan2776.github.io](https://www.criminalip.io/domain/report?scan_id=53428563) | Low | US | 2026-04-26 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://wixholdapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53428839) | Low | US | 2026-04-26 02:21:04 (UTC) |
-| "N/A" | [http://allegro.0230g034139.cfd](https://www.criminalip.io/domain/report?scan_id=53429065) | Critical | N/A | 2026-04-26 02:21:45 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://y6kc.noreply9.us](https://www.criminalip.io/domain/report?scan_id=53523280) | Critical | N/A | 2026-04-27 02:20:02 (UTC) |
+| "Meta Business Help Centre" | [http://securyty.agency-partner-master.com](https://www.criminalip.io/domain/report?scan_id=53523337) | Critical | N/A | 2026-04-27 02:20:43 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://suittapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53523428) | Low | US | 2026-04-27 02:21:24 (UTC) |
 
 ---
 

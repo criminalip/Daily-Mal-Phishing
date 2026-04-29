@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://liveintrox.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53618697) | Low | US | 2026-04-28 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://strt-trzrio.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53618700) | Low | US | 2026-04-28 02:20:43 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://nav-exxodus.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53618739) | Low | US | 2026-04-28 02:21:35 (UTC) |
+| "Site not found · GitHub Pages" | [http://shivu-shivamurthy-a.github.io](https://www.criminalip.io/domain/report?scan_id=53715449) | Low | US | 2026-04-29 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://metamaksio.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53715485) | Low | US | 2026-04-29 02:20:44 (UTC) |
+| "N/A" | [http://redirect-795abd40.vercel.app](https://www.criminalip.io/domain/report?scan_id=53715487) | Dangerous | US | 2026-04-29 02:21:15 (UTC) |
 
 ---
 

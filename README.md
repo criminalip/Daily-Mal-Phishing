@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://shivu-shivamurthy-a.github.io](https://www.criminalip.io/domain/report?scan_id=53715449) | Low | US | 2026-04-29 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://metamaksio.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53715485) | Low | US | 2026-04-29 02:20:44 (UTC) |
-| "N/A" | [http://redirect-795abd40.vercel.app](https://www.criminalip.io/domain/report?scan_id=53715487) | Dangerous | US | 2026-04-29 02:21:15 (UTC) |
+| "N/A" | [http://allegro.59302875489324.shop](https://www.criminalip.io/domain/report?scan_id=53811508) | Critical | N/A | 2026-04-30 02:20:02 (UTC) |
+| "ameli-monespace.com" | [http://astengojm.com](https://www.criminalip.io/domain/report?scan_id=53811515) | Critical | IN | 2026-04-30 02:20:33 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://apps-ldgerscom.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=53811525) | Low | US | 2026-04-30 02:21:35 (UTC) |
 
 ---
 

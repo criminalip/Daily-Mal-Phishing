@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://safelearn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54008497) | Low | US | 2026-05-02 02:20:13 (UTC) |
-| "SHOPEE" | [http://pt-shopee1117.blogspot.com](https://www.criminalip.io/domain/report?scan_id=54008500) | Low | US | 2026-05-02 02:20:44 (UTC) |
-| "One moment, please..." | [http://segurity-verificacion365-1.iceiy.com](https://www.criminalip.io/domain/report?scan_id=54008506) | Low | GB | 2026-05-02 02:21:46 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://en-ledgelive.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104475) | Low | US | 2026-05-03 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://live-appstarted.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104484) | Low | US | 2026-05-03 02:20:33 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://homepage-trazar.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104503) | Low | US | 2026-05-03 02:21:04 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://en-ledgelive.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104475) | Low | US | 2026-05-03 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://live-appstarted.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104484) | Low | US | 2026-05-03 02:20:33 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://homepage-trazar.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54104503) | Low | US | 2026-05-03 02:21:04 (UTC) |
+| "dpd.ralverali.cfd" | [http://dpd.ralverali.cfd](https://www.criminalip.io/domain/report?scan_id=54201651) | Critical | N/A | 2026-05-04 02:20:02 (UTC) |
+| "t-mobile.ukbnmd.mom" | [http://t-mobile.ukbnmd.mom](https://www.criminalip.io/domain/report?scan_id=54201682) | Critical | DE | 2026-05-04 02:20:43 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://us-desktop-ledgre.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54201694) | Low | US | 2026-05-04 02:21:24 (UTC) |
 
 ---
 

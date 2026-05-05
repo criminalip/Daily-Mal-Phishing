@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "dpd.ralverali.cfd" | [http://dpd.ralverali.cfd](https://www.criminalip.io/domain/report?scan_id=54201651) | Critical | N/A | 2026-05-04 02:20:02 (UTC) |
-| "t-mobile.ukbnmd.mom" | [http://t-mobile.ukbnmd.mom](https://www.criminalip.io/domain/report?scan_id=54201682) | Critical | DE | 2026-05-04 02:20:43 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://us-desktop-ledgre.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54201694) | Low | US | 2026-05-04 02:21:24 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://ledegr-live.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54311979) | Low | US | 2026-05-05 02:20:02 (UTC) |
+| "Official Tax Notice - Income Tax Department, India" | [http://googlehfgj.shop](https://www.criminalip.io/domain/report?scan_id=54312123) | Critical | IN | 2026-05-05 02:20:33 (UTC) |
+| "gov-zxw.help" | [http://gov-zxw.help](https://www.criminalip.io/domain/report?scan_id=54312321) | Critical | SG | 2026-05-05 02:21:14 (UTC) |
 
 ---
 

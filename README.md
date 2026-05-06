@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://ledegr-live.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54311979) | Low | US | 2026-05-05 02:20:02 (UTC) |
-| "Official Tax Notice - Income Tax Department, India" | [http://googlehfgj.shop](https://www.criminalip.io/domain/report?scan_id=54312123) | Critical | IN | 2026-05-05 02:20:33 (UTC) |
-| "gov-zxw.help" | [http://gov-zxw.help](https://www.criminalip.io/domain/report?scan_id=54312321) | Critical | SG | 2026-05-05 02:21:14 (UTC) |
+| "newmexico.gov-zcs.help" | [http://newmexico.gov-zcs.help](https://www.criminalip.io/domain/report?scan_id=54418335) | Critical | SG | 2026-05-06 02:20:02 (UTC) |
+| "ga.hunjk.cam" | [http://ga.hunjk.cam](https://www.criminalip.io/domain/report?scan_id=54418340) | Critical | DE | 2026-05-06 02:20:43 (UTC) |
+| "Banco Pichincha" | [http://credit-creser11.vercel.app](https://www.criminalip.io/domain/report?scan_id=54418345) | Low | US | 2026-05-06 02:21:24 (UTC) |
 
 ---
 

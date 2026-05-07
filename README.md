@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "newmexico.gov-zcs.help" | [http://newmexico.gov-zcs.help](https://www.criminalip.io/domain/report?scan_id=54418335) | Critical | SG | 2026-05-06 02:20:02 (UTC) |
-| "ga.hunjk.cam" | [http://ga.hunjk.cam](https://www.criminalip.io/domain/report?scan_id=54418340) | Critical | DE | 2026-05-06 02:20:43 (UTC) |
-| "Banco Pichincha" | [http://credit-creser11.vercel.app](https://www.criminalip.io/domain/report?scan_id=54418345) | Low | US | 2026-05-06 02:21:24 (UTC) |
+| "Site not found" | [http://exquisite-nougat-7ffdba.netlify.app](https://www.criminalip.io/domain/report?scan_id=54527052) | Low | SG | 2026-05-07 02:20:23 (UTC) |
+| "Attention Required! | Cloudflare" | [http://pjempresasbradesco.digital](https://www.criminalip.io/domain/report?scan_id=54527054) | Critical | N/A | 2026-05-07 02:20:54 (UTC) |
+| "Demo46" | [http://2018.e48478484.top](https://www.criminalip.io/domain/report?scan_id=54527057) | Critical | HK | 2026-05-07 02:21:25 (UTC) |
 
 ---
 

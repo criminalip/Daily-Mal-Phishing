@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found" | [http://exquisite-nougat-7ffdba.netlify.app](https://www.criminalip.io/domain/report?scan_id=54527052) | Low | SG | 2026-05-07 02:20:23 (UTC) |
-| "Attention Required! | Cloudflare" | [http://pjempresasbradesco.digital](https://www.criminalip.io/domain/report?scan_id=54527054) | Critical | N/A | 2026-05-07 02:20:54 (UTC) |
-| "Demo46" | [http://2018.e48478484.top](https://www.criminalip.io/domain/report?scan_id=54527057) | Critical | HK | 2026-05-07 02:21:25 (UTC) |
+| "Deployment Paused" | [http://wallet-extensionledgersupport-cdn-u.vercel.app](https://www.criminalip.io/domain/report?scan_id=54634881) | Low | US | 2026-05-08 02:20:02 (UTC) |
+| "404: NOT_FOUND" | [http://pagamento-g4-aniversario.vercel.app](https://www.criminalip.io/domain/report?scan_id=54634886) | Low | US | 2026-05-08 02:20:43 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://facebook-care.invoice-ads-manager.com](https://www.criminalip.io/domain/report?scan_id=54634903) | Critical | N/A | 2026-05-08 02:21:14 (UTC) |
 
 ---
 

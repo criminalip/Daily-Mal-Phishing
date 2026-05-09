@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Deployment Paused" | [http://wallet-extensionledgersupport-cdn-u.vercel.app](https://www.criminalip.io/domain/report?scan_id=54634881) | Low | US | 2026-05-08 02:20:02 (UTC) |
-| "404: NOT_FOUND" | [http://pagamento-g4-aniversario.vercel.app](https://www.criminalip.io/domain/report?scan_id=54634886) | Low | US | 2026-05-08 02:20:43 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://facebook-care.invoice-ads-manager.com](https://www.criminalip.io/domain/report?scan_id=54634903) | Critical | N/A | 2026-05-08 02:21:14 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://bridge-eng-en.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54742809) | Low | US | 2026-05-09 02:20:14 (UTC) |
+| "Loja Verificada" | [http://casasbhlotes04.vercel.app](https://www.criminalip.io/domain/report?scan_id=54742815) | Low | US | 2026-05-09 02:20:44 (UTC) |
+| "Origin DNS error | client-hub.credit-agency-meta.com | Cloudflare" | [http://client-hub.credit-agency-meta.com](https://www.criminalip.io/domain/report?scan_id=54742839) | Critical | N/A | 2026-05-09 02:21:36 (UTC) |
 
 ---
 

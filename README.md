@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "username-meta.invoice-ads-manager.com" | [http://username-meta.invoice-ads-manager.com](https://www.criminalip.io/domain/report?scan_id=54848873) | Critical | N/A | 2026-05-10 02:20:13 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://ledegar-started.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=54848876) | Low | US | 2026-05-10 02:20:44 (UTC) |
-| "Loja Verificada" | [http://casaslotesespeciais05.vercel.app](https://www.criminalip.io/domain/report?scan_id=54848892) | Low | US | 2026-05-10 02:21:15 (UTC) |
+| "N/A" | [http://allegro-lokalnie.871288igiru7.shop](https://www.criminalip.io/domain/report?scan_id=54974888) | Critical | N/A | 2026-05-11 02:20:02 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-id19239245.invoice-ads-program.com](https://www.criminalip.io/domain/report?scan_id=54974890) | Critical | N/A | 2026-05-11 02:20:43 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://facebook-code.bussines-partner-agency.com](https://www.criminalip.io/domain/report?scan_id=54974955) | Critical | N/A | 2026-05-11 02:21:14 (UTC) |
 
 ---
 

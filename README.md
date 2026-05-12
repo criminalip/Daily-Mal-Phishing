@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegro-lokalnie.871288igiru7.shop](https://www.criminalip.io/domain/report?scan_id=54974888) | Critical | N/A | 2026-05-11 02:20:02 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-id19239245.invoice-ads-program.com](https://www.criminalip.io/domain/report?scan_id=54974890) | Critical | N/A | 2026-05-11 02:20:43 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://facebook-code.bussines-partner-agency.com](https://www.criminalip.io/domain/report?scan_id=54974955) | Critical | N/A | 2026-05-11 02:21:14 (UTC) |
+| "N/A" | [http://i-gym.or.kr.c0m.cn](https://www.criminalip.io/domain/report?scan_id=55100791) | Critical | US | 2026-05-12 02:20:02 (UTC) |
+| "Site not found · GitHub Pages" | [http://birukkebede11.github.io](https://www.criminalip.io/domain/report?scan_id=55100819) | Low | US | 2026-05-12 02:20:34 (UTC) |
+| "N/A" | [http://allegro.poi78128990x.shop](https://www.criminalip.io/domain/report?scan_id=55100961) | Critical | N/A | 2026-05-12 02:21:05 (UTC) |
 
 ---
 

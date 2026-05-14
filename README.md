@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://usps.us-btaor.life](https://www.criminalip.io/domain/report?scan_id=55206685) | Critical | N/A | 2026-05-13 02:20:02 (UTC) |
-| "Coinbase" | [http://www.logincoinbasewallet.blogspot.com](https://www.criminalip.io/domain/report?scan_id=55206764) | Low | US | 2026-05-13 02:20:33 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://track-desktoplive.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55206979) | Low | US | 2026-05-13 02:22:16 (UTC) |
+| "Attention Required! | Cloudflare" | [http://bertran.direct-8812171.pro](https://www.criminalip.io/domain/report?scan_id=55312965) | Critical | N/A | 2026-05-14 02:20:02 (UTC) |
+| "N/A" | [http://allegro-lokalnie.5078347592.shop](https://www.criminalip.io/domain/report?scan_id=55312974) | Critical | N/A | 2026-05-14 02:20:33 (UTC) |
+| "N/A" | [http://apple896a32f242594befbf0a937ab758af60.6eqrvh.cn](https://www.criminalip.io/domain/report?scan_id=55313017) | Critical | N/A | 2026-05-14 02:21:25 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected phishing site | Cloudflare" | [http://customer-sp-alexk.pages.dev](https://www.criminalip.io/domain/report?scan_id=55523581) | Low | N/A | 2026-05-16 02:20:02 (UTC) |
-| "Attention Required! | Cloudflare" | [http://app.pjnetempresarialpontoslivelo.ink](https://www.criminalip.io/domain/report?scan_id=55523613) | Critical | N/A | 2026-05-16 02:20:33 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://member059.agency-connection-hub.com](https://www.criminalip.io/domain/report?scan_id=55523625) | Critical | N/A | 2026-05-16 02:21:14 (UTC) |
+| "PT.SHOPEE INDONESIA 2021 UNDIAN RESMI" | [http://shopee-pusat1212.blogspot.com](https://www.criminalip.io/domain/report?scan_id=55625858) | Low | US | 2026-05-17 02:20:34 (UTC) |
+| "Log in - Netflix UAT" | [http://netflix-uat.dblxhosting.co.uk](https://www.criminalip.io/domain/report?scan_id=55625878) | Critical | US | 2026-05-17 02:21:15 (UTC) |
+| "Suspected phishing site | Cloudflare" | [http://meta-id17614.invoice-partner.com](https://www.criminalip.io/domain/report?scan_id=55625884) | Critical | N/A | 2026-05-17 02:22:07 (UTC) |
 
 ---
 

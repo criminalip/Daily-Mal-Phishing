@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "PT.SHOPEE INDONESIA 2021 UNDIAN RESMI" | [http://shopee-pusat1212.blogspot.com](https://www.criminalip.io/domain/report?scan_id=55625858) | Low | US | 2026-05-17 02:20:34 (UTC) |
-| "Log in - Netflix UAT" | [http://netflix-uat.dblxhosting.co.uk](https://www.criminalip.io/domain/report?scan_id=55625878) | Critical | US | 2026-05-17 02:21:15 (UTC) |
-| "Suspected phishing site | Cloudflare" | [http://meta-id17614.invoice-partner.com](https://www.criminalip.io/domain/report?scan_id=55625884) | Critical | N/A | 2026-05-17 02:22:07 (UTC) |
+| "creativeservices.netflix.com.10-lowh.sgx99.dpdns.org" | [http://creativeservices.netflix.com.10-lowh.sgx99.dpdns.org](https://www.criminalip.io/domain/report?scan_id=55728645) | Critical | N/A | 2026-05-18 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://leger-startapp.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55728867) | Low | US | 2026-05-18 02:27:02 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://myportal2026.wixsite.com](https://www.criminalip.io/domain/report?scan_id=55728873) | Low | US | 2026-05-18 02:27:43 (UTC) |
 
 ---
 

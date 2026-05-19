@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "creativeservices.netflix.com.10-lowh.sgx99.dpdns.org" | [http://creativeservices.netflix.com.10-lowh.sgx99.dpdns.org](https://www.criminalip.io/domain/report?scan_id=55728645) | Critical | N/A | 2026-05-18 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://leger-startapp.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55728867) | Low | US | 2026-05-18 02:27:02 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://myportal2026.wixsite.com](https://www.criminalip.io/domain/report?scan_id=55728873) | Low | US | 2026-05-18 02:27:43 (UTC) |
+| "PayPal" | [http://loggs-mu.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798321) | Low | US | 2026-05-19 02:20:13 (UTC) |
+| "Deployment Unavailable" | [http://materillos57200.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798355) | Low | US | 2026-05-19 02:20:44 (UTC) |
+| "Centro de Asignaciones | Exclusividad clientes" | [http://vdhedheb.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798368) | Low | US | 2026-05-19 02:21:46 (UTC) |
 
 ---
 

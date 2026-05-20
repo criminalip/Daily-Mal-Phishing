@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "PayPal" | [http://loggs-mu.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798321) | Low | US | 2026-05-19 02:20:13 (UTC) |
-| "Deployment Unavailable" | [http://materillos57200.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798355) | Low | US | 2026-05-19 02:20:44 (UTC) |
-| "Centro de Asignaciones | Exclusividad clientes" | [http://vdhedheb.vercel.app](https://www.criminalip.io/domain/report?scan_id=55798368) | Low | US | 2026-05-19 02:21:46 (UTC) |
+| "N/A" | [http://allegrolokainie.smart0298391243.bond](https://www.criminalip.io/domain/report?scan_id=55905106) | Critical | N/A | 2026-05-20 02:20:03 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://leddgeliva-wallt.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55905110) | Low | US | 2026-05-20 02:20:45 (UTC) |
+| "DANA - Apa pun transaksinya selalu ada DANA" | [http://danaa-iindonesiaa.xbb.my.id](https://www.criminalip.io/domain/report?scan_id=55905136) | Critical | N/A | 2026-05-20 02:21:28 (UTC) |
 
 ---
 

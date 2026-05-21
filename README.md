@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokainie.smart0298391243.bond](https://www.criminalip.io/domain/report?scan_id=55905106) | Critical | N/A | 2026-05-20 02:20:03 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://leddgeliva-wallt.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55905110) | Low | US | 2026-05-20 02:20:45 (UTC) |
-| "DANA - Apa pun transaksinya selalu ada DANA" | [http://danaa-iindonesiaa.xbb.my.id](https://www.criminalip.io/domain/report?scan_id=55905136) | Critical | N/A | 2026-05-20 02:21:28 (UTC) |
+| "Run this app to see the results here." | [http://91d79af4-a5f2-4eb8-a059-5e77f4884b44-00-9nx9ui0mchc6.janeway.replit.dev](https://www.criminalip.io/domain/report?scan_id=55978662) | Low | US | 2026-05-21 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://startlive-ledggrapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55978668) | Low | US | 2026-05-21 02:20:43 (UTC) |
+| "Website Takedown Notice - Lovable Trust & Safety" | [http://credito-pichincha-seguro-facil.lovable.app](https://www.criminalip.io/domain/report?scan_id=55978678) | Low | SE | 2026-05-21 02:21:14 (UTC) |
 
 ---
 

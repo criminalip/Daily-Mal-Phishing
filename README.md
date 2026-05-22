@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Run this app to see the results here." | [http://91d79af4-a5f2-4eb8-a059-5e77f4884b44-00-9nx9ui0mchc6.janeway.replit.dev](https://www.criminalip.io/domain/report?scan_id=55978662) | Low | US | 2026-05-21 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://startlive-ledggrapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=55978668) | Low | US | 2026-05-21 02:20:43 (UTC) |
-| "Website Takedown Notice - Lovable Trust & Safety" | [http://credito-pichincha-seguro-facil.lovable.app](https://www.criminalip.io/domain/report?scan_id=55978678) | Low | SE | 2026-05-21 02:21:14 (UTC) |
+| "monservicelivreo.com" | [http://monservicelivreo.com](https://www.criminalip.io/domain/report?scan_id=56046603) | Critical | PK | 2026-05-22 02:20:12 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://bobox81176bayxscom.bobox81176.workers.dev](https://www.criminalip.io/domain/report?scan_id=56046625) | Low | N/A | 2026-05-22 02:21:25 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://bridge-trezz.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56046634) | Low | US | 2026-05-22 02:21:56 (UTC) |
 
 ---
 

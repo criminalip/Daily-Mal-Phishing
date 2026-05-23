@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "monservicelivreo.com" | [http://monservicelivreo.com](https://www.criminalip.io/domain/report?scan_id=56046603) | Critical | PK | 2026-05-22 02:20:12 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://bobox81176bayxscom.bobox81176.workers.dev](https://www.criminalip.io/domain/report?scan_id=56046625) | Low | N/A | 2026-05-22 02:21:25 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://bridge-trezz.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56046634) | Low | US | 2026-05-22 02:21:56 (UTC) |
+| "jstvpn.site | 522: Connection timed out" | [http://cache.netflix.com.do12.jstvpn.site](https://www.criminalip.io/domain/report?scan_id=56121160) | Critical | N/A | 2026-05-23 02:20:02 (UTC) |
+| "502 Bad Gateway" | [http://bafkreic2jnoqycq2lnvqnqrdetpyy56i4ufqzpx2srscpgibjxlxjcdgoa.ipfs.inbrowser.link](https://www.criminalip.io/domain/report?scan_id=56121177) | Critical | US | 2026-05-23 02:21:45 (UTC) |
+| "Site not found · GitHub Pages" | [http://supportsinstagram.github.io](https://www.criminalip.io/domain/report?scan_id=56121179) | Low | US | 2026-05-23 02:22:16 (UTC) |
 
 ---
 

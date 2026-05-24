@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "jstvpn.site | 522: Connection timed out" | [http://cache.netflix.com.do12.jstvpn.site](https://www.criminalip.io/domain/report?scan_id=56121160) | Critical | N/A | 2026-05-23 02:20:02 (UTC) |
-| "502 Bad Gateway" | [http://bafkreic2jnoqycq2lnvqnqrdetpyy56i4ufqzpx2srscpgibjxlxjcdgoa.ipfs.inbrowser.link](https://www.criminalip.io/domain/report?scan_id=56121177) | Critical | US | 2026-05-23 02:21:45 (UTC) |
-| "Site not found · GitHub Pages" | [http://supportsinstagram.github.io](https://www.criminalip.io/domain/report?scan_id=56121179) | Low | US | 2026-05-23 02:22:16 (UTC) |
+| "Amazon clone" | [http://www.amazon-clone-kappa-ashen.vercel.app](https://www.criminalip.io/domain/report?scan_id=56185703) | Low | US | 2026-05-24 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://io-moonpayapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56185720) | Low | US | 2026-05-24 02:20:33 (UTC) |
+| "Site not found · GitHub Pages" | [http://samiarshad2715-tech.github.io](https://www.criminalip.io/domain/report?scan_id=56185721) | Low | US | 2026-05-24 02:21:04 (UTC) |
 
 ---
 

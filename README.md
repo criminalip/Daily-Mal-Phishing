@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Amazon clone" | [http://www.amazon-clone-kappa-ashen.vercel.app](https://www.criminalip.io/domain/report?scan_id=56185703) | Low | US | 2026-05-24 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://io-moonpayapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56185720) | Low | US | 2026-05-24 02:20:33 (UTC) |
-| "Site not found · GitHub Pages" | [http://samiarshad2715-tech.github.io](https://www.criminalip.io/domain/report?scan_id=56185721) | Low | US | 2026-05-24 02:21:04 (UTC) |
+| "Vérification CAPTCHA" | [http://www.briivradev.duckdns.org](https://www.criminalip.io/domain/report?scan_id=56250999) | Low | US | 2026-05-25 02:20:02 (UTC) |
+| "dpd.vrqkbnljp.club" | [http://dpd.vrqkbnljp.club](https://www.criminalip.io/domain/report?scan_id=56251009) | Critical | N/A | 2026-05-25 02:20:53 (UTC) |
+| "shopee" | [http://www.shopee2349.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56251011) | Low | US | 2026-05-25 02:21:24 (UTC) |
 
 ---
 

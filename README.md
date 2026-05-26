@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Vérification CAPTCHA" | [http://www.briivradev.duckdns.org](https://www.criminalip.io/domain/report?scan_id=56250999) | Low | US | 2026-05-25 02:20:02 (UTC) |
-| "dpd.vrqkbnljp.club" | [http://dpd.vrqkbnljp.club](https://www.criminalip.io/domain/report?scan_id=56251009) | Critical | N/A | 2026-05-25 02:20:53 (UTC) |
-| "shopee" | [http://www.shopee2349.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56251011) | Low | US | 2026-05-25 02:21:24 (UTC) |
+| "App Disabled" | [http://vrq-irdf.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56317450) | Low | SG | 2026-05-26 02:20:13 (UTC) |
+| "welcome-BET365" | [http://h19x.top](https://www.criminalip.io/domain/report?scan_id=56317475) | Critical | HK | 2026-05-26 02:20:54 (UTC) |
+| "410 - Site was deleted" | [http://www.lasalleunipa.ucoz.site](https://www.criminalip.io/domain/report?scan_id=56317495) | Low | NL | 2026-05-26 02:22:16 (UTC) |
 
 ---
 

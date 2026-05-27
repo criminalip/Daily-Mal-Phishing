@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "App Disabled" | [http://vrq-irdf.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56317450) | Low | SG | 2026-05-26 02:20:13 (UTC) |
-| "welcome-BET365" | [http://h19x.top](https://www.criminalip.io/domain/report?scan_id=56317475) | Critical | HK | 2026-05-26 02:20:54 (UTC) |
-| "410 - Site was deleted" | [http://www.lasalleunipa.ucoz.site](https://www.criminalip.io/domain/report?scan_id=56317495) | Low | NL | 2026-05-26 02:22:16 (UTC) |
+| "App Disabled" | [http://rax-fewqa.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56386716) | Low | SG | 2026-05-27 02:20:03 (UTC) |
+| "Mercado Libre" | [http://mercadolibre-challenge-jki9bqmwa-florabril.vercel.app](https://www.criminalip.io/domain/report?scan_id=56386723) | Low | US | 2026-05-27 02:20:34 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://dpd.gnwrzplqtx.club](https://www.criminalip.io/domain/report?scan_id=56386749) | Critical | N/A | 2026-05-27 02:21:04 (UTC) |
 
 ---
 

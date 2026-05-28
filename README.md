@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "App Disabled" | [http://rax-fewqa.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56386716) | Low | SG | 2026-05-27 02:20:03 (UTC) |
-| "Mercado Libre" | [http://mercadolibre-challenge-jki9bqmwa-florabril.vercel.app](https://www.criminalip.io/domain/report?scan_id=56386723) | Low | US | 2026-05-27 02:20:34 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://dpd.gnwrzplqtx.club](https://www.criminalip.io/domain/report?scan_id=56386749) | Critical | N/A | 2026-05-27 02:21:04 (UTC) |
+| "N/A" | [http://notadocumentcsn.alwaysdata.net](https://www.criminalip.io/domain/report?scan_id=56457008) | Low | FR | 2026-05-28 02:20:02 (UTC) |
+| "dpd.vrmztqplxn.cfd" | [http://dpd.vrmztqplxn.cfd](https://www.criminalip.io/domain/report?scan_id=56457020) | Critical | N/A | 2026-05-28 02:21:25 (UTC) |
+| "Attention Required! | Cloudflare" | [http://net-empresas.negociosconta.click](https://www.criminalip.io/domain/report?scan_id=56457177) | Critical | N/A | 2026-05-28 02:22:06 (UTC) |
 
 ---
 

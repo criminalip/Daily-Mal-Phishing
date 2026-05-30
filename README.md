@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://shravni2614.github.io](https://www.criminalip.io/domain/report?scan_id=56527171) | Low | US | 2026-05-29 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://srinitha132030.github.io](https://www.criminalip.io/domain/report?scan_id=56527177) | Low | US | 2026-05-29 02:20:33 (UTC) |
-| "Adobe Acrobat Sign" | [http://authorizedfiles.vercel.app](https://www.criminalip.io/domain/report?scan_id=56527194) | Low | US | 2026-05-29 02:21:21 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://appstarts-trxxor.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56596331) | Low | US | 2026-05-30 02:20:13 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://bridgepp-trez.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=56596344) | Low | US | 2026-05-30 02:21:05 (UTC) |
+| "Error" | [http://poshmark-shop.shop](https://www.criminalip.io/domain/report?scan_id=56596357) | Critical | N/A | 2026-05-30 02:21:37 (UTC) |
 
 ---
 

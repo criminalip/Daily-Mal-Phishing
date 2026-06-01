@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "dpd.xvnplqtmrz.ink" | [http://dpd.xvnplqtmrz.ink](https://www.criminalip.io/domain/report?scan_id=56663198) | Critical | N/A | 2026-05-31 02:20:12 (UTC) |
-| "Attention Required! | Cloudflare" | [http://remi.bdll843954.pro](https://www.criminalip.io/domain/report?scan_id=56663214) | Critical | N/A | 2026-05-31 02:20:44 (UTC) |
-| "..." | [http://bnc.klkhds.click](https://www.criminalip.io/domain/report?scan_id=56663265) | Dangerous | N/A | 2026-05-31 02:21:15 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://info-resmi782.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56729408) | Low | US | 2026-06-01 02:20:02 (UTC) |
+| "Attention Required! | Cloudflare" | [http://bradesco.paraempresas.sbs](https://www.criminalip.io/domain/report?scan_id=56729414) | Critical | N/A | 2026-06-01 02:20:23 (UTC) |
+| "403 Forbidden" | [http://account-validation-service-u1.click](https://www.criminalip.io/domain/report?scan_id=56729417) | Critical | JP | 2026-06-01 02:20:44 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://info-resmi782.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56729408) | Low | US | 2026-06-01 02:20:02 (UTC) |
-| "Attention Required! | Cloudflare" | [http://bradesco.paraempresas.sbs](https://www.criminalip.io/domain/report?scan_id=56729414) | Critical | N/A | 2026-06-01 02:20:23 (UTC) |
-| "403 Forbidden" | [http://account-validation-service-u1.click](https://www.criminalip.io/domain/report?scan_id=56729417) | Critical | JP | 2026-06-01 02:20:44 (UTC) |
+| "App Disabled" | [http://mohsecrespomain.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56797665) | Low | SG | 2026-06-02 02:20:02 (UTC) |
+| "Site not found · GitHub Pages" | [http://theofficial4me-ux.github.io](https://www.criminalip.io/domain/report?scan_id=56797667) | Low | US | 2026-06-02 02:20:23 (UTC) |
+| "403 Forbidden" | [http://client.738620-cb.com](https://www.criminalip.io/domain/report?scan_id=56797670) | Critical | NL | 2026-06-02 02:20:54 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "App Disabled" | [http://mohsecrespomain.wasmer.app](https://www.criminalip.io/domain/report?scan_id=56797665) | Low | SG | 2026-06-02 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://theofficial4me-ux.github.io](https://www.criminalip.io/domain/report?scan_id=56797667) | Low | US | 2026-06-02 02:20:23 (UTC) |
-| "403 Forbidden" | [http://client.738620-cb.com](https://www.criminalip.io/domain/report?scan_id=56797670) | Critical | NL | 2026-06-02 02:20:54 (UTC) |
+| "Welcome to OpenResty!" | [http://t-mobile.rmjkbz.top](https://www.criminalip.io/domain/report?scan_id=56866152) | Critical | N/A | 2026-06-03 02:21:48 (UTC) |
+| "Attention Required! | Cloudflare" | [http://capri.hub848245.pro](https://www.criminalip.io/domain/report?scan_id=56866197) | Critical | N/A | 2026-06-03 02:23:01 (UTC) |
+| "PT SHOPEE INDONESIA" | [http://galeripemenangshopee012.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56866200) | Low | US | 2026-06-03 02:23:32 (UTC) |
 
 ---
 

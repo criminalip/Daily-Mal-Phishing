@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Welcome to OpenResty!" | [http://t-mobile.rmjkbz.top](https://www.criminalip.io/domain/report?scan_id=56866152) | Critical | N/A | 2026-06-03 02:21:48 (UTC) |
-| "Attention Required! | Cloudflare" | [http://capri.hub848245.pro](https://www.criminalip.io/domain/report?scan_id=56866197) | Critical | N/A | 2026-06-03 02:23:01 (UTC) |
-| "PT SHOPEE INDONESIA" | [http://galeripemenangshopee012.blogspot.com](https://www.criminalip.io/domain/report?scan_id=56866200) | Low | US | 2026-06-03 02:23:32 (UTC) |
+| "Site Not Found | Framer" | [http://myjuno-login-framer-website.framer.website](https://www.criminalip.io/domain/report?scan_id=56935072) | Low | UA | 2026-06-04 02:20:02 (UTC) |
+| "Not Found" | [http://statistic.abuit.info](https://www.criminalip.io/domain/report?scan_id=56935074) | Critical | N/A | 2026-06-04 02:20:23 (UTC) |
+| "Site not found" | [http://dainty-mousse-6da0bb.netlify.app](https://www.criminalip.io/domain/report?scan_id=56935091) | Low | SG | 2026-06-04 02:21:15 (UTC) |
 
 ---
 

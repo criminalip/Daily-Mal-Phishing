@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site Not Found | Framer" | [http://myjuno-login-framer-website.framer.website](https://www.criminalip.io/domain/report?scan_id=56935072) | Low | UA | 2026-06-04 02:20:02 (UTC) |
-| "Not Found" | [http://statistic.abuit.info](https://www.criminalip.io/domain/report?scan_id=56935074) | Critical | N/A | 2026-06-04 02:20:23 (UTC) |
-| "Site not found" | [http://dainty-mousse-6da0bb.netlify.app](https://www.criminalip.io/domain/report?scan_id=56935091) | Low | SG | 2026-06-04 02:21:15 (UTC) |
+| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.lokalna-ofeta9120.sbs](https://www.criminalip.io/domain/report?scan_id=57005590) | Low | PL | 2026-06-05 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://https-544nddedc44342442442423232342-e3a8.tony-f61.workers.dev](https://www.criminalip.io/domain/report?scan_id=57005596) | Low | N/A | 2026-06-05 02:21:05 (UTC) |
+| "Site not found" | [http://starlit-salamander-174d60.netlify.app](https://www.criminalip.io/domain/report?scan_id=57005599) | Low | SG | 2026-06-05 02:21:26 (UTC) |
 
 ---
 

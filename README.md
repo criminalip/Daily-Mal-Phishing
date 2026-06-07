@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://rajatsaini90420.github.io](https://www.criminalip.io/domain/report?scan_id=57074795) | Low | US | 2026-06-06 02:20:02 (UTC) |
-| "webmail-management" | [http://webmail-support-management.framer.website](https://www.criminalip.io/domain/report?scan_id=57074812) | Low | NL | 2026-06-06 02:20:44 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://pages-ledgor-com.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57074815) | Low | US | 2026-06-06 02:21:05 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp5ct6-plarnik-biz-fralvor-druntex.pages.dev](https://www.criminalip.io/domain/report?scan_id=57144056) | Low | N/A | 2026-06-07 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://intro-livedesktopp.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57144088) | Low | US | 2026-06-07 02:20:22 (UTC) |
+| "N/A" | [http://splendid-druid-635b4e.netlify.app](https://www.criminalip.io/domain/report?scan_id=57144129) | Low | SG | 2026-06-07 02:20:43 (UTC) |
 
 ---
 

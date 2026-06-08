@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://sp5ct6-plarnik-biz-fralvor-druntex.pages.dev](https://www.criminalip.io/domain/report?scan_id=57144056) | Low | N/A | 2026-06-07 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://intro-livedesktopp.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57144088) | Low | US | 2026-06-07 02:20:22 (UTC) |
-| "N/A" | [http://splendid-druid-635b4e.netlify.app](https://www.criminalip.io/domain/report?scan_id=57144129) | Low | SG | 2026-06-07 02:20:43 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp0ct0-brenuk-biz-faltem-qurvo.pages.dev](https://www.criminalip.io/domain/report?scan_id=57224083) | Low | N/A | 2026-06-08 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://join-eligible-ede8.oppome7272.workers.dev](https://www.criminalip.io/domain/report?scan_id=57224322) | Low | N/A | 2026-06-08 02:20:53 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp10ct6-drantex-biz-slurnik-fravor.pages.dev](https://www.criminalip.io/domain/report?scan_id=57224565) | Low | N/A | 2026-06-08 02:21:34 (UTC) |
 
 ---
 

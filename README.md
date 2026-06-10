@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://en-koinli.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57319331) | Low | US | 2026-06-09 02:20:03 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://us-htxx-apps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57319368) | Low | US | 2026-06-09 02:20:34 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp5ct6-travqor-biz-drantex-vrolnik.pages.dev](https://www.criminalip.io/domain/report?scan_id=57319370) | Low | N/A | 2026-06-09 02:20:55 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://startingiotrexio.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57390988) | Low | US | 2026-06-10 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://eng-tangem.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57391003) | Low | US | 2026-06-10 02:20:22 (UTC) |
+| "Outlook" | [http://secure-index-edit--blessedmber.replit.app](https://www.criminalip.io/domain/report?scan_id=57391028) | Critical | US | 2026-06-10 02:20:43 (UTC) |
 
 ---
 

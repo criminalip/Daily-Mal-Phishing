@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Just a moment..." | [http://credi-autos-rd.info](https://www.criminalip.io/domain/report?scan_id=57461953) | Critical | N/A | 2026-06-11 02:20:02 (UTC) |
-| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.lokalna-ofeta2121.sbs](https://www.criminalip.io/domain/report?scan_id=57461955) | Low | PL | 2026-06-11 02:20:23 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://appshyperliquid.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57461968) | Low | US | 2026-06-11 02:21:04 (UTC) |
+| "Site not found · GitHub Pages" | [http://marynalytvynova-ai.github.io](https://www.criminalip.io/domain/report?scan_id=57533623) | Low | US | 2026-06-12 02:20:02 (UTC) |
+| "Poczta - Najlepsza Poczta, największe załączniki - WP" | [http://www.hfmthsga.vercel.app](https://www.criminalip.io/domain/report?scan_id=57533637) | Low | US | 2026-06-12 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ezn2janz.pages.dev](https://www.criminalip.io/domain/report?scan_id=57533639) | Low | N/A | 2026-06-12 02:20:44 (UTC) |
 
 ---
 

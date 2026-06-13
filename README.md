@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://marynalytvynova-ai.github.io](https://www.criminalip.io/domain/report?scan_id=57533623) | Low | US | 2026-06-12 02:20:02 (UTC) |
-| "Poczta - Najlepsza Poczta, największe załączniki - WP" | [http://www.hfmthsga.vercel.app](https://www.criminalip.io/domain/report?scan_id=57533637) | Low | US | 2026-06-12 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://ezn2janz.pages.dev](https://www.criminalip.io/domain/report?scan_id=57533639) | Low | N/A | 2026-06-12 02:20:44 (UTC) |
+| "instagram" | [http://instagramclone-umber.vercel.app](https://www.criminalip.io/domain/report?scan_id=57609155) | Low | US | 2026-06-13 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://en-ledgrcdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57609171) | Low | US | 2026-06-13 02:20:44 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://startio-trezos.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57609173) | Low | US | 2026-06-13 02:21:05 (UTC) |
 
 ---
 

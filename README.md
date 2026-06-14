@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "instagram" | [http://instagramclone-umber.vercel.app](https://www.criminalip.io/domain/report?scan_id=57609155) | Low | US | 2026-06-13 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://en-ledgrcdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57609171) | Low | US | 2026-06-13 02:20:44 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://startio-trezos.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57609173) | Low | US | 2026-06-13 02:21:05 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://suitapp-ensite.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57677655) | Low | US | 2026-06-14 02:20:02 (UTC) |
+| "N/A" | [http://www.netflix-clone-coral-iota.vercel.app](https://www.criminalip.io/domain/report?scan_id=57677658) | Critical | US | 2026-06-14 02:20:22 (UTC) |
+| "404: NOT_FOUND" | [http://www.132tyesy.vercel.app](https://www.criminalip.io/domain/report?scan_id=57677680) | Low | US | 2026-06-14 02:20:53 (UTC) |
 
 ---
 

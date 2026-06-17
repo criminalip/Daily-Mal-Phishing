@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Telegram" | [http://web.tegylq.top](https://www.criminalip.io/domain/report?scan_id=57818127) | Critical | IN | 2026-06-16 02:20:02 (UTC) |
-| "Telegram" | [http://web.teggfw.top](https://www.criminalip.io/domain/report?scan_id=57818141) | Critical | IN | 2026-06-16 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://verify-badge-vip10.pages.dev](https://www.criminalip.io/domain/report?scan_id=57818146) | Low | N/A | 2026-06-16 02:21:04 (UTC) |
+| "Site not found · GitHub Pages" | [http://meta66245-cmyk.github.io](https://www.criminalip.io/domain/report?scan_id=57892077) | Low | US | 2026-06-17 02:20:02 (UTC) |
+| "N/A" | [http://allegro.ofert83481.shop](https://www.criminalip.io/domain/report?scan_id=57892082) | Critical | N/A | 2026-06-17 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://cbj-portal.pages.dev](https://www.criminalip.io/domain/report?scan_id=57892100) | Low | N/A | 2026-06-17 02:20:44 (UTC) |
 
 ---
 

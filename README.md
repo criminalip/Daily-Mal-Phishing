@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://meta66245-cmyk.github.io](https://www.criminalip.io/domain/report?scan_id=57892077) | Low | US | 2026-06-17 02:20:02 (UTC) |
-| "N/A" | [http://allegro.ofert83481.shop](https://www.criminalip.io/domain/report?scan_id=57892082) | Critical | N/A | 2026-06-17 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://cbj-portal.pages.dev](https://www.criminalip.io/domain/report?scan_id=57892100) | Low | N/A | 2026-06-17 02:20:44 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://extensionscoinbaisus.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57964452) | Low | US | 2026-06-18 02:20:02 (UTC) |
+| "Trezor Wallet Recovery" | [http://trezor-help.support](https://www.criminalip.io/domain/report?scan_id=57964456) | Critical | US | 2026-06-18 02:20:23 (UTC) |
+| "GEBYAR UNDIAN SHOPEE 2020" | [http://shopeeprize339.blogspot.com](https://www.criminalip.io/domain/report?scan_id=57964457) | Low | US | 2026-06-18 02:20:44 (UTC) |
 
 ---
 

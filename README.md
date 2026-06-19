@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://extensionscoinbaisus.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=57964452) | Low | US | 2026-06-18 02:20:02 (UTC) |
-| "Trezor Wallet Recovery" | [http://trezor-help.support](https://www.criminalip.io/domain/report?scan_id=57964456) | Critical | US | 2026-06-18 02:20:23 (UTC) |
-| "GEBYAR UNDIAN SHOPEE 2020" | [http://shopeeprize339.blogspot.com](https://www.criminalip.io/domain/report?scan_id=57964457) | Low | US | 2026-06-18 02:20:44 (UTC) |
+| "404: NOT_FOUND" | [http://toplukonut7129215215.vercel.app](https://www.criminalip.io/domain/report?scan_id=58040092) | Low | US | 2026-06-19 02:20:03 (UTC) |
+| "pl-84382.click | 502: Bad gateway" | [http://allegro.pl-84382.click](https://www.criminalip.io/domain/report?scan_id=58040095) | Critical | N/A | 2026-06-19 02:20:34 (UTC) |
+| "OKX Wallet: One Crypto Wallet To Web3, Onchain OS, DeFi & Multi-Chains | OKX Wallet" | [http://web3.oyigwzh.biz](https://www.criminalip.io/domain/report?scan_id=58040098) | Critical | SG | 2026-06-19 02:20:55 (UTC) |
 
 ---
 

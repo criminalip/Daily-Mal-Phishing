@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Atendimento Empresarial" | [http://www.bradesco.atualizacaopj.net](https://www.criminalip.io/domain/report?scan_id=58111976) | Critical | DE | 2026-06-20 02:20:03 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://bitqinex.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58111988) | Low | US | 2026-06-20 02:20:46 (UTC) |
-| "Default Web Site Page" | [http://68-210-98-112.cprapid.com](https://www.criminalip.io/domain/report?scan_id=58111996) | Low | AT | 2026-06-20 02:21:49 (UTC) |
+| "N/A" | [http://allegro.prywatne8329.lol](https://www.criminalip.io/domain/report?scan_id=58182739) | Critical | N/A | 2026-06-21 02:20:02 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://btccompensation.blogspot.com](https://www.criminalip.io/domain/report?scan_id=58182772) | Low | US | 2026-06-21 02:20:23 (UTC) |
+| "Sign in to my Account" | [http://att-resetaccount.netlify.app](https://www.criminalip.io/domain/report?scan_id=58182773) | Low | SG | 2026-06-21 02:20:44 (UTC) |
 
 ---
 

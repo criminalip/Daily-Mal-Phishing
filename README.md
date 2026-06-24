@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://muhammad-rehan126.github.io](https://www.criminalip.io/domain/report?scan_id=58330109) | Low | US | 2026-06-23 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://habeeiiyy.github.io](https://www.criminalip.io/domain/report?scan_id=58330116) | Low | US | 2026-06-23 02:20:23 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://www.rbxvans.blogspot.com](https://www.criminalip.io/domain/report?scan_id=58330134) | Low | US | 2026-06-23 02:20:44 (UTC) |
+| "404: NOT_FOUND" | [http://facebook-page-verified.com](https://www.criminalip.io/domain/report?scan_id=58406102) | Critical | US | 2026-06-24 02:20:34 (UTC) |
+| "ameli-mesavoirs.com" | [http://ameli-mesavoirs.com](https://www.criminalip.io/domain/report?scan_id=58406146) | Critical | IR | 2026-06-24 02:21:05 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://damai6rt.com](https://www.criminalip.io/domain/report?scan_id=58406167) | Critical | N/A | 2026-06-24 02:21:47 (UTC) |
 
 ---
 

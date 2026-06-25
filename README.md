@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://facebook-page-verified.com](https://www.criminalip.io/domain/report?scan_id=58406102) | Critical | US | 2026-06-24 02:20:34 (UTC) |
-| "ameli-mesavoirs.com" | [http://ameli-mesavoirs.com](https://www.criminalip.io/domain/report?scan_id=58406146) | Critical | IR | 2026-06-24 02:21:05 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://damai6rt.com](https://www.criminalip.io/domain/report?scan_id=58406167) | Critical | N/A | 2026-06-24 02:21:47 (UTC) |
+| "Run this app to see the results here." | [http://01b0439c-ba2b-4c7f-8641-b9865db23689-00-1emp6yfnk9mkw.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=58482550) | Low | US | 2026-06-25 02:20:14 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://nt5jc-uowkl9-amo9e7-shr-6ry.pages.dev](https://www.criminalip.io/domain/report?scan_id=58482578) | Low | N/A | 2026-06-25 02:20:46 (UTC) |
+| "Account Suspended" | [http://mail.fr1-webmail-free.s-host.net](https://www.criminalip.io/domain/report?scan_id=58482657) | Low | UA | 2026-06-25 02:22:00 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Run this app to see the results here." | [http://01b0439c-ba2b-4c7f-8641-b9865db23689-00-1emp6yfnk9mkw.worf.replit.dev](https://www.criminalip.io/domain/report?scan_id=58482550) | Low | US | 2026-06-25 02:20:14 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://nt5jc-uowkl9-amo9e7-shr-6ry.pages.dev](https://www.criminalip.io/domain/report?scan_id=58482578) | Low | N/A | 2026-06-25 02:20:46 (UTC) |
-| "Account Suspended" | [http://mail.fr1-webmail-free.s-host.net](https://www.criminalip.io/domain/report?scan_id=58482657) | Low | UA | 2026-06-25 02:22:00 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://selnavox-biz-zormeluta-r6t5cy91.pages.dev](https://www.criminalip.io/domain/report?scan_id=58557751) | Low | N/A | 2026-06-26 02:20:02 (UTC) |
+| "Site not found · GitHub Pages" | [http://kunwardev0210.github.io](https://www.criminalip.io/domain/report?scan_id=58557754) | Low | US | 2026-06-26 02:20:34 (UTC) |
+| "Dashboard CyberMaster" | [http://whats-app-applicatie-berichten54090.netlify.app](https://www.criminalip.io/domain/report?scan_id=58557759) | Low | SG | 2026-06-26 02:20:55 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://selnavox-biz-zormeluta-r6t5cy91.pages.dev](https://www.criminalip.io/domain/report?scan_id=58557751) | Low | N/A | 2026-06-26 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://kunwardev0210.github.io](https://www.criminalip.io/domain/report?scan_id=58557754) | Low | US | 2026-06-26 02:20:34 (UTC) |
-| "Dashboard CyberMaster" | [http://whats-app-applicatie-berichten54090.netlify.app](https://www.criminalip.io/domain/report?scan_id=58557759) | Low | SG | 2026-06-26 02:20:55 (UTC) |
+| "ZE Express | Bebidas geladas" | [http://promocao-do-ze.shop](https://www.criminalip.io/domain/report?scan_id=58640808) | Critical | SE | 2026-06-27 02:20:02 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://startinledzer-cdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58640862) | Low | US | 2026-06-27 02:20:54 (UTC) |
+| "pl-uz7gz.sbs | 522: Connection timed out" | [http://allegrolokalnie.pl-uz7gz.sbs](https://www.criminalip.io/domain/report?scan_id=58640899) | Critical | N/A | 2026-06-27 02:21:15 (UTC) |
 
 ---
 

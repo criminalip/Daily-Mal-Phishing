@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://business-blue-tick-confirmed-000102026.pages.dev](https://www.criminalip.io/domain/report?scan_id=58718966) | Low | N/A | 2026-06-28 02:20:02 (UTC) |
-| "N/A" | [http://facebook-appeal-apply.com](https://www.criminalip.io/domain/report?scan_id=58718997) | Critical | US | 2026-06-28 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://icemobility-devonkingopendocaccess.pages.dev](https://www.criminalip.io/domain/report?scan_id=58719012) | Low | N/A | 2026-06-28 02:20:54 (UTC) |
+| "N/A" | [http://allegrolokalne.bih4837h4h93.shop](https://www.criminalip.io/domain/report?scan_id=58798360) | Critical | N/A | 2026-06-29 02:20:02 (UTC) |
+| "N/A" | [http://allegro.309238h75.shop](https://www.criminalip.io/domain/report?scan_id=58798362) | Critical | N/A | 2026-06-29 02:20:23 (UTC) |
+| "Land Bank of the Philippines | Login" | [http://landbank-customerrcare-ph-web.vercel.app](https://www.criminalip.io/domain/report?scan_id=58798365) | Low | US | 2026-06-29 02:20:54 (UTC) |
 
 ---
 

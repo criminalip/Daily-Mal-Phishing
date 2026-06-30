@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://allegrolokalne.bih4837h4h93.shop](https://www.criminalip.io/domain/report?scan_id=58798360) | Critical | N/A | 2026-06-29 02:20:02 (UTC) |
-| "N/A" | [http://allegro.309238h75.shop](https://www.criminalip.io/domain/report?scan_id=58798362) | Critical | N/A | 2026-06-29 02:20:23 (UTC) |
-| "Land Bank of the Philippines | Login" | [http://landbank-customerrcare-ph-web.vercel.app](https://www.criminalip.io/domain/report?scan_id=58798365) | Low | US | 2026-06-29 02:20:54 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://eng-suiteap.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58881963) | Low | US | 2026-06-30 02:20:03 (UTC) |
+| "Site Not Found | Framer" | [http://mindful-material-449985.framer.app](https://www.criminalip.io/domain/report?scan_id=58882074) | Low | UA | 2026-06-30 02:20:27 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://suites-trzoer.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58882093) | Low | US | 2026-06-30 02:20:49 (UTC) |
 
 ---
 

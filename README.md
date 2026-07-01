@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Error: Page Not Found | Wix Studio" | [http://eng-suiteap.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58881963) | Low | US | 2026-06-30 02:20:03 (UTC) |
-| "Site Not Found | Framer" | [http://mindful-material-449985.framer.app](https://www.criminalip.io/domain/report?scan_id=58882074) | Low | UA | 2026-06-30 02:20:27 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://suites-trzoer.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=58882093) | Low | US | 2026-06-30 02:20:49 (UTC) |
+| "Google" | [http://gratka.2026listings.shop](https://www.criminalip.io/domain/report?scan_id=58962472) | Safe | N/A | 2026-07-01 02:20:38 (UTC) |
+| "." | [http://reactivation-espace-soge.bolt.host](https://www.criminalip.io/domain/report?scan_id=58962487) | Low | N/A | 2026-07-01 02:20:59 (UTC) |
+| "Access Denied" | [http://f2r5.cc](https://www.criminalip.io/domain/report?scan_id=58962497) | Dangerous | US | 2026-07-01 02:21:30 (UTC) |
 
 ---
 

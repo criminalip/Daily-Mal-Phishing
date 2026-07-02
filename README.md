@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Google" | [http://gratka.2026listings.shop](https://www.criminalip.io/domain/report?scan_id=58962472) | Safe | N/A | 2026-07-01 02:20:38 (UTC) |
-| "." | [http://reactivation-espace-soge.bolt.host](https://www.criminalip.io/domain/report?scan_id=58962487) | Low | N/A | 2026-07-01 02:20:59 (UTC) |
-| "Access Denied" | [http://f2r5.cc](https://www.criminalip.io/domain/report?scan_id=58962497) | Dangerous | US | 2026-07-01 02:21:30 (UTC) |
+| "Iniciar" | [http://actualizacion-1938--confirmacion365.replit.app](https://www.criminalip.io/domain/report?scan_id=59039997) | Low | US | 2026-07-02 02:20:02 (UTC) |
+| "Netflix" | [http://verificar-netflix-suscription.com](https://www.criminalip.io/domain/report?scan_id=59040023) | Critical | US | 2026-07-02 02:20:34 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://mainbri-dge.pages.dev](https://www.criminalip.io/domain/report?scan_id=59040024) | Low | N/A | 2026-07-02 02:21:05 (UTC) |
 
 ---
 

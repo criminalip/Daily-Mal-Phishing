@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Iniciar" | [http://actualizacion-1938--confirmacion365.replit.app](https://www.criminalip.io/domain/report?scan_id=59039997) | Low | US | 2026-07-02 02:20:02 (UTC) |
-| "Netflix" | [http://verificar-netflix-suscription.com](https://www.criminalip.io/domain/report?scan_id=59040023) | Critical | US | 2026-07-02 02:20:34 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://mainbri-dge.pages.dev](https://www.criminalip.io/domain/report?scan_id=59040024) | Low | N/A | 2026-07-02 02:21:05 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ernaqemi-biz-zormutela-y8t5pc23.pages.dev](https://www.criminalip.io/domain/report?scan_id=59113545) | Low | N/A | 2026-07-03 02:21:35 (UTC) |
+| "s35w.top" | [http://s35g.top](https://www.criminalip.io/domain/report?scan_id=59113546) | Dangerous | HK | 2026-07-03 02:21:56 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp0ct0-jorqal-biz-menfro-tusvi.pages.dev](https://www.criminalip.io/domain/report?scan_id=59113617) | Low | N/A | 2026-07-03 02:23:30 (UTC) |
 
 ---
 

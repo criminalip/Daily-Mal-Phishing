@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://ernaqemi-biz-zormutela-y8t5pc23.pages.dev](https://www.criminalip.io/domain/report?scan_id=59113545) | Low | N/A | 2026-07-03 02:21:35 (UTC) |
-| "s35w.top" | [http://s35g.top](https://www.criminalip.io/domain/report?scan_id=59113546) | Dangerous | HK | 2026-07-03 02:21:56 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp0ct0-jorqal-biz-menfro-tusvi.pages.dev](https://www.criminalip.io/domain/report?scan_id=59113617) | Low | N/A | 2026-07-03 02:23:30 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://berquna-gld-vormela-c7x3qk91.pages.dev](https://www.criminalip.io/domain/report?scan_id=59185239) | Low | N/A | 2026-07-04 02:20:02 (UTC) |
+| "Verificação de Conta" | [http://creditointeligentedigital.online](https://www.criminalip.io/domain/report?scan_id=59185240) | Critical | BR | 2026-07-04 02:20:23 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://startin-monpaycdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59185248) | Low | US | 2026-07-04 02:21:04 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://berquna-gld-vormela-c7x3qk91.pages.dev](https://www.criminalip.io/domain/report?scan_id=59185239) | Low | N/A | 2026-07-04 02:20:02 (UTC) |
-| "Verificação de Conta" | [http://creditointeligentedigital.online](https://www.criminalip.io/domain/report?scan_id=59185240) | Critical | BR | 2026-07-04 02:20:23 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://startin-monpaycdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59185248) | Low | US | 2026-07-04 02:21:04 (UTC) |
+| "WhatsApp 網頁版 - 端對端加密隱私防護的跨國商務保密網" | [http://ing.h5-chat-whatsapp.tw.cn](https://www.criminalip.io/domain/report?scan_id=59256140) | Critical | SC | 2026-07-05 02:20:34 (UTC) |
+| "One moment, please..." | [http://wnr.eea.mytemp.website](https://www.criminalip.io/domain/report?scan_id=59256141) | Low | US | 2026-07-05 02:20:55 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://us-trizrsuite.pages.dev](https://www.criminalip.io/domain/report?scan_id=59256156) | Low | N/A | 2026-07-05 02:21:47 (UTC) |
 
 ---
 

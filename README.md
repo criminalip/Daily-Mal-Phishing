@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://nzdbmd-a2seg-3whto-c2g48m.pages.dev](https://www.criminalip.io/domain/report?scan_id=59327256) | Low | N/A | 2026-07-06 02:20:02 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://connect-ledgecdn.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59327260) | Low | US | 2026-07-06 02:20:23 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://startio-ledzertart.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59327265) | Low | US | 2026-07-06 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp0ct0-kornaq-biz-pramta-zodru.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400442) | Low | N/A | 2026-07-07 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp0ct0-rolvex-biz-kranvo-fidra.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400584) | Low | N/A | 2026-07-07 02:20:48 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp0ct0-xerniq-biz-klomra-zeftal.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400700) | Low | N/A | 2026-07-07 02:21:10 (UTC) |
 
 ---
 

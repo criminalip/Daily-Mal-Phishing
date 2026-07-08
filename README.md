@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://sp0ct0-kornaq-biz-pramta-zodru.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400442) | Low | N/A | 2026-07-07 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp0ct0-rolvex-biz-kranvo-fidra.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400584) | Low | N/A | 2026-07-07 02:20:48 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp0ct0-xerniq-biz-klomra-zeftal.pages.dev](https://www.criminalip.io/domain/report?scan_id=59400700) | Low | N/A | 2026-07-07 02:21:10 (UTC) |
+| "Bank Bima" | [http://aktivasipemuluhanbimamobile.netlify.app](https://www.criminalip.io/domain/report?scan_id=59488974) | Low | SG | 2026-07-08 02:20:02 (UTC) |
+| "identity-security-portal.pages.dev" | [http://identity-security-portal.pages.dev](https://www.criminalip.io/domain/report?scan_id=59488979) | Low | N/A | 2026-07-08 02:20:28 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://trezon-io-startapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59488982) | Low | US | 2026-07-08 02:20:50 (UTC) |
 
 ---
 

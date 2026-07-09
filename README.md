@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Bank Bima" | [http://aktivasipemuluhanbimamobile.netlify.app](https://www.criminalip.io/domain/report?scan_id=59488974) | Low | SG | 2026-07-08 02:20:02 (UTC) |
-| "identity-security-portal.pages.dev" | [http://identity-security-portal.pages.dev](https://www.criminalip.io/domain/report?scan_id=59488979) | Low | N/A | 2026-07-08 02:20:28 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://trezon-io-startapps.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=59488982) | Low | US | 2026-07-08 02:20:50 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://officvial-ledr-net.pages.dev](https://www.criminalip.io/domain/report?scan_id=59568307) | Low | N/A | 2026-07-09 02:20:16 (UTC) |
+| "Site not found · GitHub Pages" | [http://prashant-gkv.github.io](https://www.criminalip.io/domain/report?scan_id=59568326) | Low | US | 2026-07-09 02:20:39 (UTC) |
+| "N/A" | [http://allegro.987234hg23.surf](https://www.criminalip.io/domain/report?scan_id=59568330) | Critical | N/A | 2026-07-09 02:21:11 (UTC) |
 
 ---
 

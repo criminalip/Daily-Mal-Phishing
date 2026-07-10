@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://officvial-ledr-net.pages.dev](https://www.criminalip.io/domain/report?scan_id=59568307) | Low | N/A | 2026-07-09 02:20:16 (UTC) |
-| "Site not found · GitHub Pages" | [http://prashant-gkv.github.io](https://www.criminalip.io/domain/report?scan_id=59568326) | Low | US | 2026-07-09 02:20:39 (UTC) |
-| "N/A" | [http://allegro.987234hg23.surf](https://www.criminalip.io/domain/report?scan_id=59568330) | Critical | N/A | 2026-07-09 02:21:11 (UTC) |
+| "Site not found · GitHub Pages" | [http://soniyalodhi123.github.io](https://www.criminalip.io/domain/report?scan_id=59649878) | Low | US | 2026-07-10 02:20:03 (UTC) |
+| "No such app" | [http://ail-rosenheim-marion-knauf-bc9143473673.herokuapp.com](https://www.criminalip.io/domain/report?scan_id=59649886) | Low | IE | 2026-07-10 02:20:45 (UTC) |
+| "Site not found · GitHub Pages" | [http://mehrazhowlader.github.io](https://www.criminalip.io/domain/report?scan_id=59649910) | Low | US | 2026-07-10 02:21:18 (UTC) |
 
 ---
 

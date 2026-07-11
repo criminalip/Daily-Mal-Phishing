@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://soniyalodhi123.github.io](https://www.criminalip.io/domain/report?scan_id=59649878) | Low | US | 2026-07-10 02:20:03 (UTC) |
-| "No such app" | [http://ail-rosenheim-marion-knauf-bc9143473673.herokuapp.com](https://www.criminalip.io/domain/report?scan_id=59649886) | Low | IE | 2026-07-10 02:20:45 (UTC) |
-| "Site not found · GitHub Pages" | [http://mehrazhowlader.github.io](https://www.criminalip.io/domain/report?scan_id=59649910) | Low | US | 2026-07-10 02:21:18 (UTC) |
+| "Redirecting..." | [http://coinbase-auth-verify-desk-verify-12.net.ph](https://www.criminalip.io/domain/report?scan_id=59741858) | Critical | US | 2026-07-11 02:20:03 (UTC) |
+| "Redirecting..." | [http://metamask-info-deskdeskdeskdeskdeskdeskdeskinboxlinedeskline.net.ph](https://www.criminalip.io/domain/report?scan_id=59741873) | Critical | US | 2026-07-11 02:20:33 (UTC) |
+| "Redirecting..." | [http://hsbconlinebankinginfo.ph](https://www.criminalip.io/domain/report?scan_id=59741875) | Critical | US | 2026-07-11 02:20:56 (UTC) |
 
 ---
 

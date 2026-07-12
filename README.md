@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Redirecting..." | [http://coinbase-auth-verify-desk-verify-12.net.ph](https://www.criminalip.io/domain/report?scan_id=59741858) | Critical | US | 2026-07-11 02:20:03 (UTC) |
-| "Redirecting..." | [http://metamask-info-deskdeskdeskdeskdeskdeskdeskinboxlinedeskline.net.ph](https://www.criminalip.io/domain/report?scan_id=59741873) | Critical | US | 2026-07-11 02:20:33 (UTC) |
-| "Redirecting..." | [http://hsbconlinebankinginfo.ph](https://www.criminalip.io/domain/report?scan_id=59741875) | Critical | US | 2026-07-11 02:20:56 (UTC) |
+| "Blockchain Network" | [http://trustwallet.com-two-factor-authentication.ej.grsudq.com](https://www.criminalip.io/domain/report?scan_id=59891180) | Critical | ES | 2026-07-12 02:20:02 (UTC) |
+| "Document" | [http://facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app](https://www.criminalip.io/domain/report?scan_id=59891186) | Critical | US | 2026-07-12 02:20:33 (UTC) |
+| "facebook" | [http://www.facebook-alpha.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59891193) | Critical | US | 2026-07-12 02:21:15 (UTC) |
 
 ---
 

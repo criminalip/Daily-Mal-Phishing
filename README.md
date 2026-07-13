@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Blockchain Network" | [http://trustwallet.com-two-factor-authentication.ej.grsudq.com](https://www.criminalip.io/domain/report?scan_id=59891180) | Critical | ES | 2026-07-12 02:20:02 (UTC) |
-| "Document" | [http://facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app](https://www.criminalip.io/domain/report?scan_id=59891186) | Critical | US | 2026-07-12 02:20:33 (UTC) |
-| "facebook" | [http://www.facebook-alpha.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59891193) | Critical | US | 2026-07-12 02:21:15 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.app32-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59967294) | Critical | US | 2026-07-13 02:20:03 (UTC) |
+| "facebook" | [http://www.facebook-ilham.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59967303) | Critical | US | 2026-07-13 02:20:24 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://vormora-gld-zentela-c5t9hc74.pages.dev](https://www.criminalip.io/domain/report?scan_id=59967316) | Low | N/A | 2026-07-13 02:21:07 (UTC) |
 
 ---
 

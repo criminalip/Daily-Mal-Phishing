@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://www.app32-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59967294) | Critical | US | 2026-07-13 02:20:03 (UTC) |
-| "facebook" | [http://www.facebook-ilham.blogspot.com](https://www.criminalip.io/domain/report?scan_id=59967303) | Critical | US | 2026-07-13 02:20:24 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://vormora-gld-zentela-c5t9hc74.pages.dev](https://www.criminalip.io/domain/report?scan_id=59967316) | Low | N/A | 2026-07-13 02:21:07 (UTC) |
+| "Site not found · GitHub Pages" | [http://sagardevrari.github.io](https://www.criminalip.io/domain/report?scan_id=60115767) | Low | US | 2026-07-14 02:20:02 (UTC) |
+| "Site not found · GitHub Pages" | [http://chenchukiran.github.io](https://www.criminalip.io/domain/report?scan_id=60115837) | Low | US | 2026-07-14 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://qj3mmf-0yof9b-xaox-xdzj9h.pages.dev](https://www.criminalip.io/domain/report?scan_id=60115925) | Low | N/A | 2026-07-14 02:20:44 (UTC) |
 
 ---
 

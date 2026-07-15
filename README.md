@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://sagardevrari.github.io](https://www.criminalip.io/domain/report?scan_id=60115767) | Low | US | 2026-07-14 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://chenchukiran.github.io](https://www.criminalip.io/domain/report?scan_id=60115837) | Low | US | 2026-07-14 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://qj3mmf-0yof9b-xaox-xdzj9h.pages.dev](https://www.criminalip.io/domain/report?scan_id=60115925) | Low | N/A | 2026-07-14 02:20:44 (UTC) |
+| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.id-7543n283sjd4lk2.club](https://www.criminalip.io/domain/report?scan_id=60230594) | Low | US | 2026-07-15 02:20:03 (UTC) |
+| "Access Denied" | [http://wvvw-roblox.com](https://www.criminalip.io/domain/report?scan_id=60230613) | Critical | N/A | 2026-07-15 02:20:46 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://learn-legerwallt.pages.dev](https://www.criminalip.io/domain/report?scan_id=60230661) | Low | N/A | 2026-07-15 02:21:07 (UTC) |
 
 ---
 

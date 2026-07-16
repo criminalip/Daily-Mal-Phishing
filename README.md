@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.id-7543n283sjd4lk2.club](https://www.criminalip.io/domain/report?scan_id=60230594) | Low | US | 2026-07-15 02:20:03 (UTC) |
-| "Access Denied" | [http://wvvw-roblox.com](https://www.criminalip.io/domain/report?scan_id=60230613) | Critical | N/A | 2026-07-15 02:20:46 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://learn-legerwallt.pages.dev](https://www.criminalip.io/domain/report?scan_id=60230661) | Low | N/A | 2026-07-15 02:21:07 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://nlonex-skrez-a7c109-wplm-ponvek.pages.dev](https://www.criminalip.io/domain/report?scan_id=60331916) | Low | N/A | 2026-07-16 02:20:16 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp19ct7-voren-biz-furem-sadik.pages.dev](https://www.criminalip.io/domain/report?scan_id=60331982) | Low | N/A | 2026-07-16 02:20:49 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp19ct7-lured-biz-safem-korin.pages.dev](https://www.criminalip.io/domain/report?scan_id=60332013) | Low | N/A | 2026-07-16 02:21:10 (UTC) |
 
 ---
 

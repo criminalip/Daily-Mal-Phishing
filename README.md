@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://nlonex-skrez-a7c109-wplm-ponvek.pages.dev](https://www.criminalip.io/domain/report?scan_id=60331916) | Low | N/A | 2026-07-16 02:20:16 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp19ct7-voren-biz-furem-sadik.pages.dev](https://www.criminalip.io/domain/report?scan_id=60331982) | Low | N/A | 2026-07-16 02:20:49 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp19ct7-lured-biz-safem-korin.pages.dev](https://www.criminalip.io/domain/report?scan_id=60332013) | Low | N/A | 2026-07-16 02:21:10 (UTC) |
+| "Document - IMK" | [http://doc-signinbox-e59pp.ondigitalocean.app](https://www.criminalip.io/domain/report?scan_id=60468324) | Low | N/A | 2026-07-17 02:20:02 (UTC) |
+| "Apple" | [http://www.brave-safe-spark-b595143f.dh4.onhexcorearena.com](https://www.criminalip.io/domain/report?scan_id=60468334) | Safe | SG | 2026-07-17 02:20:33 (UTC) |
+| "Apple" | [http://www.kali.brave-techy-rocket-451bb16e.dh4.onhexcorearena.com](https://www.criminalip.io/domain/report?scan_id=60468407) | Safe | SG | 2026-07-17 02:21:15 (UTC) |
 
 ---
 

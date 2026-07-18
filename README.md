@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Document - IMK" | [http://doc-signinbox-e59pp.ondigitalocean.app](https://www.criminalip.io/domain/report?scan_id=60468324) | Low | N/A | 2026-07-17 02:20:02 (UTC) |
-| "Apple" | [http://www.brave-safe-spark-b595143f.dh4.onhexcorearena.com](https://www.criminalip.io/domain/report?scan_id=60468334) | Safe | SG | 2026-07-17 02:20:33 (UTC) |
-| "Apple" | [http://www.kali.brave-techy-rocket-451bb16e.dh4.onhexcorearena.com](https://www.criminalip.io/domain/report?scan_id=60468407) | Safe | SG | 2026-07-17 02:21:15 (UTC) |
+| "Worker threw exception | sweet-base-be3a.masonscott641807.workers.dev | Cloudflare" | [http://sweet-base-be3a.masonscott641807.workers.dev](https://www.criminalip.io/domain/report?scan_id=60631541) | Low | N/A | 2026-07-18 02:20:03 (UTC) |
+| "N/A" | [http://allegro.3291200bb.pl](https://www.criminalip.io/domain/report?scan_id=60631542) | Critical | N/A | 2026-07-18 02:20:25 (UTC) |
+| "404 Error: Page Not Found | Wix.com" | [http://reeselarson.wixsite.com](https://www.criminalip.io/domain/report?scan_id=60631545) | Low | US | 2026-07-18 02:20:52 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Worker threw exception | sweet-base-be3a.masonscott641807.workers.dev | Cloudflare" | [http://sweet-base-be3a.masonscott641807.workers.dev](https://www.criminalip.io/domain/report?scan_id=60631541) | Low | N/A | 2026-07-18 02:20:03 (UTC) |
-| "N/A" | [http://allegro.3291200bb.pl](https://www.criminalip.io/domain/report?scan_id=60631542) | Critical | N/A | 2026-07-18 02:20:25 (UTC) |
-| "404 Error: Page Not Found | Wix.com" | [http://reeselarson.wixsite.com](https://www.criminalip.io/domain/report?scan_id=60631545) | Low | US | 2026-07-18 02:20:52 (UTC) |
+| "facebook" | [http://www.ly-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=60778749) | Low | US | 2026-07-19 02:20:04 (UTC) |
+| "Site not found · GitHub Pages" | [http://kaleemjaveedakram.github.io](https://www.criminalip.io/domain/report?scan_id=60778790) | Low | US | 2026-07-19 02:20:34 (UTC) |
+| "Site not found · GitHub Pages" | [http://shivam-sharma221.github.io](https://www.criminalip.io/domain/report?scan_id=60778907) | Low | US | 2026-07-19 02:20:56 (UTC) |
 
 ---
 

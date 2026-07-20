@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "facebook" | [http://www.ly-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=60778749) | Low | US | 2026-07-19 02:20:04 (UTC) |
-| "Site not found · GitHub Pages" | [http://kaleemjaveedakram.github.io](https://www.criminalip.io/domain/report?scan_id=60778790) | Low | US | 2026-07-19 02:20:34 (UTC) |
-| "Site not found · GitHub Pages" | [http://shivam-sharma221.github.io](https://www.criminalip.io/domain/report?scan_id=60778907) | Low | US | 2026-07-19 02:20:56 (UTC) |
+| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.lokalne-ofety92133.click](https://www.criminalip.io/domain/report?scan_id=60926889) | Low | US | 2026-07-20 02:20:03 (UTC) |
+| "Site not found · GitHub Pages" | [http://bhushanisnot.github.io](https://www.criminalip.io/domain/report?scan_id=60927848) | Low | US | 2026-07-20 02:21:33 (UTC) |
+| "404 Error: Page Not Found | Wix Studio" | [http://geigerbill.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=60928233) | Low | US | 2026-07-20 02:21:54 (UTC) |
 
 ---
 

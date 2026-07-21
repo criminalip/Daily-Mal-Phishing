@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Allegro Lokalnie - Wystaw ogłoszenia za darmo i kupuj od osób z Twojej okolicy" | [http://allegrolokalnie.lokalne-ofety92133.click](https://www.criminalip.io/domain/report?scan_id=60926889) | Low | US | 2026-07-20 02:20:03 (UTC) |
-| "Site not found · GitHub Pages" | [http://bhushanisnot.github.io](https://www.criminalip.io/domain/report?scan_id=60927848) | Low | US | 2026-07-20 02:21:33 (UTC) |
-| "404 Error: Page Not Found | Wix Studio" | [http://geigerbill.wixstudio.com](https://www.criminalip.io/domain/report?scan_id=60928233) | Low | US | 2026-07-20 02:21:54 (UTC) |
+| "Trust Wallet" | [http://www.trustwallet.com-two-factor-authentication05.ao.yesixrq.com](https://www.criminalip.io/domain/report?scan_id=61097067) | Critical | GB | 2026-07-21 02:20:03 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://jlonex-skolt-a7c109-wplm-bravik.pages.dev](https://www.criminalip.io/domain/report?scan_id=61098370) | Low | N/A | 2026-07-21 02:21:08 (UTC) |
+| "Instagram" | [http://www.page-instagram.vercel.app](https://www.criminalip.io/domain/report?scan_id=61098966) | Low | US | 2026-07-21 02:21:49 (UTC) |
 
 ---
 

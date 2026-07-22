@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Trust Wallet" | [http://www.trustwallet.com-two-factor-authentication05.ao.yesixrq.com](https://www.criminalip.io/domain/report?scan_id=61097067) | Critical | GB | 2026-07-21 02:20:03 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://jlonex-skolt-a7c109-wplm-bravik.pages.dev](https://www.criminalip.io/domain/report?scan_id=61098370) | Low | N/A | 2026-07-21 02:21:08 (UTC) |
-| "Instagram" | [http://www.page-instagram.vercel.app](https://www.criminalip.io/domain/report?scan_id=61098966) | Low | US | 2026-07-21 02:21:49 (UTC) |
+| "facebook" | [http://www.loginfacebooklogin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61229338) | Low | US | 2026-07-22 02:20:12 (UTC) |
+| "facebook" | [http://loginfacebooklogin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61229434) | Low | US | 2026-07-22 02:20:33 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://support-suite-trzr.pages.dev](https://www.criminalip.io/domain/report?scan_id=61229606) | Low | N/A | 2026-07-22 02:21:37 (UTC) |
 
 ---
 

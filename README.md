@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "facebook" | [http://www.loginfacebooklogin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61229338) | Low | US | 2026-07-22 02:20:12 (UTC) |
-| "facebook" | [http://loginfacebooklogin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61229434) | Low | US | 2026-07-22 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://support-suite-trzr.pages.dev](https://www.criminalip.io/domain/report?scan_id=61229606) | Low | N/A | 2026-07-22 02:21:37 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://dsf0-46mz-8mh-ehc5-bwr1zb.pages.dev](https://www.criminalip.io/domain/report?scan_id=61358721) | Low | N/A | 2026-07-23 02:20:02 (UTC) |
+| "bet365" | [http://3658sora658200.cc](https://www.criminalip.io/domain/report?scan_id=61358818) | Critical | HK | 2026-07-23 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://bet365easyslots-cfd.pages.dev](https://www.criminalip.io/domain/report?scan_id=61358914) | Low | N/A | 2026-07-23 02:20:54 (UTC) |
 
 ---
 

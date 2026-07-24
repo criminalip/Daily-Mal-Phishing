@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://dsf0-46mz-8mh-ehc5-bwr1zb.pages.dev](https://www.criminalip.io/domain/report?scan_id=61358721) | Low | N/A | 2026-07-23 02:20:02 (UTC) |
-| "bet365" | [http://3658sora658200.cc](https://www.criminalip.io/domain/report?scan_id=61358818) | Critical | HK | 2026-07-23 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://bet365easyslots-cfd.pages.dev](https://www.criminalip.io/domain/report?scan_id=61358914) | Low | N/A | 2026-07-23 02:20:54 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp5ct-virek-biz8-murel-hanox.pages.dev](https://www.criminalip.io/domain/report?scan_id=61471718) | Low | N/A | 2026-07-24 02:20:24 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://tre-zer-wallet.pages.dev](https://www.criminalip.io/domain/report?scan_id=61471790) | Low | N/A | 2026-07-24 02:20:55 (UTC) |
+| "Instagram Clone" | [http://instagram-clone-mauve-beta.vercel.app](https://www.criminalip.io/domain/report?scan_id=61471979) | Critical | US | 2026-07-24 02:21:58 (UTC) |
 
 ---
 

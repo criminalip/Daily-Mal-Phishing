@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://sp5ct-virek-biz8-murel-hanox.pages.dev](https://www.criminalip.io/domain/report?scan_id=61471718) | Low | N/A | 2026-07-24 02:20:24 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://tre-zer-wallet.pages.dev](https://www.criminalip.io/domain/report?scan_id=61471790) | Low | N/A | 2026-07-24 02:20:55 (UTC) |
-| "Instagram Clone" | [http://instagram-clone-mauve-beta.vercel.app](https://www.criminalip.io/domain/report?scan_id=61471979) | Critical | US | 2026-07-24 02:21:58 (UTC) |
+| "Ledger Live" | [http://net-ledger-wallet-data-script.vercel.app](https://www.criminalip.io/domain/report?scan_id=61600561) | Low | US | 2026-07-25 02:20:03 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://w09-qwr-0s2-i2xcs1-d0fc-80kf.pages.dev](https://www.criminalip.io/domain/report?scan_id=61600600) | Low | N/A | 2026-07-25 02:20:40 (UTC) |
+| "N/A" | [http://eventchecker-m8.netlify.app](https://www.criminalip.io/domain/report?scan_id=61600644) | Low | SG | 2026-07-25 02:21:11 (UTC) |
 
 ---
 

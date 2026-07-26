@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Ledger Live" | [http://net-ledger-wallet-data-script.vercel.app](https://www.criminalip.io/domain/report?scan_id=61600561) | Low | US | 2026-07-25 02:20:03 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://w09-qwr-0s2-i2xcs1-d0fc-80kf.pages.dev](https://www.criminalip.io/domain/report?scan_id=61600600) | Low | N/A | 2026-07-25 02:20:40 (UTC) |
-| "N/A" | [http://eventchecker-m8.netlify.app](https://www.criminalip.io/domain/report?scan_id=61600644) | Low | SG | 2026-07-25 02:21:11 (UTC) |
+| "Facebook" | [http://www.facebooksociallink.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61717292) | Low | US | 2026-07-26 02:20:13 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.facebooklogincomin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61717341) | Low | US | 2026-07-26 02:20:45 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp3ct-baslor-biz8-qurvik-fonel.pages.dev](https://www.criminalip.io/domain/report?scan_id=61717379) | Low | N/A | 2026-07-26 02:21:06 (UTC) |
 
 ---
 

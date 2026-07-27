@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Facebook" | [http://www.facebooksociallink.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61717292) | Low | US | 2026-07-26 02:20:13 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://www.facebooklogincomin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61717341) | Low | US | 2026-07-26 02:20:45 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://sp3ct-baslor-biz8-qurvik-fonel.pages.dev](https://www.criminalip.io/domain/report?scan_id=61717379) | Low | N/A | 2026-07-26 02:21:06 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp3ct-barsel-biz8-kavqor-fudem.pages.dev](https://www.criminalip.io/domain/report?scan_id=61836414) | Low | N/A | 2026-07-27 02:20:02 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://telzora-gld-fentora-r9t6hk55.pages.dev](https://www.criminalip.io/domain/report?scan_id=61836525) | Low | N/A | 2026-07-27 02:20:23 (UTC) |
+| "facebook" | [http://facebook-login-be.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61836669) | Critical | US | 2026-07-27 02:21:00 (UTC) |
 
 ---
 

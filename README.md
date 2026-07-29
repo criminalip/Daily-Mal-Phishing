@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://www.g4educacao-google.vercel.app](https://www.criminalip.io/domain/report?scan_id=61962948) | Critical | US | 2026-07-28 02:20:03 (UTC) |
-| "Attention Required! | Cloudflare" | [http://www-id-me.viewonlineid-me.gr.com](https://www.criminalip.io/domain/report?scan_id=61963048) | Low | N/A | 2026-07-28 02:20:49 (UTC) |
-| "facebook" | [http://www.facebooksignuplogin.blogspot.com](https://www.criminalip.io/domain/report?scan_id=61963106) | Low | US | 2026-07-28 02:21:20 (UTC) |
+| "Instagram" | [http://instagram-five-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=62094241) | Critical | US | 2026-07-29 02:20:03 (UTC) |
+| "Site not found" | [http://shiny-cupcake-08714b.netlify.app](https://www.criminalip.io/domain/report?scan_id=62094252) | Low | SG | 2026-07-29 02:20:23 (UTC) |
+| "Amazon.com" | [http://www.zensi-sukhadiya-amazon-clone.vercel.app](https://www.criminalip.io/domain/report?scan_id=62094328) | Low | US | 2026-07-29 02:20:44 (UTC) |
 
 ---
 

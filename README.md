@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Instagram" | [http://instagram-five-gamma.vercel.app](https://www.criminalip.io/domain/report?scan_id=62094241) | Critical | US | 2026-07-29 02:20:03 (UTC) |
-| "Site not found" | [http://shiny-cupcake-08714b.netlify.app](https://www.criminalip.io/domain/report?scan_id=62094252) | Low | SG | 2026-07-29 02:20:23 (UTC) |
-| "Amazon.com" | [http://www.zensi-sukhadiya-amazon-clone.vercel.app](https://www.criminalip.io/domain/report?scan_id=62094328) | Low | US | 2026-07-29 02:20:44 (UTC) |
+| "Airbnb 2.0" | [http://airbnb-2-csfahad.vercel.app](https://www.criminalip.io/domain/report?scan_id=62413887) | Low | US | 2026-07-30 02:20:02 (UTC) |
+| "https://www.rama-facebook.blogspot.com/" | [http://www.rama-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=62414072) | Critical | US | 2026-07-30 02:20:33 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ledgre-lives-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=62414319) | Low | N/A | 2026-07-30 02:21:14 (UTC) |
 
 ---
 

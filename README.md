@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Airbnb 2.0" | [http://airbnb-2-csfahad.vercel.app](https://www.criminalip.io/domain/report?scan_id=62413887) | Low | US | 2026-07-30 02:20:02 (UTC) |
-| "https://www.rama-facebook.blogspot.com/" | [http://www.rama-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=62414072) | Critical | US | 2026-07-30 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://ledgre-lives-us.pages.dev](https://www.criminalip.io/domain/report?scan_id=62414319) | Low | N/A | 2026-07-30 02:21:14 (UTC) |
+| "Sign in to your Microsoft account" | [http://secure-server-page--microsoftteam0.replit.app](https://www.criminalip.io/domain/report?scan_id=62562662) | Critical | US | 2026-07-31 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://en-ledgr-wllt.pages.dev](https://www.criminalip.io/domain/report?scan_id=62562709) | Low | N/A | 2026-07-31 02:20:33 (UTC) |
+| "Google" | [http://783920-coinbase.com](https://www.criminalip.io/domain/report?scan_id=62562770) | Critical | RU | 2026-07-31 02:20:54 (UTC) |
 
 ---
 

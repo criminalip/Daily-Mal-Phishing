@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Sign in to your Microsoft account" | [http://secure-server-page--microsoftteam0.replit.app](https://www.criminalip.io/domain/report?scan_id=62562662) | Critical | US | 2026-07-31 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://en-ledgr-wllt.pages.dev](https://www.criminalip.io/domain/report?scan_id=62562709) | Low | N/A | 2026-07-31 02:20:33 (UTC) |
-| "Google" | [http://783920-coinbase.com](https://www.criminalip.io/domain/report?scan_id=62562770) | Critical | RU | 2026-07-31 02:20:54 (UTC) |
+| "Security verification - Microsoft account" | [http://secure-page-builder--leahgreene806a3.replit.app](https://www.criminalip.io/domain/report?scan_id=62649422) | Low | US | 2026-08-01 02:20:12 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://31k-ozd-pyiu1-3hf43-ldkz15.pages.dev](https://www.criminalip.io/domain/report?scan_id=62649500) | Low | N/A | 2026-08-01 02:20:54 (UTC) |
+| "Ledger.com/Start — Official Getting Started Guide | Ledger Live App (Official)" | [http://ldzr-strt.netlify.app](https://www.criminalip.io/domain/report?scan_id=62649572) | Low | SG | 2026-08-01 02:21:36 (UTC) |
 
 ---
 

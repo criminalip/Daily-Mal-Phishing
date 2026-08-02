@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Security verification - Microsoft account" | [http://secure-page-builder--leahgreene806a3.replit.app](https://www.criminalip.io/domain/report?scan_id=62649422) | Low | US | 2026-08-01 02:20:12 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://31k-ozd-pyiu1-3hf43-ldkz15.pages.dev](https://www.criminalip.io/domain/report?scan_id=62649500) | Low | N/A | 2026-08-01 02:20:54 (UTC) |
-| "Ledger.com/Start — Official Getting Started Guide | Ledger Live App (Official)" | [http://ldzr-strt.netlify.app](https://www.criminalip.io/domain/report?scan_id=62649572) | Low | SG | 2026-08-01 02:21:36 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://i4t-cnym37-i9wil-e7f-hz7u.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747805) | Low | N/A | 2026-08-02 02:20:02 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://zor-xqrc8c-04k-nzv0-k0q5nq.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747924) | Low | N/A | 2026-08-02 02:22:46 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://aou0-ai3tm-lexikh-xs9q5-e6g.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747940) | Low | N/A | 2026-08-02 02:23:07 (UTC) |
 
 ---
 

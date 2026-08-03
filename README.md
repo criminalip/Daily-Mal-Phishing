@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://i4t-cnym37-i9wil-e7f-hz7u.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747805) | Low | N/A | 2026-08-02 02:20:02 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://zor-xqrc8c-04k-nzv0-k0q5nq.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747924) | Low | N/A | 2026-08-02 02:22:46 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://aou0-ai3tm-lexikh-xs9q5-e6g.pages.dev](https://www.criminalip.io/domain/report?scan_id=62747940) | Low | N/A | 2026-08-02 02:23:07 (UTC) |
+| "N/A" | [http://www.doc-ythvvbc.vercel.app](https://www.criminalip.io/domain/report?scan_id=62842566) | Low | US | 2026-08-03 02:20:02 (UTC) |
+| "https://www.vn-facebook.blogspot.com/" | [http://www.vn-facebook.blogspot.com](https://www.criminalip.io/domain/report?scan_id=62842862) | Critical | US | 2026-08-03 02:20:43 (UTC) |
+| "WalletConnect Pay Profile" | [http://pay-profiles-lp1fpmcxb-walletconnect.vercel.app](https://www.criminalip.io/domain/report?scan_id=62842945) | Low | US | 2026-08-03 02:21:04 (UTC) |
 
 ---
 

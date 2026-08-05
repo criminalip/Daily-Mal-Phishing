@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Facebook" | [http://sp12ct-varsok-biz-feldor-pramik.pages.dev](https://www.criminalip.io/domain/report?scan_id=62933345) | Safe | N/A | 2026-08-04 02:20:02 (UTC) |
-| "404: NOT_FOUND" | [http://protocol-validator.vercel.app](https://www.criminalip.io/domain/report?scan_id=62933355) | Low | US | 2026-08-04 02:20:33 (UTC) |
-| "Netflix Clone" | [http://ntfx-cln.netlify.app](https://www.criminalip.io/domain/report?scan_id=62933362) | Low | SG | 2026-08-04 02:21:15 (UTC) |
+| "N/A" | [http://smbcarad.4skuqx.info](https://www.criminalip.io/domain/report?scan_id=63007792) | Critical | ID | 2026-08-05 02:20:02 (UTC) |
+| "Site not found" | [http://gleeful-florentine-0a05ec.netlify.app](https://www.criminalip.io/domain/report?scan_id=63007810) | Low | SG | 2026-08-05 02:20:23 (UTC) |
+| "Site 3507941.yj625348.web.hosting-test.net blocked" | [http://3507941.yj625348.web.hosting-test.net](https://www.criminalip.io/domain/report?scan_id=63007813) | Low | UA | 2026-08-05 02:20:44 (UTC) |
 
 ---
 

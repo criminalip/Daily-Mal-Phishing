@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "N/A" | [http://smbcarad.4skuqx.info](https://www.criminalip.io/domain/report?scan_id=63007792) | Critical | ID | 2026-08-05 02:20:02 (UTC) |
-| "Site not found" | [http://gleeful-florentine-0a05ec.netlify.app](https://www.criminalip.io/domain/report?scan_id=63007810) | Low | SG | 2026-08-05 02:20:23 (UTC) |
-| "Site 3507941.yj625348.web.hosting-test.net blocked" | [http://3507941.yj625348.web.hosting-test.net](https://www.criminalip.io/domain/report?scan_id=63007813) | Low | UA | 2026-08-05 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp10ct-norem-biz8-lurep-zafik-er0.pages.dev](https://www.criminalip.io/domain/report?scan_id=63121521) | Low | N/A | 2026-08-06 02:20:02 (UTC) |
+| "Sign in - Google Accounts" | [http://moonlit-phoenix-8039b7.netlify.app](https://www.criminalip.io/domain/report?scan_id=63122010) | Low | SG | 2026-08-06 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://c2u4q-xfo-6hlle-e9w8-d8iv70.pages.dev](https://www.criminalip.io/domain/report?scan_id=63122866) | Low | N/A | 2026-08-06 02:22:16 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://sp10ct-norem-biz8-lurep-zafik-er0.pages.dev](https://www.criminalip.io/domain/report?scan_id=63121521) | Low | N/A | 2026-08-06 02:20:02 (UTC) |
-| "Sign in - Google Accounts" | [http://moonlit-phoenix-8039b7.netlify.app](https://www.criminalip.io/domain/report?scan_id=63122010) | Low | SG | 2026-08-06 02:20:44 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://c2u4q-xfo-6hlle-e9w8-d8iv70.pages.dev](https://www.criminalip.io/domain/report?scan_id=63122866) | Low | N/A | 2026-08-06 02:22:16 (UTC) |
+| "Uniswap | Trade Crypto on DeFi’s Leading Exchange" | [http://uniswap-protocol-dex-relay-v451.vercel.app](https://www.criminalip.io/domain/report?scan_id=63221260) | Low | US | 2026-08-07 02:20:13 (UTC) |
+| "findmy-uk.click" | [http://findmy-uk.click](https://www.criminalip.io/domain/report?scan_id=63221344) | Critical | RU | 2026-08-07 02:21:04 (UTC) |
+| "/ipfs/bafybeicg4fajdcrfad2zydmflqfdzywkljju7uwfu5ks22fy3gyoumxjwe/" | [http://loveleadsfed-xlcbug2t-petermurphyprivate7-hub.ipfs.4everland.app](https://www.criminalip.io/domain/report?scan_id=63222043) | Low | N/A | 2026-08-07 02:21:56 (UTC) |
 
 ---
 

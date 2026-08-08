@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Uniswap | Trade Crypto on DeFi’s Leading Exchange" | [http://uniswap-protocol-dex-relay-v451.vercel.app](https://www.criminalip.io/domain/report?scan_id=63221260) | Low | US | 2026-08-07 02:20:13 (UTC) |
-| "findmy-uk.click" | [http://findmy-uk.click](https://www.criminalip.io/domain/report?scan_id=63221344) | Critical | RU | 2026-08-07 02:21:04 (UTC) |
-| "/ipfs/bafybeicg4fajdcrfad2zydmflqfdzywkljju7uwfu5ks22fy3gyoumxjwe/" | [http://loveleadsfed-xlcbug2t-petermurphyprivate7-hub.ipfs.4everland.app](https://www.criminalip.io/domain/report?scan_id=63222043) | Low | N/A | 2026-08-07 02:21:56 (UTC) |
+| "BDVenlínea personas" | [http://ahoraconbdvobtenuncredito.vercel.app](https://www.criminalip.io/domain/report?scan_id=63313642) | Low | US | 2026-08-08 02:20:02 (UTC) |
+| "WordPress Website" | [http://login-santanderkey.com](https://www.criminalip.io/domain/report?scan_id=63313683) | Critical | N/A | 2026-08-08 02:20:23 (UTC) |
+| "Roblox | Бесплатная раздача Robux" | [http://giftrobux.click](https://www.criminalip.io/domain/report?scan_id=63313751) | Critical | N/A | 2026-08-08 02:20:54 (UTC) |
 
 ---
 

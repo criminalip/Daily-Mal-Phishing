@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "BDVenlínea personas" | [http://ahoraconbdvobtenuncredito.vercel.app](https://www.criminalip.io/domain/report?scan_id=63313642) | Low | US | 2026-08-08 02:20:02 (UTC) |
-| "WordPress Website" | [http://login-santanderkey.com](https://www.criminalip.io/domain/report?scan_id=63313683) | Critical | N/A | 2026-08-08 02:20:23 (UTC) |
-| "Roblox | Бесплатная раздача Robux" | [http://giftrobux.click](https://www.criminalip.io/domain/report?scan_id=63313751) | Critical | N/A | 2026-08-08 02:20:54 (UTC) |
+| "Webmail Login | IONOS" | [http://www.uppeyuyfhd.vercel.app](https://www.criminalip.io/domain/report?scan_id=63411114) | Low | US | 2026-08-09 02:20:02 (UTC) |
+| "SZKIC — Studio tworzenia stron internetowych" | [http://pvbtng.top](https://www.criminalip.io/domain/report?scan_id=63411177) | Critical | N/A | 2026-08-09 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://qelquro-nqx-belxeta-p8t4hk23.pages.dev](https://www.criminalip.io/domain/report?scan_id=63411352) | Low | N/A | 2026-08-09 02:21:04 (UTC) |
 
 ---
 

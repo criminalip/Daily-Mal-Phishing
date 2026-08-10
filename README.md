@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Webmail Login | IONOS" | [http://www.uppeyuyfhd.vercel.app](https://www.criminalip.io/domain/report?scan_id=63411114) | Low | US | 2026-08-09 02:20:02 (UTC) |
-| "SZKIC — Studio tworzenia stron internetowych" | [http://pvbtng.top](https://www.criminalip.io/domain/report?scan_id=63411177) | Critical | N/A | 2026-08-09 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://qelquro-nqx-belxeta-p8t4hk23.pages.dev](https://www.criminalip.io/domain/report?scan_id=63411352) | Low | N/A | 2026-08-09 02:21:04 (UTC) |
+| "Site not available" | [http://opensea-sessions56.netlify.app](https://www.criminalip.io/domain/report?scan_id=63502322) | Low | SG | 2026-08-10 02:20:02 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp12ct-kavmik-biz-zondor-lersak.pages.dev](https://www.criminalip.io/domain/report?scan_id=63502422) | Low | N/A | 2026-08-10 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://exodswalet.pages.dev](https://www.criminalip.io/domain/report?scan_id=63502472) | Low | N/A | 2026-08-10 02:20:43 (UTC) |
 
 ---
 

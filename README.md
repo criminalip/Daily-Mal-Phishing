@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not available" | [http://opensea-sessions56.netlify.app](https://www.criminalip.io/domain/report?scan_id=63502322) | Low | SG | 2026-08-10 02:20:02 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://sp12ct-kavmik-biz-zondor-lersak.pages.dev](https://www.criminalip.io/domain/report?scan_id=63502422) | Low | N/A | 2026-08-10 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://exodswalet.pages.dev](https://www.criminalip.io/domain/report?scan_id=63502472) | Low | N/A | 2026-08-10 02:20:43 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://telvora-nqx-zentora-a5x6hk34.pages.dev](https://www.criminalip.io/domain/report?scan_id=63598918) | Low | N/A | 2026-08-11 02:20:12 (UTC) |
+| "Adobe Acrobat - Secure PDF Document" | [http://91a45f.icefactory.cl](https://www.criminalip.io/domain/report?scan_id=63599010) | Moderate | CL | 2026-08-11 02:20:33 (UTC) |
+| "WhatsApp Login" | [http://whatsapp.traviyo.in](https://www.criminalip.io/domain/report?scan_id=63599419) | Critical | IN | 2026-08-11 02:21:04 (UTC) |
 
 ---
 

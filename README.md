@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Seguros Cardiff | Bancolombia" | [http://cancelcardiffbahora.vercel.app](https://www.criminalip.io/domain/report?scan_id=63683619) | Low | US | 2026-08-12 02:20:02 (UTC) |
-| "Transfer Trust Wallet" | [http://www.tranifer-bnb.vercel.app](https://www.criminalip.io/domain/report?scan_id=63683807) | Low | US | 2026-08-12 02:20:23 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://sp15ct-zavven-biz-korun-qelix.pages.dev](https://www.criminalip.io/domain/report?scan_id=63683951) | Low | N/A | 2026-08-12 02:20:44 (UTC) |
+| "One moment, please..." | [http://75dbd9.arcadejafet.cl](https://www.criminalip.io/domain/report?scan_id=63763197) | Critical | CL | 2026-08-13 02:20:02 (UTC) |
+| "Smart Commerce Labs | FShops AI Commerce Ecosystem" | [http://facebookshops.best](https://www.criminalip.io/domain/report?scan_id=63763265) | Critical | N/A | 2026-08-13 02:20:33 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://fr-empty-voice-330d.2415054122105.workers.dev](https://www.criminalip.io/domain/report?scan_id=63763345) | Low | N/A | 2026-08-13 02:21:25 (UTC) |
 
 ---
 

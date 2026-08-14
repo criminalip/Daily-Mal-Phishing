@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "One moment, please..." | [http://75dbd9.arcadejafet.cl](https://www.criminalip.io/domain/report?scan_id=63763197) | Critical | CL | 2026-08-13 02:20:02 (UTC) |
-| "Smart Commerce Labs | FShops AI Commerce Ecosystem" | [http://facebookshops.best](https://www.criminalip.io/domain/report?scan_id=63763265) | Critical | N/A | 2026-08-13 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://fr-empty-voice-330d.2415054122105.workers.dev](https://www.criminalip.io/domain/report?scan_id=63763345) | Low | N/A | 2026-08-13 02:21:25 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://testeredirdesconovo.pages.dev](https://www.criminalip.io/domain/report?scan_id=63866178) | Low | N/A | 2026-08-14 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://aruba8855768977086878989conferma-id-sessione-accesso-certific.othersmx.workers.dev](https://www.criminalip.io/domain/report?scan_id=63866198) | Low | N/A | 2026-08-14 02:20:23 (UTC) |
+| "allegrolokalnie.pl" | [http://allegrolokalnie.lokalna-8128.sbs](https://www.criminalip.io/domain/report?scan_id=63866201) | Critical | N/A | 2026-08-14 02:20:43 (UTC) |
 
 ---
 

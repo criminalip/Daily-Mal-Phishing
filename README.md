@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://testeredirdesconovo.pages.dev](https://www.criminalip.io/domain/report?scan_id=63866178) | Low | N/A | 2026-08-14 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://aruba8855768977086878989conferma-id-sessione-accesso-certific.othersmx.workers.dev](https://www.criminalip.io/domain/report?scan_id=63866198) | Low | N/A | 2026-08-14 02:20:23 (UTC) |
-| "allegrolokalnie.pl" | [http://allegrolokalnie.lokalna-8128.sbs](https://www.criminalip.io/domain/report?scan_id=63866201) | Critical | N/A | 2026-08-14 02:20:43 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://statuesque-buttercream-70ab03-ht1504h-2406cwp.pages.dev](https://www.criminalip.io/domain/report?scan_id=63977283) | Low | N/A | 2026-08-15 02:20:02 (UTC) |
+| "Новинки фильмов 2026 смотреть онлайн бесплатно в HD или скачать в хорошем качестве на русском языке – KinoTam" | [http://api-41829387-44817741.google-cloud.services](https://www.criminalip.io/domain/report?scan_id=63977382) | Critical | CH | 2026-08-15 02:20:23 (UTC) |
+| "App Disabled" | [http://peinmereedmeriansed.wasmer.app](https://www.criminalip.io/domain/report?scan_id=63977500) | Low | SG | 2026-08-15 02:21:04 (UTC) |
 
 ---
 

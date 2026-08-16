@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://statuesque-buttercream-70ab03-ht1504h-2406cwp.pages.dev](https://www.criminalip.io/domain/report?scan_id=63977283) | Low | N/A | 2026-08-15 02:20:02 (UTC) |
-| "Новинки фильмов 2026 смотреть онлайн бесплатно в HD или скачать в хорошем качестве на русском языке – KinoTam" | [http://api-41829387-44817741.google-cloud.services](https://www.criminalip.io/domain/report?scan_id=63977382) | Critical | CH | 2026-08-15 02:20:23 (UTC) |
-| "App Disabled" | [http://peinmereedmeriansed.wasmer.app](https://www.criminalip.io/domain/report?scan_id=63977500) | Low | SG | 2026-08-15 02:21:04 (UTC) |
+| "404: NOT_FOUND" | [http://www.trustwallet-usdt-loader-card.vercel.app](https://www.criminalip.io/domain/report?scan_id=64080647) | Low | US | 2026-08-16 02:20:02 (UTC) |
+| "Discord" | [http://dynamic-rolypoly-cc530a.netlify.app](https://www.criminalip.io/domain/report?scan_id=64080677) | Low | SG | 2026-08-16 02:20:23 (UTC) |
+| "hihudhdgdidenuamryfrr.pages.dev" | [http://hihudhdgdidenuamryfrr.pages.dev](https://www.criminalip.io/domain/report?scan_id=64080710) | Low | N/A | 2026-08-16 02:20:44 (UTC) |
 
 ---
 

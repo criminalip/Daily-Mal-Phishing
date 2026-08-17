@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://www.trustwallet-usdt-loader-card.vercel.app](https://www.criminalip.io/domain/report?scan_id=64080647) | Low | US | 2026-08-16 02:20:02 (UTC) |
-| "Discord" | [http://dynamic-rolypoly-cc530a.netlify.app](https://www.criminalip.io/domain/report?scan_id=64080677) | Low | SG | 2026-08-16 02:20:23 (UTC) |
-| "hihudhdgdidenuamryfrr.pages.dev" | [http://hihudhdgdidenuamryfrr.pages.dev](https://www.criminalip.io/domain/report?scan_id=64080710) | Low | N/A | 2026-08-16 02:20:44 (UTC) |
+| "410 Gone" | [http://bafkreiexrtpkkflfywi6lyfj7zc5bw6zrcvv4dib4wbfjrxnkyxuiohdfm.ipfs.inbrowser.link](https://www.criminalip.io/domain/report?scan_id=64175699) | Critical | US | 2026-08-17 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sock-zizifn-anycast.ludeaphd.workers.dev](https://www.criminalip.io/domain/report?scan_id=64175747) | Low | N/A | 2026-08-17 02:20:22 (UTC) |
+| "Site not found · GitHub Pages" | [http://iambasicallysania.github.io](https://www.criminalip.io/domain/report?scan_id=64175777) | Low | US | 2026-08-17 02:20:43 (UTC) |
 
 ---
 

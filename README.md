@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "410 Gone" | [http://bafkreiexrtpkkflfywi6lyfj7zc5bw6zrcvv4dib4wbfjrxnkyxuiohdfm.ipfs.inbrowser.link](https://www.criminalip.io/domain/report?scan_id=64175699) | Critical | US | 2026-08-17 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sock-zizifn-anycast.ludeaphd.workers.dev](https://www.criminalip.io/domain/report?scan_id=64175747) | Low | N/A | 2026-08-17 02:20:22 (UTC) |
-| "Site not found · GitHub Pages" | [http://iambasicallysania.github.io](https://www.criminalip.io/domain/report?scan_id=64175777) | Low | US | 2026-08-17 02:20:43 (UTC) |
+| "Heart to Heart Travel and Tours - Kenya Safari & Tours" | [http://hearttohearttraveltours.com](https://www.criminalip.io/domain/report?scan_id=64272168) | Critical | US | 2026-08-18 02:20:02 (UTC) |
+| "Site not found · GitHub Pages" | [http://diksha-pal04.github.io](https://www.criminalip.io/domain/report?scan_id=64272367) | Low | US | 2026-08-18 02:20:43 (UTC) |
+| "Meta Business Help Center" | [http://kf84gbrtm5hzqkwwzlxvr5dq9jqm4jvimsf28-h11v.vercel.app](https://www.criminalip.io/domain/report?scan_id=64272462) | Low | US | 2026-08-18 02:21:04 (UTC) |
 
 ---
 

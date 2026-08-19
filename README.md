@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Heart to Heart Travel and Tours - Kenya Safari & Tours" | [http://hearttohearttraveltours.com](https://www.criminalip.io/domain/report?scan_id=64272168) | Critical | US | 2026-08-18 02:20:02 (UTC) |
-| "Site not found · GitHub Pages" | [http://diksha-pal04.github.io](https://www.criminalip.io/domain/report?scan_id=64272367) | Low | US | 2026-08-18 02:20:43 (UTC) |
-| "Meta Business Help Center" | [http://kf84gbrtm5hzqkwwzlxvr5dq9jqm4jvimsf28-h11v.vercel.app](https://www.criminalip.io/domain/report?scan_id=64272462) | Low | US | 2026-08-18 02:21:04 (UTC) |
+| "This app isn't live yet" | [http://php-web-server--eduxsoporte.replit.app](https://www.criminalip.io/domain/report?scan_id=64380072) | Critical | US | 2026-08-19 02:20:02 (UTC) |
+| "วิดีโอที่มาแรงที่สุดของวันนี้" | [http://www.moasd011.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64380138) | Low | US | 2026-08-19 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://blpqr004lk-vxmzkaplx-0a3d1e-lxp73c.pages.dev](https://www.criminalip.io/domain/report?scan_id=64380235) | Low | N/A | 2026-08-19 02:21:15 (UTC) |
 
 ---
 

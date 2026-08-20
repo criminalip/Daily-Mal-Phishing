@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "This app isn't live yet" | [http://php-web-server--eduxsoporte.replit.app](https://www.criminalip.io/domain/report?scan_id=64380072) | Critical | US | 2026-08-19 02:20:02 (UTC) |
-| "วิดีโอที่มาแรงที่สุดของวันนี้" | [http://www.moasd011.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64380138) | Low | US | 2026-08-19 02:20:44 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://blpqr004lk-vxmzkaplx-0a3d1e-lxp73c.pages.dev](https://www.criminalip.io/domain/report?scan_id=64380235) | Low | N/A | 2026-08-19 02:21:15 (UTC) |
+| "Site not found · GitHub Pages" | [http://lu3kyy-eliot.github.io](https://www.criminalip.io/domain/report?scan_id=64472716) | Low | US | 2026-08-20 02:20:02 (UTC) |
+| "Trust Wallet Support" | [http://trustwallet-helpcenter.vercel.app](https://www.criminalip.io/domain/report?scan_id=64472750) | Low | US | 2026-08-20 02:20:23 (UTC) |
+| "WhatsApp" | [http://whatsappzoeiras.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64472785) | Low | US | 2026-08-20 02:20:44 (UTC) |
 
 ---
 

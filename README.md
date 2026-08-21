@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://lu3kyy-eliot.github.io](https://www.criminalip.io/domain/report?scan_id=64472716) | Low | US | 2026-08-20 02:20:02 (UTC) |
-| "Trust Wallet Support" | [http://trustwallet-helpcenter.vercel.app](https://www.criminalip.io/domain/report?scan_id=64472750) | Low | US | 2026-08-20 02:20:23 (UTC) |
-| "WhatsApp" | [http://whatsappzoeiras.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64472785) | Low | US | 2026-08-20 02:20:44 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp4ct-kervax-biz8-morel-dunax.pages.dev](https://www.criminalip.io/domain/report?scan_id=64607082) | Low | N/A | 2026-08-21 02:20:02 (UTC) |
+| "BTG Pactual - Login" | [http://bp.pb3.duckdns.org](https://www.criminalip.io/domain/report?scan_id=64607091) | Low | CA | 2026-08-21 02:20:33 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp4ct-rovalen-biz8-kurem-dasik.pages.dev](https://www.criminalip.io/domain/report?scan_id=64607113) | Low | N/A | 2026-08-21 02:21:04 (UTC) |
 
 ---
 

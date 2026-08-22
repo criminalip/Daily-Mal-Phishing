@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://sp4ct-kervax-biz8-morel-dunax.pages.dev](https://www.criminalip.io/domain/report?scan_id=64607082) | Low | N/A | 2026-08-21 02:20:02 (UTC) |
-| "BTG Pactual - Login" | [http://bp.pb3.duckdns.org](https://www.criminalip.io/domain/report?scan_id=64607091) | Low | CA | 2026-08-21 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp4ct-rovalen-biz8-kurem-dasik.pages.dev](https://www.criminalip.io/domain/report?scan_id=64607113) | Low | N/A | 2026-08-21 02:21:04 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.program-shopee46.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64688620) | Low | US | 2026-08-22 02:20:02 (UTC) |
+| "Amazon" | [http://amazon-clone--weld.vercel.app](https://www.criminalip.io/domain/report?scan_id=64688654) | Low | US | 2026-08-22 02:20:23 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://sp23ct-murik-biz-zapol-vemur.pages.dev](https://www.criminalip.io/domain/report?scan_id=64688701) | Low | N/A | 2026-08-22 02:20:44 (UTC) |
 
 ---
 

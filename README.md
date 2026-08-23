@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://www.program-shopee46.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64688620) | Low | US | 2026-08-22 02:20:02 (UTC) |
-| "Amazon" | [http://amazon-clone--weld.vercel.app](https://www.criminalip.io/domain/report?scan_id=64688654) | Low | US | 2026-08-22 02:20:23 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://sp23ct-murik-biz-zapol-vemur.pages.dev](https://www.criminalip.io/domain/report?scan_id=64688701) | Low | N/A | 2026-08-22 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://fortniteview.top](https://www.criminalip.io/domain/report?scan_id=64769201) | Critical | N/A | 2026-08-23 02:20:03 (UTC) |
+| "IVANA ALAWI || OFFICIAL GIFT" | [http://www.ivanalawaivanoffcials.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64769216) | Low | US | 2026-08-23 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://sp11ct-demvik-biz8-pralsor-kovlen.pages.dev](https://www.criminalip.io/domain/report?scan_id=64769340) | Low | N/A | 2026-08-23 02:20:54 (UTC) |
 
 ---
 

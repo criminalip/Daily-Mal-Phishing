@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://fortniteview.top](https://www.criminalip.io/domain/report?scan_id=64769201) | Critical | N/A | 2026-08-23 02:20:03 (UTC) |
-| "IVANA ALAWI || OFFICIAL GIFT" | [http://www.ivanalawaivanoffcials.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64769216) | Low | US | 2026-08-23 02:20:23 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://sp11ct-demvik-biz8-pralsor-kovlen.pages.dev](https://www.criminalip.io/domain/report?scan_id=64769340) | Low | N/A | 2026-08-23 02:20:54 (UTC) |
+| "SHOPEE" | [http://www.ptshopee679.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64849569) | Low | US | 2026-08-24 02:20:03 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://gfytvd-wiyn-np4qjd-g9ewg7.pages.dev](https://www.criminalip.io/domain/report?scan_id=64849581) | Low | N/A | 2026-08-24 02:20:34 (UTC) |
+| "anmelden-dkb-auth-de.91-218-65-223.plesk.page" | [http://anmelden-dkb-auth-de.91-218-65-223.plesk.page](https://www.criminalip.io/domain/report?scan_id=64849590) | Low | DE | 2026-08-24 02:20:55 (UTC) |
 
 ---
 

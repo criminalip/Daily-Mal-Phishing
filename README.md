@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "SHOPEE" | [http://www.ptshopee679.blogspot.com](https://www.criminalip.io/domain/report?scan_id=64849569) | Low | US | 2026-08-24 02:20:03 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://gfytvd-wiyn-np4qjd-g9ewg7.pages.dev](https://www.criminalip.io/domain/report?scan_id=64849581) | Low | N/A | 2026-08-24 02:20:34 (UTC) |
-| "anmelden-dkb-auth-de.91-218-65-223.plesk.page" | [http://anmelden-dkb-auth-de.91-218-65-223.plesk.page](https://www.criminalip.io/domain/report?scan_id=64849590) | Low | DE | 2026-08-24 02:20:55 (UTC) |
+| "404: NOT_FOUND" | [http://qvlq00387-h21.vercel.app](https://www.criminalip.io/domain/report?scan_id=64934468) | Low | US | 2026-08-25 02:20:13 (UTC) |
+| "404: NOT_FOUND" | [http://policy-violation-center.com](https://www.criminalip.io/domain/report?scan_id=64934512) | Critical | US | 2026-08-25 02:20:34 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://form-page-p89g.bradse9oi8fjsodifmdofmsdfsdof.workers.dev](https://www.criminalip.io/domain/report?scan_id=64934602) | Low | N/A | 2026-08-25 02:21:15 (UTC) |
 
 ---
 

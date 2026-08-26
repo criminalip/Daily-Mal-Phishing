@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404: NOT_FOUND" | [http://qvlq00387-h21.vercel.app](https://www.criminalip.io/domain/report?scan_id=64934468) | Low | US | 2026-08-25 02:20:13 (UTC) |
-| "404: NOT_FOUND" | [http://policy-violation-center.com](https://www.criminalip.io/domain/report?scan_id=64934512) | Critical | US | 2026-08-25 02:20:34 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://form-page-p89g.bradse9oi8fjsodifmdofmsdfsdof.workers.dev](https://www.criminalip.io/domain/report?scan_id=64934602) | Low | N/A | 2026-08-25 02:21:15 (UTC) |
+| "Ta Làm Tông Sư Trong Tiên Môn Wiki" | [http://tutien-wiki.vercel.app](https://www.criminalip.io/domain/report?scan_id=65042706) | Critical | N/A | 2026-08-26 02:20:02 (UTC) |
+| "Transfer Trust Wallet" | [http://www.him-still-transfer.vercel.app](https://www.criminalip.io/domain/report?scan_id=65042816) | Low | US | 2026-08-26 02:21:04 (UTC) |
+| "allegrolokalnie.pl" | [http://allegrolokalnie.pl-oferta734891798312.shop](https://www.criminalip.io/domain/report?scan_id=65042840) | Low | N/A | 2026-08-26 02:21:24 (UTC) |
 
 ---
 

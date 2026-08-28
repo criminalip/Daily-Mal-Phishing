@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Roundcube Webmail :: Welcome to Roundcube Webmail" | [http://mail.eliasprobst.eu](https://www.criminalip.io/domain/report?scan_id=65162843) | Critical | DE | 2026-08-27 02:20:13 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://conect-ledgrcom-guide.pages.dev](https://www.criminalip.io/domain/report?scan_id=65162858) | Low | N/A | 2026-08-27 02:20:44 (UTC) |
-| "Trezor Suite App (Official) | Desktop & Web Crypto Management | Trezor" | [http://rima-rouge.vercel.app](https://www.criminalip.io/domain/report?scan_id=65162878) | Low | US | 2026-08-27 02:21:05 (UTC) |
+| "MoonPay Commerce | Sell more with crypto ⚡️" | [http://moonpay-commerce-3ksvcgvz2-heliofi.vercel.app](https://www.criminalip.io/domain/report?scan_id=65294754) | Low | US | 2026-08-28 02:20:13 (UTC) |
+| "N/A" | [http://auth.metacreatormonetizationsupportassistpro.click](https://www.criminalip.io/domain/report?scan_id=65294839) | Critical | N/A | 2026-08-28 02:20:55 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://shopeejkt688.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65294874) | Low | US | 2026-08-28 02:21:15 (UTC) |
 
 ---
 

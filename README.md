@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "MoonPay Commerce | Sell more with crypto ⚡️" | [http://moonpay-commerce-3ksvcgvz2-heliofi.vercel.app](https://www.criminalip.io/domain/report?scan_id=65294754) | Low | US | 2026-08-28 02:20:13 (UTC) |
-| "N/A" | [http://auth.metacreatormonetizationsupportassistpro.click](https://www.criminalip.io/domain/report?scan_id=65294839) | Critical | N/A | 2026-08-28 02:20:55 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://shopeejkt688.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65294874) | Low | US | 2026-08-28 02:21:15 (UTC) |
+| "Password Protection" | [http://apple-replica2023.netlify.app](https://www.criminalip.io/domain/report?scan_id=65437120) | Low | SG | 2026-08-29 02:20:03 (UTC) |
+| "Deployment Unavailable" | [http://www.submitprofileverified.vercel.app](https://www.criminalip.io/domain/report?scan_id=65437125) | Low | US | 2026-08-29 02:20:23 (UTC) |
+| "https://ptshopee-8777.blogspot.com/" | [http://ptshopee-8777.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65437141) | Safe | US | 2026-08-29 02:20:55 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://guidee-ledger-com.pages.dev](https://www.criminalip.io/domain/report?scan_id=65568464) | Low | N/A | 2026-08-30 02:20:02 (UTC) |
-| "https://shopeejkt817.blogspot.com/" | [http://www.shopeejkt817.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65568537) | Safe | US | 2026-08-30 02:20:33 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://home-help-ledgre-x.pages.dev](https://www.criminalip.io/domain/report?scan_id=65568586) | Low | N/A | 2026-08-30 02:21:04 (UTC) |
+| "Vercel Security Checkpoint" | [http://w24os1ku4e-a6c2df4953.vercel.app](https://www.criminalip.io/domain/report?scan_id=65688131) | Low | US | 2026-08-31 02:20:02 (UTC) |
+| "Site not found" | [http://amazon-library-support.netlify.app](https://www.criminalip.io/domain/report?scan_id=65688206) | Low | SG | 2026-08-31 02:20:33 (UTC) |
+| "404: NOT_FOUND" | [http://www.meta-business-center-complaint.vercel.app](https://www.criminalip.io/domain/report?scan_id=65688272) | Low | US | 2026-08-31 02:21:04 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Vercel Security Checkpoint" | [http://w24os1ku4e-a6c2df4953.vercel.app](https://www.criminalip.io/domain/report?scan_id=65688131) | Low | US | 2026-08-31 02:20:02 (UTC) |
-| "Site not found" | [http://amazon-library-support.netlify.app](https://www.criminalip.io/domain/report?scan_id=65688206) | Low | SG | 2026-08-31 02:20:33 (UTC) |
-| "404: NOT_FOUND" | [http://www.meta-business-center-complaint.vercel.app](https://www.criminalip.io/domain/report?scan_id=65688272) | Low | US | 2026-08-31 02:21:04 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.instagramlogin910.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65820231) | Low | US | 2026-09-01 02:20:02 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://aw9y-h61lsm-8yd85-qbm-buc80.pages.dev](https://www.criminalip.io/domain/report?scan_id=65820234) | Low | N/A | 2026-09-01 02:20:23 (UTC) |
+| "https://www.infopemenang-shopee39.blogspot.com/" | [http://www.infopemenang-shopee39.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65820236) | Safe | US | 2026-09-01 02:20:54 (UTC) |
 
 ---
 

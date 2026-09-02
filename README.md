@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "블로그를 찾을 수 없습니다." | [http://www.instagramlogin910.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65820231) | Low | US | 2026-09-01 02:20:02 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://aw9y-h61lsm-8yd85-qbm-buc80.pages.dev](https://www.criminalip.io/domain/report?scan_id=65820234) | Low | N/A | 2026-09-01 02:20:23 (UTC) |
-| "https://www.infopemenang-shopee39.blogspot.com/" | [http://www.infopemenang-shopee39.blogspot.com](https://www.criminalip.io/domain/report?scan_id=65820236) | Safe | US | 2026-09-01 02:20:54 (UTC) |
+| "Suspected Malware | Cloudflare" | [http://pfxmz62kfly-cvqgspdr-9l0d7c-wt433c.pages.dev](https://www.criminalip.io/domain/report?scan_id=65917592) | Low | N/A | 2026-09-02 02:20:02 (UTC) |
+| "prime.eu-cancel.com" | [http://pochecorp.eu.cc](https://www.criminalip.io/domain/report?scan_id=65917643) | Critical | US | 2026-09-02 02:20:23 (UTC) |
+| "N/A" | [http://73a2370016b7.asi.paypal-signin.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=65917728) | Critical | VG | 2026-09-02 02:21:15 (UTC) |
 
 ---
 

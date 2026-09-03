@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://pfxmz62kfly-cvqgspdr-9l0d7c-wt433c.pages.dev](https://www.criminalip.io/domain/report?scan_id=65917592) | Low | N/A | 2026-09-02 02:20:02 (UTC) |
-| "prime.eu-cancel.com" | [http://pochecorp.eu.cc](https://www.criminalip.io/domain/report?scan_id=65917643) | Critical | US | 2026-09-02 02:20:23 (UTC) |
-| "N/A" | [http://73a2370016b7.asi.paypal-signin.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=65917728) | Critical | VG | 2026-09-02 02:21:15 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ywsd74a51gp-qbxj5mja-7r1p5c-ywsq96c.pages.dev](https://www.criminalip.io/domain/report?scan_id=66051602) | Low | N/A | 2026-09-03 02:20:02 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.gebyar-shopee-88.blogspot.com](https://www.criminalip.io/domain/report?scan_id=66051608) | Low | US | 2026-09-03 02:20:23 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ledgar-start--io.pages.dev](https://www.criminalip.io/domain/report?scan_id=66051622) | Low | N/A | 2026-09-03 02:20:44 (UTC) |
 
 ---
 

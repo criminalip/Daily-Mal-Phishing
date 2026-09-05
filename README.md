@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Malware | Cloudflare" | [http://sp23ct-vunel-biz-zemik-polar.pages.dev](https://www.criminalip.io/domain/report?scan_id=66205519) | Low | N/A | 2026-09-04 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://questforge-9lx.pages.dev](https://www.criminalip.io/domain/report?scan_id=66205633) | Low | N/A | 2026-09-04 02:20:43 (UTC) |
-| "govuk-svelte demo" | [http://www.govuk-svelte-demo.vercel.app](https://www.criminalip.io/domain/report?scan_id=66205650) | Low | US | 2026-09-04 02:21:04 (UTC) |
+| "N/A" | [http://73a2370016b7.kyiv.accounts-paypal.antimoney-laundering.org](https://www.criminalip.io/domain/report?scan_id=66375646) | Critical | VG | 2026-09-05 02:20:02 (UTC) |
+| "Vérification Orange" | [http://orangeverification.vercel.app](https://www.criminalip.io/domain/report?scan_id=66375671) | Low | US | 2026-09-05 02:20:53 (UTC) |
+| "Facebook" | [http://www.facebook-facebook1.blogspot.com](https://www.criminalip.io/domain/report?scan_id=66375696) | Critical | US | 2026-09-05 02:21:14 (UTC) |
 
 ---
 

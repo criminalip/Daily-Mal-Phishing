@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Not Found" | [http://www.bsberbank.8721sbermegamarket.ld48stp821tyfk3q.waf-it-kku.online](https://www.criminalip.io/domain/report?scan_id=66542152) | Critical | TH | 2026-09-06 02:20:02 (UTC) |
-| "Deployment Unavailable" | [http://page-portal-access-94e8b6.vercel.app](https://www.criminalip.io/domain/report?scan_id=66542209) | Low | US | 2026-09-06 02:20:22 (UTC) |
-| "Log In | Ndax® -\" | [http://home-ndax-docx.zapier.app](https://www.criminalip.io/domain/report?scan_id=66542314) | Low | US | 2026-09-06 02:20:43 (UTC) |
+| "404 Not Found" | [http://my-walletfix-id-apple.com](https://www.criminalip.io/domain/report?scan_id=66694402) | Critical | N/A | 2026-09-07 02:20:03 (UTC) |
+| "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos" | [http://premium.comm-whatsapp.com](https://www.criminalip.io/domain/report?scan_id=66694527) | Critical | US | 2026-09-07 02:20:23 (UTC) |
+| "Connect Your Metamask" | [http://metamask-connect.vercel.app](https://www.criminalip.io/domain/report?scan_id=66695074) | Critical | US | 2026-09-07 02:21:25 (UTC) |
 
 ---
 

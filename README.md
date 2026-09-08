@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "404 Not Found" | [http://my-walletfix-id-apple.com](https://www.criminalip.io/domain/report?scan_id=66694402) | Critical | N/A | 2026-09-07 02:20:03 (UTC) |
-| "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos" | [http://premium.comm-whatsapp.com](https://www.criminalip.io/domain/report?scan_id=66694527) | Critical | US | 2026-09-07 02:20:23 (UTC) |
-| "Connect Your Metamask" | [http://metamask-connect.vercel.app](https://www.criminalip.io/domain/report?scan_id=66695074) | Critical | US | 2026-09-07 02:21:25 (UTC) |
+| "Site not found · GitHub Pages" | [http://a08786897-beep.github.io](https://www.criminalip.io/domain/report?scan_id=66863261) | Low | US | 2026-09-08 02:20:02 (UTC) |
+| "N/A" | [http://webdisk.icloud-com.help](https://www.criminalip.io/domain/report?scan_id=66863504) | Critical | N/A | 2026-09-08 02:20:23 (UTC) |
+| "HADIAH SHOPEE 2020" | [http://sopping-17.blogspot.com](https://www.criminalip.io/domain/report?scan_id=66863991) | Low | US | 2026-09-08 02:21:15 (UTC) |
 
 ---
 

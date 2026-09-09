@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Site not found · GitHub Pages" | [http://a08786897-beep.github.io](https://www.criminalip.io/domain/report?scan_id=66863261) | Low | US | 2026-09-08 02:20:02 (UTC) |
-| "N/A" | [http://webdisk.icloud-com.help](https://www.criminalip.io/domain/report?scan_id=66863504) | Critical | N/A | 2026-09-08 02:20:23 (UTC) |
-| "HADIAH SHOPEE 2020" | [http://sopping-17.blogspot.com](https://www.criminalip.io/domain/report?scan_id=66863991) | Low | US | 2026-09-08 02:21:15 (UTC) |
+| "403 Forbidden" | [http://vsssobverpss-ca.top](https://www.criminalip.io/domain/report?scan_id=67034190) | Critical | JP | 2026-09-09 02:20:13 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://draveta-gld-belquza-c3x6hq18.pages.dev](https://www.criminalip.io/domain/report?scan_id=67034369) | Low | N/A | 2026-09-09 02:20:55 (UTC) |
+| "Deployment Unavailable" | [http://www.account-verification-case864.vercel.app](https://www.criminalip.io/domain/report?scan_id=67034630) | Low | US | 2026-09-09 02:21:26 (UTC) |
 
 ---
 

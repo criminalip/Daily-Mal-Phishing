@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "403 Forbidden" | [http://vsssobverpss-ca.top](https://www.criminalip.io/domain/report?scan_id=67034190) | Critical | JP | 2026-09-09 02:20:13 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://draveta-gld-belquza-c3x6hq18.pages.dev](https://www.criminalip.io/domain/report?scan_id=67034369) | Low | N/A | 2026-09-09 02:20:55 (UTC) |
-| "Deployment Unavailable" | [http://www.account-verification-case864.vercel.app](https://www.criminalip.io/domain/report?scan_id=67034630) | Low | US | 2026-09-09 02:21:26 (UTC) |
+| "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos" | [http://canary.sec-whatsapp.com](https://www.criminalip.io/domain/report?scan_id=67210064) | Critical | SG | 2026-09-10 02:20:02 (UTC) |
+| "Accueil — Jardin & Potager" | [http://avancement9230e.a6fbb0jc.pro](https://www.criminalip.io/domain/report?scan_id=67210240) | Moderate | N/A | 2026-09-10 02:21:34 (UTC) |
+| "Meta Verified - Rewards for you" | [http://www.fb-meta-verified-25017.vercel.app](https://www.criminalip.io/domain/report?scan_id=67210623) | Low | US | 2026-09-10 02:22:16 (UTC) |
 
 ---
 

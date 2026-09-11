@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos" | [http://canary.sec-whatsapp.com](https://www.criminalip.io/domain/report?scan_id=67210064) | Critical | SG | 2026-09-10 02:20:02 (UTC) |
-| "Accueil — Jardin & Potager" | [http://avancement9230e.a6fbb0jc.pro](https://www.criminalip.io/domain/report?scan_id=67210240) | Moderate | N/A | 2026-09-10 02:21:34 (UTC) |
-| "Meta Verified - Rewards for you" | [http://www.fb-meta-verified-25017.vercel.app](https://www.criminalip.io/domain/report?scan_id=67210623) | Low | US | 2026-09-10 02:22:16 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ledgre-dekstop-en.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380436) | Low | N/A | 2026-09-11 02:20:02 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ledgr-desktop-docs.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380483) | Low | N/A | 2026-09-11 02:20:44 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://ledgr-dsktoplve.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380551) | Low | N/A | 2026-09-11 02:21:15 (UTC) |
 
 ---
 

@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Suspected Phishing | Cloudflare" | [http://ledgre-dekstop-en.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380436) | Low | N/A | 2026-09-11 02:20:02 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://ledgr-desktop-docs.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380483) | Low | N/A | 2026-09-11 02:20:44 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://ledgr-dsktoplve.pages.dev](https://www.criminalip.io/domain/report?scan_id=67380551) | Low | N/A | 2026-09-11 02:21:15 (UTC) |
+| "Netflix India - Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-one-bice.vercel.app](https://www.criminalip.io/domain/report?scan_id=67549207) | Low | US | 2026-09-12 02:20:13 (UTC) |
+| "Forms" | [http://suport-coinsquare.zapier.app](https://www.criminalip.io/domain/report?scan_id=67549239) | Low | US | 2026-09-12 02:20:34 (UTC) |
+| "NDAX™ Login — Official Sign In" | [http://ndx-io-start.zapier.app](https://www.criminalip.io/domain/report?scan_id=67549265) | Low | US | 2026-09-12 02:20:55 (UTC) |
 
 ---
 

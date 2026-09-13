@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Netflix India - Watch TV Shows Online, Watch Movies Online" | [http://netflix-clone-one-bice.vercel.app](https://www.criminalip.io/domain/report?scan_id=67549207) | Low | US | 2026-09-12 02:20:13 (UTC) |
-| "Forms" | [http://suport-coinsquare.zapier.app](https://www.criminalip.io/domain/report?scan_id=67549239) | Low | US | 2026-09-12 02:20:34 (UTC) |
-| "NDAX™ Login — Official Sign In" | [http://ndx-io-start.zapier.app](https://www.criminalip.io/domain/report?scan_id=67549265) | Low | US | 2026-09-12 02:20:55 (UTC) |
+| "N/A" | [http://servicenow-ticket7762.com](https://www.criminalip.io/domain/report?scan_id=67707501) | Critical | CA | 2026-09-13 02:20:23 (UTC) |
+| "Plesk Obsidian 18.0.80" | [http://evitale-index.com](https://www.criminalip.io/domain/report?scan_id=67707506) | Critical | CA | 2026-09-13 02:20:54 (UTC) |
+| "403: Forbidden" | [http://www.your-order-logistics-global-tracking.vercel.app](https://www.criminalip.io/domain/report?scan_id=67707566) | Low | US | 2026-09-13 02:21:25 (UTC) |
 
 ---
 

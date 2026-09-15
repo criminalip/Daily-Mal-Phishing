@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Transfer Trust Wallet" | [http://send-usdt2.netlify.app](https://www.criminalip.io/domain/report?scan_id=67859965) | Low | SG | 2026-09-14 02:20:02 (UTC) |
-| "Suspected Malware | Cloudflare" | [http://sp30ct-kumex-biz-zavel-radix.pages.dev](https://www.criminalip.io/domain/report?scan_id=67860007) | Low | N/A | 2026-09-14 02:20:43 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://spotifyclone-7mn.pages.dev](https://www.criminalip.io/domain/report?scan_id=67860151) | Low | N/A | 2026-09-14 02:21:46 (UTC) |
+| "Site not found · GitHub Pages" | [http://loic-laksh.github.io](https://www.criminalip.io/domain/report?scan_id=68022797) | Low | US | 2026-09-15 02:20:23 (UTC) |
+| "Error 502" | [http://www.new.1inch-dex.net](https://www.criminalip.io/domain/report?scan_id=68022826) | Critical | AE | 2026-09-15 02:20:44 (UTC) |
+| "Meta Verified - Rewards for you" | [http://www.meta-verified-blueticks-fb12.vercel.app](https://www.criminalip.io/domain/report?scan_id=68022920) | Low | US | 2026-09-15 02:21:35 (UTC) |
 
 ---
 
